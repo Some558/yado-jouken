@@ -25,10 +25,10 @@ import urllib.request
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PROBE_DIR = ROOT / "data" / "probe"
 
-# 2026-05-14 の旧API廃止後の新ドメインが本命。旧ドメインは比較確認用に残す。
+# 2026-07-10 実測確定: 新APIは /engine/api/ プレフィックス+accessKey必須
+# (旧 /services/api/ は 404、旧ドメインはUUID形式のapplicationIdを拒否)
 BASE_CANDIDATES = [
-    "https://openapi.rakuten.co.jp/services/api",
-    "https://app.rakuten.co.jp/services/api",
+    "https://openapi.rakuten.co.jp/engine/api",
 ]
 
 REQUEST_INTERVAL_SEC = 1.1  # 規約: 1req/sec。全リクエストで厳守
@@ -54,8 +54,9 @@ def mask(url: str, secrets: list[str]) -> str:
 
 
 class Prober:
-    def __init__(self, app_id: str, affiliate_id: str):
+    def __init__(self, app_id: str, access_key: str, affiliate_id: str):
         self.app_id = app_id
+        self.access_key = access_key
         self.affiliate_id = affiliate_id
         self.last_request_at = 0.0
         self.working_base: str | None = None
@@ -69,6 +70,7 @@ class Prober:
     def get(self, base: str, endpoint: str, params: dict) -> tuple[int, dict | str]:
         q = {
             "applicationId": self.app_id,
+            "accessKey": self.access_key,
             "affiliateId": self.affiliate_id,
             "format": "json",
             **params,
@@ -92,7 +94,7 @@ class Prober:
         bases = [self.working_base] if self.working_base else BASE_CANDIDATES
         for base in bases:
             status, payload = self.get(base, endpoint, params)
-            print(f"[{name}] {status} {mask(f'{base}/{endpoint}', [self.app_id, self.affiliate_id])}")
+            print(f"[{name}] {status} {mask(f'{base}/{endpoint}', [self.app_id, self.access_key, self.affiliate_id])}")
             if status == 200 and isinstance(payload, dict):
                 if not self.working_base:
                     self.working_base = base
@@ -108,14 +110,15 @@ class Prober:
 def main():
     env = load_env()
     app_id = env.get("RAKUTEN_APP_ID", "")
+    access_key = env.get("RAKUTEN_ACCESS_KEY", "")
     affiliate_id = env.get("RAKUTEN_AFFILIATE_ID", "")
-    if not app_id:
-        sys.exit("RAKUTEN_APP_ID が未設定。~/Projects/yado-jouken/.env に RAKUTEN_APP_ID=... を書いてください")
+    if not app_id or not access_key:
+        sys.exit("RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY が未設定。~/Projects/yado-jouken/.env に両方を書いてください")
     if not affiliate_id:
         print("警告: RAKUTEN_AFFILIATE_ID 未設定。affiliateUrl 形式の確認はスキップされます")
 
     PROBE_DIR.mkdir(parents=True, exist_ok=True)
-    p = Prober(app_id, affiliate_id)
+    p = Prober(app_id, access_key, affiliate_id)
 
     # 1) エリアマスタ(パス確定を兼ねる)
     p.probe("area_class", "Travel/GetAreaClass/20131024", {})
