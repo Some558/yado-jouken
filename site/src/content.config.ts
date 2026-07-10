@@ -17,6 +17,7 @@ const hotelSchema = z.object({
   planUrl: z.string().startsWith('https://hb.afl.rakuten.co.jp/'),
   reviewUrl: z.string().nullable(),
   thumbnail: z.string().nullable(),
+  imageUrl: z.string().nullable(),
   special: z.string().nullable(),
 });
 

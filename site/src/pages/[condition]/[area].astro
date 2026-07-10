@@ -25,14 +25,15 @@ const path = `/${condition.slug}/${area.slug}/`;
 const title = `${area.label}の${condition.label}の宿 ${stats.matchCount}件｜料金・レビューをデータ比較`;
 const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}`);
 const description = `${area.label}(${area.officialName})で${condition.label}の宿は${stats.matchCount}件。最安${yen(stats.minPrice)}〜・料金中央値${yen(stats.medianPrice)}・レビュー平均${stats.reviewAvgMean ?? '—'}を毎日自動集計。${dataAsOf}時点のデータ。`;
+const site = 'https://yadoshibori.com';
 
 const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'ホーム', item: 'https://yado-jouken.com/' },
-      { '@type': 'ListItem', position: 2, name: condition.label, item: `https://yado-jouken.com/${condition.slug}/` },
+      { '@type': 'ListItem', position: 1, name: 'ホーム', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: condition.label, item: `${site}/${condition.slug}/` },
       { '@type': 'ListItem', position: 3, name: area.label },
     ],
   },
@@ -53,15 +54,16 @@ const jsonLd = [
 <Base title={title} description={description} path={path} jsonLd={jsonLd}>
   <nav class="breadcrumb">
     <a href="/">ホーム</a><span>›</span>
-    <a href={`/${condition.slug}/`}>{condition.label}</a><span>›</span>
-    {area.label}
+    <a href={`/area/${area.slug}/`}>{area.label}</a><span>›</span>
+    {condition.label}の宿
   </nav>
 
+  <div class="page-eyebrow">{area.label}エリア × {condition.label}</div>
   <h1>{area.label}の{condition.label}の宿</h1>
   <p class="lead">
     {dataAsOf}時点、{area.officialName}エリアで{condition.label}に該当する宿は
     <strong>{stats.matchCount}件</strong>
-    {stats.matchRate != null && `(${stats.denominator.label}${stats.denominator.value}件の${stats.matchRate}%)`}。
+    {stats.matchRate != null && `（${stats.denominator.label}${stats.denominator.value}件の${stats.matchRate}%）`}。
     最低料金は{yen(stats.minPrice)}〜、中央値は{yen(stats.medianPrice)}です。
   </p>
 
@@ -69,7 +71,10 @@ const jsonLd = [
 
   {CondContent && <div class="editorial"><CondContent /></div>}
 
-  <h2>{condition.label}の宿一覧(レビュー順・上位{hotels.length}件)</h2>
+  <div class="list-head">
+    <h2>{area.label} × {condition.label} の宿</h2>
+    <span class="list-meta">全{stats.matchCount}件中 {hotels.length}件を表示・レビュー評価の高い順</span>
+  </div>
   <HotelTable hotels={hotels} />
   {stats.matchCount > listedMatchCount && (
     <p class="data-asof">
@@ -87,23 +92,35 @@ const jsonLd = [
   )}
 
   <div class="evidence">
-    <strong>このページのデータについて</strong>
+    <h4>このページのデータについて</h4>
     <ul>
-      <li>データ取得日: {dataAsOf}(楽天トラベルAPIから毎日自動更新)</li>
+      <li><strong>データ取得日:</strong> {dataAsOf}（毎日自動更新）</li>
       {detection.type === 'vacant' ? (
-        <li>該当判定: 空室検索の絞り込み条件({condition.label})。検索条件=チェックイン{detection.checkinDate}・1泊・大人2名</li>
+        <li><strong>該当判定:</strong> 空室検索の絞り込み条件（{condition.label}）。検索条件=チェックイン{detection.checkinDate}・1泊・大人2名</li>
       ) : (
-        <li>該当判定: 楽天トラベルに登録された施設設備情報({condition.label})</li>
+        <li><strong>該当判定:</strong> 楽天トラベルに登録された施設設備情報（{condition.label}）</li>
       )}
-      <li>分母: {stats.denominator.label} {stats.denominator.value}件</li>
-      <li>料金は「大人1名あたりの最低料金」で、プラン・日程により変動します</li>
+      <li><strong>分母:</strong> {stats.denominator.label} {stats.denominator.value}件</li>
+      <li><strong>料金:</strong> 大人1名あたりの最低料金（プラン・日程により変動）</li>
+      <li><strong>レビュー:</strong> 楽天トラベル掲載のレビュー平均</li>
       <li>詳しくは<a href="/methodology/">データの取得方法</a>を参照</li>
     </ul>
   </div>
 
-  <h2>他のエリア・条件で探す</h2>
-  <ul class="hub-list">
-    <li><a href={`/${condition.slug}/`}>{condition.label}の宿を全エリアで比較 →</a></li>
-    <li><a href={`/area/${area.slug}/`}>{area.label}の他の条件を見る →</a></li>
-  </ul>
+  <div class="cross-links">
+    <a class="cross-link" href={`/${condition.slug}/`}>
+      <div>
+        <div class="eyebrow">条件ハブ →</div>
+        <div class="title">{condition.label}の宿を全国のエリアで比較</div>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+    </a>
+    <a class="cross-link" href={`/area/${area.slug}/`}>
+      <div>
+        <div class="eyebrow">エリアハブ →</div>
+        <div class="title">{area.label}の宿を他の条件から探す</div>
+      </div>
+      <span class="arrow" aria-hidden="true">→</span>
+    </a>
+  </div>
 </Base>

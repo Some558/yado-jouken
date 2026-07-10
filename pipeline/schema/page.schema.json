@@ -72,6 +72,7 @@
           "planUrl": { "type": "string", "pattern": "^https://hb\\.afl\\.rakuten\\.co\\.jp/" },
           "reviewUrl": { "type": ["string", "null"] },
           "thumbnail": { "type": ["string", "null"] },
+          "imageUrl": { "type": ["string", "null"] },
           "special": { "type": ["string", "null"] }
         }
       }

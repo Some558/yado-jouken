@@ -13,30 +13,59 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { area, conditions, dataAsOf, recordCount } = entry.data;
 
+const pages = await getCollection('pages');
+const related = pages.filter((p) => p.data.area.slug === area.slug);
+const byCond = new Map(related.map((p) => [p.data.condition.slug, p.data.stats]));
+
 const areaEd = await getEntry('editorial', `areas/${area.slug}`);
 const AreaContent = areaEd ? (await render(areaEd)).Content : null;
 
 const path = `/area/${area.slug}/`;
+const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}〜`);
 const title = `${area.label}の宿を条件から探す【${conditions.length}条件】`;
 const description = `${area.label}(${area.officialName}・掲載${recordCount}施設)の宿を、温泉・貸切風呂・ペット同宿可など${conditions.length}の条件別にデータ比較。${dataAsOf}時点。`;
 ---
 
 <Base title={title} description={description} path={path}>
   <nav class="breadcrumb">
-    <a href="/">ホーム</a><span>›</span>{area.label}
+    <a href="/">ホーム</a><span>›</span>
+    <a href="/#areas">エリアから探す</a><span>›</span>
+    {area.label}
   </nav>
 
-  <h1>{area.label}の宿を条件から探す</h1>
-  <p class="lead">
-    {area.officialName}エリア(掲載{recordCount}施設・{dataAsOf}時点)を条件別に集計しています。
-  </p>
+  <section class="hero">
+    <div>
+      <div class="page-eyebrow" style="margin-top:0;">エリアハブ · {area.officialName}</div>
+      <h1>{area.label}の宿を条件から探す</h1>
+      <p class="lead">
+        {area.officialName}エリア（掲載{recordCount.toLocaleString('ja-JP')}施設・{dataAsOf}時点）を条件別に集計しています。
+        件数と最安を見比べて、気になる条件の詳細へ進めます。
+      </p>
+    </div>
+    <div class="hero-photo" aria-hidden="true">{area.label}の写真・横長</div>
+  </section>
 
-  {AreaContent && <div class="editorial"><AreaContent /></div>}
+  {AreaContent && (
+    <>
+      <h2>{area.label}エリアについて</h2>
+      <div class="editorial"><AreaContent /></div>
+    </>
+  )}
 
-  <h2>条件から選ぶ</h2>
-  <ul class="hub-list">
-    {conditions.map((c) => (
-      <li><a href={`/${c.condition}/${area.slug}/`}>{area.label}の{c.label}の宿 →</a></li>
-    ))}
-  </ul>
+  <h2>条件から探す</h2>
+  <div class="card-grid hub">
+    {conditions.map((c) => {
+      const st = byCond.get(c.slug);
+      return (
+        <a class="cond-card" href={`/${c.condition}/${area.slug}/`}>
+          <div class="label">{c.label}</div>
+          <div class="count">
+            <span class="n">{st?.matchCount ?? '—'}</span>
+            <span class="u">件</span>
+          </div>
+          <div class="min">最安 {yen(st?.minPrice ?? null)}</div>
+        </a>
+      );
+    })}
+  </div>
 </Base>

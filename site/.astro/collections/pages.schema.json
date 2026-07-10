@@ -219,6 +219,12 @@
                   "null"
                 ]
               },
+              "imageUrl": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
               "special": {
                 "type": [
                   "string",
@@ -240,6 +246,7 @@
               "planUrl",
               "reviewUrl",
               "thumbnail",
+              "imageUrl",
               "special"
             ],
             "additionalProperties": false

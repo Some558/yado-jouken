@@ -15,7 +15,7 @@ import urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 BASE = "https://openapi.rakuten.co.jp/engine/api"
-SITE_ORIGIN = "https://yado-jouken.com"
+SITE_ORIGIN = "https://yadoshibori.com"
 REQUEST_INTERVAL_SEC = 1.1
 MAX_RETRIES = 2
 

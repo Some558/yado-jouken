@@ -1,22 +1,24 @@
 ---
 import '../styles/global.css';
+import meta from '../../../data/latest/meta.json';
 
 interface Props {
   title: string;
   description: string;
-  path: string; // 先頭・末尾スラッシュ付き(例: /onsen/hakone/)
+  path: string;
   jsonLd?: object[];
 }
 const { title, description, path, jsonLd = [] } = Astro.props;
-const site = Astro.site?.href.replace(/\/$/, '') ?? 'https://yado-jouken.com';
+const site = Astro.site?.href.replace(/\/$/, '') ?? 'https://yadoshibori.com';
 const canonical = `${site}${path}`;
+const dataAsOf = meta.dataAsOf;
 
 const orgLd = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
-  name: '宿条件DB',
+  name: 'ヤドシボリ',
   url: `${site}/`,
-  description: '楽天トラベルの公開データをもとに、宿の条件×温泉地の掛け合わせを毎日自動集計するデータベース',
+  description: '泊まりたい条件から探す、温泉地の宿データベース。楽天トラベルの公開データを毎日自動集計。',
 };
 const allLd = [orgLd, ...jsonLd];
 ---
@@ -32,7 +34,7 @@ const allLd = [orgLd, ...jsonLd];
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:site_name" content="宿条件DB" />
+    <meta property="og:site_name" content="ヤドシボリ" />
     <link rel="sitemap" href="/sitemap.xml" />
     {allLd.map((ld) => (
       <script type="application/ld+json" set:html={JSON.stringify(ld)} />
@@ -41,8 +43,18 @@ const allLd = [orgLd, ...jsonLd];
   <body>
     <header class="site-header">
       <div class="wrap">
-        <a class="site-name" href="/">宿条件DB</a>
-        <span class="site-tagline">泊まりたい条件から探す、温泉地の宿データベース</span>
+        <a class="site-brand" href="/">
+          <span class="logo-steam" aria-hidden="true">
+            <span></span><span></span><span></span>
+          </span>
+          <span class="site-name">ヤドシボリ</span>
+        </a>
+        <nav class="site-nav" aria-label="メイン">
+          <a href="/#conditions">条件から探す</a>
+          <a href="/#areas">エリアから探す</a>
+          <a href="/#matrix">早見表</a>
+          <a href="/methodology/">データについて</a>
+        </nav>
       </div>
     </header>
     <div class="pr-note">
@@ -55,19 +67,24 @@ const allLd = [orgLd, ...jsonLd];
     </main>
     <footer class="site-footer">
       <div class="wrap">
-        <nav>
-          <a href="/methodology/">データの取得方法</a>
-          <a href="/about/">運営者情報</a>
-          <a href="/disclaimer/">免責事項</a>
-          <a href="/privacy/">プライバシーポリシー</a>
-        </nav>
-        <div>
+        <div class="footer-top">
+          <div class="credit">
+            <a href="https://developers.rakuten.com/" target="_blank" rel="noopener">Supported by Rakuten Developers</a>
+          </div>
+          <nav aria-label="フッター">
+            <a href="/methodology/">データの取得方法</a>
+            <a href="/about/">運営者情報</a>
+            <a href="/disclaimer/">免責事項</a>
+            <a href="/privacy/">プライバシーポリシー</a>
+          </nav>
+        </div>
+        <p class="footer-note">
           掲載データは楽天トラベルの公開情報をAPI経由で取得し、毎日自動更新しています。料金・空室状況は変動するため、最新情報は必ずリンク先でご確認ください。
+        </p>
+        <div class="footer-bottom">
+          <div class="footer-brand">ヤドシボリ — 泊まりたい条件から探す、温泉地の宿データベース</div>
+          <div class="footer-asof">データ取得日: {dataAsOf}</div>
         </div>
-        <div class="credit">
-          <a href="https://developers.rakuten.com/" target="_blank" rel="noopener">Supported by Rakuten Developers</a>
-        </div>
-        <div>© {new Date().getFullYear()} 宿条件DB</div>
       </div>
     </footer>
   </body>

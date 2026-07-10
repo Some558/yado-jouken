@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://yado-jouken.com',
+  site: 'https://yadoshibori.com',
   output: 'static',
   trailingSlash: 'always',
   build: {

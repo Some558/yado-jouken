@@ -1,7 +1,7 @@
 import { getCollection } from 'astro:content';
 
 export async function GET() {
-  const site = 'https://yado-jouken.com';
+  const site = 'https://yadoshibori.com';
   const pages = await getCollection('pages');
   const condHubs = await getCollection('conditionHubs');
   const areaHubs = await getCollection('areaHubs');

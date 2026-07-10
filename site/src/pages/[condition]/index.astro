@@ -20,51 +20,68 @@ const CondContent = condEd ? (await render(condEd)).Content : null;
 
 const path = `/${condition.slug}/`;
 const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}`);
+const total = rows.reduce((s, r) => s + r.matchCount, 0);
+const topRate = [...rows].filter((r) => r.matchRate != null).sort((a, b) => (b.matchRate ?? 0) - (a.matchRate ?? 0))[0];
+const cheapest = [...rows].filter((r) => r.minPrice != null).sort((a, b) => (a.minPrice ?? 0) - (b.minPrice ?? 0))[0];
 const title = `${condition.label}の宿をエリア横断でデータ比較【全${rows.length}エリア】`;
 const description = `${condition.label}の宿を${rows.map((r) => r.area.label).slice(0, 5).join('・')}など${rows.length}エリアで比較。該当件数・該当率・料金相場を${dataAsOf}時点のデータで毎日自動集計。`;
 ---
 
 <Base title={title} description={description} path={path}>
   <nav class="breadcrumb">
-    <a href="/">ホーム</a><span>›</span>{condition.label}
+    <a href="/">ホーム</a><span>›</span>
+    <a href="/#conditions">条件から探す</a><span>›</span>
+    {condition.label}
   </nav>
 
+  <div class="page-eyebrow">条件ハブ</div>
   <h1>{condition.label}の宿をエリアで比較</h1>
   <p class="lead">
-    {condition.label}の宿は、エリアによって「そもそもの数」と「相場」が大きく違います。
-    {dataAsOf}時点の該当件数と料金データで横断比較できます。
+    {condition.label}の宿は全国で<strong>{total.toLocaleString('ja-JP')}件</strong>（掲載エリア合計）。
+    {topRate && <>該当率トップは<strong>{topRate.area.label}（{topRate.matchRate}%）</strong>。</>}
+    {cheapest && <>最安は<strong>{cheapest.area.label}（{yen(cheapest.minPrice)}〜）</strong>。</>}
+    {dataAsOf}時点のデータを毎日自動更新しています。
   </p>
 
-  {CondContent && <div class="editorial"><CondContent /></div>}
-
-  <h2>エリア別の該当件数・料金相場</h2>
   <div class="table-scroll">
-    <table>
+    <table class="cmp">
       <thead>
         <tr>
           <th>エリア</th>
-          <th class="num">該当</th>
-          <th class="num">該当率</th>
-          <th class="num">最安</th>
-          <th class="num">料金中央値</th>
-          <th class="num">レビュー平均</th>
+          <th>該当</th>
+          <th>該当率</th>
+          <th>最低料金</th>
+          <th>料金中央値</th>
+          <th>レビュー平均</th>
         </tr>
       </thead>
       <tbody>
         {rows.map((r) => (
           <tr>
-            <td><a href={`/${condition.slug}/${r.area.slug}/`}>{r.area.label}</a></td>
-            <td class="num">{r.matchCount}件</td>
-            <td class="num">{r.matchRate != null ? `${r.matchRate}%` : '—'}</td>
-            <td class="num">{yen(r.minPrice)}〜</td>
-            <td class="num">{yen(r.medianPrice)}</td>
-            <td class="num">{r.reviewAvgMean != null ? `★${r.reviewAvgMean}` : '—'}</td>
+            <td><a class="area-name" href={`/${condition.slug}/${r.area.slug}/`}>{r.area.label}</a></td>
+            <td><span class="match">{r.matchCount}<span class="u">件</span></span></td>
+            <td>{r.matchRate != null ? `${r.matchRate}%` : '—'}</td>
+            <td>{yen(r.minPrice)}〜</td>
+            <td>{yen(r.medianPrice)}</td>
+            <td class="star">{r.reviewAvgMean != null ? `★${r.reviewAvgMean}` : '—'}</td>
           </tr>
         ))}
       </tbody>
     </table>
   </div>
-  <p class="data-asof">データ取得日: {dataAsOf}。該当率の分母定義は各エリアページ参照。</p>
+  <p class="data-asof">該当率 = 該当施設数 ÷ そのエリアの掲載施設数 · データ取得日 {dataAsOf}</p>
+
+  {CondContent && <div class="editorial"><CondContent /></div>}
+
+  <div class="evidence">
+    <h4>このページのデータについて</h4>
+    <ul>
+      <li><strong>データ取得日:</strong> {dataAsOf}（毎日自動更新）</li>
+      <li><strong>比較対象:</strong> {rows.length}エリアの{condition.label}</li>
+      <li>該当率の分母定義は各エリア詳細ページを参照</li>
+      <li>詳しくは<a href="/methodology/">データの取得方法</a>を参照</li>
+    </ul>
+  </div>
 
   <OfferSlot placement="hub-below-table" />
 </Base>

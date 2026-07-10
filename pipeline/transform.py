@@ -43,6 +43,7 @@ HOTEL_FIELDS = {
     "planUrl": "planListUrl",
     "reviewUrl": "reviewUrl",
     "thumbnail": "hotelThumbnailUrl",
+    "imageUrl": "hotelImageUrl",
     "special": "hotelSpecial",
 }
 

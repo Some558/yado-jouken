@@ -35,7 +35,7 @@ REQUEST_INTERVAL_SEC = 1.1  # 規約: 1req/sec。全リクエストで厳守
 
 # 2026-07-10 実測確定: 新APIは Referer/Origin 両ヘッダー必須で、
 # Webアプリ型はアプリ登録の Allowed websites ドメインと一致が必要
-SITE_ORIGIN = "https://yado-jouken.com"
+SITE_ORIGIN = "https://yadoshibori.com"
 
 
 def load_env() -> dict:
