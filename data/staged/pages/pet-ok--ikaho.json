@@ -1,0 +1,128 @@
+{
+ "slug": "pet-ok--ikaho",
+ "condition": {
+  "slug": "pet-ok",
+  "label": "ペット同宿可"
+ },
+ "area": {
+  "slug": "ikaho",
+  "label": "伊香保",
+  "officialName": "伊香保温泉・渋川"
+ },
+ "dataAsOf": "2026-07-10",
+ "detection": {
+  "type": "facility"
+ },
+ "stats": {
+  "matchCount": 6,
+  "matchRate": 8.5,
+  "denominator": {
+   "type": "listed_top",
+   "value": 71,
+   "label": "当サイト掲載施設(人気上位)数"
+  },
+  "minPrice": 4980,
+  "medianPrice": 8275,
+  "reviewAvgMean": 4.01,
+  "pricedCount": 4
+ },
+ "hotels": [
+  {
+   "hotelNo": 188003,
+   "name": "伊香保温泉　Ｄｏｇｇｙスイート　ペロ",
+   "kana": "イカホオンセンドギースイートペロ",
+   "minCharge": 27300,
+   "reviewAverage": 4.87,
+   "reviewCount": 57,
+   "access": "関越自動車道渋川ＩＣよりお車で約３０分",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保166-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188003",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188003%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188003",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188003.jpg",
+   "special": "伊香保温泉にある愛犬と一緒のお客様限定宿。愛犬と一緒に食事と温泉お風呂が楽しめます。"
+  },
+  {
+   "hotelNo": 147842,
+   "name": "フォレストリゾート　コニファーいわびつ",
+   "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
+   "minCharge": 10500,
+   "reviewAverage": 4.19,
+   "reviewCount": 397,
+   "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
+   "address1": "群馬県",
+   "address2": "吾妻郡東吾妻町原町4399",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147842",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147842%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147842",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147842.jpg",
+   "special": "広大な敷地の中に和室・洋室、ペットＯＫのログハウス・会議室・体育館・グラウンド・キャンプ場等完備。"
+  },
+  {
+   "hotelNo": 18861,
+   "name": "一冨士ホテル",
+   "kana": "いちふじほてる",
+   "minCharge": null,
+   "reviewAverage": 3.86,
+   "reviewCount": 12,
+   "access": "ＪＲ上越線渋川駅より伊香保温泉行バスで３０分／関越自動車道渋川伊香保ＩＣよりお車で約２５分",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保557-12",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18861",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D18861%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D18861",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18861.jpg",
+   "special": "上州の山並みが一望できる客室とボリュームある御料理。"
+  },
+  {
+   "hotelNo": 29387,
+   "name": "伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら",
+   "kana": "いかほおんせん　きむら",
+   "minCharge": 6050,
+   "reviewAverage": 3.72,
+   "reviewCount": 1940,
+   "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保557-32",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29387",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29387%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29387",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29387.jpg",
+   "special": "【北関東最大級の畳風呂とメガ貸切露天風呂】伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿"
+  },
+  {
+   "hotelNo": 7517,
+   "name": "伊香保温泉　ホテルいかほ銀水",
+   "kana": "いかほおんせん　いかほぎんすい",
+   "minCharge": 4980,
+   "reviewAverage": 3.41,
+   "reviewCount": 307,
+   "access": "関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保557-23",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7517",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7517%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7517",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7517.jpg",
+   "special": "ペットと泊まれます♪上州三山や関東平野一望（谷川・白根・赤城）。新潟米と山海の幸を満喫。"
+  },
+  {
+   "hotelNo": 192123,
+   "name": "一棟貸切ゲストハウス　ちるや",
+   "kana": "いっとうかしきりげすとはうす　ちるや",
+   "minCharge": null,
+   "reviewAverage": null,
+   "reviewCount": 3,
+   "access": "小野上駅からお車で約５分",
+   "address1": "群馬県",
+   "address2": "渋川市村上2796-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192123",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192123%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192123",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192123.jpg",
+   "special": "一棟まるごと貸切。ＢＢＱ会場・ドッグランも併設！ご家族・グループでのご利用におススメ☆"
+  }
+ ],
+ "listedMatchCount": 6
+}

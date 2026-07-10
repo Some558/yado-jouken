@@ -1,0 +1,139 @@
+{
+ "condition": {
+  "slug": "breakfast",
+  "label": "朝食付きプラン"
+ },
+ "dataAsOf": "2026-07-10",
+ "areas": [
+  {
+   "area": {
+    "slug": "hakone",
+    "label": "箱根",
+    "officialName": "箱根"
+   },
+   "slug": "breakfast--hakone",
+   "matchCount": 83,
+   "matchRate": 23.6,
+   "minPrice": 5500,
+   "medianPrice": 14500,
+   "reviewAvgMean": 4.39
+  },
+  {
+   "area": {
+    "slug": "kusatsu",
+    "label": "草津",
+    "officialName": "草津温泉・白根"
+   },
+   "slug": "breakfast--kusatsu",
+   "matchCount": 36,
+   "matchRate": 23.8,
+   "minPrice": 4890,
+   "medianPrice": 11000,
+   "reviewAvgMean": 4.39
+  },
+  {
+   "area": {
+    "slug": "atami",
+    "label": "熱海",
+    "officialName": "熱海"
+   },
+   "slug": "breakfast--atami",
+   "matchCount": 52,
+   "matchRate": 19.4,
+   "minPrice": 2210,
+   "medianPrice": 12100,
+   "reviewAvgMean": 4.26
+  },
+  {
+   "area": {
+    "slug": "beppu",
+    "label": "別府",
+    "officialName": "別府・日出"
+   },
+   "slug": "breakfast--beppu",
+   "matchCount": 82,
+   "matchRate": 33.2,
+   "minPrice": 1500,
+   "medianPrice": 6930,
+   "reviewAvgMean": 4.32
+  },
+  {
+   "area": {
+    "slug": "yufuin",
+    "label": "由布院",
+    "officialName": "湯布院・湯平"
+   },
+   "slug": "breakfast--yufuin",
+   "matchCount": 86,
+   "matchRate": 28.1,
+   "minPrice": 4950,
+   "medianPrice": 14000,
+   "reviewAvgMean": 4.46
+  },
+  {
+   "area": {
+    "slug": "kinosaki",
+    "label": "城崎",
+    "officialName": "城崎温泉・豊岡・出石・神鍋"
+   },
+   "slug": "breakfast--kinosaki",
+   "matchCount": 52,
+   "matchRate": 32.9,
+   "minPrice": 4500,
+   "medianPrice": 12000,
+   "reviewAvgMean": 4.43
+  },
+  {
+   "area": {
+    "slug": "ikaho",
+    "label": "伊香保",
+    "officialName": "伊香保温泉・渋川"
+   },
+   "slug": "breakfast--ikaho",
+   "matchCount": 30,
+   "matchRate": 42.3,
+   "minPrice": 4350,
+   "medianPrice": 9020,
+   "reviewAvgMean": 4.22
+  },
+  {
+   "area": {
+    "slug": "nasu",
+    "label": "那須",
+    "officialName": "那須・板室・黒磯"
+   },
+   "slug": "breakfast--nasu",
+   "matchCount": 70,
+   "matchRate": 20.8,
+   "minPrice": 1970,
+   "medianPrice": 8250,
+   "reviewAvgMean": 4.35
+  },
+  {
+   "area": {
+    "slug": "karuizawa",
+    "label": "軽井沢",
+    "officialName": "軽井沢・佐久・小諸"
+   },
+   "slug": "breakfast--karuizawa",
+   "matchCount": 47,
+   "matchRate": 17.0,
+   "minPrice": 4500,
+   "medianPrice": 9680,
+   "reviewAvgMean": 4.34
+  },
+  {
+   "area": {
+    "slug": "dogo",
+    "label": "道後",
+    "officialName": "松山・道後"
+   },
+   "slug": "breakfast--dogo",
+   "matchCount": 47,
+   "matchRate": 26.3,
+   "minPrice": 2560,
+   "medianPrice": 5252,
+   "reviewAvgMean": 4.24
+  }
+ ]
+}

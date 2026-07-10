@@ -1,0 +1,139 @@
+{
+ "condition": {
+  "slug": "pet-ok",
+  "label": "ペット同宿可"
+ },
+ "dataAsOf": "2026-07-10",
+ "areas": [
+  {
+   "area": {
+    "slug": "hakone",
+    "label": "箱根",
+    "officialName": "箱根"
+   },
+   "slug": "pet-ok--hakone",
+   "matchCount": 14,
+   "matchRate": 15.6,
+   "minPrice": 4800,
+   "medianPrice": 10182,
+   "reviewAvgMean": 4.25
+  },
+  {
+   "area": {
+    "slug": "kusatsu",
+    "label": "草津",
+    "officialName": "草津温泉・白根"
+   },
+   "slug": "pet-ok--kusatsu",
+   "matchCount": 4,
+   "matchRate": 4.4,
+   "minPrice": 6300,
+   "medianPrice": 9970,
+   "reviewAvgMean": 4.01
+  },
+  {
+   "area": {
+    "slug": "atami",
+    "label": "熱海",
+    "officialName": "熱海"
+   },
+   "slug": "pet-ok--atami",
+   "matchCount": 11,
+   "matchRate": 12.2,
+   "minPrice": 5134,
+   "medianPrice": 10680,
+   "reviewAvgMean": 4.37
+  },
+  {
+   "area": {
+    "slug": "beppu",
+    "label": "別府",
+    "officialName": "別府・日出"
+   },
+   "slug": "pet-ok--beppu",
+   "matchCount": 4,
+   "matchRate": 4.4,
+   "minPrice": 1500,
+   "medianPrice": 7320,
+   "reviewAvgMean": 3.95
+  },
+  {
+   "area": {
+    "slug": "yufuin",
+    "label": "由布院",
+    "officialName": "湯布院・湯平"
+   },
+   "slug": "pet-ok--yufuin",
+   "matchCount": 10,
+   "matchRate": 11.1,
+   "minPrice": 7488,
+   "medianPrice": 17825,
+   "reviewAvgMean": 4.52
+  },
+  {
+   "area": {
+    "slug": "kinosaki",
+    "label": "城崎",
+    "officialName": "城崎温泉・豊岡・出石・神鍋"
+   },
+   "slug": "pet-ok--kinosaki",
+   "matchCount": 4,
+   "matchRate": 4.4,
+   "minPrice": 3500,
+   "medianPrice": 9425,
+   "reviewAvgMean": 4.35
+  },
+  {
+   "area": {
+    "slug": "ikaho",
+    "label": "伊香保",
+    "officialName": "伊香保温泉・渋川"
+   },
+   "slug": "pet-ok--ikaho",
+   "matchCount": 6,
+   "matchRate": 8.5,
+   "minPrice": 4980,
+   "medianPrice": 8275,
+   "reviewAvgMean": 4.01
+  },
+  {
+   "area": {
+    "slug": "nasu",
+    "label": "那須",
+    "officialName": "那須・板室・黒磯"
+   },
+   "slug": "pet-ok--nasu",
+   "matchCount": 25,
+   "matchRate": 27.8,
+   "minPrice": 2980,
+   "medianPrice": 9430,
+   "reviewAvgMean": 4.47
+  },
+  {
+   "area": {
+    "slug": "karuizawa",
+    "label": "軽井沢",
+    "officialName": "軽井沢・佐久・小諸"
+   },
+   "slug": "pet-ok--karuizawa",
+   "matchCount": 17,
+   "matchRate": 18.9,
+   "minPrice": 5005,
+   "medianPrice": 12600,
+   "reviewAvgMean": 4.58
+  },
+  {
+   "area": {
+    "slug": "dogo",
+    "label": "道後",
+    "officialName": "松山・道後"
+   },
+   "slug": "pet-ok--dogo",
+   "matchCount": 3,
+   "matchRate": 3.3,
+   "minPrice": 9350,
+   "medianPrice": 13750,
+   "reviewAvgMean": 4.28
+  }
+ ]
+}

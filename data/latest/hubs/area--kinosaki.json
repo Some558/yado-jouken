@@ -1,0 +1,51 @@
+{
+ "area": {
+  "slug": "kinosaki",
+  "label": "城崎",
+  "officialName": "城崎温泉・豊岡・出石・神鍋"
+ },
+ "dataAsOf": "2026-07-10",
+ "recordCount": 158,
+ "conditions": [
+  {
+   "condition": "onsen",
+   "label": "温泉",
+   "slug": "onsen--kinosaki"
+  },
+  {
+   "condition": "daiyokujo",
+   "label": "大浴場",
+   "slug": "daiyokujo--kinosaki"
+  },
+  {
+   "condition": "kinen",
+   "label": "禁煙ルーム",
+   "slug": "kinen--kinosaki"
+  },
+  {
+   "condition": "breakfast",
+   "label": "朝食付きプラン",
+   "slug": "breakfast--kinosaki"
+  },
+  {
+   "condition": "rotenburo",
+   "label": "露天風呂",
+   "slug": "rotenburo--kinosaki"
+  },
+  {
+   "condition": "sauna",
+   "label": "サウナ",
+   "slug": "sauna--kinosaki"
+  },
+  {
+   "condition": "kashikiri-buro",
+   "label": "貸切風呂・家族風呂",
+   "slug": "kashikiri-buro--kinosaki"
+  },
+  {
+   "condition": "pet-ok",
+   "label": "ペット同宿可",
+   "slug": "pet-ok--kinosaki"
+  }
+ ]
+}

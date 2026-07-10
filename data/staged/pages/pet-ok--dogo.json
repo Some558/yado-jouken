@@ -1,0 +1,80 @@
+{
+ "slug": "pet-ok--dogo",
+ "condition": {
+  "slug": "pet-ok",
+  "label": "ペット同宿可"
+ },
+ "area": {
+  "slug": "dogo",
+  "label": "道後",
+  "officialName": "松山・道後"
+ },
+ "dataAsOf": "2026-07-10",
+ "detection": {
+  "type": "facility"
+ },
+ "stats": {
+  "matchCount": 3,
+  "matchRate": 3.3,
+  "denominator": {
+   "type": "listed_top",
+   "value": 90,
+   "label": "当サイト掲載施設(人気上位)数"
+  },
+  "minPrice": 9350,
+  "medianPrice": 13750,
+  "reviewAvgMean": 4.28,
+  "pricedCount": 3
+ },
+ "hotels": [
+  {
+   "hotelNo": 187888,
+   "name": "ｐｒｉｖａｔｅ　ｙｏｕｒ　ｒｅｓｏｒｔ　ＩＴＴＥＫＵＲＡｉ　松山",
+   "kana": "プライベート　ユア　リゾート　イッテクライ　マツヤマ",
+   "minCharge": 19300,
+   "reviewAverage": 4.47,
+   "reviewCount": 38,
+   "access": "川内インターよりお車にて5分　松山空港、松山観光港よりお車にて約４０分 松山駅よりお車にて約３０分",
+   "address1": "愛媛県",
+   "address2": "東温市松瀬川乙1020-132",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187888",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187888%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187888",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187888.jpg",
+   "special": "客室は全室サウナ、水風呂、半露天風呂付き。完全プライベート空間で、居心地の良さを感じる体験型ホテル"
+  },
+  {
+   "hotelNo": 166095,
+   "name": "ホテル　ルナパーク　別邸やすらぎ",
+   "kana": "るなぱーく　べっていやすらぎ",
+   "minCharge": 13750,
+   "reviewAverage": 4.39,
+   "reviewCount": 158,
+   "access": "市電　道後温泉駅より徒歩にて約10分",
+   "address1": "愛媛県",
+   "address2": "松山市道後鷺谷町434-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166095",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D166095%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D166095",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/166095.jpg",
+   "special": "道後で唯一ドッグラン♪ペットと泊まれる宿♪Wi-Fi完備★全室禁煙"
+  },
+  {
+   "hotelNo": 158312,
+   "name": "リブマックスリゾート奥道後",
+   "kana": "りぶまっくすりぞーとおくどうご",
+   "minCharge": 9350,
+   "reviewAverage": 3.99,
+   "reviewCount": 504,
+   "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",
+   "address1": "愛媛県",
+   "address2": "松山市末町300-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158312",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158312%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158312",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158312.jpg",
+   "special": "2016/11/11〜露天風呂付き客室＆男女別露天風呂を新設！心ゆくまで「美人の湯」ご堪能ください♪"
+  }
+ ],
+ "listedMatchCount": 3
+}

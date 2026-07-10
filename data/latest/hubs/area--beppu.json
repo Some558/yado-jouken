@@ -1,0 +1,51 @@
+{
+ "area": {
+  "slug": "beppu",
+  "label": "別府",
+  "officialName": "別府・日出"
+ },
+ "dataAsOf": "2026-07-10",
+ "recordCount": 247,
+ "conditions": [
+  {
+   "condition": "onsen",
+   "label": "温泉",
+   "slug": "onsen--beppu"
+  },
+  {
+   "condition": "daiyokujo",
+   "label": "大浴場",
+   "slug": "daiyokujo--beppu"
+  },
+  {
+   "condition": "kinen",
+   "label": "禁煙ルーム",
+   "slug": "kinen--beppu"
+  },
+  {
+   "condition": "breakfast",
+   "label": "朝食付きプラン",
+   "slug": "breakfast--beppu"
+  },
+  {
+   "condition": "rotenburo",
+   "label": "露天風呂",
+   "slug": "rotenburo--beppu"
+  },
+  {
+   "condition": "sauna",
+   "label": "サウナ",
+   "slug": "sauna--beppu"
+  },
+  {
+   "condition": "kashikiri-buro",
+   "label": "貸切風呂・家族風呂",
+   "slug": "kashikiri-buro--beppu"
+  },
+  {
+   "condition": "pet-ok",
+   "label": "ペット同宿可",
+   "slug": "pet-ok--beppu"
+  }
+ ]
+}

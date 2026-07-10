@@ -1,0 +1,96 @@
+{
+ "slug": "pet-ok--beppu",
+ "condition": {
+  "slug": "pet-ok",
+  "label": "ペット同宿可"
+ },
+ "area": {
+  "slug": "beppu",
+  "label": "別府",
+  "officialName": "別府・日出"
+ },
+ "dataAsOf": "2026-07-10",
+ "detection": {
+  "type": "facility"
+ },
+ "stats": {
+  "matchCount": 4,
+  "matchRate": 4.4,
+  "denominator": {
+   "type": "listed_top",
+   "value": 90,
+   "label": "当サイト掲載施設(人気上位)数"
+  },
+  "minPrice": 1500,
+  "medianPrice": 7320,
+  "reviewAvgMean": 3.95,
+  "pricedCount": 4
+ },
+ "hotels": [
+  {
+   "hotelNo": 196407,
+   "name": "グランシア別府鉄輪",
+   "kana": "ぐらんしあべっぷかんなわ",
+   "minCharge": 11160,
+   "reviewAverage": 4.59,
+   "reviewCount": 38,
+   "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",
+   "address1": "大分県",
+   "address2": "別府市鶴見照湯1409-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196407",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196407%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196407",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196407.jpg",
+   "special": "全棟半露天風呂付！天然温泉×部屋食×プライベートグランピング"
+  },
+  {
+   "hotelNo": 136026,
+   "name": "別府温泉　わんこの宿　ゆるり",
+   "kana": "べっぷおんせん　わんこのやど　ゆるり",
+   "minCharge": 9240,
+   "reviewAverage": 3.91,
+   "reviewCount": 170,
+   "access": "別府駅よりお車にて約２０分",
+   "address1": "大分県",
+   "address2": "別府市野田114-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D136026",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D136026%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D136026",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136026.jpg",
+   "special": "全客室愛犬と愉しめる温泉露天風呂付＆わんちゃんとずっと一緒！プライベート空間で別府旅行を満喫"
+  },
+  {
+   "hotelNo": 4765,
+   "name": "別府温泉　ホテル好楽",
+   "kana": "べっぷおんせん　こうらく",
+   "minCharge": 5400,
+   "reviewAverage": 3.86,
+   "reviewCount": 637,
+   "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",
+   "address1": "大分県",
+   "address2": "別府市北浜3-13-21",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D4765",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D4765%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D4765",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4765.jpg",
+   "special": "別府温泉の中心地に位置する好立地で源泉かけ流しの露天風呂を堪能＆ワンちゃんOKな客室あり！"
+  },
+  {
+   "hotelNo": 9242,
+   "name": "別府駅前　ホテルはやし",
+   "kana": "べっぷえきまえ　はやし",
+   "minCharge": 1500,
+   "reviewAverage": 3.45,
+   "reviewCount": 1394,
+   "access": "別府駅前すぐ",
+   "address1": "大分県",
+   "address2": "別府市駅前本町3-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D9242",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D9242%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D9242",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/9242.jpg",
+   "special": "展望風呂有り。ビジネス・観光に便利。"
+  }
+ ],
+ "listedMatchCount": 4
+}

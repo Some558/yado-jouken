@@ -1,0 +1,139 @@
+{
+ "condition": {
+  "slug": "rotenburo",
+  "label": "露天風呂"
+ },
+ "dataAsOf": "2026-07-10",
+ "areas": [
+  {
+   "area": {
+    "slug": "hakone",
+    "label": "箱根",
+    "officialName": "箱根"
+   },
+   "slug": "rotenburo--hakone",
+   "matchCount": 69,
+   "matchRate": 76.7,
+   "minPrice": 6550,
+   "medianPrice": 14850,
+   "reviewAvgMean": 4.42
+  },
+  {
+   "area": {
+    "slug": "kusatsu",
+    "label": "草津",
+    "officialName": "草津温泉・白根"
+   },
+   "slug": "rotenburo--kusatsu",
+   "matchCount": 38,
+   "matchRate": 42.2,
+   "minPrice": 5376,
+   "medianPrice": 12100,
+   "reviewAvgMean": 4.41
+  },
+  {
+   "area": {
+    "slug": "atami",
+    "label": "熱海",
+    "officialName": "熱海"
+   },
+   "slug": "rotenburo--atami",
+   "matchCount": 63,
+   "matchRate": 70.0,
+   "minPrice": 4840,
+   "medianPrice": 10000,
+   "reviewAvgMean": 4.33
+  },
+  {
+   "area": {
+    "slug": "beppu",
+    "label": "別府",
+    "officialName": "別府・日出"
+   },
+   "slug": "rotenburo--beppu",
+   "matchCount": 60,
+   "matchRate": 66.7,
+   "minPrice": 3000,
+   "medianPrice": 9370,
+   "reviewAvgMean": 4.38
+  },
+  {
+   "area": {
+    "slug": "yufuin",
+    "label": "由布院",
+    "officialName": "湯布院・湯平"
+   },
+   "slug": "rotenburo--yufuin",
+   "matchCount": 77,
+   "matchRate": 85.6,
+   "minPrice": 4800,
+   "medianPrice": 15000,
+   "reviewAvgMean": 4.48
+  },
+  {
+   "area": {
+    "slug": "kinosaki",
+    "label": "城崎",
+    "officialName": "城崎温泉・豊岡・出石・神鍋"
+   },
+   "slug": "rotenburo--kinosaki",
+   "matchCount": 23,
+   "matchRate": 25.6,
+   "minPrice": 7060,
+   "medianPrice": 11980,
+   "reviewAvgMean": 4.46
+  },
+  {
+   "area": {
+    "slug": "ikaho",
+    "label": "伊香保",
+    "officialName": "伊香保温泉・渋川"
+   },
+   "slug": "rotenburo--ikaho",
+   "matchCount": 37,
+   "matchRate": 52.1,
+   "minPrice": 4620,
+   "medianPrice": 9020,
+   "reviewAvgMean": 4.22
+  },
+  {
+   "area": {
+    "slug": "nasu",
+    "label": "那須",
+    "officialName": "那須・板室・黒磯"
+   },
+   "slug": "rotenburo--nasu",
+   "matchCount": 52,
+   "matchRate": 57.8,
+   "minPrice": 1970,
+   "medianPrice": 11000,
+   "reviewAvgMean": 4.42
+  },
+  {
+   "area": {
+    "slug": "karuizawa",
+    "label": "軽井沢",
+    "officialName": "軽井沢・佐久・小諸"
+   },
+   "slug": "rotenburo--karuizawa",
+   "matchCount": 23,
+   "matchRate": 25.6,
+   "minPrice": 4650,
+   "medianPrice": 12230,
+   "reviewAvgMean": 4.42
+  },
+  {
+   "area": {
+    "slug": "dogo",
+    "label": "道後",
+    "officialName": "松山・道後"
+   },
+   "slug": "rotenburo--dogo",
+   "matchCount": 35,
+   "matchRate": 38.9,
+   "minPrice": 2700,
+   "medianPrice": 8330,
+   "reviewAvgMean": 4.35
+  }
+ ]
+}

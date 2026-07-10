@@ -1,0 +1,139 @@
+{
+ "condition": {
+  "slug": "onsen",
+  "label": "温泉"
+ },
+ "dataAsOf": "2026-07-10",
+ "areas": [
+  {
+   "area": {
+    "slug": "hakone",
+    "label": "箱根",
+    "officialName": "箱根"
+   },
+   "slug": "onsen--hakone",
+   "matchCount": 92,
+   "matchRate": 26.2,
+   "minPrice": 5500,
+   "medianPrice": 13304,
+   "reviewAvgMean": 4.37
+  },
+  {
+   "area": {
+    "slug": "kusatsu",
+    "label": "草津",
+    "officialName": "草津温泉・白根"
+   },
+   "slug": "onsen--kusatsu",
+   "matchCount": 50,
+   "matchRate": 33.1,
+   "minPrice": 3000,
+   "medianPrice": 10000,
+   "reviewAvgMean": 4.36
+  },
+  {
+   "area": {
+    "slug": "atami",
+    "label": "熱海",
+    "officialName": "熱海"
+   },
+   "slug": "onsen--atami",
+   "matchCount": 55,
+   "matchRate": 20.5,
+   "minPrice": 2210,
+   "medianPrice": 10000,
+   "reviewAvgMean": 4.27
+  },
+  {
+   "area": {
+    "slug": "beppu",
+    "label": "別府",
+    "officialName": "別府・日出"
+   },
+   "slug": "onsen--beppu",
+   "matchCount": 90,
+   "matchRate": 36.4,
+   "minPrice": 1500,
+   "medianPrice": 7650,
+   "reviewAvgMean": 4.34
+  },
+  {
+   "area": {
+    "slug": "yufuin",
+    "label": "由布院",
+    "officialName": "湯布院・湯平"
+   },
+   "slug": "onsen--yufuin",
+   "matchCount": 96,
+   "matchRate": 31.4,
+   "minPrice": 2520,
+   "medianPrice": 12999,
+   "reviewAvgMean": 4.44
+  },
+  {
+   "area": {
+    "slug": "kinosaki",
+    "label": "城崎",
+    "officialName": "城崎温泉・豊岡・出石・神鍋"
+   },
+   "slug": "onsen--kinosaki",
+   "matchCount": 42,
+   "matchRate": 26.6,
+   "minPrice": 6500,
+   "medianPrice": 13200,
+   "reviewAvgMean": 4.48
+  },
+  {
+   "area": {
+    "slug": "ikaho",
+    "label": "伊香保",
+    "officialName": "伊香保温泉・渋川"
+   },
+   "slug": "onsen--ikaho",
+   "matchCount": 26,
+   "matchRate": 36.6,
+   "minPrice": 4980,
+   "medianPrice": 9020,
+   "reviewAvgMean": 4.28
+  },
+  {
+   "area": {
+    "slug": "nasu",
+    "label": "那須",
+    "officialName": "那須・板室・黒磯"
+   },
+   "slug": "onsen--nasu",
+   "matchCount": 38,
+   "matchRate": 11.3,
+   "minPrice": 1970,
+   "medianPrice": 9430,
+   "reviewAvgMean": 4.33
+  },
+  {
+   "area": {
+    "slug": "karuizawa",
+    "label": "軽井沢",
+    "officialName": "軽井沢・佐久・小諸"
+   },
+   "slug": "onsen--karuizawa",
+   "matchCount": 14,
+   "matchRate": 5.1,
+   "minPrice": 5500,
+   "medianPrice": 13700,
+   "reviewAvgMean": 4.38
+  },
+  {
+   "area": {
+    "slug": "dogo",
+    "label": "道後",
+    "officialName": "松山・道後"
+   },
+   "slug": "onsen--dogo",
+   "matchCount": 30,
+   "matchRate": 16.8,
+   "minPrice": 3000,
+   "medianPrice": 8565,
+   "reviewAvgMean": 4.33
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "area": {
+  "slug": "nasu",
+  "label": "那須",
+  "officialName": "那須・板室・黒磯"
+ },
+ "dataAsOf": "2026-07-10",
+ "recordCount": 336,
+ "conditions": [
+  {
+   "condition": "onsen",
+   "label": "温泉",
+   "slug": "onsen--nasu"
+  },
+  {
+   "condition": "daiyokujo",
+   "label": "大浴場",
+   "slug": "daiyokujo--nasu"
+  },
+  {
+   "condition": "kinen",
+   "label": "禁煙ルーム",
+   "slug": "kinen--nasu"
+  },
+  {
+   "condition": "breakfast",
+   "label": "朝食付きプラン",
+   "slug": "breakfast--nasu"
+  },
+  {
+   "condition": "rotenburo",
+   "label": "露天風呂",
+   "slug": "rotenburo--nasu"
+  },
+  {
+   "condition": "sauna",
+   "label": "サウナ",
+   "slug": "sauna--nasu"
+  },
+  {
+   "condition": "kashikiri-buro",
+   "label": "貸切風呂・家族風呂",
+   "slug": "kashikiri-buro--nasu"
+  },
+  {
+   "condition": "pet-ok",
+   "label": "ペット同宿可",
+   "slug": "pet-ok--nasu"
+  }
+ ]
+}

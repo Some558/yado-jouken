@@ -1,0 +1,96 @@
+{
+ "slug": "pet-ok--kusatsu",
+ "condition": {
+  "slug": "pet-ok",
+  "label": "ペット同宿可"
+ },
+ "area": {
+  "slug": "kusatsu",
+  "label": "草津",
+  "officialName": "草津温泉・白根"
+ },
+ "dataAsOf": "2026-07-10",
+ "detection": {
+  "type": "facility"
+ },
+ "stats": {
+  "matchCount": 4,
+  "matchRate": 4.4,
+  "denominator": {
+   "type": "listed_top",
+   "value": 90,
+   "label": "当サイト掲載施設(人気上位)数"
+  },
+  "minPrice": 6300,
+  "medianPrice": 9970,
+  "reviewAvgMean": 4.01,
+  "pricedCount": 4
+ },
+ "hotels": [
+  {
+   "hotelNo": 195645,
+   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
+   "kana": null,
+   "minCharge": 6300,
+   "reviewAverage": 4.3,
+   "reviewCount": 20,
+   "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津745　Rakuten STAY VILLA 草津温泉",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195645",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D195645%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D195645",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
+   "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。"
+  },
+  {
+   "hotelNo": 109164,
+   "name": "草津温泉　ペットと泊まれる宿　音雅",
+   "kana": "くさつおんせん　ぺっととまれるやど　おんが",
+   "minCharge": 20900,
+   "reviewAverage": 4.03,
+   "reviewCount": 152,
+   "access": "長野原草津口駅からＪＲバスで１５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町740-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109164",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109164%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109164",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109164.jpg",
+   "special": "草津でペットと泊まれるお部屋のある温泉宿。露天風呂の他、４００坪のドッグランなどわんちゃんも大喜び！"
+  },
+  {
+   "hotelNo": 129576,
+   "name": "草津温泉　大東舘",
+   "kana": "くさつおんせん　だいとうかん",
+   "minCharge": 6840,
+   "reviewAverage": 3.92,
+   "reviewCount": 2677,
+   "access": "草津温泉バスターミナルから徒歩５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津126",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129576",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129576%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129576",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129576.jpg",
+   "special": "湯畑源泉100％かけ流し温泉と地元食材を使った料理が自慢♪草津温泉の中心「湯畑」に寄り添う老舗旅館"
+  },
+  {
+   "hotelNo": 172893,
+   "name": "リブマックスリゾート草津温泉",
+   "kana": "りぶまっくすりぞーとくさつおんせん",
+   "minCharge": 13100,
+   "reviewAverage": 3.81,
+   "reviewCount": 492,
+   "access": "湯畑から徒歩約10分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津548-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172893",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172893%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172893",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172893.jpg",
+   "special": "2019年4月NEWOPEN！『和モダン×洋モダン』をテーマにした全客室温泉半露天風呂付スパホテル"
+  }
+ ],
+ "listedMatchCount": 4
+}

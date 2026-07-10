@@ -7,8 +7,8 @@
     { "slug": "breakfast",      "label": "朝食付きプラン",   "detect": { "method": "squeeze",  "value": "breakfast" },                                    "status": "confirmed" },
     { "slug": "rotenburo",      "label": "露天風呂",         "detect": { "method": "facility", "fields": ["aboutBath.bathType", "hotelFacilities.item"], "values": ["露天風呂"] },            "status": "confirmed" },
     { "slug": "sauna",          "label": "サウナ",           "detect": { "method": "facility", "fields": ["aboutBath.bathType", "hotelFacilities.item"], "values": ["サウナ"] },              "status": "confirmed" },
-    { "slug": "kashikiri-buro", "label": "貸切風呂",         "detect": { "method": "facility", "fields": ["aboutBath.bathType"],                          "values": ["家族風呂", "貸切風呂"] }, "status": "vocab-check" },
-    { "slug": "pet-ok",         "label": "ペット可",         "detect": { "method": "facility", "fields": ["hotelFacilities.item"],                        "values": ["ペット可"] },            "status": "vocab-check" }
+    { "slug": "kashikiri-buro", "label": "貸切風呂・家族風呂", "detect": { "method": "facility", "fields": ["aboutBath.bathType"],                          "values": ["家族風呂"] },      "status": "confirmed" },
+    { "slug": "pet-ok",         "label": "ペット同宿可",       "detect": { "method": "facility", "fields": ["hotelFacilities.item"],                        "values": ["ペット同宿可"] },  "status": "confirmed" }
   ],
   "dropped_candidates": {
     "_comment": "見送り分と理由(将来の拡張候補)",

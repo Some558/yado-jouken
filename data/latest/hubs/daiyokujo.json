@@ -1,0 +1,139 @@
+{
+ "condition": {
+  "slug": "daiyokujo",
+  "label": "大浴場"
+ },
+ "dataAsOf": "2026-07-10",
+ "areas": [
+  {
+   "area": {
+    "slug": "hakone",
+    "label": "箱根",
+    "officialName": "箱根"
+   },
+   "slug": "daiyokujo--hakone",
+   "matchCount": 81,
+   "matchRate": 23.1,
+   "minPrice": 5500,
+   "medianPrice": 13252,
+   "reviewAvgMean": 4.37
+  },
+  {
+   "area": {
+    "slug": "kusatsu",
+    "label": "草津",
+    "officialName": "草津温泉・白根"
+   },
+   "slug": "daiyokujo--kusatsu",
+   "matchCount": 28,
+   "matchRate": 18.5,
+   "minPrice": 5376,
+   "medianPrice": 10000,
+   "reviewAvgMean": 4.33
+  },
+  {
+   "area": {
+    "slug": "atami",
+    "label": "熱海",
+    "officialName": "熱海"
+   },
+   "slug": "daiyokujo--atami",
+   "matchCount": 39,
+   "matchRate": 14.6,
+   "minPrice": 2210,
+   "medianPrice": 9900,
+   "reviewAvgMean": 4.26
+  },
+  {
+   "area": {
+    "slug": "beppu",
+    "label": "別府",
+    "officialName": "別府・日出"
+   },
+   "slug": "daiyokujo--beppu",
+   "matchCount": 59,
+   "matchRate": 23.9,
+   "minPrice": 2500,
+   "medianPrice": 6600,
+   "reviewAvgMean": 4.29
+  },
+  {
+   "area": {
+    "slug": "yufuin",
+    "label": "由布院",
+    "officialName": "湯布院・湯平"
+   },
+   "slug": "daiyokujo--yufuin",
+   "matchCount": 41,
+   "matchRate": 13.4,
+   "minPrice": 7700,
+   "medianPrice": 12900,
+   "reviewAvgMean": 4.42
+  },
+  {
+   "area": {
+    "slug": "kinosaki",
+    "label": "城崎",
+    "officialName": "城崎温泉・豊岡・出石・神鍋"
+   },
+   "slug": "daiyokujo--kinosaki",
+   "matchCount": 26,
+   "matchRate": 16.5,
+   "minPrice": 3000,
+   "medianPrice": 9900,
+   "reviewAvgMean": 4.35
+  },
+  {
+   "area": {
+    "slug": "ikaho",
+    "label": "伊香保",
+    "officialName": "伊香保温泉・渋川"
+   },
+   "slug": "daiyokujo--ikaho",
+   "matchCount": 26,
+   "matchRate": 36.6,
+   "minPrice": 4350,
+   "medianPrice": 9020,
+   "reviewAvgMean": 4.22
+  },
+  {
+   "area": {
+    "slug": "nasu",
+    "label": "那須",
+    "officialName": "那須・板室・黒磯"
+   },
+   "slug": "daiyokujo--nasu",
+   "matchCount": 31,
+   "matchRate": 9.2,
+   "minPrice": 1970,
+   "medianPrice": 9430,
+   "reviewAvgMean": 4.32
+  },
+  {
+   "area": {
+    "slug": "karuizawa",
+    "label": "軽井沢",
+    "officialName": "軽井沢・佐久・小諸"
+   },
+   "slug": "daiyokujo--karuizawa",
+   "matchCount": 27,
+   "matchRate": 9.7,
+   "minPrice": 4500,
+   "medianPrice": 10400,
+   "reviewAvgMean": 4.33
+  },
+  {
+   "area": {
+    "slug": "dogo",
+    "label": "道後",
+    "officialName": "松山・道後"
+   },
+   "slug": "daiyokujo--dogo",
+   "matchCount": 30,
+   "matchRate": 16.8,
+   "minPrice": 2900,
+   "medianPrice": 6457,
+   "reviewAvgMean": 4.3
+  }
+ ]
+}

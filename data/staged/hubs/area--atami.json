@@ -1,0 +1,51 @@
+{
+ "area": {
+  "slug": "atami",
+  "label": "熱海",
+  "officialName": "熱海"
+ },
+ "dataAsOf": "2026-07-10",
+ "recordCount": 268,
+ "conditions": [
+  {
+   "condition": "onsen",
+   "label": "温泉",
+   "slug": "onsen--atami"
+  },
+  {
+   "condition": "daiyokujo",
+   "label": "大浴場",
+   "slug": "daiyokujo--atami"
+  },
+  {
+   "condition": "kinen",
+   "label": "禁煙ルーム",
+   "slug": "kinen--atami"
+  },
+  {
+   "condition": "breakfast",
+   "label": "朝食付きプラン",
+   "slug": "breakfast--atami"
+  },
+  {
+   "condition": "rotenburo",
+   "label": "露天風呂",
+   "slug": "rotenburo--atami"
+  },
+  {
+   "condition": "sauna",
+   "label": "サウナ",
+   "slug": "sauna--atami"
+  },
+  {
+   "condition": "kashikiri-buro",
+   "label": "貸切風呂・家族風呂",
+   "slug": "kashikiri-buro--atami"
+  },
+  {
+   "condition": "pet-ok",
+   "label": "ペット同宿可",
+   "slug": "pet-ok--atami"
+  }
+ ]
+}

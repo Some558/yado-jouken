@@ -1,0 +1,51 @@
+{
+ "area": {
+  "slug": "yufuin",
+  "label": "由布院",
+  "officialName": "湯布院・湯平"
+ },
+ "dataAsOf": "2026-07-10",
+ "recordCount": 306,
+ "conditions": [
+  {
+   "condition": "onsen",
+   "label": "温泉",
+   "slug": "onsen--yufuin"
+  },
+  {
+   "condition": "daiyokujo",
+   "label": "大浴場",
+   "slug": "daiyokujo--yufuin"
+  },
+  {
+   "condition": "kinen",
+   "label": "禁煙ルーム",
+   "slug": "kinen--yufuin"
+  },
+  {
+   "condition": "breakfast",
+   "label": "朝食付きプラン",
+   "slug": "breakfast--yufuin"
+  },
+  {
+   "condition": "rotenburo",
+   "label": "露天風呂",
+   "slug": "rotenburo--yufuin"
+  },
+  {
+   "condition": "sauna",
+   "label": "サウナ",
+   "slug": "sauna--yufuin"
+  },
+  {
+   "condition": "kashikiri-buro",
+   "label": "貸切風呂・家族風呂",
+   "slug": "kashikiri-buro--yufuin"
+  },
+  {
+   "condition": "pet-ok",
+   "label": "ペット同宿可",
+   "slug": "pet-ok--yufuin"
+  }
+ ]
+}
