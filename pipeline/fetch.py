@@ -4,9 +4,9 @@
 daily  : エリアごとに SimpleHotelSearch 3ページ(90施設) → data/work/daily/{area}.json
 weekly : (1) squeeze系4条件 × 10エリアの該当hotelNo集合(VacantHotelSearch・翌週土曜1泊)
          (2) daily一覧の全施設の設備キャッシュ(HotelDetailSearch・7日超のみ再取得)
-         → data/work/squeeze.json / data/facilities/{hotelNo}.json
+         → data/cache/squeeze.json(+ data/work/squeeze.json) / data/facilities/{hotelNo}.json
 
-usage: python3 pipeline/fetch.py --mode daily|weekly [--areas hakone,kusatsu] [--as-of 2026-07-10]
+usage: PYTHONPATH=pipeline python3 pipeline/fetch.py --mode daily|weekly [--areas hakone,kusatsu] [--as-of 2026-07-10]
 """
 
 import argparse
@@ -20,6 +20,7 @@ from rakuten_client import ROOT, RakutenClient
 
 CONFIG = ROOT / "pipeline" / "config"
 WORK = ROOT / "data" / "work"
+CACHE = ROOT / "data" / "cache"
 FACILITIES = ROOT / "data" / "facilities"
 
 DAILY_PAGES = 3          # 30件×3=上位90施設
@@ -115,7 +116,10 @@ def fetch_squeeze(client: RakutenClient, areas: list[dict], as_of: datetime.date
             }
             print(f"[squeeze] {area['slug']}×{cond['slug']}: 該当{record_count}件")
     WORK.mkdir(parents=True, exist_ok=True)
-    (WORK / "squeeze.json").write_text(json.dumps(result, ensure_ascii=False))
+    CACHE.mkdir(parents=True, exist_ok=True)
+    payload = json.dumps(result, ensure_ascii=False)
+    (WORK / "squeeze.json").write_text(payload)
+    (CACHE / "squeeze.json").write_text(payload)  # CI/日次用にgit管理する正本
 
 
 def fetch_facilities(client: RakutenClient, areas: list[dict], as_of: datetime.date) -> None:

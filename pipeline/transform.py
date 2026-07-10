@@ -24,6 +24,7 @@ from rakuten_client import ROOT
 
 CONFIG = ROOT / "pipeline" / "config"
 WORK = ROOT / "data" / "work"
+CACHE = ROOT / "data" / "cache"
 FACILITIES = ROOT / "data" / "facilities"
 
 HOTELS_PER_PAGE = 20
@@ -90,7 +91,12 @@ def main():
 
     areas = load_json(CONFIG / "areas.json")["areas"]
     conditions = load_json(CONFIG / "conditions.json")["conditions"]
-    squeeze = load_json(WORK / "squeeze.json")
+    squeeze_path = CACHE / "squeeze.json"
+    if not squeeze_path.exists():
+        squeeze_path = WORK / "squeeze.json"
+    if not squeeze_path.exists():
+        sys.exit("FATAL: squeeze.json がない(先に --mode weekly を実行するか data/cache/squeeze.json を配置)")
+    squeeze = load_json(squeeze_path)
 
     # 施設キャッシュ読込
     fac_cache: dict[int, dict] = {}

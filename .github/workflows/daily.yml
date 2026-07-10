@@ -1,0 +1,77 @@
+name: Daily data refresh
+
+on:
+  schedule:
+    # JST 05:17 (GitHub Actions timezone support)
+    - cron: "17 5 * * *"
+      timezone: Asia/Tokyo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yadoshibori-data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Fetch → transform → validate → promote
+        env:
+          RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
+          RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+          PYTHONPATH: pipeline
+        run: |
+          set -euo pipefail
+          AS_OF=$(TZ=Asia/Tokyo date +%F)
+          python3 pipeline/fetch.py --mode daily --as-of "$AS_OF"
+          python3 pipeline/transform.py --as-of "$AS_OF"
+          python3 pipeline/validate.py
+          rm -rf data/latest
+          cp -R data/staged data/latest
+
+      - name: Commit data/latest (fail-closed: only after validate)
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest/
+          if git diff --staged --quiet; then
+            echo "no data changes"
+          else
+            AS_OF=$(TZ=Asia/Tokyo date +%F)
+            git commit -m "data: daily refresh ${AS_OF}"
+            git push
+          fi
+
+      - name: Slack success
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          AS_OF=$(TZ=Asia/Tokyo date +%F)
+          curl -sf -X POST "$SLACK_WEBHOOK_URL" \
+            -H 'Content-type: application/json' \
+            --data "{\"text\":\"✅ ヤドシボリ日次更新: ${AS_OF} 完了\"}"
+
+      - name: Slack failure (前日データ維持)
+        if: failure()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          AS_OF=$(TZ=Asia/Tokyo date +%F)
+          curl -sf -X POST "$SLACK_WEBHOOK_URL" \
+            -H 'Content-type: application/json' \
+            --data "{\"text\":\"🔴 ヤドシボリ日次更新: ${AS_OF} エラー (前日データ維持)\"}"

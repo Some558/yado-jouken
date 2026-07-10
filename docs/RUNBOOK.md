@@ -11,19 +11,32 @@
 - ✅ **エリアコード**: 10エリア確定 → `pipeline/config/areas.json`(同名別地域に注意: 熱海=shizuoka・草津=gunma・軽井沢=nagano/karui)
 - ✅ **squeezeCondition 有効値**: `kinen / internet / daiyoku / onsen / breakfast / dinner` の6つのみ(公式Doc+実測。pet/large_bath等は400)。VacantHotelSearch 専用で checkinDate/checkoutDate 必須 → 週次更新は「翌週末1泊」のローリング日付で叩く
 - ✅ **設備判定**: HotelDetailSearch(responseType=large)の `hotelFacilitiesInfo.hotelFacilities[].item` と `aboutBath[].bathType` が**標準化語彙の構造化データ**(自由文regex不要・完全一致でよい)。実測例: 大浴場/サウナ/露天風呂/禁煙ルーム/家族風呂/温泉/天然温泉
-- ✅ **8条件確定** → `pipeline/config/conditions.json`(squeeze系4+facility系4。ペット可・貸切風呂の表記はA2の全施設語彙ダンプで最終確認)
+- ✅ **8条件確定** → `pipeline/config/conditions.json`(squeeze系4+facility系4)
 - ⚠️ **未解決**: affiliateId がポータル記載値とリンク作成ツール生成値で別値。ポータル値を採用中。公開前検証の「手動クリック→計上確認」で実効性を判定する
-- ⚠️ **ドメイン**: コード上の SITE_ORIGIN / Allowed websites は `https://yadoshibori.com`。楽天アプリ側の Allowed websites を同ドメインへ更新するまでAPIは403になる(A5作業)
+- ⚠️ **ドメイン**: コード上の SITE_ORIGIN は `https://yadoshibori.com`。楽天アプリ側の Allowed websites を同ドメインへ更新するまでAPIは403(A5)
 
-再実行方法: `.env` に RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY / RAKUTEN_AFFILIATE_ID を書き `python3 pipeline/rakuten_probe.py`(生レスポンスは data/probe/)
+再実行方法: `.env` に RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY / RAKUTEN_AFFILIATE_ID を書き `PYTHONPATH=pipeline python3 pipeline/rakuten_probe.py`(生レスポンスは data/probe/)
 
-## 運用(構築完了後にここへ追記)
+## A4 自動化(2026-07-10)
 
-- 日次: GitHub Actions cron JST 05:17 → fetch → validate(fail-closed) → commit → Cloudflare Pages
-- 失敗時: commitされず前日データ維持+Slack 🔴 通知。手動リカバリは Actions の workflow_dispatch
+- **日次** `scripts/daily-refresh.sh` / `.github/workflows/daily.yml`
+  - JST 05:17 cron + `workflow_dispatch`
+  - fetch daily → transform → validate(fail-closed) → promote `data/staged`→`data/latest` → commit+push `data/latest/` のみ → Slack ✅/🔴
+- **週次** `scripts/weekly-refresh.sh` / `.github/workflows/weekly.yml`
+  - 日曜 JST 04:17 + `workflow_dispatch`
+  - fetch daily+weekly → transform → validate → promote → commit `data/latest/` + `data/cache/squeeze.json` + `data/facilities/`
+- **squeeze正本**: `data/cache/squeeze.json`(git管理)。`data/work/` はローカル作業用でgitignore
+- **ローカル確認(APIなし)**: `./scripts/daily-refresh.sh --skip-fetch` → `cd site && npm run build`
+- **GHA実走前提(A5)**: GitHub secrets `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY` / `RAKUTEN_AFFILIATE_ID` / `SLACK_WEBHOOK_URL` + 楽天 Allowed websites=`yadoshibori.com`
+- **ハーネス**: automation-harness.md §1 台帳 + §2.1 例外e(プラン承認で決裁済・A4で台帳追記)
+
+## 運用
+
+- 失敗時: commitされず前日データ維持+Slack 🔴。手動リカバリは Actions の workflow_dispatch
 - API制約: 1req/sec(実装1.1s)・クレジット表記義務・2026-05-14旧API廃止済み
+- Cloudflare Pages: `main` への data push で自動ビルド(接続はA5)
 
 ## 障害時の連絡先・確認先
 
 - 楽天ウェブサービス: https://webservice.rakuten.co.jp/
-- Cloudflare Pages ダッシュボード / GitHub Actions タブ / Slack 通知チャンネル
+- Cloudflare Pages ダッシュボード / GitHub Actions タブ / Slack `#auto-blog-ops`
