@@ -1,0 +1,72 @@
+{
+  "$ref": "#/definitions/areaHubs",
+  "definitions": {
+    "areaHubs": {
+      "type": "object",
+      "properties": {
+        "area": {
+          "type": "object",
+          "properties": {
+            "slug": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string",
+              "minLength": 1
+            },
+            "officialName": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "slug",
+            "label",
+            "officialName"
+          ],
+          "additionalProperties": false
+        },
+        "dataAsOf": {
+          "type": "string"
+        },
+        "recordCount": {
+          "type": "number"
+        },
+        "conditions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "condition": {
+                "type": "string"
+              },
+              "label": {
+                "type": "string"
+              },
+              "slug": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "condition",
+              "label",
+              "slug"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "area",
+        "dataAsOf",
+        "recordCount",
+        "conditions"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

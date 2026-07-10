@@ -1,0 +1,13 @@
+---
+// 将来のCPA案件枠(A8/バリューコマース承認後にoffers.jsonへデータ追加するだけで表示される)
+// テンプレ改修なしで後付けできるよう、枠だけ先に切ってある(承認済みプラン Phase C)
+import offers from '../data/offers.json';
+
+interface Props { placement: string }
+const { placement } = Astro.props;
+const active = (offers as Array<{ placement: string; html: string }>).filter(
+  (o) => o.placement === placement
+);
+---
+
+{active.map((o) => <div class="offer-slot" set:html={o.html} />)}

@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="運営者情報｜宿条件DB"
+  description="宿条件DBの運営者情報。サイトの目的・運営方針・連絡先。"
+  path="/about/"
+>
+  <nav class="breadcrumb"><a href="/">ホーム</a><span>›</span>運営者情報</nav>
+  <h1>運営者情報</h1>
+
+  <h2>このサイトについて</h2>
+  <p>
+    宿条件DBは、「泊まりたい条件が先にあって、エリアはどこでもいい」という探し方のための宿データベースです。
+    旅行サイトの検索は「エリア→条件」の順ですが、「ペットと泊まれる温泉地はどこが充実しているか」のような
+    <strong>条件→エリアの横断比較</strong>はやりづらい——それを楽天トラベルの公開データの自動集計で解決しています。
+  </p>
+  <p>
+    数字の作り方は<a href="/methodology/">データの取得方法</a>ですべて開示しています。
+  </p>
+
+  <h2>運営者</h2>
+  <div class="table-scroll">
+    <table>
+      <tr><th>運営</th><td>宿条件DB 運営者(個人)</td></tr>
+      <tr><th>運営形態</th><td>個人運営・データ集計の自動化システムを自作して運営</td></tr>
+      <tr><th>連絡先</th><td>CONTACT_PLACEHOLDER</td></tr>
+      <tr><th>広告</th><td>楽天アフィリエイト(詳細は<a href="/methodology/">データの取得方法</a>の広告表記)</td></tr>
+    </table>
+  </div>
+</Base>

@@ -1,0 +1,74 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string; // 先頭・末尾スラッシュ付き(例: /onsen/hakone/)
+  jsonLd?: object[];
+}
+const { title, description, path, jsonLd = [] } = Astro.props;
+const site = Astro.site?.href.replace(/\/$/, '') ?? 'https://yado-jouken.com';
+const canonical = `${site}${path}`;
+
+const orgLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: '宿条件DB',
+  url: `${site}/`,
+  description: '楽天トラベルの公開データをもとに、宿の条件×温泉地の掛け合わせを毎日自動集計するデータベース',
+};
+const allLd = [orgLd, ...jsonLd];
+---
+
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="宿条件DB" />
+    <link rel="sitemap" href="/sitemap.xml" />
+    {allLd.map((ld) => (
+      <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+    ))}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="site-name" href="/">宿条件DB</a>
+        <span class="site-tagline">泊まりたい条件から探す、温泉地の宿データベース</span>
+      </div>
+    </header>
+    <div class="pr-note">
+      <div class="wrap">本サイトはアフィリエイト広告(楽天アフィリエイト)を利用しています。</div>
+    </div>
+    <main>
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <nav>
+          <a href="/methodology/">データの取得方法</a>
+          <a href="/about/">運営者情報</a>
+          <a href="/disclaimer/">免責事項</a>
+          <a href="/privacy/">プライバシーポリシー</a>
+        </nav>
+        <div>
+          掲載データは楽天トラベルの公開情報をAPI経由で取得し、毎日自動更新しています。料金・空室状況は変動するため、最新情報は必ずリンク先でご確認ください。
+        </div>
+        <div class="credit">
+          <a href="https://developers.rakuten.com/" target="_blank" rel="noopener">Supported by Rakuten Developers</a>
+        </div>
+        <div>© {new Date().getFullYear()} 宿条件DB</div>
+      </div>
+    </footer>
+  </body>
+</html>

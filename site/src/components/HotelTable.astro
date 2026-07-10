@@ -1,0 +1,46 @@
+---
+interface Hotel {
+  hotelNo: number;
+  name: string;
+  minCharge: number | null;
+  reviewAverage: number | null;
+  reviewCount: number | null;
+  access: string | null;
+  infoUrl: string;
+  planUrl: string;
+}
+interface Props { hotels: Hotel[] }
+const { hotels } = Astro.props;
+const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}〜`);
+---
+
+<div class="table-scroll">
+  <table>
+    <thead>
+      <tr>
+        <th>施設名</th>
+        <th class="num">最低料金</th>
+        <th class="num">レビュー</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {hotels.map((h) => (
+        <tr>
+          <td>
+            <a class="hotel-name" href={h.infoUrl} rel="sponsored nofollow noopener" target="_blank">{h.name}</a>
+            {h.access && <div class="hotel-access">{h.access}</div>}
+          </td>
+          <td class="num">{yen(h.minCharge)}</td>
+          <td class="num">
+            {h.reviewAverage != null ? `★${h.reviewAverage.toFixed(2)}` : '—'}
+            {h.reviewCount != null && <span class="hotel-access">({h.reviewCount.toLocaleString('ja-JP')}件)</span>}
+          </td>
+          <td class="num">
+            <a class="plan-btn" href={h.planUrl} rel="sponsored nofollow noopener" target="_blank">プランを見る</a>
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,70 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import OfferSlot from '../../components/OfferSlot.astro';
+
+export async function getStaticPaths() {
+  const hubs = await getCollection('conditionHubs');
+  return hubs.map((entry) => ({
+    params: { condition: entry.data.condition.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { condition, areas, dataAsOf } = entry.data;
+const rows = [...areas].sort((a, b) => b.matchCount - a.matchCount);
+
+const condEd = await getEntry('editorial', `conditions/${condition.slug}`);
+const CondContent = condEd ? (await render(condEd)).Content : null;
+
+const path = `/${condition.slug}/`;
+const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}`);
+const title = `${condition.label}の宿をエリア横断でデータ比較【全${rows.length}エリア】`;
+const description = `${condition.label}の宿を${rows.map((r) => r.area.label).slice(0, 5).join('・')}など${rows.length}エリアで比較。該当件数・該当率・料金相場を${dataAsOf}時点のデータで毎日自動集計。`;
+---
+
+<Base title={title} description={description} path={path}>
+  <nav class="breadcrumb">
+    <a href="/">ホーム</a><span>›</span>{condition.label}
+  </nav>
+
+  <h1>{condition.label}の宿をエリアで比較</h1>
+  <p class="lead">
+    {condition.label}の宿は、エリアによって「そもそもの数」と「相場」が大きく違います。
+    {dataAsOf}時点の該当件数と料金データで横断比較できます。
+  </p>
+
+  {CondContent && <div class="editorial"><CondContent /></div>}
+
+  <h2>エリア別の該当件数・料金相場</h2>
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>エリア</th>
+          <th class="num">該当</th>
+          <th class="num">該当率</th>
+          <th class="num">最安</th>
+          <th class="num">料金中央値</th>
+          <th class="num">レビュー平均</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((r) => (
+          <tr>
+            <td><a href={`/${condition.slug}/${r.area.slug}/`}>{r.area.label}</a></td>
+            <td class="num">{r.matchCount}件</td>
+            <td class="num">{r.matchRate != null ? `${r.matchRate}%` : '—'}</td>
+            <td class="num">{yen(r.minPrice)}〜</td>
+            <td class="num">{yen(r.medianPrice)}</td>
+            <td class="num">{r.reviewAvgMean != null ? `★${r.reviewAvgMean}` : '—'}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="data-asof">データ取得日: {dataAsOf}。該当率の分母定義は各エリアページ参照。</p>
+
+  <OfferSlot placement="hub-below-table" />
+</Base>

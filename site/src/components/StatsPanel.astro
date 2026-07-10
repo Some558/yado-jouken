@@ -1,0 +1,33 @@
+---
+interface Props {
+  stats: {
+    matchCount: number;
+    matchRate: number | null;
+    denominator: { type: string; value: number; label: string };
+    minPrice: number | null;
+    medianPrice: number | null;
+    reviewAvgMean: number | null;
+  };
+}
+const { stats } = Astro.props;
+const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}`);
+---
+
+<div class="stats-panel">
+  <div class="stat">
+    <div class="num">{stats.matchCount}<span class="unit">件</span></div>
+    <div class="label">該当施設数{stats.matchRate != null && `(${stats.denominator.label}${stats.denominator.value}件中 ${stats.matchRate}%)`}</div>
+  </div>
+  <div class="stat">
+    <div class="num">{yen(stats.minPrice)}<span class="unit">〜</span></div>
+    <div class="label">最安の最低料金(大人1名あたり)</div>
+  </div>
+  <div class="stat">
+    <div class="num">{yen(stats.medianPrice)}</div>
+    <div class="label">最低料金の中央値</div>
+  </div>
+  <div class="stat">
+    <div class="num">{stats.reviewAvgMean != null ? `★${stats.reviewAvgMean}` : '—'}</div>
+    <div class="label">掲載施設のレビュー平均</div>
+  </div>
+</div>

@@ -1,0 +1,74 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import meta from '../../../data/latest/meta.json';
+
+const pages = await getCollection('pages');
+const condHubs = (await getCollection('conditionHubs')).map((e) => e.data.condition);
+const areaHubs = (await getCollection('areaHubs')).map((e) => e.data.area);
+
+// 条件・エリアの表示順は件数の多い順ではなく固定(condition/area設定ファイル順=collections取得順が不定なためslugでソート)
+const condOrder = ['onsen', 'daiyokujo', 'rotenburo', 'kashikiri-buro', 'sauna', 'breakfast', 'kinen', 'pet-ok'];
+const areaOrder = ['hakone', 'kusatsu', 'atami', 'ikaho', 'nasu', 'karuizawa', 'kinosaki', 'dogo', 'beppu', 'yufuin'];
+const conditions = condOrder.map((s) => condHubs.find((c) => c.slug === s)).filter(Boolean);
+const areas = areaOrder.map((s) => areaHubs.find((a) => a.slug === s)).filter(Boolean);
+
+const pageSet = new Map(pages.map((p) => [p.data.slug, p.data.stats.matchCount]));
+const dataAsOf = meta.dataAsOf;
+
+const title = '宿条件DB｜泊まりたい条件から探す、温泉地の宿データベース';
+const description = `温泉・貸切風呂・ペット同宿可など8条件×${areas.length}温泉地の宿を毎日自動集計。該当件数・料金相場・レビュー平均をデータで比較できます。${dataAsOf}更新。`;
+---
+
+<Base title={title} description={description} path="/">
+  <h1>泊まりたい条件から、温泉地の宿を探す</h1>
+  <p class="lead">
+    「ペットと泊まれる宿は箱根と那須どちらが多い?」「貸切風呂の相場はいくら?」——
+    そんな疑問に答えるため、楽天トラベルの公開データを毎日自動集計しています。
+    条件×エリアの掛け合わせ{pages.length}ページ、すべて{dataAsOf}時点の実データです。
+  </p>
+
+  <h2>条件×エリア 早見表(数字=該当施設数)</h2>
+  <div class="table-scroll matrix">
+    <table>
+      <thead>
+        <tr>
+          <th>条件＼エリア</th>
+          {areas.map((a) => <th class="num"><a href={`/area/${a.slug}/`}>{a.label}</a></th>)}
+        </tr>
+      </thead>
+      <tbody>
+        {conditions.map((c) => (
+          <tr>
+            <td><a href={`/${c.slug}/`}>{c.label}</a></td>
+            {areas.map((a) => {
+              const count = pageSet.get(`${c.slug}--${a.slug}`);
+              return (
+                <td class="num">
+                  {count != null ? <a href={`/${c.slug}/${a.slug}/`}>{count}</a> : <span class="empty">—</span>}
+                </td>
+              );
+            })}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="data-asof">
+    データ取得日: {dataAsOf}。分母・判定方法は<a href="/methodology/">データの取得方法</a>を参照。
+  </p>
+
+  <h2>条件から探す</h2>
+  <ul class="hub-list">
+    {conditions.map((c) => (
+      <li><a href={`/${c.slug}/`}>{c.label}の宿をエリア比較 →</a></li>
+    ))}
+  </ul>
+
+  <h2>エリアから探す</h2>
+  <ul class="hub-list">
+    {areas.map((a) => (
+      <li><a href={`/area/${a.slug}/`}>{a.label}の宿を条件から探す →</a></li>
+    ))}
+  </ul>
+</Base>

@@ -1,0 +1,110 @@
+{
+  "$ref": "#/definitions/conditionHubs",
+  "definitions": {
+    "conditionHubs": {
+      "type": "object",
+      "properties": {
+        "condition": {
+          "type": "object",
+          "properties": {
+            "slug": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "slug",
+            "label"
+          ],
+          "additionalProperties": false
+        },
+        "dataAsOf": {
+          "type": "string"
+        },
+        "areas": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "area": {
+                "type": "object",
+                "properties": {
+                  "slug": {
+                    "type": "string"
+                  },
+                  "label": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "officialName": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "slug",
+                  "label",
+                  "officialName"
+                ],
+                "additionalProperties": false
+              },
+              "slug": {
+                "type": "string"
+              },
+              "matchCount": {
+                "type": "number"
+              },
+              "matchRate": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "minPrice": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "medianPrice": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "reviewAvgMean": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "area",
+              "slug",
+              "matchCount",
+              "matchRate",
+              "minPrice",
+              "medianPrice",
+              "reviewAvgMean"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "condition",
+        "dataAsOf",
+        "areas"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

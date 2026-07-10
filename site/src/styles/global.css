@@ -1,0 +1,111 @@
+/* yado-jouken — 藍×生成りの和モダン(journal/kabufacts系とは別系統) */
+:root {
+  --ink: #26323e;
+  --ink-soft: #5b6a78;
+  --bg: #f8f6f1;
+  --paper: #ffffff;
+  --line: #e3ded4;
+  --indigo: #2d4b73;
+  --indigo-deep: #1e3450;
+  --accent: #b3541e;
+  --accent-soft: #fdf1e8;
+  --radius: 10px;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--bg);
+  font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", "Noto Sans JP", sans-serif;
+  line-height: 1.75;
+  font-size: 16px;
+}
+a { color: var(--indigo); }
+a:hover { color: var(--accent); }
+img { max-width: 100%; height: auto; }
+
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 16px; }
+
+/* header */
+.site-header { background: var(--indigo-deep); color: #fff; }
+.site-header .wrap { display: flex; align-items: baseline; gap: 12px; padding: 14px 16px; flex-wrap: wrap; }
+.site-name { font-size: 1.15rem; font-weight: 700; color: #fff; text-decoration: none; letter-spacing: .04em; }
+.site-tagline { font-size: .78rem; color: #c6d2e0; }
+.pr-note {
+  background: #eef1f5; color: var(--ink-soft);
+  font-size: .72rem; padding: 4px 0; border-bottom: 1px solid var(--line);
+}
+
+/* breadcrumb */
+.breadcrumb { font-size: .8rem; color: var(--ink-soft); margin: 14px 0 0; }
+.breadcrumb a { color: var(--ink-soft); }
+.breadcrumb span { margin: 0 6px; }
+
+main { padding-bottom: 48px; }
+h1 { font-size: 1.5rem; line-height: 1.4; margin: 18px 0 8px; }
+h2 { font-size: 1.18rem; border-left: 4px solid var(--indigo); padding-left: 10px; margin: 34px 0 12px; }
+.lead { color: var(--ink-soft); margin: 0 0 18px; }
+.data-asof { font-size: .78rem; color: var(--ink-soft); }
+
+/* stats */
+.stats-panel {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px; margin: 18px 0;
+}
+.stat {
+  background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 12px 14px;
+}
+.stat .num { font-size: 1.35rem; font-weight: 700; color: var(--indigo-deep); }
+.stat .unit { font-size: .8rem; font-weight: 400; }
+.stat .label { font-size: .74rem; color: var(--ink-soft); }
+
+/* tables */
+.table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+table { border-collapse: collapse; width: 100%; min-width: 560px; font-size: .9rem; }
+.hotel-name { display: inline-block; min-width: 12em; }
+th, td { padding: 10px 12px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+th { background: #f1eee7; font-size: .78rem; white-space: nowrap; }
+tr:last-child td { border-bottom: none; }
+td.num, th.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.hotel-name { font-weight: 600; }
+.hotel-access { font-size: .78rem; color: var(--ink-soft); margin-top: 2px; }
+.plan-btn {
+  display: inline-block; background: var(--accent); color: #fff !important;
+  font-size: .78rem; padding: 5px 12px; border-radius: 999px; text-decoration: none; white-space: nowrap;
+}
+.plan-btn:hover { opacity: .85; }
+
+/* matrix (top) */
+.matrix td a { text-decoration: none; display: block; }
+.matrix .empty { color: #c8c2b6; }
+
+/* evidence */
+.evidence {
+  background: var(--accent-soft); border: 1px solid #ecd9c9; border-radius: var(--radius);
+  font-size: .8rem; color: #6b4a30; padding: 12px 14px; margin: 20px 0;
+}
+.evidence ul { margin: 6px 0 0; padding-left: 18px; }
+
+/* editorial */
+.editorial { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); padding: 4px 18px; margin: 16px 0; }
+
+/* hub list */
+.hub-list { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.hub-list li { background: var(--paper); border: 1px solid var(--line); border-radius: var(--radius); }
+.hub-list a { display: block; padding: 12px 14px; text-decoration: none; }
+.hub-list .count { color: var(--ink-soft); font-size: .8rem; }
+
+/* footer */
+.site-footer { background: var(--indigo-deep); color: #c6d2e0; font-size: .8rem; margin-top: 40px; }
+.site-footer .wrap { padding: 26px 16px; }
+.site-footer a { color: #e6ecf3; }
+.site-footer nav { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 12px; }
+.credit { margin-top: 8px; }
+
+@media (max-width: 600px) {
+  h1 { font-size: 1.25rem; }
+  body { font-size: 15px; }
+}
