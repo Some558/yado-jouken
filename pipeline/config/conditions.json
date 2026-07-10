@@ -1,0 +1,16 @@
+{
+  "_comment": "初期8条件の候補(11個から素振り結果で8個に絞る)。detect.method: squeeze=VacantHotelSearchのsqueezeCondition / facility_regex=HotelDetailSearchの設備テキストへの決定的regex。squeezeの実有効値とregex対象フィールドはA1で確定",
+  "conditions": [
+    { "slug": "pet-ok",         "label": "ペット可",        "detect": { "method": "squeeze",        "value": "pet" },                                  "status": "candidate" },
+    { "slug": "onsen",          "label": "温泉",            "detect": { "method": "squeeze",        "value": "onsen" },                                "status": "candidate" },
+    { "slug": "kashikiri-buro", "label": "貸切風呂",        "detect": { "method": "facility_regex", "pattern": "貸切風呂|貸切露天|家族風呂" },          "status": "candidate" },
+    { "slug": "rotenburo-room", "label": "露天風呂付き客室", "detect": { "method": "facility_regex", "pattern": "露天風呂付|客室露天|露天風呂付き客室" }, "status": "candidate" },
+    { "slug": "heyashoku",      "label": "部屋食",          "detect": { "method": "facility_regex", "pattern": "部屋食|お部屋食|部屋出し" },            "status": "candidate" },
+    { "slug": "sauna",          "label": "サウナ",          "detect": { "method": "facility_regex", "pattern": "サウナ" },                              "status": "candidate" },
+    { "slug": "daiyokujo",      "label": "大浴場",          "detect": { "method": "squeeze",        "value": "large_bath" },                            "status": "candidate" },
+    { "slug": "breakfast",      "label": "朝食付き",        "detect": { "method": "squeeze",        "value": "breakfast" },                             "status": "candidate" },
+    { "slug": "kinen",          "label": "禁煙ルーム",      "detect": { "method": "facility_regex", "pattern": "禁煙" },                                "status": "candidate" },
+    { "slug": "kodomo-ok",      "label": "子連れ歓迎",      "detect": { "method": "facility_regex", "pattern": "お子様歓迎|子供歓迎|ウェルカムベビー" },  "status": "candidate" },
+    { "slug": "hitori",         "label": "一人旅OK",        "detect": { "method": "facility_regex", "pattern": "一人旅|おひとり様" },                    "status": "candidate" }
+  ]
+}

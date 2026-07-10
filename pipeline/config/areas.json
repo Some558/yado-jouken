@@ -1,0 +1,15 @@
+{
+  "_comment": "初期10エリア。code4階層(largeClassCode/middleClassCode/smallClassCode/detailClassCode)はA1のGetAreaClass実レスポンスで確定する(現在はnull=未確定)",
+  "areas": [
+    { "slug": "hakone",    "label": "箱根",   "middleClassCode": "kanagawa", "smallClassCode": "hakone",  "detailClassCode": null },
+    { "slug": "kusatsu",   "label": "草津",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "atami",     "label": "熱海",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "beppu",     "label": "別府",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "yufuin",    "label": "由布院", "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "kinosaki",  "label": "城崎",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "ikaho",     "label": "伊香保", "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "nasu",      "label": "那須",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "karuizawa", "label": "軽井沢", "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
+    { "slug": "dogo",      "label": "道後",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null }
+  ]
+}
