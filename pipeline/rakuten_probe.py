@@ -33,6 +33,10 @@ BASE_CANDIDATES = [
 
 REQUEST_INTERVAL_SEC = 1.1  # 規約: 1req/sec。全リクエストで厳守
 
+# 2026-07-10 実測確定: 新APIは Referer/Origin 両ヘッダー必須で、
+# Webアプリ型はアプリ登録の Allowed websites ドメインと一致が必要
+SITE_ORIGIN = "https://yado-jouken.com"
+
 
 def load_env() -> dict:
     env = dict(os.environ)
@@ -76,9 +80,12 @@ class Prober:
             **params,
         }
         url = f"{base}/{endpoint}?{urllib.parse.urlencode(q)}"
+        req = urllib.request.Request(
+            url, headers={"Referer": f"{SITE_ORIGIN}/", "Origin": SITE_ORIGIN}
+        )
         self._throttle()
         try:
-            with urllib.request.urlopen(url, timeout=30) as res:
+            with urllib.request.urlopen(req, timeout=30) as res:
                 body = res.read().decode("utf-8")
                 try:
                     return res.status, json.loads(body)
@@ -121,7 +128,7 @@ def main():
     p = Prober(app_id, access_key, affiliate_id)
 
     # 1) エリアマスタ(パス確定を兼ねる)
-    p.probe("area_class", "Travel/GetAreaClass/20131024", {})
+    p.probe("area_class", "Travel/GetAreaClass/20140210", {})
 
     # 2) 施設検索: 箱根で3件・responseType=large(全フィールド観察)
     simple = p.probe(

@@ -1,15 +1,15 @@
 {
-  "_comment": "初期10エリア。code4階層(largeClassCode/middleClassCode/smallClassCode/detailClassCode)はA1のGetAreaClass実レスポンスで確定する(現在はnull=未確定)",
+  "_comment": "2026-07-10 GetAreaClass/20140210 実レスポンスで確定。officialName=楽天トラベルの正式エリア名(集計の分母の定義としてサイト上に明示する)。largeClassCode は全エリア japan",
   "areas": [
-    { "slug": "hakone",    "label": "箱根",   "middleClassCode": "kanagawa", "smallClassCode": "hakone",  "detailClassCode": null },
-    { "slug": "kusatsu",   "label": "草津",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "atami",     "label": "熱海",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "beppu",     "label": "別府",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "yufuin",    "label": "由布院", "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "kinosaki",  "label": "城崎",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "ikaho",     "label": "伊香保", "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "nasu",      "label": "那須",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "karuizawa", "label": "軽井沢", "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null },
-    { "slug": "dogo",      "label": "道後",   "middleClassCode": null,        "smallClassCode": null,      "detailClassCode": null }
+    { "slug": "hakone",    "label": "箱根",   "officialName": "箱根",                         "middleClassCode": "kanagawa", "smallClassCode": "hakone" },
+    { "slug": "kusatsu",   "label": "草津",   "officialName": "草津温泉・白根",               "middleClassCode": "gunma",    "smallClassCode": "kusatsu" },
+    { "slug": "atami",     "label": "熱海",   "officialName": "熱海",                         "middleClassCode": "shizuoka", "smallClassCode": "atami" },
+    { "slug": "beppu",     "label": "別府",   "officialName": "別府・日出",                   "middleClassCode": "ooita",    "smallClassCode": "beppu" },
+    { "slug": "yufuin",    "label": "由布院", "officialName": "湯布院・湯平",                 "middleClassCode": "ooita",    "smallClassCode": "yufuin" },
+    { "slug": "kinosaki",  "label": "城崎",   "officialName": "城崎温泉・豊岡・出石・神鍋",   "middleClassCode": "hyogo",    "smallClassCode": "kita" },
+    { "slug": "ikaho",     "label": "伊香保", "officialName": "伊香保温泉・渋川",             "middleClassCode": "gunma",    "smallClassCode": "ikaho" },
+    { "slug": "nasu",      "label": "那須",   "officialName": "那須・板室・黒磯",             "middleClassCode": "tochigi",  "smallClassCode": "nasu" },
+    { "slug": "karuizawa", "label": "軽井沢", "officialName": "軽井沢・佐久・小諸",           "middleClassCode": "nagano",   "smallClassCode": "karui" },
+    { "slug": "dogo",      "label": "道後",   "officialName": "松山・道後",                   "middleClassCode": "ehime",    "smallClassCode": "chuuyo" }
   ]
 }

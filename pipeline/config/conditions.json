@@ -1,16 +1,21 @@
 {
-  "_comment": "初期8条件の候補(11個から素振り結果で8個に絞る)。detect.method: squeeze=VacantHotelSearchのsqueezeCondition / facility_regex=HotelDetailSearchの設備テキストへの決定的regex。squeezeの実有効値とregex対象フィールドはA1で確定",
+  "_comment": "2026-07-10 A1素振りで確定した8条件。detect.method: squeeze=VacantHotelSearchのsqueezeCondition(公式有効値=kinen/internet/daiyoku/onsen/breakfast/dinnerの6つ・要checkin/checkout日付) / facility=HotelDetailSearchの構造化データ完全一致(hotelFacilitiesInfo.hotelFacilities[].item または aboutBath[].bathType)。status: confirmed=実測済 / vocab-check=A2の全施設語彙ダンプで表記確認要",
   "conditions": [
-    { "slug": "pet-ok",         "label": "ペット可",        "detect": { "method": "squeeze",        "value": "pet" },                                  "status": "candidate" },
-    { "slug": "onsen",          "label": "温泉",            "detect": { "method": "squeeze",        "value": "onsen" },                                "status": "candidate" },
-    { "slug": "kashikiri-buro", "label": "貸切風呂",        "detect": { "method": "facility_regex", "pattern": "貸切風呂|貸切露天|家族風呂" },          "status": "candidate" },
-    { "slug": "rotenburo-room", "label": "露天風呂付き客室", "detect": { "method": "facility_regex", "pattern": "露天風呂付|客室露天|露天風呂付き客室" }, "status": "candidate" },
-    { "slug": "heyashoku",      "label": "部屋食",          "detect": { "method": "facility_regex", "pattern": "部屋食|お部屋食|部屋出し" },            "status": "candidate" },
-    { "slug": "sauna",          "label": "サウナ",          "detect": { "method": "facility_regex", "pattern": "サウナ" },                              "status": "candidate" },
-    { "slug": "daiyokujo",      "label": "大浴場",          "detect": { "method": "squeeze",        "value": "large_bath" },                            "status": "candidate" },
-    { "slug": "breakfast",      "label": "朝食付き",        "detect": { "method": "squeeze",        "value": "breakfast" },                             "status": "candidate" },
-    { "slug": "kinen",          "label": "禁煙ルーム",      "detect": { "method": "facility_regex", "pattern": "禁煙" },                                "status": "candidate" },
-    { "slug": "kodomo-ok",      "label": "子連れ歓迎",      "detect": { "method": "facility_regex", "pattern": "お子様歓迎|子供歓迎|ウェルカムベビー" },  "status": "candidate" },
-    { "slug": "hitori",         "label": "一人旅OK",        "detect": { "method": "facility_regex", "pattern": "一人旅|おひとり様" },                    "status": "candidate" }
-  ]
+    { "slug": "onsen",          "label": "温泉",             "detect": { "method": "squeeze",  "value": "onsen" },                                        "status": "confirmed" },
+    { "slug": "daiyokujo",      "label": "大浴場",           "detect": { "method": "squeeze",  "value": "daiyoku" },                                      "status": "confirmed" },
+    { "slug": "kinen",          "label": "禁煙ルーム",       "detect": { "method": "squeeze",  "value": "kinen" },                                        "status": "confirmed" },
+    { "slug": "breakfast",      "label": "朝食付きプラン",   "detect": { "method": "squeeze",  "value": "breakfast" },                                    "status": "confirmed" },
+    { "slug": "rotenburo",      "label": "露天風呂",         "detect": { "method": "facility", "fields": ["aboutBath.bathType", "hotelFacilities.item"], "values": ["露天風呂"] },            "status": "confirmed" },
+    { "slug": "sauna",          "label": "サウナ",           "detect": { "method": "facility", "fields": ["aboutBath.bathType", "hotelFacilities.item"], "values": ["サウナ"] },              "status": "confirmed" },
+    { "slug": "kashikiri-buro", "label": "貸切風呂",         "detect": { "method": "facility", "fields": ["aboutBath.bathType"],                          "values": ["家族風呂", "貸切風呂"] }, "status": "vocab-check" },
+    { "slug": "pet-ok",         "label": "ペット可",         "detect": { "method": "facility", "fields": ["hotelFacilities.item"],                        "values": ["ペット可"] },            "status": "vocab-check" }
+  ],
+  "dropped_candidates": {
+    "_comment": "見送り分と理由(将来の拡張候補)",
+    "internet": "squeeze有効だが検索需要が弱く差別化にならない",
+    "dinner": "squeeze有効。夕食付きは拡張第1候補",
+    "heyashoku": "部屋食の標準語彙が未確認(プラン属性の可能性)",
+    "rotenburo-room": "露天風呂付き客室は部屋レベル属性で施設APIでは判定不可(誤表示リスク)。露天風呂(施設)として正確に表現",
+    "kodomo-ok/hitori": "語彙未確認・判定確度不足"
+  }
 }
