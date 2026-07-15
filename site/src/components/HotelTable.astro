@@ -12,17 +12,41 @@ interface Hotel {
   imageUrl: string | null;
   thumbnail: string | null;
   special: string | null;
+  conditions?: string[];
 }
-interface Props { hotels: Hotel[] }
-const { hotels } = Astro.props;
+interface Props {
+  hotels: Hotel[];
+  sortable?: boolean;
+}
+const { hotels, sortable = false } = Astro.props;
 const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}〜`);
 ---
 
-<div class="hotel-list">
+{sortable && (
+  <div class="list-toolbar">
+    <label class="sort-label">
+      並び替え
+      <select class="sort-select" data-hotel-sort>
+        <option value="review-desc">レビューが高い順</option>
+        <option value="price-asc">料金が安い順</option>
+        <option value="price-desc">料金が高い順</option>
+      </select>
+    </label>
+    <span class="list-meta" data-hotel-count></span>
+  </div>
+)}
+
+<div class="hotel-list" data-hotel-list={sortable ? '' : undefined}>
   {hotels.map((h) => {
     const src = h.imageUrl || h.thumbnail;
+    const conds = (h.conditions || []).join(' ');
     return (
-      <article class="hotel-card">
+      <article
+        class="hotel-card"
+        data-price={h.minCharge ?? ''}
+        data-review={h.reviewAverage ?? ''}
+        data-conditions={conds}
+      >
         <div class="photo">
           {src ? (
             <img src={src} alt={h.name} loading="lazy" width="260" height="180" />
@@ -53,3 +77,44 @@ const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja
     );
   })}
 </div>
+
+{sortable && (
+  <script>
+    function applyHotelSort(root: ParentNode) {
+      const list = root.querySelector<HTMLElement>('[data-hotel-list]');
+      const select = root.querySelector<HTMLSelectElement>('[data-hotel-sort]');
+      if (!list || !select) return;
+      const cards = Array.from(list.querySelectorAll<HTMLElement>('.hotel-card'));
+      const mode = select.value;
+      cards.sort((a, b) => {
+        const pa = Number(a.dataset.price || 'NaN');
+        const pb = Number(b.dataset.price || 'NaN');
+        const ra = Number(a.dataset.review || 'NaN');
+        const rb = Number(b.dataset.review || 'NaN');
+        if (mode === 'price-asc') {
+          if (Number.isNaN(pa) && Number.isNaN(pb)) return 0;
+          if (Number.isNaN(pa)) return 1;
+          if (Number.isNaN(pb)) return -1;
+          return pa - pb;
+        }
+        if (mode === 'price-desc') {
+          if (Number.isNaN(pa) && Number.isNaN(pb)) return 0;
+          if (Number.isNaN(pa)) return 1;
+          if (Number.isNaN(pb)) return -1;
+          return pb - pa;
+        }
+        if (Number.isNaN(ra) && Number.isNaN(rb)) return 0;
+        if (Number.isNaN(ra)) return 1;
+        if (Number.isNaN(rb)) return -1;
+        return rb - ra;
+      });
+      for (const c of cards) list.appendChild(c);
+    }
+
+    document.querySelectorAll<HTMLSelectElement>('[data-hotel-sort]').forEach((select) => {
+      const root = select.closest('.hotel-explorer') || select.parentElement?.parentElement || document;
+      select.addEventListener('change', () => applyHotelSort(root));
+      applyHotelSort(root);
+    });
+  </script>
+)}

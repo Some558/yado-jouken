@@ -177,13 +177,37 @@ def main():
             {"condition": c["slug"], "label": c["label"], "slug": f"{c['slug']}--{area['slug']}"}
             for c in conditions if f"{c['slug']}--{area['slug']}" in written
         ]
-        if entries:
-            (hubs_dir / f"area--{area['slug']}.json").write_text(json.dumps({
-                "area": {k: area[k] for k in ("slug", "label", "officialName")},
-                "dataAsOf": as_of,
-                "recordCount": daily[area["slug"]]["recordCount"],
-                "conditions": entries,
-            }, ensure_ascii=False, indent=1))
+        if not entries:
+            continue
+
+        # エリア内AND絞り込み用: 掲載宿ごとに該当条件slugを付与
+        listed = daily[area["slug"]]["hotels"]
+        cond_nos: dict[str, set[int]] = {}
+        for cond in conditions:
+            if f"{cond['slug']}--{area['slug']}" not in written:
+                continue
+            if cond["detect"]["method"] == "squeeze":
+                cond_nos[cond["slug"]] = set(squeeze["areas"][area["slug"]][cond["slug"]]["hotelNos"])
+            else:
+                cond_nos[cond["slug"]] = {
+                    h["hotelNo"] for h in listed
+                    if h["hotelNo"] in fac_cache and facility_match(cond, fac_cache[h["hotelNo"]])
+                }
+        area_hotels = []
+        for h in listed:
+            flags = [s for s, nos in cond_nos.items() if h["hotelNo"] in nos]
+            row = slim_hotel(h)
+            row["conditions"] = flags
+            area_hotels.append(row)
+        area_hotels.sort(key=lambda h: (-(h["reviewAverage"] or 0), h["minCharge"] or 10**9))
+
+        (hubs_dir / f"area--{area['slug']}.json").write_text(json.dumps({
+            "area": {k: area[k] for k in ("slug", "label", "officialName")},
+            "dataAsOf": as_of,
+            "recordCount": daily[area["slug"]]["recordCount"],
+            "conditions": entries,
+            "hotels": area_hotels,
+        }, ensure_ascii=False, indent=1))
 
     (staged / "meta.json").write_text(json.dumps({
         "dataAsOf": as_of,

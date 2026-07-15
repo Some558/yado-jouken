@@ -88,6 +88,13 @@ const areaHubs = defineCollection({
     conditions: z.array(
       z.object({ condition: z.string(), label: z.string(), slug: z.string() })
     ),
+    hotels: z
+      .array(
+        hotelSchema.extend({
+          conditions: z.array(z.string()),
+        })
+      )
+      .default([]),
   }),
 });
 

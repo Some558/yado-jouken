@@ -55,6 +55,121 @@
             "additionalProperties": false
           }
         },
+        "hotels": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "hotelNo": {
+                "type": "number"
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kana": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "minCharge": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "reviewAverage": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "reviewCount": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "access": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "address1": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "address2": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "infoUrl": {
+                "type": "string",
+                "pattern": "^https\\:\\/\\/hb\\.afl\\.rakuten\\.co\\.jp\\/"
+              },
+              "planUrl": {
+                "type": "string",
+                "pattern": "^https\\:\\/\\/hb\\.afl\\.rakuten\\.co\\.jp\\/"
+              },
+              "reviewUrl": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "thumbnail": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "imageUrl": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "special": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "conditions": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "required": [
+              "hotelNo",
+              "name",
+              "kana",
+              "minCharge",
+              "reviewAverage",
+              "reviewCount",
+              "access",
+              "address1",
+              "address2",
+              "infoUrl",
+              "planUrl",
+              "reviewUrl",
+              "thumbnail",
+              "imageUrl",
+              "special",
+              "conditions"
+            ],
+            "additionalProperties": false
+          },
+          "default": []
+        },
         "$schema": {
           "type": "string"
         }

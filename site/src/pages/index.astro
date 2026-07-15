@@ -56,7 +56,9 @@ const description = `温泉・貸切風呂・ペット同宿可など8条件×${
         該当件数・料金相場・レビュー平均を比較できます。
       </p>
     </div>
-    <div class="hero-photo" aria-hidden="true">温泉街の写真・横長</div>
+    <div class="hero-photo">
+      <img src="/images/hero-onsen-dusk.jpg" alt="" width="640" height="360" />
+    </div>
   </section>
 
   <section id="matrix">
@@ -125,7 +127,9 @@ const description = `温泉・貸切風呂・ペット同宿可など8条件×${
     <div class="card-grid areas">
       {areaCards.map((a) => (
         <a class="area-card" href={`/area/${a.slug}/`}>
-          <div class="thumb" aria-hidden="true"></div>
+          <div class="thumb">
+            <img src={`/images/area-${a.slug}.jpg`} alt="" width="320" height="74" loading="lazy" />
+          </div>
           <div class="body">
             <div class="label">{a.label}</div>
             <div class="kana">{a.kana}</div>

@@ -73,9 +73,11 @@ const jsonLd = [
 
   <div class="list-head">
     <h2>{area.label} × {condition.label} の宿</h2>
-    <span class="list-meta">全{stats.matchCount}件中 {hotels.length}件を表示・レビュー評価の高い順</span>
+    <span class="list-meta">全{stats.matchCount}件中 {hotels.length}件を表示</span>
   </div>
-  <HotelTable hotels={hotels} />
+  <div class="hotel-explorer">
+    <HotelTable hotels={hotels} sortable={true} />
+  </div>
   {stats.matchCount > listedMatchCount && (
     <p class="data-asof">
       ※一覧は当サイト掲載施設のうちレビュー評価順の上位{hotels.length}件です。該当施設は全部で{stats.matchCount}件あります。

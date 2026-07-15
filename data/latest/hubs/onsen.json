@@ -26,9 +26,9 @@
    },
    "slug": "onsen--kusatsu",
    "matchCount": 50,
-   "matchRate": 32.9,
-   "minPrice": 2500,
-   "medianPrice": 10300,
+   "matchRate": 33.1,
+   "minPrice": 3000,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.36
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 55,
    "matchRate": 20.5,
    "minPrice": 2210,
-   "medianPrice": 10300,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.27
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 90,
    "matchRate": 36.4,
    "minPrice": 1500,
-   "medianPrice": 7700,
+   "medianPrice": 7650,
    "reviewAvgMean": 4.34
   },
   {
@@ -66,9 +66,9 @@
    "slug": "onsen--yufuin",
    "matchCount": 96,
    "matchRate": 31.4,
-   "minPrice": 3456,
-   "medianPrice": 12949,
-   "reviewAvgMean": 4.45
+   "minPrice": 2520,
+   "medianPrice": 12999,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -80,7 +80,7 @@
    "matchCount": 42,
    "matchRate": 26.6,
    "minPrice": 6500,
-   "medianPrice": 13035,
+   "medianPrice": 13200,
    "reviewAvgMean": 4.48
   },
   {
@@ -105,9 +105,9 @@
    "slug": "onsen--nasu",
    "matchCount": 38,
    "matchRate": 11.3,
-   "minPrice": 2730,
-   "medianPrice": 10215,
-   "reviewAvgMean": 4.34
+   "minPrice": 1970,
+   "medianPrice": 9430,
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -131,7 +131,7 @@
    "slug": "onsen--dogo",
    "matchCount": 30,
    "matchRate": 16.8,
-   "minPrice": 3200,
+   "minPrice": 3000,
    "medianPrice": 8565,
    "reviewAvgMean": 4.33
   }

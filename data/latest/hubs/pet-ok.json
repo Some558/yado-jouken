@@ -15,7 +15,7 @@
    "matchCount": 14,
    "matchRate": 15.6,
    "minPrice": 4800,
-   "medianPrice": 10032,
+   "medianPrice": 10182,
    "reviewAvgMean": 4.25
   },
   {
@@ -27,8 +27,8 @@
    "slug": "pet-ok--kusatsu",
    "matchCount": 4,
    "matchRate": 4.4,
-   "minPrice": 6650,
-   "medianPrice": 8950,
+   "minPrice": 6300,
+   "medianPrice": 9970,
    "reviewAvgMean": 4.01
   },
   {
@@ -66,7 +66,7 @@
    "slug": "pet-ok--yufuin",
    "matchCount": 10,
    "matchRate": 11.1,
-   "minPrice": 7000,
+   "minPrice": 7488,
    "medianPrice": 17825,
    "reviewAvgMean": 4.52
   },
@@ -93,7 +93,7 @@
    "matchCount": 6,
    "matchRate": 8.5,
    "minPrice": 4980,
-   "medianPrice": 8065,
+   "medianPrice": 8275,
    "reviewAvgMean": 4.01
   },
   {
