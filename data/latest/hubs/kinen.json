@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-07-10",
+ "dataAsOf": "2026-07-15",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 113,
    "matchRate": 32.2,
    "minPrice": 5500,
-   "medianPrice": 14950,
+   "medianPrice": 14300,
    "reviewAvgMean": 4.4
   },
   {
@@ -26,10 +26,10 @@
    },
    "slug": "kinen--kusatsu",
    "matchCount": 51,
-   "matchRate": 33.8,
-   "minPrice": 3000,
-   "medianPrice": 10000,
-   "reviewAvgMean": 4.39
+   "matchRate": 33.6,
+   "minPrice": 2500,
+   "medianPrice": 9950,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -41,7 +41,7 @@
    "matchCount": 64,
    "matchRate": 23.9,
    "minPrice": 2210,
-   "medianPrice": 9900,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.27
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 123,
    "matchRate": 49.8,
    "minPrice": 2500,
-   "medianPrice": 6930,
+   "medianPrice": 7650,
    "reviewAvgMean": 4.34
   },
   {
@@ -66,9 +66,9 @@
    "slug": "kinen--yufuin",
    "matchCount": 140,
    "matchRate": 45.8,
-   "minPrice": 2520,
-   "medianPrice": 13310,
-   "reviewAvgMean": 4.43
+   "minPrice": 3456,
+   "medianPrice": 12999,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -92,7 +92,7 @@
    "slug": "kinen--ikaho",
    "matchCount": 29,
    "matchRate": 40.8,
-   "minPrice": 3600,
+   "minPrice": 3900,
    "medianPrice": 8800,
    "reviewAvgMean": 4.27
   },
@@ -105,8 +105,8 @@
    "slug": "kinen--nasu",
    "matchCount": 86,
    "matchRate": 25.6,
-   "minPrice": 1970,
-   "medianPrice": 7575,
+   "minPrice": 2730,
+   "medianPrice": 8106,
    "reviewAvgMean": 4.37
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 63,
    "matchRate": 22.7,
    "minPrice": 4500,
-   "medianPrice": 9680,
+   "medianPrice": 10980,
    "reviewAvgMean": 4.41
   },
   {
@@ -131,9 +131,9 @@
    "slug": "kinen--dogo",
    "matchCount": 65,
    "matchRate": 36.3,
-   "minPrice": 1850,
-   "medianPrice": 5280,
-   "reviewAvgMean": 4.24
+   "minPrice": 2050,
+   "medianPrice": 5293,
+   "reviewAvgMean": 4.25
   }
  ]
 }
