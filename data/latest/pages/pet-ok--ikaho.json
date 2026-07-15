@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-07-15",
+ "dataAsOf": "2026-07-16",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4980,
-  "medianPrice": 8275,
+  "medianPrice": 8065,
   "reviewAvgMean": 4.01,
   "pricedCount": 4
  },
@@ -31,9 +31,9 @@
    "hotelNo": 188003,
    "name": "伊香保温泉　Ｄｏｇｇｙスイート　ペロ",
    "kana": "イカホオンセンドギースイートペロ",
-   "minCharge": 27300,
+   "minCharge": 28350,
    "reviewAverage": 4.87,
-   "reviewCount": 57,
+   "reviewCount": 58,
    "access": "関越自動車道渋川ＩＣよりお車で約３０分",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保166-3",
@@ -48,7 +48,7 @@
    "hotelNo": 147842,
    "name": "フォレストリゾート　コニファーいわびつ",
    "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
-   "minCharge": 10500,
+   "minCharge": 10080,
    "reviewAverage": 4.19,
    "reviewCount": 397,
    "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
@@ -59,7 +59,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147842",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147842.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147842/147842.jpg",
-   "special": "広大な敷地の中に和室・洋室、ペットＯＫのログハウス・会議室・体育館・グラウンド・キャンプ場等完備。"
+   "special": "自然溢れる敷地内で楽しむ夏休みはプチ冒険気分！ペットＯＫのログハウス・体育館・グラウンド・キャンプ場"
   },
   {
    "hotelNo": 18861,
@@ -84,7 +84,7 @@
    "kana": "いかほおんせん　きむら",
    "minCharge": 6050,
    "reviewAverage": 3.72,
-   "reviewCount": 1940,
+   "reviewCount": 1947,
    "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保557-32",
@@ -101,7 +101,7 @@
    "kana": "いかほおんせん　いかほぎんすい",
    "minCharge": 4980,
    "reviewAverage": 3.41,
-   "reviewCount": 307,
+   "reviewCount": 308,
    "access": "関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保557-23",

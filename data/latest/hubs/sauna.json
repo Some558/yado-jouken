@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-07-15",
+ "dataAsOf": "2026-07-16",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "sauna--hakone",
    "matchCount": 40,
    "matchRate": 44.4,
-   "minPrice": 6430,
-   "medianPrice": 15400,
+   "minPrice": 6830,
+   "medianPrice": 14850,
    "reviewAvgMean": 4.39
   },
   {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "sauna--kusatsu",
-   "matchCount": 14,
-   "matchRate": 15.6,
-   "minPrice": 5376,
-   "medianPrice": 14000,
-   "reviewAvgMean": 4.42
+   "matchCount": 13,
+   "matchRate": 14.4,
+   "minPrice": 5796,
+   "medianPrice": 14800,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -40,8 +40,8 @@
    "slug": "sauna--atami",
    "matchCount": 34,
    "matchRate": 37.8,
-   "minPrice": 4840,
-   "medianPrice": 12910,
+   "minPrice": 4500,
+   "medianPrice": 13875,
    "reviewAvgMean": 4.29
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 29,
    "matchRate": 32.2,
    "minPrice": 2700,
-   "medianPrice": 6875,
+   "medianPrice": 7940,
    "reviewAvgMean": 4.38
   },
   {
@@ -66,8 +66,8 @@
    "slug": "sauna--yufuin",
    "matchCount": 12,
    "matchRate": 13.3,
-   "minPrice": 7488,
-   "medianPrice": 9500,
+   "minPrice": 7875,
+   "medianPrice": 10900,
    "reviewAvgMean": 4.42
   },
   {
@@ -105,8 +105,8 @@
    "slug": "sauna--nasu",
    "matchCount": 22,
    "matchRate": 24.4,
-   "minPrice": 5220,
-   "medianPrice": 11020,
+   "minPrice": 5980,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.39
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "sauna--karuizawa",
-   "matchCount": 20,
-   "matchRate": 22.2,
-   "minPrice": 4598,
-   "medianPrice": 16365,
-   "reviewAvgMean": 4.43
+   "matchCount": 19,
+   "matchRate": 21.1,
+   "minPrice": 4200,
+   "medianPrice": 19140,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -131,7 +131,7 @@
    "slug": "sauna--dogo",
    "matchCount": 28,
    "matchRate": 31.1,
-   "minPrice": 3200,
+   "minPrice": 3500,
    "medianPrice": 5850,
    "reviewAvgMean": 4.31
   }
