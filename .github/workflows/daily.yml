@@ -1,10 +1,9 @@
 name: Daily data refresh
 
+# JST 05:17 = UTC 20:17 (日本はDSTなし)
 on:
   schedule:
-    # JST 05:17 (GitHub Actions timezone support)
-    - cron: "17 5 * * *"
-      timezone: Asia/Tokyo
+    - cron: "17 20 * * *"
   workflow_dispatch:
 
 permissions:
@@ -58,20 +57,24 @@ jobs:
 
       - name: Slack success
         if: success()
+        continue-on-error: true
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           AS_OF=$(TZ=Asia/Tokyo date +%F)
+          if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 0; fi
           curl -sf -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
             --data "{\"text\":\"✅ ヤドシボリ日次更新: ${AS_OF} 完了\"}"
 
       - name: Slack failure (前日データ維持)
         if: failure()
+        continue-on-error: true
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           AS_OF=$(TZ=Asia/Tokyo date +%F)
+          if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 0; fi
           curl -sf -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
             --data "{\"text\":\"🔴 ヤドシボリ日次更新: ${AS_OF} エラー (前日データ維持)\"}"

@@ -1,10 +1,9 @@
 name: Weekly squeeze + facilities refresh
 
+# JST 日曜 04:17 = UTC 土曜 19:17 (日本はDSTなし)
 on:
   schedule:
-    # JST 日曜 04:17 — daily(05:17)より前に squeeze/設備を更新
-    - cron: "17 4 * * 0"
-      timezone: Asia/Tokyo
+    - cron: "17 19 * * 6"
   workflow_dispatch:
 
 permissions:
@@ -60,20 +59,24 @@ jobs:
 
       - name: Slack success
         if: success()
+        continue-on-error: true
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           AS_OF=$(TZ=Asia/Tokyo date +%F)
+          if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 0; fi
           curl -sf -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
             --data "{\"text\":\"✅ ヤドシボリ週次更新: ${AS_OF} 完了 (squeeze+facilities)\"}"
 
       - name: Slack failure
         if: failure()
+        continue-on-error: true
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           AS_OF=$(TZ=Asia/Tokyo date +%F)
+          if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 0; fi
           curl -sf -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
             --data "{\"text\":\"🔴 ヤドシボリ週次更新: ${AS_OF} エラー (前日データ維持)\"}"

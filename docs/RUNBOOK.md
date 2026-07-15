@@ -20,11 +20,12 @@
 ## A4 自動化(2026-07-10)
 
 - **日次** `scripts/daily-refresh.sh` / `.github/workflows/daily.yml`
-  - JST 05:17 cron + `workflow_dispatch`
+  - cron UTC `17 20 * * *` (= JST 05:17) + `workflow_dispatch`
   - fetch daily → transform → validate(fail-closed) → promote `data/staged`→`data/latest` → commit+push `data/latest/` のみ → Slack ✅/🔴
 - **週次** `scripts/weekly-refresh.sh` / `.github/workflows/weekly.yml`
-  - 日曜 JST 04:17 + `workflow_dispatch`
+  - cron UTC `17 19 * * 6` (= JST 日曜 04:17) + `workflow_dispatch`
   - fetch daily+weekly → transform → validate → promote → commit `data/latest/` + `data/cache/squeeze.json` + `data/facilities/`
+- ⚠️ GitHub Actions の `on.schedule` に `timezone:` キーは使えない(無効YAML扱いで workflow_dispatch も消える)。JSTはUTC換算で書くこと
 - **squeeze正本**: `data/cache/squeeze.json`(git管理)。`data/work/` はローカル作業用でgitignore
 - **ローカル確認(APIなし)**: `./scripts/daily-refresh.sh --skip-fetch` → `cd site && npm run build`
 - **GHA実走前提(A5)**: GitHub secrets `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY` / `RAKUTEN_AFFILIATE_ID` / `SLACK_WEBHOOK_URL` + 楽天 Allowed websites=`yadoshibori.com`
