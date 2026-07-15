@@ -26,7 +26,7 @@ jobs:
       - name: Install deps
         run: pip install -r pipeline/requirements.txt
 
-      - name: Fetch → transform → validate → promote
+      - name: "Fetch -> transform -> validate -> promote"
         env:
           RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
           RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
@@ -41,7 +41,7 @@ jobs:
           rm -rf data/latest
           cp -R data/staged data/latest
 
-      - name: Commit data/latest (fail-closed: only after validate)
+      - name: "Commit data/latest (fail-closed: only after validate)"
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
