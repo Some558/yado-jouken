@@ -57,15 +57,23 @@ jobs:
 
       - name: Slack success
         if: success()
-        continue-on-error: true
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
+          set -euo pipefail
           AS_OF=$(TZ=Asia/Tokyo date +%F)
-          if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 0; fi
-          curl -sf -X POST "$SLACK_WEBHOOK_URL" \
+          if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 1; fi
+          # hostのみ診断（URL本体は出さない）
+          python3 - <<'PY'
+          import os
+          from urllib.parse import urlparse
+          u = urlparse(os.environ["SLACK_WEBHOOK_URL"])
+          print(f"slack_host={u.hostname!r} scheme={u.scheme!r} path_ok={bool(u.path and len(u.path)>10)}")
+          PY
+          curl -sfS -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
             --data "{\"text\":\"✅ ヤドシボリ日次更新: ${AS_OF} 完了\"}"
+          echo "slack_ok"
 
       - name: Slack failure (前日データ維持)
         if: failure()
@@ -73,8 +81,10 @@ jobs:
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
+          set -euo pipefail
           AS_OF=$(TZ=Asia/Tokyo date +%F)
           if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 0; fi
-          curl -sf -X POST "$SLACK_WEBHOOK_URL" \
+          curl -sfS -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
             --data "{\"text\":\"🔴 ヤドシボリ日次更新: ${AS_OF} エラー (前日データ維持)\"}"
+          echo "slack_ok"
