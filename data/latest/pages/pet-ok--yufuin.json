@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 8352,
+  "minPrice": 8000,
   "medianPrice": 17825,
   "reviewAvgMean": 4.52,
   "pricedCount": 10
@@ -99,7 +99,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 8352,
+   "minCharge": 10080,
    "reviewAverage": 4.62,
    "reviewCount": 140,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -167,7 +167,7 @@
    "hotelNo": 76390,
    "name": "由布院温泉　蓮輪ＩＮＮ",
    "kana": "ゆふいんおんせん　はすわいん",
-   "minCharge": 10000,
+   "minCharge": 8000,
    "reviewAverage": 4.27,
    "reviewCount": 111,
    "access": "湯布院駅から徒歩で１５分",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2560,
-  "medianPrice": 5207,
+  "medianPrice": 5227,
   "reviewAvgMean": 4.24,
   "pricedCount": 44
  },
@@ -50,7 +50,7 @@
    "hotelNo": 165673,
    "name": "道後温泉　あたたかい宿　谷屋",
    "kana": "どうごおんせん　あたたかいやど　たにや",
-   "minCharge": 17200,
+   "minCharge": 18300,
    "reviewAverage": 4.71,
    "reviewCount": 155,
    "access": "道後温泉駅より徒歩にて約１分",
@@ -152,7 +152,7 @@
    "hotelNo": 13653,
    "name": "道後温泉　ホテル椿館",
    "kana": "どうごおんせん　つばきかん",
-   "minCharge": 9900,
+   "minCharge": 11000,
    "reviewAverage": 4.51,
    "reviewCount": 2042,
    "access": "JR松山駅より伊予鉄道にて道後温泉駅下車 / 松山自動車道 松山ICより３０分",
@@ -288,7 +288,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 5307,
+   "minCharge": 5066,
    "reviewAverage": 4.38,
    "reviewCount": 1400,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",

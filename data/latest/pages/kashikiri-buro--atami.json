@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 187330,
    "name": "あたみ石亭別邸桜岡茶寮",
    "kana": "あたみせきていべっていさくらがおかさりょう",
-   "minCharge": 49500,
+   "minCharge": 47500,
    "reviewAverage": 5.0,
    "reviewCount": 8,
    "access": "JR熱海駅よりお車にて約10分",
@@ -82,7 +82,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 23100,
+   "minCharge": 19800,
    "reviewAverage": 4.59,
    "reviewCount": 315,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -303,7 +303,7 @@
    "hotelNo": 158527,
    "name": "熱海シーサイドスパ＆リゾート",
    "kana": "あたみしーさいどすぱあんどりぞーと",
-   "minCharge": 7370,
+   "minCharge": 9020,
    "reviewAverage": 4.18,
    "reviewCount": 1140,
    "access": "熱海駅から徒歩で約10分、バスで約7分、タクシーで約5分（およそ1メーター）",

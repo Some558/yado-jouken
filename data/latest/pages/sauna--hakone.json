@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6830,
-  "medianPrice": 14850,
+  "medianPrice": 15925,
   "reviewAvgMean": 4.39,
   "pricedCount": 40
  },
@@ -167,7 +167,7 @@
    "hotelNo": 19985,
    "name": "箱根湯本温泉　箱根　花紋",
    "kana": "はこねゆもとおんせん　はこね　かもん",
-   "minCharge": 14300,
+   "minCharge": 25300,
    "reviewAverage": 4.62,
    "reviewCount": 813,
    "access": "箱根湯本駅より車で5分・徒歩15分、東名厚木ＩＣより車で30分　送迎は１５：００以降（ご宿泊の方のみ湯本駅到着後要電話）",
@@ -184,7 +184,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 8500,
+   "minCharge": 13500,
    "reviewAverage": 4.58,
    "reviewCount": 6432,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -232,27 +232,10 @@
    "special": "★お食事高評価★仙石原の別荘地に佇む全24室の大人限定宿／別館は温泉半露天風呂付き"
   },
   {
-   "hotelNo": 16106,
-   "name": "小田急　山のホテル",
-   "kana": "おだきゅう　やまのほてる",
-   "minCharge": 15400,
-   "reviewAverage": 4.5,
-   "reviewCount": 1293,
-   "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町元箱根80",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16106",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16106%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16106",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16106.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16106/16106.jpg",
-   "special": "箱根芦ノ湖畔に佇む随一の眺望と庭園からの富士。とっておきのリゾートステイを。"
-  },
-  {
    "hotelNo": 50826,
    "name": "水の音（共立リゾート）",
    "kana": "みずのと（きょうりつりぞーと）",
-   "minCharge": 17050,
+   "minCharge": 15950,
    "reviewAverage": 4.5,
    "reviewCount": 2321,
    "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
@@ -264,6 +247,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50826.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50826/50826.jpg",
    "special": "小涌谷温泉・宮ノ下温泉の2種の湯を愉しめ、13種の湯処で温泉三昧"
+  },
+  {
+   "hotelNo": 16106,
+   "name": "小田急　山のホテル",
+   "kana": "おだきゅう　やまのほてる",
+   "minCharge": 17600,
+   "reviewAverage": 4.5,
+   "reviewCount": 1293,
+   "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町元箱根80",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16106",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16106%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16106",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16106.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16106/16106.jpg",
+   "special": "箱根芦ノ湖畔に佇む随一の眺望と庭園からの富士。とっておきのリゾートステイを。"
   },
   {
    "hotelNo": 1817,
@@ -286,7 +286,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 21120,
+   "minCharge": 20350,
    "reviewAverage": 4.48,
    "reviewCount": 1012,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",
@@ -334,23 +334,6 @@
    "special": "3種の源泉貸切風呂【無料】と、季節の食材を使った和食会席料理が人気！非日常を楽しめる隠れ宿！"
   },
   {
-   "hotelNo": 73891,
-   "name": "ホテルハーヴェスト箱根甲子園",
-   "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 14300,
-   "reviewAverage": 4.41,
-   "reviewCount": 673,
-   "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原817-253",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D73891",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D73891%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D73891",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/73891.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73891/73891.jpg",
-   "special": "水上に佇む静寂のリゾートで、美食と温泉を堪能する贅沢な癒しのひとときを。"
-  },
-  {
    "hotelNo": 13791,
    "name": "箱根湯本温泉　あうら橘",
    "kana": "はこねゆもとおんせん　あうらたちばな",
@@ -366,6 +349,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/13791.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13791/13791.jpg",
    "special": "箱根湯本のリゾートホテルを感じさせる源泉の宿。露天風呂付き客室が24室。屋上に開放感あるスカイテラス"
+  },
+  {
+   "hotelNo": 73891,
+   "name": "ホテルハーヴェスト箱根甲子園",
+   "kana": "はーヴぇすとはこねこうしえん",
+   "minCharge": 19800,
+   "reviewAverage": 4.41,
+   "reviewCount": 673,
+   "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原817-253",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D73891",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D73891%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D73891",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/73891.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73891/73891.jpg",
+   "special": "水上に佇む静寂のリゾートで、美食と温泉を堪能する贅沢な癒しのひとときを。"
   }
  ],
  "listedMatchCount": 40

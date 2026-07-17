@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 153168,
    "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
    "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
-   "minCharge": 27600,
+   "minCharge": 10000,
    "reviewAverage": 4.61,
    "reviewCount": 322,
    "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
@@ -133,7 +133,7 @@
    "hotelNo": 145406,
    "name": "豊岡グリーンホテルモーリス",
    "kana": "とよおかぐりーんほてるもーりす",
-   "minCharge": 5005,
+   "minCharge": 6050,
    "reviewAverage": 4.53,
    "reviewCount": 2425,
    "access": "豊岡駅より徒歩にて約５分",
@@ -144,7 +144,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D145406",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/145406.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145406/145406.jpg",
-   "special": "JR豊岡駅まで徒歩5分。館内にレストラン・大浴場あります。予約受付は3か月前から受付開始。"
+   "special": "JR豊岡駅まで徒歩5分。館内にレストラン・大浴場あります。予約受付は3か月前から開始します。"
   },
   {
    "hotelNo": 5307,

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 10160,
+  "minPrice": 9350,
   "medianPrice": 13750,
   "reviewAvgMean": 4.28,
   "pricedCount": 3
@@ -65,7 +65,7 @@
    "hotelNo": 158312,
    "name": "リブマックスリゾート奥道後",
    "kana": "りぶまっくすりぞーとおくどうご",
-   "minCharge": 10160,
+   "minCharge": 9350,
    "reviewAverage": 3.99,
    "reviewCount": 511,
    "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",

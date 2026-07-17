@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "pet-ok--hakone",
    "matchCount": 14,
    "matchRate": 15.6,
-   "minPrice": 5600,
-   "medianPrice": 11032,
+   "minPrice": 6720,
+   "medianPrice": 10032,
    "reviewAvgMean": 4.25
   },
   {
@@ -27,8 +27,8 @@
    "slug": "pet-ok--kusatsu",
    "matchCount": 4,
    "matchRate": 4.4,
-   "minPrice": 7040,
-   "medianPrice": 8855,
+   "minPrice": 6840,
+   "medianPrice": 8325,
    "reviewAvgMean": 4.01
   },
   {
@@ -40,7 +40,7 @@
    "slug": "pet-ok--atami",
    "matchCount": 11,
    "matchRate": 12.2,
-   "minPrice": 5134,
+   "minPrice": 5462,
    "medianPrice": 10680,
    "reviewAvgMean": 4.37
   },
@@ -54,7 +54,7 @@
    "matchCount": 4,
    "matchRate": 4.4,
    "minPrice": 1500,
-   "medianPrice": 7897,
+   "medianPrice": 6900,
    "reviewAvgMean": 3.95
   },
   {
@@ -66,7 +66,7 @@
    "slug": "pet-ok--yufuin",
    "matchCount": 10,
    "matchRate": 11.1,
-   "minPrice": 8352,
+   "minPrice": 8000,
    "medianPrice": 17825,
    "reviewAvgMean": 4.52
   },
@@ -79,8 +79,8 @@
    "slug": "pet-ok--kinosaki",
    "matchCount": 4,
    "matchRate": 4.4,
-   "minPrice": 3500,
-   "medianPrice": 9425,
+   "minPrice": 5100,
+   "medianPrice": 7600,
    "reviewAvgMean": 4.35
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 6,
    "matchRate": 8.5,
    "minPrice": 4980,
-   "medianPrice": 8065,
+   "medianPrice": 8340,
    "reviewAvgMean": 4.01
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 25,
    "matchRate": 27.8,
    "minPrice": 2980,
-   "medianPrice": 9900,
+   "medianPrice": 10650,
    "reviewAvgMean": 4.47
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 17,
    "matchRate": 18.9,
    "minPrice": 5400,
-   "medianPrice": 12960,
+   "medianPrice": 12600,
    "reviewAvgMean": 4.58
   },
   {
@@ -131,7 +131,7 @@
    "slug": "pet-ok--dogo",
    "matchCount": 3,
    "matchRate": 3.3,
-   "minPrice": 10160,
+   "minPrice": 9350,
    "medianPrice": 13750,
    "reviewAvgMean": 4.28
   }

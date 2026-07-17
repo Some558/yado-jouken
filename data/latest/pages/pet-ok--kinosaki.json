@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3500,
-  "medianPrice": 9425,
+  "minPrice": 5100,
+  "medianPrice": 7600,
   "reviewAvgMean": 4.35,
   "pricedCount": 4
  },
@@ -31,7 +31,7 @@
    "hotelNo": 153168,
    "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
    "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
-   "minCharge": 27600,
+   "minCharge": 10000,
    "reviewAverage": 4.61,
    "reviewCount": 322,
    "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
@@ -48,7 +48,7 @@
    "hotelNo": 14074,
    "name": "城崎温泉　お宿　白山　花まんだら　【湯亭　花のれん】",
    "kana": "きのさきおんせん　おやど　はくさん　はなまんだら",
-   "minCharge": 13750,
+   "minCharge": 20350,
    "reviewAverage": 4.43,
    "reviewCount": 994,
    "access": "ＪＲ山陰本線城崎温泉駅より無料バスで5分／中国自動車道吉川ＩＣ→舞鶴若狭道春日→北近畿自動車道終点→Ｒ３１２",
@@ -65,7 +65,7 @@
    "hotelNo": 20407,
    "name": "こだま荘",
    "kana": "こだまそう",
-   "minCharge": 3500,
+   "minCharge": 5200,
    "reviewAverage": 4.0,
    "reviewCount": 74,
    "access": "舞鶴自動車道福知山ＩＣより国道９号・国道４２６号経由、約３８㎞",

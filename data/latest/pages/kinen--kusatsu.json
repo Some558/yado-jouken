@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 51,
-  "matchRate": 33.6,
+  "matchRate": 33.3,
   "denominator": {
    "type": "area_total",
-   "value": 152,
+   "value": 153,
    "label": "草津温泉・白根エリアの掲載施設数"
   },
   "minPrice": 2500,
@@ -67,7 +67,7 @@
    "hotelNo": 184611,
    "name": "うり房旅館仲通り　うら房",
    "kana": "うりぼうりょかんなかどおり　うらぼう",
-   "minCharge": 13200,
+   "minCharge": 14300,
    "reviewAverage": 4.88,
    "reviewCount": 30,
    "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩4分！",
@@ -254,7 +254,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 13680,
+   "minCharge": 14680,
    "reviewAverage": 4.57,
    "reviewCount": 38,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",

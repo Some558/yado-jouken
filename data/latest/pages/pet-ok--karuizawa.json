@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 12960,
+  "medianPrice": 12600,
   "reviewAvgMean": 4.58,
   "pricedCount": 17
  },
@@ -31,7 +31,7 @@
    "hotelNo": 172066,
    "name": "ＭＯＲＩＨＡＫＵ",
    "kana": "もりはく",
-   "minCharge": 10285,
+   "minCharge": 12155,
    "reviewAverage": 5.0,
    "reviewCount": 14,
    "access": "軽井沢駅よりお車にて約9分",
@@ -133,7 +133,7 @@
    "hotelNo": 183280,
    "name": "オーソルヴェール軽井沢倶楽部",
    "kana": "おーそるヴぇーるかるいざわくらぶ",
-   "minCharge": 12960,
+   "minCharge": 12600,
    "reviewAverage": 4.68,
    "reviewCount": 96,
    "access": "軽井沢駅から25分（軽井沢駅から無料送迎有・7日前まで要予約）。佐久平ICから20分。信濃追分駅から15分・駐車場無料",
@@ -218,7 +218,7 @@
    "hotelNo": 162641,
    "name": "トレーラーハウスホテル・ジェニー",
    "kana": "とれーらーはうすほてる・じぇにー",
-   "minCharge": 5528,
+   "minCharge": 6573,
    "reviewAverage": 4.41,
    "reviewCount": 72,
    "access": "しなの鉄道　御代田駅よりお車にて約5分　事前予約7日前まで送迎可",
@@ -235,7 +235,7 @@
    "hotelNo": 84553,
    "name": "ＤＥＳＩＧＮ　ＨＯＴＥＬ　ＦＯＬＯＮ",
    "kana": "でざいんほてる　ふぉろん",
-   "minCharge": 9000,
+   "minCharge": 10000,
    "reviewAverage": 4.38,
    "reviewCount": 169,
    "access": "ＪＲ長野新幹線　軽井沢駅より　徒歩１８分、タクシー３分",

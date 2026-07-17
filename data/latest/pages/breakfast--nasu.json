@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 70,
-  "matchRate": 20.8,
+  "matchRate": 20.7,
   "denominator": {
    "type": "area_total",
-   "value": 336,
+   "value": 338,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2730,
-  "medianPrice": 8500,
+  "medianPrice": 8700,
   "reviewAvgMean": 4.36,
   "pricedCount": 37
  },
@@ -118,7 +118,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 12430,
+   "minCharge": 14850,
    "reviewAverage": 4.69,
    "reviewCount": 453,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -186,7 +186,7 @@
    "hotelNo": 181751,
    "name": "那須ハミルの森",
    "kana": "なすはみるのもり",
-   "minCharge": 19200,
+   "minCharge": 22800,
    "reviewAverage": 4.65,
    "reviewCount": 118,
    "access": "那須塩原駅よりバスで30分　友愛の森バス停から徒歩1分",
@@ -203,7 +203,7 @@
    "hotelNo": 177431,
    "name": "ペンション　イグアナの森　ー絶品ジビエ料理と貸切那須温泉ー",
    "kana": "ぺんしょん　いぐあなのもり",
-   "minCharge": 11000,
+   "minCharge": 12000,
    "reviewAverage": 4.63,
    "reviewCount": 109,
    "access": "東北自動車道　那須ＩＣ／黒磯駅よりお車にて約１５分",

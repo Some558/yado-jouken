@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 69,
    "matchRate": 76.7,
    "minPrice": 7500,
-   "medianPrice": 14866,
+   "medianPrice": 15900,
    "reviewAvgMean": 4.42
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 38,
    "matchRate": 42.2,
    "minPrice": 5796,
-   "medianPrice": 12205,
+   "medianPrice": 12476,
    "reviewAvgMean": 4.41
   },
   {
@@ -40,8 +40,8 @@
    "slug": "rotenburo--atami",
    "matchCount": 63,
    "matchRate": 70.0,
-   "minPrice": 5698,
-   "medianPrice": 10395,
+   "minPrice": 4840,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.33
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 60,
    "matchRate": 66.7,
    "minPrice": 3000,
-   "medianPrice": 9900,
+   "medianPrice": 9845,
    "reviewAvgMean": 4.38
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 77,
    "matchRate": 85.6,
    "minPrice": 4800,
-   "medianPrice": 15950,
+   "medianPrice": 16250,
    "reviewAvgMean": 4.48
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 23,
    "matchRate": 25.6,
    "minPrice": 7060,
-   "medianPrice": 11980,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.46
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 37,
    "matchRate": 52.1,
    "minPrice": 4980,
-   "medianPrice": 9020,
+   "medianPrice": 8800,
    "reviewAvgMean": 4.22
   },
   {
@@ -118,7 +118,7 @@
    "slug": "rotenburo--karuizawa",
    "matchCount": 22,
    "matchRate": 24.4,
-   "minPrice": 4200,
+   "minPrice": 3650,
    "medianPrice": 13150,
    "reviewAvgMean": 4.43
   },

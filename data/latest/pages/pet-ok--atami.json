@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5134,
+  "minPrice": 5462,
   "medianPrice": 10680,
   "reviewAvgMean": 4.37,
   "pricedCount": 11
@@ -150,7 +150,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 14300,
+   "minCharge": 14900,
    "reviewAverage": 4.22,
    "reviewCount": 3028,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",
@@ -167,7 +167,7 @@
    "hotelNo": 176941,
    "name": "エンゼルフォレスト熱海自然郷",
    "kana": "えんぜるふぉれすとあたみしぜんきょう",
-   "minCharge": 5134,
+   "minCharge": 5462,
    "reviewAverage": 4.1,
    "reviewCount": 246,
    "access": "ＪＲ　熱海駅よりお車にて約２５分",

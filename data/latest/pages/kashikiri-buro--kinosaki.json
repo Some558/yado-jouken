@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 19956,
    "name": "漁火の見える宿　日の出荘",
    "kana": "いさりびのみえるやど　ひのでそう",
-   "minCharge": 22000,
+   "minCharge": 24000,
    "reviewAverage": 5.0,
    "reviewCount": 34,
    "access": "ＪＲ竹野駅より送迎あり／中国自動車道　福崎ＩＣより播但有料道路→Ｒ３１２豊岡→Ｒ１７８にて竹野",
@@ -116,7 +116,7 @@
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.81,
    "reviewCount": 85,
    "access": "ＪＲ城崎駅より徒歩8分",

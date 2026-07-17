@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4490,
+  "minPrice": 4890,
   "medianPrice": 11062,
   "reviewAvgMean": 4.45,
   "pricedCount": 40
@@ -65,7 +65,7 @@
    "hotelNo": 184611,
    "name": "うり房旅館仲通り　うら房",
    "kana": "うりぼうりょかんなかどおり　うらぼう",
-   "minCharge": 13200,
+   "minCharge": 14300,
    "reviewAverage": 4.88,
    "reviewCount": 30,
    "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩4分！",
@@ -82,7 +82,7 @@
    "hotelNo": 31675,
    "name": "草津温泉　中村屋旅館＜群馬県＞",
    "kana": "くさつおんせん　なかむらやりょかん＜ぐんまけん＞",
-   "minCharge": 11900,
+   "minCharge": 13230,
    "reviewAverage": 4.84,
    "reviewCount": 563,
    "access": "■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分",
@@ -116,7 +116,7 @@
    "hotelNo": 184503,
    "name": "うり房旅館",
    "kana": "うりぼうりょかん",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.81,
    "reviewCount": 52,
    "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩５分！",
@@ -303,7 +303,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 13680,
+   "minCharge": 14680,
    "reviewAverage": 4.57,
    "reviewCount": 38,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",

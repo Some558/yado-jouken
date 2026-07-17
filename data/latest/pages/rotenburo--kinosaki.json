@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-16",
+ "dataAsOf": "2026-07-18",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7060,
-  "medianPrice": 11980,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.46,
   "pricedCount": 23
  },
@@ -31,7 +31,7 @@
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.81,
    "reviewCount": 85,
    "access": "ＪＲ城崎駅より徒歩8分",
@@ -65,7 +65,7 @@
    "hotelNo": 79415,
    "name": "城崎温泉　あさぎり荘",
    "kana": "あさぎりそう",
-   "minCharge": 8800,
+   "minCharge": 9900,
    "reviewAverage": 4.72,
    "reviewCount": 608,
    "access": "ＪＲ　城崎温泉駅より徒歩にて7分　　　車　豊岡空港ICより３０分",
@@ -286,7 +286,7 @@
    "hotelNo": 54668,
    "name": "休暇村　竹野海岸",
    "kana": "きゅうかむら　たけのかいがん",
-   "minCharge": 18700,
+   "minCharge": 19800,
    "reviewAverage": 4.37,
    "reviewCount": 518,
    "access": "ＪＲ　竹野駅より車で５分（送迎有り）",
@@ -320,7 +320,7 @@
    "hotelNo": 18819,
    "name": "城崎温泉　旅館　お宿　白山",
    "kana": "きのさきおんせん　おやど　はくさん",
-   "minCharge": 9900,
+   "minCharge": 16500,
    "reviewAverage": 4.28,
    "reviewCount": 2591,
    "access": "ＪＲ城崎温泉駅より徒歩７分／  中国自動車道吉川IC～舞鶴自動車道～北近畿豊岡自動車⇒大阪池田ICより約２時間３０分",
