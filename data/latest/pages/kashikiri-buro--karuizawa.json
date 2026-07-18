@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 36300,
+   "minCharge": 33600,
    "reviewAverage": 4.47,
    "reviewCount": 209,
    "access": "軽井沢駅よりお車にて約１５分",

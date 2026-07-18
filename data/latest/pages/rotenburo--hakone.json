@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7500,
+  "minPrice": 7130,
   "medianPrice": 15900,
   "reviewAvgMean": 4.42,
   "pricedCount": 69
@@ -218,7 +218,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 46200,
+   "minCharge": 42900,
    "reviewAverage": 4.7,
    "reviewCount": 870,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -235,7 +235,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 11000,
+   "minCharge": 10850,
    "reviewAverage": 4.68,
    "reviewCount": 479,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",

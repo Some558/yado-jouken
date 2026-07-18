@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 9635,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.39,
   "pricedCount": 33
  },
@@ -235,7 +235,7 @@
    "hotelNo": 167075,
    "name": "コスタ・デル・ソル　ひじ",
    "kana": "こすた　でる　そる　ひじ",
-   "minCharge": 9500,
+   "minCharge": 11500,
    "reviewAverage": 4.54,
    "reviewCount": 179,
    "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",
@@ -269,7 +269,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 3520,
+   "minCharge": 2970,
    "reviewAverage": 4.52,
    "reviewCount": 1345,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "facility"
  },
@@ -21,10 +21,10 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4890,
-  "medianPrice": 11062,
+  "minPrice": 4490,
+  "medianPrice": 11124,
   "reviewAvgMean": 4.45,
-  "pricedCount": 40
+  "pricedCount": 39
  },
  "hotels": [
   {
@@ -269,7 +269,7 @@
    "hotelNo": 7052,
    "name": "草津温泉　旅館たむら",
    "kana": "くさつおんせん　りょかんたむら",
-   "minCharge": 16500,
+   "minCharge": 20500,
    "reviewAverage": 4.59,
    "reviewCount": 169,
    "access": "ＪＲ長野原草津口駅よりバスで２５分。渋川ＩＣより車で９０分。",
@@ -281,6 +281,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7052.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7052/7052.jpg",
    "special": "体にやさしい「地蔵の湯」の源泉の宿です。館内禁煙（全客室含む）となります。"
+  },
+  {
+   "hotelNo": 183529,
+   "name": "川原湯温泉　山木館",
+   "kana": "かわらゆおんせん　やまきかん",
+   "minCharge": 12180,
+   "reviewAverage": 4.57,
+   "reviewCount": 38,
+   "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
+   "address1": "群馬県",
+   "address2": "吾妻郡長野原町大字川原湯454-91",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183529",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183529%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183529",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183529.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183529/183529.jpg",
+   "special": "【個室食事処｜貸切風呂無料】2000坪に全8室借景庭園付 川原湯温泉最古の宿"
   },
   {
    "hotelNo": 158384,
@@ -298,23 +315,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158384.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158384/158384.jpg",
    "special": "2016年８月オープン！和菓子屋がプロデュースする可愛くておいしい宿。湯畑から徒歩９９歩も嬉しい！"
-  },
-  {
-   "hotelNo": 183529,
-   "name": "川原湯温泉　山木館",
-   "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 14680,
-   "reviewAverage": 4.57,
-   "reviewCount": 38,
-   "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
-   "address1": "群馬県",
-   "address2": "吾妻郡長野原町大字川原湯454-91",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183529",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183529%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183529",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183529.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183529/183529.jpg",
-   "special": "【個室食事処｜貸切風呂無料】2000坪に全8室借景庭園付 川原湯温泉最古の宿"
   },
   {
    "hotelNo": 108634,

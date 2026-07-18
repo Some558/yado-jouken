@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 13810,
+  "medianPrice": 13250,
   "reviewAvgMean": 4.29,
   "pricedCount": 34
  },
@@ -184,7 +184,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 15600,
+   "minCharge": 13050,
    "reviewAverage": 4.55,
    "reviewCount": 686,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
@@ -337,7 +337,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14170,
+   "minCharge": 13720,
    "reviewAverage": 4.2,
    "reviewCount": 1000,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

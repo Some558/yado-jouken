@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -288,7 +288,7 @@
    "hotelNo": 197742,
    "name": "伊香保温泉　旅館　春日楼",
    "kana": "いかほおんせん　りょかん　かすがろう",
-   "minCharge": 7700,
+   "minCharge": 7150,
    "reviewAverage": 4.29,
    "reviewCount": 8,
    "access": "渋川駅からバスで約２０分、渋川伊香保ICから約２０分",

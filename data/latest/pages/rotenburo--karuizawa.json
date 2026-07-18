@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3650,
-  "medianPrice": 13150,
+  "medianPrice": 13700,
   "reviewAvgMean": 4.43,
-  "pricedCount": 22
+  "pricedCount": 21
  },
  "hotels": [
   {
@@ -45,23 +45,6 @@
    "special": "軽井沢の小さなペンション。無料送迎・貸切風呂あり！非日常体験をどうぞ。"
   },
   {
-   "hotelNo": 179282,
-   "name": "高峰マウンテンホテル",
-   "kana": "たかみねまうんてんほてる",
-   "minCharge": 12600,
-   "reviewAverage": 4.7,
-   "reviewCount": 147,
-   "access": "小諸駅よりお車にて約４５分／佐久平駅よりお車にて約６０分",
-   "address1": "長野県",
-   "address2": "小諸市高峰高原",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D179282",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D179282%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D179282",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/179282.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179282/179282.jpg",
-   "special": "雲海の先、標高２０００ｍのマウンテンリゾートへ"
-  },
-  {
    "hotelNo": 184094,
    "name": "のぞみグランピング＆スパ佐久×軽井沢",
    "kana": "のぞみぐらんぴんぐあんどすぱさくかるいざわ",
@@ -77,6 +60,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184094.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184094/184094.jpg",
    "special": "光と風のグランピング。　グランピング×スパで欲張りな休日を"
+  },
+  {
+   "hotelNo": 179282,
+   "name": "高峰マウンテンホテル",
+   "kana": "たかみねまうんてんほてる",
+   "minCharge": null,
+   "reviewAverage": 4.7,
+   "reviewCount": 147,
+   "access": "小諸駅よりお車にて約４５分／佐久平駅よりお車にて約６０分",
+   "address1": "長野県",
+   "address2": "小諸市高峰高原",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D179282",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D179282%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D179282",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/179282.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179282/179282.jpg",
+   "special": "雲海の先、標高２０００ｍのマウンテンリゾートへ"
   },
   {
    "hotelNo": 25164,
@@ -133,7 +133,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 19900,
+   "minCharge": 19200,
    "reviewAverage": 4.58,
    "reviewCount": 427,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -150,7 +150,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 30470,
+   "minCharge": 28820,
    "reviewAverage": 4.58,
    "reviewCount": 333,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -218,7 +218,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 36300,
+   "minCharge": 33600,
    "reviewAverage": 4.47,
    "reviewCount": 209,
    "access": "軽井沢駅よりお車にて約１５分",
@@ -252,7 +252,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 20436,
+   "minCharge": 19392,
    "reviewAverage": 4.41,
    "reviewCount": 420,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -286,7 +286,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 27334,
+   "minCharge": 25067,
    "reviewAverage": 4.34,
    "reviewCount": 285,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",

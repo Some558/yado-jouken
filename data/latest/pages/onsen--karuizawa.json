@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -101,7 +101,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 36300,
+   "minCharge": 33600,
    "reviewAverage": 4.47,
    "reviewCount": 209,
    "access": "軽井沢駅よりお車にて約１５分",
@@ -135,7 +135,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 20436,
+   "minCharge": 19392,
    "reviewAverage": 4.41,
    "reviewCount": 420,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",

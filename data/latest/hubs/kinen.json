@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "areas": [
   {
    "area": {
@@ -119,7 +119,7 @@
    "matchCount": 63,
    "matchRate": 22.7,
    "minPrice": 3650,
-   "medianPrice": 11927,
+   "medianPrice": 11700,
    "reviewAvgMean": 4.41
   },
   {

@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-18",
+ "dataAsOf": "2026-07-19",
  "recordCount": 268,
  "conditions": [
   {
@@ -324,7 +324,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】7/20(月祝)花火大会ラスト1室★お早めに！【お部屋食】",
+   "special": "【旅館甲子園優勝の宿】7/21(火)〜25(土)空室わずか★クーポン有【お部屋食】",
    "conditions": [
     "onsen",
     "daiyokujo",
@@ -518,7 +518,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 15600,
+   "minCharge": 13050,
    "reviewAverage": 4.55,
    "reviewCount": 686,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
@@ -625,7 +625,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 7480,
+   "minCharge": 6670,
    "reviewAverage": 4.49,
    "reviewCount": 597,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -1142,6 +1142,24 @@
    ]
   },
   {
+   "hotelNo": 187532,
+   "name": "ホテルブリーズベイ熱海ＡＮＮＥＸ",
+   "kana": "ほてるぶりーずべいあたみあねっくす",
+   "minCharge": 8600,
+   "reviewAverage": 4.21,
+   "reviewCount": 116,
+   "access": "熱海駅より約徒歩12分、車にて5分",
+   "address1": "静岡県",
+   "address2": "熱海市海光町7-64",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187532",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187532%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187532",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187532.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187532/187532.jpg",
+   "special": "熱海駅よりお車で約5分 伊豆山温泉 オーシャンビューの宿",
+   "conditions": []
+  },
+  {
    "hotelNo": 7603,
    "name": "熱海の奥座敷　山の上ホテル",
    "kana": "あたみのおくざしき　やまのうえほてる",
@@ -1165,24 +1183,6 @@
     "sauna",
     "kashikiri-buro"
    ]
-  },
-  {
-   "hotelNo": 187532,
-   "name": "ホテルブリーズベイ熱海ＡＮＮＥＸ",
-   "kana": "ほてるぶりーずべいあたみあねっくす",
-   "minCharge": 9600,
-   "reviewAverage": 4.21,
-   "reviewCount": 116,
-   "access": "熱海駅より約徒歩12分、車にて5分",
-   "address1": "静岡県",
-   "address2": "熱海市海光町7-64",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187532",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187532%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187532",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187532.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187532/187532.jpg",
-   "special": "熱海駅よりお車で約5分 伊豆山温泉 オーシャンビューの宿",
-   "conditions": []
   },
   {
    "hotelNo": 147782,
@@ -1209,7 +1209,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14170,
+   "minCharge": 13720,
    "reviewAverage": 4.2,
    "reviewCount": 1000,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
@@ -1324,7 +1324,7 @@
    "hotelNo": 196679,
    "name": "ラビスタ熱海テラス（共立リゾート）（２０２６年３月３１日グランドＯＰＥＮ）",
    "kana": "らびすたあたみてらす",
-   "minCharge": 14900,
+   "minCharge": 17100,
    "reviewAverage": 4.17,
    "reviewCount": 72,
    "access": "JR熱海駅より徒歩8分",
