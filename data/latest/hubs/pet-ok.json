@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "pet-ok--hakone",
-   "matchCount": 14,
-   "matchRate": 15.6,
+   "matchCount": 13,
+   "matchRate": 14.4,
    "minPrice": 6720,
-   "medianPrice": 10032,
-   "reviewAvgMean": 4.25
+   "medianPrice": 10164,
+   "reviewAvgMean": 4.27
   },
   {
    "area": {
@@ -66,7 +66,7 @@
    "slug": "pet-ok--yufuin",
    "matchCount": 10,
    "matchRate": 11.1,
-   "minPrice": 8000,
+   "minPrice": 9000,
    "medianPrice": 17825,
    "reviewAvgMean": 4.52
   },
@@ -81,7 +81,7 @@
    "matchRate": 4.4,
    "minPrice": 5100,
    "medianPrice": 7600,
-   "reviewAvgMean": 4.35
+   "reviewAvgMean": 4.51
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 25,
-   "matchRate": 27.8,
+   "matchCount": 24,
+   "matchRate": 26.7,
    "minPrice": 2980,
-   "medianPrice": 10650,
-   "reviewAvgMean": 4.47
+   "medianPrice": 9837,
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -131,7 +131,7 @@
    "slug": "pet-ok--dogo",
    "matchCount": 3,
    "matchRate": 3.3,
-   "minPrice": 9350,
+   "minPrice": 8500,
    "medianPrice": 13750,
    "reviewAvgMean": 4.28
   }

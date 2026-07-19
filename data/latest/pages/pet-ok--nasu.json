@@ -9,22 +9,22 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 25,
-  "matchRate": 27.8,
+  "matchCount": 24,
+  "matchRate": 26.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2980,
-  "medianPrice": 10650,
-  "reviewAvgMean": 4.47,
-  "pricedCount": 25
+  "medianPrice": 9837,
+  "reviewAvgMean": 4.46,
+  "pricedCount": 24
  },
  "hotels": [
   {
@@ -84,7 +84,7 @@
    "kana": "えんぜるふぉれすとなす",
    "minCharge": 12995,
    "reviewAverage": 4.75,
-   "reviewCount": 295,
+   "reviewCount": 299,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久丙3243-474",
@@ -101,7 +101,7 @@
    "kana": "しきのやど　こよみ",
    "minCharge": 15180,
    "reviewAverage": 4.73,
-   "reviewCount": 63,
+   "reviewCount": 65,
    "access": "那須塩原駅よりお車で約５０分、東北自動車道那須ＩＣより約２０分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本378-2",
@@ -111,23 +111,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/191940.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191940/191940.jpg",
    "special": "ペットと楽しめる硫黄泉の自家源泉かけ流し貸切温泉、四季折々の顔を見せるプライベートドッグラン"
-  },
-  {
-   "hotelNo": 143355,
-   "name": "ペンションｆｕｒａｒｉ",
-   "kana": "ふらり",
-   "minCharge": 11000,
-   "reviewAverage": 4.68,
-   "reviewCount": 150,
-   "access": "＜車＞ 東北道那須ICより約20分。※那須街道（R17号）広谷地交差点経由県道（R68号）を白河方面へ",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久丙1148-111",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D143355",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D143355%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D143355",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/143355.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143355/143355.jpg",
-   "special": "天然温泉、広いドッグラン、そして畳敷きの客室でペットと一緒にゆったりと満喫できるペンションです。"
   },
   {
    "hotelNo": 128499,
@@ -186,7 +169,7 @@
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
    "minCharge": 9900,
    "reviewAverage": 4.5,
-   "reviewCount": 255,
+   "reviewCount": 256,
    "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久丙4373-20",
@@ -218,9 +201,9 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 12390,
+   "minCharge": 9030,
    "reviewAverage": 4.44,
-   "reviewCount": 8050,
+   "reviewCount": 8079,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
    "address1": "栃木県",
    "address2": "那須郡那須町大字高久丙１番地",
@@ -237,7 +220,7 @@
    "kana": "なすおんせん　ふぉれすとひるず　なす　うぃずどっぐす",
    "minCharge": 15400,
    "reviewAverage": 4.44,
-   "reviewCount": 852,
+   "reviewCount": 857,
    "access": "安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪",
    "address1": "栃木県",
    "address2": "那須郡那須町高久乙1880",
@@ -271,7 +254,7 @@
    "kana": "はみるずふぉれすとうぃずどっぐ",
    "minCharge": 18000,
    "reviewAverage": 4.43,
-   "reviewCount": 8,
+   "reviewCount": 9,
    "access": "東北自動車道 那須ＩＣより車で約１０分  那須塩原駅より車で約２５分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久乙802-179",
@@ -288,7 +271,7 @@
    "kana": "うぇるねすのもり　なす",
    "minCharge": 9775,
    "reviewAverage": 4.4,
-   "reviewCount": 1825,
+   "reviewCount": 1826,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久甲6437",
@@ -322,7 +305,7 @@
    "kana": null,
    "minCharge": 8000,
    "reviewAverage": 4.31,
-   "reviewCount": 470,
+   "reviewCount": 475,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本204-60　Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
@@ -339,7 +322,7 @@
    "kana": "おんせんろてんかしきりやごうかきゃくしつろてんのやど　すとりーむ",
    "minCharge": 2980,
    "reviewAverage": 4.3,
-   "reviewCount": 73,
+   "reviewCount": 75,
    "access": "お車：東北道 那須ＩＣ－(那須街道 7km)－ファミリーマート左折400m右、バス：黒磯駅－守子坂－徒歩５分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本766",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/54303.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54303/54303.jpg",
    "special": "ゲストも大切なペットも安心して寛げて、ペットと温泉浴もＯＫ☆貸切温泉露天＆ディナーも堪能できます。"
+  },
+  {
+   "hotelNo": 167733,
+   "name": "ホテル森の風那須",
+   "kana": "もりのかぜなす",
+   "minCharge": 15400,
+   "reviewAverage": 4.29,
+   "reviewCount": 266,
+   "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久丙1179-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167733",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167733%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167733",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167733.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167733/167733.jpg",
+   "special": "展望大浴場から那須高原が一望できる宿。大正ロマンの館内で安らぎのひとときをお過ごしください。"
   }
  ],
- "listedMatchCount": 25
+ "listedMatchCount": 24
 }

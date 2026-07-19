@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 69,
-  "matchRate": 76.7,
+  "matchCount": 68,
+  "matchRate": 75.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7130,
-  "medianPrice": 15900,
+  "medianPrice": 15850,
   "reviewAvgMean": 4.42,
-  "pricedCount": 69
+  "pricedCount": 68
  },
  "hotels": [
   {
@@ -33,7 +33,7 @@
    "kana": "はこね・すいしょうえん",
    "minCharge": 41800,
    "reviewAverage": 5.0,
-   "reviewCount": 77,
+   "reviewCount": 79,
    "access": "箱根登山鉄道「小涌谷駅」より送迎（要予約）",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町小涌谷519-9",
@@ -67,7 +67,7 @@
    "kana": "あしのこおんせん　わしんてい　ほうげつ",
    "minCharge": 32300,
    "reviewAverage": 4.93,
-   "reviewCount": 368,
+   "reviewCount": 370,
    "access": "小田急線・箱根湯本駅～バス、またはタクシー／「元箱根」または「元箱根港」バス停より送迎あり",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町元箱根90-42",
@@ -84,7 +84,7 @@
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
    "minCharge": 19800,
    "reviewAverage": 4.83,
-   "reviewCount": 533,
+   "reviewCount": 534,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町仙石原1245-703",
@@ -99,9 +99,9 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 41810,
+   "minCharge": 39550,
    "reviewAverage": 4.8,
-   "reviewCount": 641,
+   "reviewCount": 642,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町須雲川２０-１",
@@ -201,7 +201,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 19800,
+   "minCharge": 14800,
    "reviewAverage": 4.71,
    "reviewCount": 34,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -220,7 +220,7 @@
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
    "minCharge": 42900,
    "reviewAverage": 4.7,
-   "reviewCount": 870,
+   "reviewCount": 871,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町二ノ平1297",
@@ -237,7 +237,7 @@
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
    "minCharge": 10850,
    "reviewAverage": 4.68,
-   "reviewCount": 479,
+   "reviewCount": 480,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町湯本茶屋191",
@@ -254,7 +254,7 @@
    "kana": "ざ・ぷりんすはこね",
    "minCharge": 10700,
    "reviewAverage": 4.66,
-   "reviewCount": 1372,
+   "reviewCount": 1374,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町元箱根144",
@@ -271,7 +271,7 @@
    "kana": "はこねゆもとおんせん　きせんそう",
    "minCharge": 9350,
    "reviewAverage": 4.65,
-   "reviewCount": 274,
+   "reviewCount": 276,
    "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町湯本509",
@@ -305,7 +305,7 @@
    "kana": "ぶりすてぃあ はこねせんごくはら",
    "minCharge": 12100,
    "reviewAverage": 4.61,
-   "reviewCount": 265,
+   "reviewCount": 266,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町仙石原29-1",
@@ -356,7 +356,7 @@
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
    "minCharge": 13500,
    "reviewAverage": 4.58,
-   "reviewCount": 6432,
+   "reviewCount": 6443,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町湯本468-1",
@@ -368,5 +368,5 @@
    "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿"
   }
  ],
- "listedMatchCount": 69
+ "listedMatchCount": 68
 }

@@ -9,22 +9,22 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 30,
-  "matchRate": 33.3,
+  "matchCount": 29,
+  "matchRate": 32.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2980,
-  "medianPrice": 11925,
-  "reviewAvgMean": 4.59,
-  "pricedCount": 30
+  "medianPrice": 12000,
+  "reviewAvgMean": 4.58,
+  "pricedCount": 29
  },
  "hotels": [
   {
@@ -48,9 +48,9 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11850,
+   "minCharge": 12000,
    "reviewAverage": 4.97,
-   "reviewCount": 162,
+   "reviewCount": 165,
    "access": "黒磯駅よりお車で約２５分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久乙1863-36",
@@ -67,7 +67,7 @@
    "kana": "なすおんせん　ぺんしょんさんぽみち",
    "minCharge": 18290,
    "reviewAverage": 4.8,
-   "reviewCount": 175,
+   "reviewCount": 176,
    "access": "東北自動車道那須ＩＣより車で１２分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本456-27",
@@ -135,7 +135,7 @@
    "kana": "しきのやど　こよみ",
    "minCharge": 15180,
    "reviewAverage": 4.73,
-   "reviewCount": 63,
+   "reviewCount": 65,
    "access": "那須塩原駅よりお車で約５０分、東北自動車道那須ＩＣより約２０分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本378-2",
@@ -150,9 +150,9 @@
    "hotelNo": 32111,
    "name": "新那須高原温泉　こころのおやど　自在荘",
    "kana": "しんなすこうげんおんせん　こころのおやど　じざいそう",
-   "minCharge": 16500,
+   "minCharge": 15400,
    "reviewAverage": 4.73,
-   "reviewCount": 467,
+   "reviewCount": 468,
    "access": "那須高原黒磯駅／東北新幹線→那須高原→バス（新那須下車）徒歩５分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本206-98",
@@ -201,9 +201,9 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 17900,
+   "minCharge": 16800,
    "reviewAverage": 4.69,
-   "reviewCount": 453,
+   "reviewCount": 459,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本269",
@@ -213,23 +213,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32051.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051.jpg",
    "special": "山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。"
-  },
-  {
-   "hotelNo": 143355,
-   "name": "ペンションｆｕｒａｒｉ",
-   "kana": "ふらり",
-   "minCharge": 11000,
-   "reviewAverage": 4.68,
-   "reviewCount": 150,
-   "access": "＜車＞ 東北道那須ICより約20分。※那須街道（R17号）広谷地交差点経由県道（R68号）を白河方面へ",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久丙1148-111",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D143355",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D143355%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D143355",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/143355.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143355/143355.jpg",
-   "special": "天然温泉、広いドッグラン、そして畳敷きの客室でペットと一緒にゆったりと満喫できるペンションです。"
   },
   {
    "hotelNo": 128499,
@@ -288,7 +271,7 @@
    "kana": "ぺんしょん　いぐあなのもり",
    "minCharge": 12000,
    "reviewAverage": 4.63,
-   "reviewCount": 109,
+   "reviewCount": 110,
    "access": "東北自動車道　那須ＩＣ／黒磯駅よりお車にて約１５分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久乙802-55",
@@ -305,7 +288,7 @@
    "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
    "minCharge": 6000,
    "reviewAverage": 4.6,
-   "reviewCount": 1280,
+   "reviewCount": 1281,
    "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
    "address1": "栃木県",
    "address2": "那須郡那須町高久乙600-103",
@@ -339,7 +322,7 @@
    "kana": "なすこうげんのやど　さんすいかく",
    "minCharge": 18700,
    "reviewAverage": 4.58,
-   "reviewCount": 227,
+   "reviewCount": 231,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本206",
@@ -356,7 +339,7 @@
    "kana": "なすいちやほてる",
    "minCharge": 9900,
    "reviewAverage": 4.57,
-   "reviewCount": 480,
+   "reviewCount": 481,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",
    "address1": "栃木県",
    "address2": "那須郡那須町湯本204-14",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142918.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142918/142918.jpg",
    "special": "貸切露天風呂と天然温泉の大浴場。お食事は個室でゆっくり那須高原ならではの旬と味を堪能。"
+  },
+  {
+   "hotelNo": 29896,
+   "name": "合歓林（ネムリン）オリエンタル",
+   "kana": "なすおんせん　ねむりん　おりえんたる",
+   "minCharge": 5500,
+   "reviewAverage": 4.56,
+   "reviewCount": 723,
+   "access": "JR 東北(宇都宮)線　黒磯駅　那須ハイランドパーク行きバスで50分「遅山橋」下車徒歩5分／東北道那須インターより18分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久乙3375-2708",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29896",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29896%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29896",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29896.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29896/29896.jpg",
+   "special": "オリエンタルな空間に癒される特別な休日を。国産牛ステーキ＆豊富なドリンク類をお好きなだけどうぞ！"
   }
  ],
- "listedMatchCount": 30
+ "listedMatchCount": 29
 }

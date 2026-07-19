@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 24,
    "matchRate": 26.7,
    "minPrice": 6720,
-   "medianPrice": 17845,
+   "medianPrice": 16480,
    "reviewAvgMean": 4.45
   },
   {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "kashikiri-buro--beppu",
-   "matchCount": 33,
-   "matchRate": 36.7,
+   "matchCount": 32,
+   "matchRate": 35.6,
    "minPrice": 2700,
-   "medianPrice": 9900,
-   "reviewAvgMean": 4.39
+   "medianPrice": 9845,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -80,7 +80,7 @@
    "matchCount": 41,
    "matchRate": 45.6,
    "minPrice": 4700,
-   "medianPrice": 11550,
+   "medianPrice": 11715,
    "reviewAvgMean": 4.48
   },
   {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kashikiri-buro--nasu",
-   "matchCount": 30,
-   "matchRate": 33.3,
+   "matchCount": 29,
+   "matchRate": 32.2,
    "minPrice": 2980,
-   "medianPrice": 11925,
-   "reviewAvgMean": 4.59
+   "medianPrice": 12000,
+   "reviewAvgMean": 4.58
   },
   {
    "area": {

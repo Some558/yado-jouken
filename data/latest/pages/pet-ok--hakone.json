@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 14,
-  "matchRate": 15.6,
+  "matchCount": 13,
+  "matchRate": 14.4,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6720,
-  "medianPrice": 10032,
-  "reviewAvgMean": 4.25,
-  "pricedCount": 14
+  "medianPrice": 10164,
+  "reviewAvgMean": 4.27,
+  "pricedCount": 13
  },
  "hotels": [
   {
@@ -65,9 +65,9 @@
    "hotelNo": 173084,
    "name": "レジーナリゾート箱根仙石原",
    "kana": "れじーなりぞーとはこねせんごくはら",
-   "minCharge": 32400,
+   "minCharge": 29100,
    "reviewAverage": 4.71,
-   "reviewCount": 130,
+   "reviewCount": 132,
    "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町仙石原817-360",
@@ -82,7 +82,7 @@
    "hotelNo": 192238,
    "name": "ペットと泊まれる宿－モリトソラ箱根－",
    "kana": "ぺっとととまれるやどーもりとそらはこねー",
-   "minCharge": 26500,
+   "minCharge": 25920,
    "reviewAverage": 4.44,
    "reviewCount": 56,
    "access": "【車】「萩窪ＩＣ」より約３５分【電車】小田原駅から箱根登山バス＆伊豆箱根バス「上鷹ノ巣」バス停目の前",
@@ -101,7 +101,7 @@
    "kana": null,
    "minCharge": 8500,
    "reviewAverage": 4.43,
-   "reviewCount": 123,
+   "reviewCount": 125,
    "access": "箱根登山鉄道　小涌谷駅から徒歩で約5分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町小涌谷483-2　Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　箱根小涌谷",
@@ -135,7 +135,7 @@
    "kana": null,
    "minCharge": 12000,
    "reviewAverage": 4.39,
-   "reviewCount": 72,
+   "reviewCount": 73,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町元箱根160-51",
@@ -152,7 +152,7 @@
    "kana": "らふぉーれ　はこねごうら　ゆのすみか",
    "minCharge": 9900,
    "reviewAverage": 4.19,
-   "reviewCount": 619,
+   "reviewCount": 622,
    "access": "【車】①箱根口－25分②御殿場（アウトレット）－30分　【電車】中強羅駅－徒歩5分　【バス】ひめしゃら林道入口－徒歩4分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町強羅1320",
@@ -169,7 +169,7 @@
    "kana": null,
    "minCharge": 9200,
    "reviewAverage": 4.14,
-   "reviewCount": 250,
+   "reviewCount": 251,
    "access": "御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町仙石原1246-748、1246-761",
@@ -181,29 +181,12 @@
    "special": "全室温泉＆足湯付き！最大10名宿泊可能なメゾネットヴィラ！仙石原草原へは徒歩約10分"
   },
   {
-   "hotelNo": 129468,
-   "name": "二の平温泉　ペットと泊まる宿　Ｄｏｇ’ｓ　Ｒｅｓｔ　Ｐｌａｃｅ",
-   "kana": "ぺっとととまるやど　どっぐ　れすと　ぷれいす",
-   "minCharge": 8000,
-   "reviewAverage": 4.09,
-   "reviewCount": 421,
-   "access": "強羅駅よりタクシーで１0分、小田原駅より伊豆箱根バス（湖尻行）で「みどりの村入口」まで40分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町二ノ平1297-269",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129468",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129468%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129468",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129468.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129468/129468.jpg",
-   "special": "箱根で愛犬、ペットと泊まれる源泉かけ流し温泉宿！　箱根旅行を大切な愛犬と一緒に。"
-  },
-  {
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
    "minCharge": 6720,
    "reviewAverage": 4.03,
-   "reviewCount": 164,
+   "reviewCount": 170,
    "access": "箱根登山バス：仙石高原 から徒歩2分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町仙石原字六郎兵衛1246-80　Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
@@ -237,7 +220,7 @@
    "kana": "せんごくこうげんだいはこねいちのゆ",
    "minCharge": 10164,
    "reviewAverage": 3.73,
-   "reviewCount": 345,
+   "reviewCount": 347,
    "access": "箱根湯本駅から箱根登山バスに乗車、仙石高原下車徒歩１０分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町仙石原1246-125",
@@ -252,9 +235,9 @@
    "hotelNo": 161012,
    "name": "リブマックスリゾート箱根芦ノ湖",
    "kana": "りぶまっくすりぞーとはこねあしのこ",
-   "minCharge": 7500,
+   "minCharge": 8000,
    "reviewAverage": 3.55,
-   "reviewCount": 538,
+   "reviewCount": 543,
    "access": "ＪＲ「小田原駅」よりお車にて約46分　伊豆箱根バス「大石バス停」から徒歩１分",
    "address1": "神奈川県",
    "address2": "足柄下郡箱根町元箱根159-171",
@@ -266,5 +249,5 @@
    "special": "和モダンがテーマの全室露天風呂付温宿。秋野菜グラタンやイクラ、熱々ステーキを楽しむ秋ビュッフェ開催。"
   }
  ],
- "listedMatchCount": 14
+ "listedMatchCount": 13
 }

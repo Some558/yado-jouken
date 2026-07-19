@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-07-19",
+ "dataAsOf": "2026-07-20",
  "areas": [
   {
    "area": {
@@ -92,7 +92,7 @@
    "slug": "kinen--ikaho",
    "matchCount": 29,
    "matchRate": 40.8,
-   "minPrice": 3900,
+   "minPrice": 4300,
    "medianPrice": 8800,
    "reviewAvgMean": 4.27
   },
@@ -118,8 +118,8 @@
    "slug": "kinen--karuizawa",
    "matchCount": 63,
    "matchRate": 22.7,
-   "minPrice": 3650,
-   "medianPrice": 11700,
+   "minPrice": 4500,
+   "medianPrice": 12155,
    "reviewAvgMean": 4.41
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 65,
    "matchRate": 36.3,
    "minPrice": 1950,
-   "medianPrice": 5360,
+   "medianPrice": 5520,
    "reviewAvgMean": 4.25
   }
  ]
