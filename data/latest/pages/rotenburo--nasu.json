@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -286,7 +286,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 25740,
+   "minCharge": 28600,
    "reviewAverage": 4.64,
    "reviewCount": 384,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -348,7 +348,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142918",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142918.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142918/142918.jpg",
-   "special": "貸切露天風呂と天然温泉の大浴場。お食事は個室でゆっくり那須高原ならではの旬と味を堪能。"
+   "special": "貸切露天風呂と天然温泉の大浴場。お食事は半個室でゆっくり、那須高原ならではの旬と味を堪能。"
   },
   {
    "hotelNo": 29896,

@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3990,
-  "medianPrice": 12000,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.43,
   "pricedCount": 41
  },

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5796,
-  "medianPrice": 14825,
+  "minPrice": 6216,
+  "medianPrice": 15675,
   "reviewAvgMean": 4.42,
   "pricedCount": 14
  },
@@ -150,7 +150,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 14800,
+   "minCharge": 16500,
    "reviewAverage": 4.4,
    "reviewCount": 2966,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -167,7 +167,7 @@
    "hotelNo": 16110,
    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
-   "minCharge": 5796,
+   "minCharge": 6216,
    "reviewAverage": 4.25,
    "reviewCount": 1167,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",

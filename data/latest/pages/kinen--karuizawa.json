@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4500,
-  "medianPrice": 12155,
+  "medianPrice": 12230,
   "reviewAvgMean": 4.41,
   "pricedCount": 37
  },
@@ -33,7 +33,7 @@
    "hotelNo": 177464,
    "name": "いこいヴィラ",
    "kana": "いこいヴぃら",
-   "minCharge": 6642,
+   "minCharge": 6893,
    "reviewAverage": 5.0,
    "reviewCount": 11,
    "access": "中軽井沢駅より徒歩にて約9分",
@@ -84,7 +84,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 29192,
+   "minCharge": 31972,
    "reviewAverage": 4.76,
    "reviewCount": 198,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -135,7 +135,7 @@
    "hotelNo": 183280,
    "name": "オーソルヴェール軽井沢倶楽部",
    "kana": "おーそるヴぇーるかるいざわくらぶ",
-   "minCharge": 12600,
+   "minCharge": 13200,
    "reviewAverage": 4.68,
    "reviewCount": 100,
    "access": "軽井沢駅から25分（軽井沢駅から無料送迎有・7日前まで要予約）。佐久平ICから20分。信濃追分駅から15分・駐車場無料",
@@ -305,7 +305,7 @@
    "hotelNo": 196294,
    "name": "西軽井沢ホテル　ａｔｅｌｉｅｒ　ｂｌａ（アトリエ・ブルゥ）ｂｙ　ＬＯＮＧＩＮＧＨＯＵＳＥ",
    "kana": "にしかるいざわほてるあとりえぶるぅ　ばい　ろんぎんぐはうす",
-   "minCharge": 14400,
+   "minCharge": 15000,
    "reviewAverage": 4.47,
    "reviewCount": 51,
    "access": "ＪＲ軽井沢駅から車約２０分、しなの鉄道御代田駅から車約６分。",

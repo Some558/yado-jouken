@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2210,
-  "medianPrice": 12650,
+  "medianPrice": 10098,
   "reviewAvgMean": 4.26,
   "pricedCount": 37
  },
@@ -220,7 +220,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.43,
    "reviewCount": 174,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -254,7 +254,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 15290,
+   "minCharge": 12320,
    "reviewAverage": 4.4,
    "reviewCount": 3004,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",
@@ -305,7 +305,7 @@
    "hotelNo": 84856,
    "name": "亀の井ホテル　熱海",
    "kana": "かめのいほてる　あたみ",
-   "minCharge": 12668,
+   "minCharge": 9030,
    "reviewAverage": 4.22,
    "reviewCount": 2165,
    "access": "JR熱海駅より無料送迎（要予約）あり、又は路線バス、厚木ICより車で約60分・駐車場無料",

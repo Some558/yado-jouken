@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 68,
    "matchRate": 75.6,
    "minPrice": 7130,
-   "medianPrice": 15850,
+   "medianPrice": 15875,
    "reviewAvgMean": 4.42
   },
   {
@@ -27,7 +27,7 @@
    "slug": "rotenburo--kusatsu",
    "matchCount": 38,
    "matchRate": 42.2,
-   "minPrice": 5796,
+   "minPrice": 6006,
    "medianPrice": 12140,
    "reviewAvgMean": 4.41
   },
@@ -80,7 +80,7 @@
    "matchCount": 23,
    "matchRate": 25.6,
    "minPrice": 7060,
-   "medianPrice": 12100,
+   "medianPrice": 11980,
    "reviewAvgMean": 4.46
   },
   {
@@ -118,7 +118,7 @@
    "slug": "rotenburo--karuizawa",
    "matchCount": 22,
    "matchRate": 24.4,
-   "minPrice": 5200,
+   "minPrice": 5500,
    "medianPrice": 13700,
    "reviewAvgMean": 4.43
   },
@@ -132,7 +132,7 @@
    "matchCount": 35,
    "matchRate": 38.9,
    "minPrice": 2700,
-   "medianPrice": 8330,
+   "medianPrice": 8500,
    "reviewAvgMean": 4.35
   }
  ]

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2500,
-  "medianPrice": 7650,
+  "medianPrice": 7700,
   "reviewAvgMean": 4.29,
   "pricedCount": 49
  },
@@ -135,7 +135,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6725,
+   "minCharge": 7397,
    "reviewAverage": 4.55,
    "reviewCount": 605,
    "access": "別府駅東口より徒歩約1分！",
@@ -203,7 +203,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 2970,
+   "minCharge": 3190,
    "reviewAverage": 4.52,
    "reviewCount": 1345,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",
@@ -237,7 +237,7 @@
    "hotelNo": 12660,
    "name": "別府温泉　ホテル白菊",
    "kana": "べっぷおんせん　しらぎく",
-   "minCharge": 16335,
+   "minCharge": 18150,
    "reviewAverage": 4.52,
    "reviewCount": 1405,
    "access": "JR日豊本線別府駅西口より徒歩7分／別府ICより車で13分／大分空港より車で50分／博多駅より2時間10分（別府駅下車）",

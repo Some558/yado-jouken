@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -84,7 +84,7 @@
    "hotelNo": 153568,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＧＡＨＡＭＡ（ガハマテラス）",
    "kana": "あまね　りぞーと　がはま",
-   "minCharge": 23680,
+   "minCharge": 24971,
    "reviewAverage": 4.75,
    "reviewCount": 121,
    "access": "別府駅よりお車にて約１５分",
@@ -322,7 +322,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6725,
+   "minCharge": 7397,
    "reviewAverage": 4.55,
    "reviewCount": 605,
    "access": "別府駅東口より徒歩約1分！",

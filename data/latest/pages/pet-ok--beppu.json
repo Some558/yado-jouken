@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1500,
-  "medianPrice": 6900,
+  "medianPrice": 7320,
   "reviewAvgMean": 3.95,
   "pricedCount": 4
  },
@@ -31,7 +31,7 @@
    "hotelNo": 196407,
    "name": "グランシア別府鉄輪",
    "kana": "ぐらんしあべっぷかんなわ",
-   "minCharge": 8400,
+   "minCharge": 10400,
    "reviewAverage": 4.59,
    "reviewCount": 40,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",

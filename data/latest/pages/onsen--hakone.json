@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -135,7 +135,7 @@
    "hotelNo": 173084,
    "name": "レジーナリゾート箱根仙石原",
    "kana": "れじーなりぞーとはこねせんごくはら",
-   "minCharge": 29100,
+   "minCharge": 34100,
    "reviewAverage": 4.71,
    "reviewCount": 132,
    "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
@@ -152,7 +152,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 42900,
+   "minCharge": 40700,
    "reviewAverage": 4.7,
    "reviewCount": 871,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",

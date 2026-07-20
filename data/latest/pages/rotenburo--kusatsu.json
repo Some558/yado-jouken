@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5796,
+  "minPrice": 6006,
   "medianPrice": 12140,
   "reviewAvgMean": 4.41,
   "pricedCount": 36
@@ -99,7 +99,7 @@
    "hotelNo": 4719,
    "name": "草津温泉　湯宿　みゆき",
    "kana": "くさつおんせん　ゆやど　みゆき",
-   "minCharge": 12853,
+   "minCharge": 13530,
    "reviewAverage": 4.76,
    "reviewCount": 393,
    "access": "ＪＲ長野原草津口駅から草津温泉までバス。必ずバスに乗換えて下さい。バス停から徒歩８分、渋川Ｉ．Ｃから９０分。",
@@ -133,7 +133,7 @@
    "hotelNo": 70807,
    "name": "草津温泉　奈良屋",
    "kana": "くさつおんせん　ならや",
-   "minCharge": 35145,
+   "minCharge": 39050,
    "reviewAverage": 4.73,
    "reviewCount": 871,
    "access": "ＪＲ長野原草津口駅よりＪＲバスで草温泉へ２５分、下車後送迎バスあり。（原則　8:30～18:00 ）",
@@ -303,7 +303,7 @@
    "hotelNo": 5878,
    "name": "草津温泉　昔心の宿　金みどり",
    "kana": "くさつおんせん　しゃくしんのやど　かねみどり",
-   "minCharge": 11495,
+   "minCharge": 12100,
    "reviewAverage": 4.43,
    "reviewCount": 849,
    "access": "ＪＲ吾妻線長野原草津口駅よりバスにて２５分後、草津温泉バスターミナルから徒歩５分。　関越道渋川伊香保ＩＣより８５分",
@@ -337,7 +337,7 @@
    "hotelNo": 108688,
    "name": "草津温泉　客室露天風呂と旬彩の宿　湯宿　いわふじ",
    "kana": "くさつおんせん　きゃくしつろてんぶろとしゅんさいのやど　ゆやど　いわふじ",
-   "minCharge": 20900,
+   "minCharge": 22000,
    "reviewAverage": 4.41,
    "reviewCount": 325,
    "access": "ＪＲ　長野原草津口駅より草津温泉行きのＪＲバスにて２５分",

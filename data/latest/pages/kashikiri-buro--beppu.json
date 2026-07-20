@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 41836,
    "name": "鉄輪温泉　湯けむりの里　東屋",
    "kana": "かんなわおんせん　ゆけむりのさと　あずまや",
-   "minCharge": 14300,
+   "minCharge": 15500,
    "reviewAverage": 4.68,
    "reviewCount": 518,
    "access": "別府駅より車で１５分／別府ＩＣより車で７分",
@@ -184,7 +184,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6725,
+   "minCharge": 7397,
    "reviewAverage": 4.55,
    "reviewCount": 605,
    "access": "別府駅東口より徒歩約1分！",
@@ -252,7 +252,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 2970,
+   "minCharge": 3190,
    "reviewAverage": 4.52,
    "reviewCount": 1345,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",

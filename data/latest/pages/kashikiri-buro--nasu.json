@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -303,7 +303,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 10650,
+   "minCharge": 9800,
    "reviewAverage": 4.6,
    "reviewCount": 64,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -348,7 +348,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142918",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142918.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142918/142918.jpg",
-   "special": "貸切露天風呂と天然温泉の大浴場。お食事は個室でゆっくり那須高原ならではの旬と味を堪能。"
+   "special": "貸切露天風呂と天然温泉の大浴場。お食事は半個室でゆっくり、那須高原ならではの旬と味を堪能。"
   },
   {
    "hotelNo": 29896,

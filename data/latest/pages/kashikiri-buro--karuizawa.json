@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 40945,
    "name": "ピッコロホテル　オペラ軽井沢",
    "kana": "ぴっころほてる　おぺら　かるいざわ",
-   "minCharge": 12600,
+   "minCharge": 13000,
    "reviewAverage": 5.0,
    "reviewCount": 169,
    "access": "しなの鉄道信濃追分駅より車約7分 ／軽井沢駅からはタクシーで約15分／碓氷軽井沢I.C.から約20分 （時期による）",
@@ -116,7 +116,7 @@
    "hotelNo": 28349,
    "name": "軽井沢ホテル　ロンギングハウス",
    "kana": "かるいざわほてる　ろんぎんぐはうす",
-   "minCharge": 14800,
+   "minCharge": 13800,
    "reviewAverage": 4.24,
    "reviewCount": 1377,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",

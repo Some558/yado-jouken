@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 151481,
    "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
    "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 58500,
+   "minCharge": 65000,
    "reviewAverage": 5.0,
    "reviewCount": 34,
    "access": "松山駅よりお車にて約３５分",
@@ -116,7 +116,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 5760,
+   "minCharge": 5490,
    "reviewAverage": 4.49,
    "reviewCount": 1038,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",

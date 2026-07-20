@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -101,7 +101,7 @@
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 11880,
+   "minCharge": 13200,
    "reviewAverage": 4.68,
    "reviewCount": 221,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
@@ -305,7 +305,7 @@
    "hotelNo": 19296,
    "name": "誕生の宿　奥城崎シーサイドホテル",
    "kana": "たんじょうのやど　おくきのさきしーさいどほてる",
-   "minCharge": 28528,
+   "minCharge": 28880,
    "reviewAverage": 4.08,
    "reviewCount": 532,
    "access": "ＪＲ山陰本線「JR竹野駅」より送迎車（事前要予約）で５分。お車：北近畿豊岡道「但馬空港IC」よりR178で約40分",

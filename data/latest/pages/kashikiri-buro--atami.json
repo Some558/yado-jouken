@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -320,7 +320,7 @@
    "hotelNo": 27985,
    "name": "熱海温泉　旅の宿　かみむら",
    "kana": "あたみおんせん　たびのやど　かみむら",
-   "minCharge": 7700,
+   "minCharge": 8800,
    "reviewAverage": 4.17,
    "reviewCount": 160,
    "access": "ＪＲ熱海駅下車タクシー８分（送迎有り・要予約）",
@@ -337,7 +337,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 5700,
+   "minCharge": 6000,
    "reviewAverage": 4.16,
    "reviewCount": 847,
    "access": "熱海駅より徒歩20分。車５分。",

@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "recordCount": 308,
  "conditions": [
   {
@@ -403,7 +403,7 @@
    "hotelNo": 106080,
    "name": "湯布院温泉　御宿　由布乃庄",
    "kana": "おやど　ゆふのしょう",
-   "minCharge": 21780,
+   "minCharge": 23700,
    "reviewAverage": 4.81,
    "reviewCount": 600,
    "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
@@ -782,7 +782,7 @@
    "hotelNo": 80781,
    "name": "湯布院温泉　ｆｏｒｅｓｔ　ｉｎｎ　ＢＯＲＮ",
    "kana": "ゆふいんおんせん　ふぉれすと　いん　ぼん",
-   "minCharge": 27900,
+   "minCharge": 30870,
    "reviewAverage": 4.66,
    "reviewCount": 182,
    "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
@@ -871,7 +871,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 10080,
+   "minCharge": 11168,
    "reviewAverage": 4.62,
    "reviewCount": 142,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -1091,27 +1091,6 @@
    ]
   },
   {
-   "hotelNo": 177044,
-   "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
-   "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 16510,
-   "reviewAverage": 4.51,
-   "reviewCount": 311,
-   "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",
-   "address1": "大分県",
-   "address2": "由布市挾間町時松105",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177044",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D177044%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177044",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177044.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177044/177044.jpg",
-   "special": "新感覚の贅沢キャンプ！まるでリゾートホテル♪　キャンプなのに道具は不要！九州最大のグランピング体験を",
-   "conditions": [
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 75289,
    "name": "由布院温泉　東匠庵",
    "kana": "ゆふいんおんせん　とうしょうあん",
@@ -1132,6 +1111,27 @@
     "kinen",
     "breakfast",
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 177044,
+   "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
+   "kana": "ゆふいんぐらんぴんぐ　こもれび",
+   "minCharge": 19370,
+   "reviewAverage": 4.51,
+   "reviewCount": 311,
+   "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",
+   "address1": "大分県",
+   "address2": "由布市挾間町時松105",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177044",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D177044%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177044",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177044.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177044/177044.jpg",
+   "special": "新感覚の贅沢キャンプ！まるでリゾートホテル♪　キャンプなのに道具は不要！九州最大のグランピング体験を",
+   "conditions": [
+    "rotenburo",
+    "sauna"
    ]
   },
   {
@@ -1666,7 +1666,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 9315,
+   "minCharge": 9415,
    "reviewAverage": 4.14,
    "reviewCount": 250,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",
@@ -1873,7 +1873,7 @@
    "hotelNo": 76428,
    "name": "由布院温泉　由布院　寛ぎの宿　なな川",
    "kana": "ゆふいんおんせん　ゆふいん　くつろぎのやど　ななかわ",
-   "minCharge": 29520,
+   "minCharge": 32800,
    "reviewAverage": 4.0,
    "reviewCount": 118,
    "access": "由布院駅よりタクシーで５分",
@@ -1896,7 +1896,7 @@
    "hotelNo": 141911,
    "name": "湯布院別荘　四季彩ホテル",
    "kana": "ゆふいんべっそう しきさいほてる",
-   "minCharge": 8000,
+   "minCharge": 7500,
    "reviewAverage": 3.9,
    "reviewCount": 310,
    "access": "JR由布院駅より車5分、徒歩25分、湯布院インターより車7分。",

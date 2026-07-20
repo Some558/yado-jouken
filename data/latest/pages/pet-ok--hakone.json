@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 15900,
+   "minCharge": 17900,
    "reviewAverage": 4.72,
    "reviewCount": 30,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -65,7 +65,7 @@
    "hotelNo": 173084,
    "name": "レジーナリゾート箱根仙石原",
    "kana": "れじーなりぞーとはこねせんごくはら",
-   "minCharge": 29100,
+   "minCharge": 34100,
    "reviewAverage": 4.71,
    "reviewCount": 132,
    "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
@@ -82,7 +82,7 @@
    "hotelNo": 192238,
    "name": "ペットと泊まれる宿－モリトソラ箱根－",
    "kana": "ぺっとととまれるやどーもりとそらはこねー",
-   "minCharge": 25920,
+   "minCharge": 26500,
    "reviewAverage": 4.44,
    "reviewCount": 56,
    "access": "【車】「萩窪ＩＣ」より約３５分【電車】小田原駅から箱根登山バス＆伊豆箱根バス「上鷹ノ巣」バス停目の前",

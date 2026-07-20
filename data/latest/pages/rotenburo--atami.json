@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 8303,
+   "minCharge": 8740,
    "reviewAverage": 4.79,
    "reviewCount": 41,
    "access": "熱海駅よりお車で約20分",
@@ -167,7 +167,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 51000,
+   "minCharge": 56650,
    "reviewAverage": 4.71,
    "reviewCount": 165,
    "access": "ＪＲ　熱海駅",
@@ -252,7 +252,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 19166,
+   "minCharge": 18750,
    "reviewAverage": 4.58,
    "reviewCount": 307,
    "access": "JR熱海駅よりお車・タクシーで約１０分",

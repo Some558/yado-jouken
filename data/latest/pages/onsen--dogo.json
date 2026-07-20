@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-20",
+ "dataAsOf": "2026-07-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 3200,
-  "medianPrice": 8415,
+  "medianPrice": 8650,
   "reviewAvgMean": 4.33,
   "pricedCount": 28
  },
@@ -135,7 +135,7 @@
    "hotelNo": 179083,
    "name": "道後ｈａｋｕｒｏ",
    "kana": "どうごはくろ",
-   "minCharge": 6480,
+   "minCharge": 6950,
    "reviewAverage": 4.58,
    "reviewCount": 1329,
    "access": "道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分",
@@ -322,7 +322,7 @@
    "hotelNo": 6001,
    "name": "道後温泉　道後グランドホテル",
    "kana": "どうごおんせん　どうごぐらんどほてる",
-   "minCharge": 10450,
+   "minCharge": 9350,
    "reviewAverage": 4.2,
    "reviewCount": 2856,
    "access": "伊予鉄道後温泉駅より徒歩5分・ 松山インターより車にて２５分・ 松山空港より車にて30分",
