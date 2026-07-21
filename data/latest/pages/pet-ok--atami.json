@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5111,
-  "medianPrice": 10680,
+  "medianPrice": 12580,
   "reviewAvgMean": 4.37,
   "pricedCount": 11
  },
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 7012,
+   "minCharge": 7225,
    "reviewAverage": 4.44,
    "reviewCount": 415,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -116,7 +116,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 18150,
+   "minCharge": 19360,
    "reviewAverage": 4.41,
    "reviewCount": 2518,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -133,7 +133,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 10680,
+   "minCharge": 12580,
    "reviewAverage": 4.36,
    "reviewCount": 1217,
    "access": "ＪＲ伊東線網代駅徒歩４分",

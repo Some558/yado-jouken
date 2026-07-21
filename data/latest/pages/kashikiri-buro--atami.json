@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 147152,
    "name": "南熱海網代山温泉　竹林庵　みずの",
    "kana": "みなみあたみあじろやまおんせん　ちくりんあん　みずの",
-   "minCharge": 35200,
+   "minCharge": 37400,
    "reviewAverage": 4.54,
    "reviewCount": 180,
    "access": "網代駅よりお車にて約7分",
@@ -235,7 +235,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 18150,
+   "minCharge": 19360,
    "reviewAverage": 4.41,
    "reviewCount": 2518,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -269,7 +269,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 10680,
+   "minCharge": 12580,
    "reviewAverage": 4.36,
    "reviewCount": 1217,
    "access": "ＪＲ伊東線網代駅徒歩４分",

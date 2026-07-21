@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 12850,
+  "medianPrice": 12935,
   "reviewAvgMean": 4.29,
   "pricedCount": 34
  },
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 46200,
+   "minCharge": 50600,
    "reviewAverage": 4.75,
    "reviewCount": 71,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -184,7 +184,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 13050,
+   "minCharge": 13900,
    "reviewAverage": 4.55,
    "reviewCount": 688,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
@@ -252,7 +252,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 18150,
+   "minCharge": 19360,
    "reviewAverage": 4.41,
    "reviewCount": 2518,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -337,7 +337,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 13720,
+   "minCharge": 13220,
    "reviewAverage": 4.2,
    "reviewCount": 1014,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

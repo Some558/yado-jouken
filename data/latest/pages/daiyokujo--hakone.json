@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -271,7 +271,7 @@
    "hotelNo": 29488,
    "name": "箱根温泉　鶴井の宿　紫雲荘",
    "kana": "はこねおんせん　かくいのやど　しうんそう",
-   "minCharge": 20800,
+   "minCharge": 21000,
    "reviewAverage": 4.51,
    "reviewCount": 1130,
    "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",

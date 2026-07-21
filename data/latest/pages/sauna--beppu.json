@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "facility"
  },
@@ -303,7 +303,7 @@
    "hotelNo": 147186,
    "name": "Ｔａｂｉｓｔ　日生や　別府鉄輪",
    "kana": "たびすと　にっせいや　べっぷかんなわ",
-   "minCharge": 4750,
+   "minCharge": 4845,
    "reviewAverage": 4.33,
    "reviewCount": 248,
    "access": "別府大学駅よりバスにて約5分。別府駅よりバスで約30分。鉄輪バス停下車徒歩5分。",
@@ -337,7 +337,7 @@
    "hotelNo": 8950,
    "name": "グランドメルキュール別府湾リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるべっぷわんりぞーとあんどすぱ",
-   "minCharge": 6040,
+   "minCharge": 6200,
    "reviewAverage": 4.21,
    "reviewCount": 2911,
    "access": "東九州自動車道『速見IC』より車で10分 / 大分空港より車で30分 / JR日豊本線別府駅より車で約20分",
@@ -354,7 +354,7 @@
    "hotelNo": 1938,
    "name": "別府温泉　ホテルニューツルタ",
    "kana": "べっぷおんせん　ほてるにゅーつるた",
-   "minCharge": 3000,
+   "minCharge": 3500,
    "reviewAverage": 4.2,
    "reviewCount": 1083,
    "access": "ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi",

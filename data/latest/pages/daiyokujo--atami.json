@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -23,8 +23,8 @@
    "value": 268,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2210,
-  "medianPrice": 10098,
+  "minPrice": 3500,
+  "medianPrice": 10500,
   "reviewAvgMean": 4.26,
   "pricedCount": 37
  },
@@ -50,7 +50,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 46200,
+   "minCharge": 50600,
    "reviewAverage": 4.75,
    "reviewCount": 71,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -305,7 +305,7 @@
    "hotelNo": 84856,
    "name": "亀の井ホテル　熱海",
    "kana": "かめのいほてる　あたみ",
-   "minCharge": 9030,
+   "minCharge": 10500,
    "reviewAverage": 4.22,
    "reviewCount": 2165,
    "access": "JR熱海駅より無料送迎（要予約）あり、又は路線バス、厚木ICより車で約60分・駐車場無料",

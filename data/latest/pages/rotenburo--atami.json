@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11000,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.33,
   "pricedCount": 63
  },
@@ -320,7 +320,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 13050,
+   "minCharge": 13900,
    "reviewAverage": 4.55,
    "reviewCount": 688,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
@@ -337,7 +337,7 @@
    "hotelNo": 147152,
    "name": "南熱海網代山温泉　竹林庵　みずの",
    "kana": "みなみあたみあじろやまおんせん　ちくりんあん　みずの",
-   "minCharge": 35200,
+   "minCharge": 37400,
    "reviewAverage": 4.54,
    "reviewCount": 180,
    "access": "網代駅よりお車にて約7分",

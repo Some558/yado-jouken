@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 13200,
+  "medianPrice": 13283,
   "reviewAvgMean": 4.58,
   "pricedCount": 17
  },
@@ -116,7 +116,7 @@
    "hotelNo": 184094,
    "name": "のぞみグランピング＆スパ佐久×軽井沢",
    "kana": "のぞみぐらんぴんぐあんどすぱさくかるいざわ",
-   "minCharge": 27220,
+   "minCharge": 24800,
    "reviewAverage": 4.7,
    "reviewCount": 74,
    "access": "上信越道小諸ジャンクションから中部横断道を経由して、佐久南ＩＣからお車で約３分",
@@ -150,7 +150,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 19140,
+   "minCharge": 23100,
    "reviewAverage": 4.64,
    "reviewCount": 774,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -167,7 +167,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 37400,
+   "minCharge": 34100,
    "reviewAverage": 4.63,
    "reviewCount": 118,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -252,7 +252,7 @@
    "hotelNo": 29249,
    "name": "軽井沢プリンスホテル　ウエスト",
    "kana": "かるいざわ　ぷりんす　うえすと",
-   "minCharge": 12415,
+   "minCharge": 13283,
    "reviewAverage": 4.34,
    "reviewCount": 2909,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",
@@ -303,7 +303,7 @@
    "hotelNo": 67962,
    "name": "アートホテルドッグレッグ軽井沢",
    "kana": "あーとほてるどっぐれっぐかるいざわ",
-   "minCharge": 9900,
+   "minCharge": 12100,
    "reviewAverage": 4.0,
    "reviewCount": 68,
    "access": "上信越道 碓氷軽井沢ICより約10km,15分／JR新幹線 軽井沢駅よりタクシー5分,約1100円",

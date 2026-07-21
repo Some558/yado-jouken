@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 59,
-  "matchRate": 23.8,
+  "matchRate": 23.7,
   "denominator": {
    "type": "area_total",
-   "value": 248,
+   "value": 249,
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2500,
@@ -152,7 +152,7 @@
    "hotelNo": 167075,
    "name": "コスタ・デル・ソル　ひじ",
    "kana": "こすた　でる　そる　ひじ",
-   "minCharge": 11500,
+   "minCharge": 15300,
    "reviewAverage": 4.54,
    "reviewCount": 180,
    "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",
@@ -186,7 +186,7 @@
    "hotelNo": 30691,
    "name": "別府温泉　竹と椿のお宿　花べっぷ",
    "kana": "たけとつばきのおやど　なはべっぷ",
-   "minCharge": 15422,
+   "minCharge": 16632,
    "reviewAverage": 4.53,
    "reviewCount": 1207,
    "access": "ＪＲ別府駅より徒歩６分／高速道路別府ＩＣより５．３ｋｍ",

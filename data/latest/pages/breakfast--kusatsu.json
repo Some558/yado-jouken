@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-21",
+ "dataAsOf": "2026-07-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -271,7 +271,7 @@
    "hotelNo": 56137,
    "name": "草津温泉　ホテル櫻井",
    "kana": "さくらい",
-   "minCharge": 14300,
+   "minCharge": 15400,
    "reviewAverage": 4.5,
    "reviewCount": 4805,
    "access": "ＪＲ吾妻線長野原草津口駅からバスで約28分／関越道渋川伊香保ＩＣ又は上信越道碓井軽井沢IC経由／ＪＲ高速バスゆめぐり号",
@@ -305,7 +305,7 @@
    "hotelNo": 151295,
    "name": "草津温泉３２６　山の湯ホテル",
    "kana": "くさつおんせん３２６　やまのゆほてる",
-   "minCharge": 7850,
+   "minCharge": 8350,
    "reviewAverage": 4.4,
    "reviewCount": 509,
    "access": "長野原草津口駅よりバス",
