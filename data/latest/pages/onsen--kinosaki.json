@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 6500,
-  "medianPrice": 12315,
+  "medianPrice": 12865,
   "reviewAvgMean": 4.48,
   "pricedCount": 36
  },
@@ -186,7 +186,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 22000,
+   "minCharge": 21285,
    "reviewAverage": 4.72,
    "reviewCount": 451,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -339,7 +339,7 @@
    "hotelNo": 70350,
    "name": "城崎温泉　心の宿　三國屋",
    "kana": "こころのやど　みくにや",
-   "minCharge": 10450,
+   "minCharge": 13750,
    "reviewAverage": 4.51,
    "reviewCount": 236,
    "access": "電車：京都・大阪より約2時間半。城崎温泉駅より徒歩３分　車：北近畿豊岡道但馬空港ICから30分　専用駐車場あり",

@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "areas": [
   {
    "area": {
@@ -41,7 +41,7 @@
    "matchCount": 52,
    "matchRate": 19.4,
    "minPrice": 3500,
-   "medianPrice": 12320,
+   "medianPrice": 12650,
    "reviewAvgMean": 4.26
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 82,
    "matchRate": 32.9,
    "minPrice": 1500,
-   "medianPrice": 8000,
+   "medianPrice": 8040,
    "reviewAvgMean": 4.32
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 86,
    "matchRate": 27.9,
    "minPrice": 5500,
-   "medianPrice": 13500,
+   "medianPrice": 13655,
    "reviewAvgMean": 4.47
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 52,
    "matchRate": 32.9,
    "minPrice": 4500,
-   "medianPrice": 11000,
+   "medianPrice": 12000,
    "reviewAvgMean": 4.43
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 30,
    "matchRate": 42.3,
    "minPrice": 4350,
-   "medianPrice": 8800,
+   "medianPrice": 9020,
    "reviewAvgMean": 4.22
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 70,
    "matchRate": 20.7,
    "minPrice": 2730,
-   "medianPrice": 8700,
+   "medianPrice": 10400,
    "reviewAvgMean": 4.36
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 47,
    "matchRate": 17.0,
    "minPrice": 4500,
-   "medianPrice": 12900,
+   "medianPrice": 13200,
    "reviewAvgMean": 4.34
   },
   {
@@ -131,8 +131,8 @@
    "slug": "breakfast--dogo",
    "matchCount": 47,
    "matchRate": 26.3,
-   "minPrice": 2610,
-   "medianPrice": 5398,
+   "minPrice": 2700,
+   "medianPrice": 5453,
    "reviewAvgMean": 4.24
   }
  ]

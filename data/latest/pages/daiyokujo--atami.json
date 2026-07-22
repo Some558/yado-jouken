@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3500,
-  "medianPrice": 10500,
+  "medianPrice": 12320,
   "reviewAvgMean": 4.26,
   "pricedCount": 37
  },
@@ -152,7 +152,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 6670,
+   "minCharge": 8630,
    "reviewAverage": 4.49,
    "reviewCount": 598,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -288,7 +288,7 @@
    "hotelNo": 32430,
    "name": "熱海網代温泉　源泉の宿ホテル松風苑",
    "kana": "あたみあじろおんせん　げんせんのやど　ほてる　しょうふうえん",
-   "minCharge": 6000,
+   "minCharge": 8000,
    "reviewAverage": 4.28,
    "reviewCount": 1598,
    "access": "網代駅への送迎は、定時運行です。 ※詳細は、当苑ホームページでご確認願います。",
@@ -305,7 +305,7 @@
    "hotelNo": 84856,
    "name": "亀の井ホテル　熱海",
    "kana": "かめのいほてる　あたみ",
-   "minCharge": 10500,
+   "minCharge": 13440,
    "reviewAverage": 4.22,
    "reviewCount": 2165,
    "access": "JR熱海駅より無料送迎（要予約）あり、又は路線バス、厚木ICより車で約60分・駐車場無料",
@@ -322,7 +322,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 14900,
+   "minCharge": 16500,
    "reviewAverage": 4.22,
    "reviewCount": 3062,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",

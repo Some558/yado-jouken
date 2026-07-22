@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -23,8 +23,8 @@
    "value": 179,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 2610,
-  "medianPrice": 5398,
+  "minPrice": 2700,
+  "medianPrice": 5453,
   "reviewAvgMean": 4.24,
   "pricedCount": 44
  },
@@ -169,7 +169,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 5490,
+   "minCharge": 6650,
    "reviewAverage": 4.49,
    "reviewCount": 1038,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -203,7 +203,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 4760,
+   "minCharge": 4840,
    "reviewAverage": 4.46,
    "reviewCount": 2133,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",

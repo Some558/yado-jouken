@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2730,
-  "medianPrice": 8700,
+  "medianPrice": 10400,
   "reviewAvgMean": 4.36,
   "pricedCount": 37
  },
@@ -152,7 +152,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 23460,
+   "minCharge": 26460,
    "reviewAverage": 4.67,
    "reviewCount": 34,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
@@ -231,7 +231,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
-   "special": "★心ほっこり口コミ高評価★7月19日空室有★健康と美容を磨くきらり那須旅行"
+   "special": "心ほっこり口コミ高評価★7月26日〜8月7日空室有★健康と美容を磨くきらり那須旅行"
   },
   {
    "hotelNo": 109123,
@@ -271,7 +271,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 13000,
+   "minCharge": 15000,
    "reviewAverage": 4.46,
    "reviewCount": 60,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -288,7 +288,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 10350,
+   "minCharge": 11615,
    "reviewAverage": 4.4,
    "reviewCount": 1826,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -356,7 +356,7 @@
    "hotelNo": 69317,
    "name": "ぬくもりに心なごむ湯宿　星のあかり",
    "kana": "ぬくもりにこころなごむゆやど　ほしのあかり",
-   "minCharge": 22000,
+   "minCharge": 22550,
    "reviewAverage": 4.3,
    "reviewCount": 1017,
    "access": "那須塩原駅より車にて４０分（送迎有り・要予約）※カーナビをご利用でお越しの場合は、住所検索をお勧めいたします。",

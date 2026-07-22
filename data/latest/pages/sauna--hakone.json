@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 10700,
+   "minCharge": 11700,
    "reviewAverage": 4.66,
    "reviewCount": 1374,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",
@@ -184,7 +184,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 9500,
+   "minCharge": 12000,
    "reviewAverage": 4.58,
    "reviewCount": 6443,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -334,23 +334,6 @@
    "special": "3種の源泉貸切風呂【無料】と、季節の食材を使った和食会席料理が人気！非日常を楽しめる隠れ宿！"
   },
   {
-   "hotelNo": 73891,
-   "name": "ホテルハーヴェスト箱根甲子園",
-   "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 17050,
-   "reviewAverage": 4.41,
-   "reviewCount": 675,
-   "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原817-253",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D73891",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D73891%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D73891",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/73891.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73891/73891.jpg",
-   "special": "水上に佇む静寂のリゾートで、美食と温泉を堪能する贅沢な癒しのひとときを。"
-  },
-  {
    "hotelNo": 13791,
    "name": "箱根湯本温泉　あうら橘",
    "kana": "はこねゆもとおんせん　あうらたちばな",
@@ -366,6 +349,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/13791.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13791/13791.jpg",
    "special": "箱根湯本のリゾートホテルを感じさせる源泉の宿。露天風呂付き客室が24室。屋上に開放感あるスカイテラス"
+  },
+  {
+   "hotelNo": 73891,
+   "name": "ホテルハーヴェスト箱根甲子園",
+   "kana": "はーヴぇすとはこねこうしえん",
+   "minCharge": 19800,
+   "reviewAverage": 4.41,
+   "reviewCount": 675,
+   "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原817-253",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D73891",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D73891%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D73891",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/73891.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73891/73891.jpg",
+   "special": "水上に佇む静寂のリゾートで、美食と温泉を堪能する贅沢な癒しのひとときを。"
   }
  ],
  "listedMatchCount": 40

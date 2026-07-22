@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 10000,
+  "medianPrice": 10098,
   "reviewAvgMean": 4.32,
   "pricedCount": 29
  },
@@ -116,7 +116,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 9200,
+   "minCharge": 11700,
    "reviewAverage": 4.55,
    "reviewCount": 1063,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -269,7 +269,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 12580,
+   "minCharge": 13680,
    "reviewAverage": 4.36,
    "reviewCount": 1217,
    "access": "ＪＲ伊東線網代駅徒歩４分",
@@ -337,7 +337,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 6000,
+   "minCharge": 9000,
    "reviewAverage": 4.16,
    "reviewCount": 847,
    "access": "熱海駅より徒歩20分。車５分。",

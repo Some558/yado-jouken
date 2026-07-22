@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 9000,
-  "medianPrice": 13700,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.47,
   "pricedCount": 7
  },
@@ -48,7 +48,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 13700,
+   "minCharge": 13200,
    "reviewAverage": 4.67,
    "reviewCount": 538,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -133,7 +133,7 @@
    "hotelNo": 147939,
    "name": "小瀬温泉ホテル",
    "kana": "こせおんせんほてる",
-   "minCharge": 11000,
+   "minCharge": 12320,
    "reviewAverage": 3.88,
    "reviewCount": 242,
    "access": "車：軽井沢駅15分（旧軽井沢からは料金所で当館利用と伝えると通行料無料）バス：軽井沢駅北口2番線から小瀬温泉下車徒歩1分",

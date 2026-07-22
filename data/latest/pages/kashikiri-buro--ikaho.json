@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 147464,
    "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
    "kana": "いかほおんせん　ちぎらじんせんてい",
-   "minCharge": 19800,
+   "minCharge": 16500,
    "reviewAverage": 4.58,
    "reviewCount": 528,
    "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
@@ -218,7 +218,7 @@
    "hotelNo": 7050,
    "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
    "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 8085,
+   "minCharge": 9240,
    "reviewAverage": 4.36,
    "reviewCount": 1437,
    "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
@@ -354,7 +354,7 @@
    "hotelNo": 73955,
    "name": "伊香保温泉　金太夫（伊東園ホテルズ）",
    "kana": "いかほおんせん　きんだゆう",
-   "minCharge": 7898,
+   "minCharge": 8998,
    "reviewAverage": 3.79,
    "reviewCount": 869,
    "access": "ＪＲ　渋川駅から車で約２５分",

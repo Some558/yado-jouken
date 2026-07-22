@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5111,
-  "medianPrice": 12580,
+  "medianPrice": 13680,
   "reviewAvgMean": 4.37,
   "pricedCount": 11
  },
@@ -48,7 +48,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 8740,
+   "minCharge": 9775,
    "reviewAverage": 4.79,
    "reviewCount": 41,
    "access": "熱海駅よりお車で約20分",
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 7225,
+   "minCharge": 7820,
    "reviewAverage": 4.44,
    "reviewCount": 415,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -133,7 +133,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 12580,
+   "minCharge": 13680,
    "reviewAverage": 4.36,
    "reviewCount": 1217,
    "access": "ＪＲ伊東線網代駅徒歩４分",
@@ -150,7 +150,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 14900,
+   "minCharge": 16500,
    "reviewAverage": 4.22,
    "reviewCount": 3062,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 13950,
+   "minCharge": 16150,
    "reviewAverage": 3.97,
    "reviewCount": 480,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",

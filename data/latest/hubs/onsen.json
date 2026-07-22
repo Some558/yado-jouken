@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "areas": [
   {
    "area": {
@@ -41,7 +41,7 @@
    "matchCount": 55,
    "matchRate": 20.5,
    "minPrice": 3500,
-   "medianPrice": 10500,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.27
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 90,
    "matchRate": 36.1,
    "minPrice": 1500,
-   "medianPrice": 8600,
+   "medianPrice": 8580,
    "reviewAvgMean": 4.34
   },
   {
@@ -66,8 +66,8 @@
    "slug": "onsen--yufuin",
    "matchCount": 96,
    "matchRate": 31.2,
-   "minPrice": 3730,
-   "medianPrice": 12949,
+   "minPrice": 4032,
+   "medianPrice": 12999,
    "reviewAvgMean": 4.45
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 42,
    "matchRate": 26.6,
    "minPrice": 6500,
-   "medianPrice": 12315,
+   "medianPrice": 12865,
    "reviewAvgMean": 4.48
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 26,
    "matchRate": 36.6,
    "minPrice": 4980,
-   "medianPrice": 8800,
+   "medianPrice": 9020,
    "reviewAvgMean": 4.28
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 38,
    "matchRate": 11.2,
    "minPrice": 2730,
-   "medianPrice": 10675,
+   "medianPrice": 11307,
    "reviewAvgMean": 4.34
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 14,
    "matchRate": 5.1,
    "minPrice": 5500,
-   "medianPrice": 13700,
+   "medianPrice": 14135,
    "reviewAvgMean": 4.38
   },
   {

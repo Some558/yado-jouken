@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 13283,
+  "medianPrice": 14135,
   "reviewAvgMean": 4.58,
   "pricedCount": 17
  },
@@ -31,7 +31,7 @@
    "hotelNo": 172066,
    "name": "ＭＯＲＩＨＡＫＵ",
    "kana": "もりはく",
-   "minCharge": 12155,
+   "minCharge": 11220,
    "reviewAverage": 5.0,
    "reviewCount": 14,
    "access": "軽井沢駅よりお車にて約9分",
@@ -99,7 +99,7 @@
    "hotelNo": 165025,
    "name": "レジーナリゾート軽井沢御影用水",
    "kana": "れじーなりぞーとかるいざわみかげようすい",
-   "minCharge": 24200,
+   "minCharge": 31900,
    "reviewAverage": 4.75,
    "reviewCount": 148,
    "access": "御代田駅より送迎車にて約５分※要予約",
@@ -252,7 +252,7 @@
    "hotelNo": 29249,
    "name": "軽井沢プリンスホテル　ウエスト",
    "kana": "かるいざわ　ぷりんす　うえすと",
-   "minCharge": 13283,
+   "minCharge": 14135,
    "reviewAverage": 4.34,
    "reviewCount": 2909,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",

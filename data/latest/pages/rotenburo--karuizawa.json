@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -21,10 +21,10 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5650,
-  "medianPrice": 13700,
+  "minPrice": 5150,
+  "medianPrice": 13650,
   "reviewAvgMean": 4.43,
-  "pricedCount": 21
+  "pricedCount": 22
  },
  "hotels": [
   {
@@ -45,6 +45,23 @@
    "special": "軽井沢の小さなペンション。無料送迎・貸切風呂あり！非日常体験をどうぞ。"
   },
   {
+   "hotelNo": 179282,
+   "name": "高峰マウンテンホテル",
+   "kana": "たかみねまうんてんほてる",
+   "minCharge": 14100,
+   "reviewAverage": 4.7,
+   "reviewCount": 150,
+   "access": "小諸駅よりお車にて約４５分／佐久平駅よりお車にて約６０分",
+   "address1": "長野県",
+   "address2": "小諸市高峰高原",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D179282",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D179282%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D179282",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/179282.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179282/179282.jpg",
+   "special": "雲海の先、標高２０００ｍのマウンテンリゾートへ"
+  },
+  {
    "hotelNo": 184094,
    "name": "のぞみグランピング＆スパ佐久×軽井沢",
    "kana": "のぞみぐらんぴんぐあんどすぱさくかるいざわ",
@@ -62,27 +79,10 @@
    "special": "光と風のグランピング。　グランピング×スパで欲張りな休日を"
   },
   {
-   "hotelNo": 179282,
-   "name": "高峰マウンテンホテル",
-   "kana": "たかみねまうんてんほてる",
-   "minCharge": null,
-   "reviewAverage": 4.7,
-   "reviewCount": 150,
-   "access": "小諸駅よりお車にて約４５分／佐久平駅よりお車にて約６０分",
-   "address1": "長野県",
-   "address2": "小諸市高峰高原",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D179282",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D179282%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D179282",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/179282.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179282/179282.jpg",
-   "special": "雲海の先、標高２０００ｍのマウンテンリゾートへ"
-  },
-  {
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 13700,
+   "minCharge": 13200,
    "reviewAverage": 4.67,
    "reviewCount": 538,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -116,7 +116,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 8415,
+   "minCharge": 8840,
    "reviewAverage": 4.62,
    "reviewCount": 741,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -133,7 +133,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 19200,
+   "minCharge": 19900,
    "reviewAverage": 4.58,
    "reviewCount": 429,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -167,7 +167,7 @@
    "hotelNo": 74000,
    "name": "ホテルハーヴェスト旧軽井沢",
    "kana": "はーヴぇすときゅうかるいざわ",
-   "minCharge": 27800,
+   "minCharge": 29700,
    "reviewAverage": 4.56,
    "reviewCount": 1107,
    "access": "軽井沢駅より徒歩11分",
@@ -235,7 +235,7 @@
    "hotelNo": 67500,
    "name": "ザ・プリンス軽井沢",
    "kana": "ざ・ぷりんすかるいざわ",
-   "minCharge": 19813,
+   "minCharge": 21298,
    "reviewAverage": 4.43,
    "reviewCount": 308,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",
@@ -252,7 +252,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 19392,
+   "minCharge": 23956,
    "reviewAverage": 4.41,
    "reviewCount": 420,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -286,7 +286,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 27867,
+   "minCharge": 26734,
    "reviewAverage": 4.34,
    "reviewCount": 290,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -354,7 +354,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 5700,
+   "minCharge": 5500,
    "reviewAverage": 3.98,
    "reviewCount": 2364,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",

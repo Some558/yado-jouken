@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-22",
+ "dataAsOf": "2026-07-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2980,
-  "medianPrice": 9850,
+  "medianPrice": 11087,
   "reviewAvgMean": 4.46,
   "pricedCount": 24
  },
@@ -48,7 +48,7 @@
    "hotelNo": 138068,
    "name": "コテージ　わん’Ｓ",
    "kana": "こてーじ　わんず",
-   "minCharge": 7000,
+   "minCharge": 8000,
    "reviewAverage": 4.85,
    "reviewCount": 359,
    "access": "ＪＲ東北本線　黒磯駅からお車で１０分",
@@ -184,7 +184,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 13000,
+   "minCharge": 15000,
    "reviewAverage": 4.46,
    "reviewCount": 60,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -201,7 +201,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 7943,
+   "minCharge": 14910,
    "reviewAverage": 4.44,
    "reviewCount": 8079,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
@@ -269,7 +269,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 10350,
+   "minCharge": 11615,
    "reviewAverage": 4.4,
    "reviewCount": 1826,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -303,7 +303,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 8000,
+   "minCharge": 5440,
    "reviewAverage": 4.31,
    "reviewCount": 475,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",
