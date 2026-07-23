@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6400,
-  "medianPrice": 12000,
+  "minPrice": 7200,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.27,
   "pricedCount": 13
  },
@@ -133,7 +133,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 12000,
+   "minCharge": 13500,
    "reviewAverage": 4.39,
    "reviewCount": 73,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -184,7 +184,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 6400,
+   "minCharge": 7200,
    "reviewAverage": 4.03,
    "reviewCount": 170,
    "access": "箱根登山バス：仙石高原 から徒歩2分",
@@ -201,7 +201,7 @@
    "hotelNo": 153552,
    "name": "リブマックスリゾート箱根仙石原",
    "kana": "りぶまっくすりぞーとはこねせんごくばら",
-   "minCharge": 8000,
+   "minCharge": 12380,
    "reviewAverage": 3.9,
    "reviewCount": 272,
    "access": "【箱根登山バス】「台ヶ岳」バス停よりホテルまで徒歩にて約１０分　",

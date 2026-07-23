@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5980,
-  "medianPrice": 13372,
+  "medianPrice": 14015,
   "reviewAvgMean": 4.39,
   "pricedCount": 22
  },
@@ -48,7 +48,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 12995,
+   "minCharge": 14490,
    "reviewAverage": 4.75,
    "reviewCount": 299,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -133,7 +133,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 14910,
+   "minCharge": 14385,
    "reviewAverage": 4.44,
    "reviewCount": 8079,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
@@ -303,7 +303,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 7625,
+   "minCharge": 8625,
    "reviewAverage": 4.26,
    "reviewCount": 1622,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",

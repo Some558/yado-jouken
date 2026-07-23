@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7000,
+  "minPrice": 9000,
   "medianPrice": 17825,
   "reviewAvgMean": 4.52,
   "pricedCount": 10
@@ -167,7 +167,7 @@
    "hotelNo": 76390,
    "name": "由布院温泉　蓮輪ＩＮＮ",
    "kana": "ゆふいんおんせん　はすわいん",
-   "minCharge": 7000,
+   "minCharge": 9000,
    "reviewAverage": 4.27,
    "reviewCount": 111,
    "access": "湯布院駅から徒歩で１５分",

@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "facility"
  },
@@ -116,7 +116,7 @@
    "hotelNo": 28079,
    "name": "城崎温泉　ときわ別館",
    "kana": "きのさきおんせん　ときわべっかん",
-   "minCharge": 12100,
+   "minCharge": 15400,
    "reviewAverage": 4.7,
    "reviewCount": 201,
    "access": "JR山陰本線「城崎温泉駅」、無料バスで5分 ／北近畿豊岡道「但馬空港IC」より国道312号線、県道3号線経由で約30分。",
@@ -201,7 +201,7 @@
    "hotelNo": 5307,
    "name": "城崎温泉　川口屋城崎リバーサイドホテル",
    "kana": "きのさきおんせん　かわぐちや　きのさきりばーさいどほてる",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.52,
    "reviewCount": 539,
    "access": "北近畿豊岡道　但馬空港Ｉ．Ｃより国道９号約２５分。",

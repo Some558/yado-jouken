@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 2980,
+  "minPrice": 3980,
   "medianPrice": 13500,
   "reviewAvgMean": 4.58,
   "pricedCount": 29
@@ -65,7 +65,7 @@
    "hotelNo": 2489,
    "name": "那須温泉　ペンション散歩道",
    "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 18290,
+   "minCharge": 20980,
    "reviewAverage": 4.8,
    "reviewCount": 176,
    "access": "東北自動車道那須ＩＣより車で１２分",
@@ -218,7 +218,7 @@
    "hotelNo": 128499,
    "name": "森のコテージ　くるみの木",
    "kana": "もりのこてーじ　くるみのき",
-   "minCharge": 6400,
+   "minCharge": 7400,
    "reviewAverage": 4.67,
    "reviewCount": 214,
    "access": "黒磯駅又は那須塩原駅よりお車で50分",
@@ -303,7 +303,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 9800,
+   "minCharge": 10650,
    "reviewAverage": 4.6,
    "reviewCount": 64,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",

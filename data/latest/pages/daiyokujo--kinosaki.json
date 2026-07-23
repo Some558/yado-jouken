@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -152,7 +152,7 @@
    "hotelNo": 5307,
    "name": "城崎温泉　川口屋城崎リバーサイドホテル",
    "kana": "きのさきおんせん　かわぐちや　きのさきりばーさいどほてる",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.52,
    "reviewCount": 539,
    "access": "北近畿豊岡道　但馬空港Ｉ．Ｃより国道９号約２５分。",
@@ -288,7 +288,7 @@
    "hotelNo": 177593,
    "name": "ザ　グラン　リゾート城崎",
    "kana": "ざ　ぐらん　りぞーときのさき",
-   "minCharge": 4830,
+   "minCharge": 5200,
    "reviewAverage": 4.18,
    "reviewCount": 75,
    "access": "ＪＲ　城崎温泉駅よりお車にて約１０分",

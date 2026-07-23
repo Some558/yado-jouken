@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-23",
+ "dataAsOf": "2026-07-24",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 14135,
+  "medianPrice": 15000,
   "reviewAvgMean": 4.58,
   "pricedCount": 17
  },
@@ -31,7 +31,7 @@
    "hotelNo": 172066,
    "name": "ＭＯＲＩＨＡＫＵ",
    "kana": "もりはく",
-   "minCharge": 11220,
+   "minCharge": 14025,
    "reviewAverage": 5.0,
    "reviewCount": 14,
    "access": "軽井沢駅よりお車にて約9分",
@@ -133,7 +133,7 @@
    "hotelNo": 183280,
    "name": "オーソルヴェール軽井沢倶楽部",
    "kana": "おーそるヴぇーるかるいざわくらぶ",
-   "minCharge": 13200,
+   "minCharge": 15000,
    "reviewAverage": 4.68,
    "reviewCount": 100,
    "access": "軽井沢駅から25分（軽井沢駅から無料送迎有・7日前まで要予約）。佐久平ICから20分。信濃追分駅から15分・駐車場無料",
