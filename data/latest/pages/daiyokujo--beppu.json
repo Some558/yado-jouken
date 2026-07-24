@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 59,
-  "matchRate": 23.7,
+  "matchRate": 23.6,
   "denominator": {
    "type": "area_total",
-   "value": 249,
+   "value": 250,
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2500,
-  "medianPrice": 8000,
+  "medianPrice": 7700,
   "reviewAvgMean": 4.29,
   "pricedCount": 49
  },
@@ -305,7 +305,7 @@
    "hotelNo": 168759,
    "name": "ＲＥＸ　ＨＯＴＥＬ　別府",
    "kana": "れっくす　ほてる　べっぷ",
-   "minCharge": 12650,
+   "minCharge": 11550,
    "reviewAverage": 4.46,
    "reviewCount": 386,
    "access": "別府駅よりお車にて約５分",
@@ -322,7 +322,7 @@
    "hotelNo": 182800,
    "name": "アマネク別府ゆらり",
    "kana": "あまねくべっぷ　ゆらり",
-   "minCharge": 8040,
+   "minCharge": 8442,
    "reviewAverage": 4.44,
    "reviewCount": 454,
    "access": "JR線「別府駅」東口から徒歩3分",

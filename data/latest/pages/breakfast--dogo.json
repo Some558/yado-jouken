@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2300,
-  "medianPrice": 5650,
+  "medianPrice": 5592,
   "reviewAvgMean": 4.24,
   "pricedCount": 44
  },
@@ -203,7 +203,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 4760,
+   "minCharge": 4670,
    "reviewAverage": 4.46,
    "reviewCount": 2133,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",
@@ -237,7 +237,7 @@
    "hotelNo": 8384,
    "name": "道後プリンスホテル〜旬華趣湯　あったらいいな、が湧く湯宿〜",
    "kana": "どうごおんせん　どうごぷりんすほてる",
-   "minCharge": 9900,
+   "minCharge": 11000,
    "reviewAverage": 4.45,
    "reviewCount": 2158,
    "access": "【車】松山道松山ICより30分。【リムジンバス】松山空港より40分。松山観光港より45分。道後温泉駅到着後、電話で送迎有",

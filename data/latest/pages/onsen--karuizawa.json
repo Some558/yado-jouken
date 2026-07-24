@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -23,7 +23,7 @@
    "value": 277,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
-  "minPrice": 7200,
+  "minPrice": 6200,
   "medianPrice": 14135,
   "reviewAvgMean": 4.38,
   "pricedCount": 11
@@ -67,7 +67,7 @@
    "hotelNo": 2010,
    "name": "天狗温泉　浅間山荘",
    "kana": "てんぐおんせん　あさまさんそう",
-   "minCharge": 7200,
+   "minCharge": 6200,
    "reviewAverage": 4.55,
    "reviewCount": 127,
    "access": "上信越自動車道、小諸ＩＣより車で２５分。軽井沢より車で４０分。",

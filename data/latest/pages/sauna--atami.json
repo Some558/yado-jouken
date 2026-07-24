@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5111,
-  "medianPrice": 13785,
+  "medianPrice": 13160,
   "reviewAvgMean": 4.29,
   "pricedCount": 34
  },
@@ -31,7 +31,7 @@
    "hotelNo": 196361,
    "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
    "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 33500,
+   "minCharge": 38000,
    "reviewAverage": 4.94,
    "reviewCount": 17,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
@@ -133,7 +133,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 56650,
+   "minCharge": 52800,
    "reviewAverage": 4.71,
    "reviewCount": 165,
    "access": "ＪＲ　熱海駅",
@@ -269,7 +269,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 15290,
+   "minCharge": 12320,
    "reviewAverage": 4.4,
    "reviewCount": 3004,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",
@@ -286,7 +286,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 16500,
+   "minCharge": 17400,
    "reviewAverage": 4.22,
    "reviewCount": 3062,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7200,
+  "minPrice": 6880,
   "medianPrice": 15830,
   "reviewAvgMean": 4.45,
   "pricedCount": 24
@@ -116,7 +116,7 @@
    "hotelNo": 19985,
    "name": "箱根湯本温泉　箱根　花紋",
    "kana": "はこねゆもとおんせん　はこね　かもん",
-   "minCharge": 31900,
+   "minCharge": 25300,
    "reviewAverage": 4.62,
    "reviewCount": 813,
    "access": "箱根湯本駅より車で5分・徒歩15分、東名厚木ＩＣより車で30分　送迎は１５：００以降（ご宿泊の方のみ湯本駅到着後要電話）",
@@ -150,7 +150,7 @@
    "hotelNo": 29488,
    "name": "箱根温泉　鶴井の宿　紫雲荘",
    "kana": "はこねおんせん　かくいのやど　しうんそう",
-   "minCharge": 21000,
+   "minCharge": 20800,
    "reviewAverage": 4.51,
    "reviewCount": 1130,
    "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",
@@ -354,7 +354,7 @@
    "hotelNo": 9669,
    "name": "箱根湯本温泉　箱根パークス吉野",
    "kana": "はこねゆもとおんせん　はこねぱーくすよしの",
-   "minCharge": 8470,
+   "minCharge": 7130,
    "reviewAverage": 4.28,
    "reviewCount": 1428,
    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",

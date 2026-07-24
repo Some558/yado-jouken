@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5000,
-  "medianPrice": 11700,
+  "medianPrice": 11150,
   "reviewAvgMean": 4.33,
   "pricedCount": 63
  },
@@ -48,7 +48,7 @@
    "hotelNo": 196361,
    "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
    "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 33500,
+   "minCharge": 38000,
    "reviewAverage": 4.94,
    "reviewCount": 17,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
@@ -167,7 +167,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 56650,
+   "minCharge": 52800,
    "reviewAverage": 4.71,
    "reviewCount": 165,
    "access": "ＪＲ　熱海駅",
@@ -252,7 +252,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 19218,
+   "minCharge": 19062,
    "reviewAverage": 4.58,
    "reviewCount": 307,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -303,7 +303,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 11700,
+   "minCharge": 10700,
    "reviewAverage": 4.55,
    "reviewCount": 1063,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",

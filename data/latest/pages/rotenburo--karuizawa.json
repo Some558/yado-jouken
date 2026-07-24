@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5150,
+  "minPrice": 4700,
   "medianPrice": 13650,
   "reviewAvgMean": 4.43,
   "pricedCount": 22
@@ -150,7 +150,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 25410,
+   "minCharge": 25960,
    "reviewAverage": 4.58,
    "reviewCount": 335,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -354,7 +354,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 5500,
+   "minCharge": 4700,
    "reviewAverage": 3.98,
    "reviewCount": 2364,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8470,
+  "medianPrice": 8442,
   "reviewAvgMean": 4.38,
   "pricedCount": 29
  },
@@ -252,7 +252,7 @@
    "hotelNo": 182800,
    "name": "アマネク別府ゆらり",
    "kana": "あまねくべっぷ　ゆらり",
-   "minCharge": 8040,
+   "minCharge": 8442,
    "reviewAverage": 4.44,
    "reviewCount": 454,
    "access": "JR線「別府駅」東口から徒歩3分",
@@ -320,7 +320,7 @@
    "hotelNo": 7084,
    "name": "別府城島温泉　城島高原ホテル",
    "kana": "きじまこうげんほてる",
-   "minCharge": 8470,
+   "minCharge": 7931,
    "reviewAverage": 4.28,
    "reviewCount": 904,
    "access": "大分空港より車にて60分／JR別府駅より車にて25分／別府ICより車にて15分/JR由布院駅より車にて15分",

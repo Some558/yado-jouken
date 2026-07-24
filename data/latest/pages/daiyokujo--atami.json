@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3500,
-  "medianPrice": 12650,
+  "medianPrice": 12320,
   "reviewAvgMean": 4.26,
   "pricedCount": 37
  },
@@ -254,7 +254,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 15290,
+   "minCharge": 12320,
    "reviewAverage": 4.4,
    "reviewCount": 3004,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",
@@ -282,7 +282,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D149439",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/149439.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149439/149439.jpg",
-   "special": "6年獲得！楽天ゴールドアワード2024＆日本の宿アワードW受賞★新鮮な海の幸懐石！クチコミNo.1！"
+   "special": "6年獲得！楽天ゴールドアワード＆日本の宿アワードW受賞★新鮮な海の幸懐石！クチコミNo.1！"
   },
   {
    "hotelNo": 32430,
@@ -322,7 +322,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 16500,
+   "minCharge": 17400,
    "reviewAverage": 4.22,
    "reviewCount": 3062,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 12100,
+  "medianPrice": 12000,
   "reviewAvgMean": 4.43,
   "pricedCount": 51
  },
@@ -82,7 +82,7 @@
    "hotelNo": 2489,
    "name": "那須温泉　ペンション散歩道",
    "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 20980,
+   "minCharge": 18290,
    "reviewAverage": 4.8,
    "reviewCount": 176,
    "access": "東北自動車道那須ＩＣより車で１２分",
@@ -167,7 +167,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 16800,
+   "minCharge": 14600,
    "reviewAverage": 4.69,
    "reviewCount": 459,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -269,7 +269,7 @@
    "hotelNo": 25121,
    "name": "モンゴリアビレッジ　テンゲル",
    "kana": "もんごりあびれっじ　てんげる",
-   "minCharge": 9713,
+   "minCharge": 8213,
    "reviewAverage": 4.65,
    "reviewCount": 1136,
    "access": "【電車】那須塩原駅or黒磯駅より那須湯本方面のバス　友愛の森下車【高速バス】友愛の森下車　友愛の森からは送迎（要予約）",
@@ -286,7 +286,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 29700,
+   "minCharge": 25300,
    "reviewAverage": 4.64,
    "reviewCount": 384,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",

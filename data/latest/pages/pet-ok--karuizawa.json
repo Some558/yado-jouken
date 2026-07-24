@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-24",
+ "dataAsOf": "2026-07-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 15000,
+  "medianPrice": 14805,
   "reviewAvgMean": 4.58,
   "pricedCount": 17
  },
@@ -48,7 +48,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 15930,
+   "minCharge": 14805,
    "reviewAverage": 5.0,
    "reviewCount": 125,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -167,7 +167,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 34100,
+   "minCharge": 30800,
    "reviewAverage": 4.63,
    "reviewCount": 118,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -184,7 +184,7 @@
    "hotelNo": 178462,
    "name": "ＳＯＲＡ　ＨＯＴＥＬ　ＫＡＲＵＩＺＡＷＡ　ＯＵＴＬＥＴ",
    "kana": "そら　ほてる　かるいざわ　あうとれっと",
-   "minCharge": 10900,
+   "minCharge": 10700,
    "reviewAverage": 4.46,
    "reviewCount": 127,
    "access": "長野新幹線　軽井沢駅よりお車にて約５分",
@@ -303,7 +303,7 @@
    "hotelNo": 67962,
    "name": "アートホテルドッグレッグ軽井沢",
    "kana": "あーとほてるどっぐれっぐかるいざわ",
-   "minCharge": 12100,
+   "minCharge": 11000,
    "reviewAverage": 4.0,
    "reviewCount": 68,
    "access": "上信越道 碓氷軽井沢ICより約10km,15分／JR新幹線 軽井沢駅よりタクシー5分,約1100円",
