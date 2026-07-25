@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-25",
+ "dataAsOf": "2026-07-26",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 1500,
   "medianPrice": 7900,
-  "reviewAvgMean": 3.95,
+  "reviewAvgMean": 3.98,
   "pricedCount": 4
  },
  "hotels": [
@@ -33,7 +33,7 @@
    "kana": "ぐらんしあべっぷかんなわ",
    "minCharge": 10400,
    "reviewAverage": 4.59,
-   "reviewCount": 40,
+   "reviewCount": 41,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",
    "address1": "大分県",
    "address2": "別府市鶴見照湯1409-1",
@@ -49,7 +49,7 @@
    "name": "別府温泉　わんこの宿　ゆるり",
    "kana": "べっぷおんせん　わんこのやど　ゆるり",
    "minCharge": 11550,
-   "reviewAverage": 3.91,
+   "reviewAverage": 4.0,
    "reviewCount": 170,
    "access": "別府駅よりお車にて約２０分",
    "address1": "大分県",
@@ -66,8 +66,8 @@
    "name": "別府温泉　ホテル好楽",
    "kana": "べっぷおんせん　こうらく",
    "minCharge": 5400,
-   "reviewAverage": 3.86,
-   "reviewCount": 638,
+   "reviewAverage": 3.88,
+   "reviewCount": 699,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",
    "address1": "大分県",
    "address2": "別府市北浜3-13-21",
@@ -83,8 +83,8 @@
    "name": "別府駅前　ホテルはやし",
    "kana": "べっぷえきまえ　はやし",
    "minCharge": 1500,
-   "reviewAverage": 3.45,
-   "reviewCount": 1406,
+   "reviewAverage": 3.44,
+   "reviewCount": 1424,
    "access": "別府駅前すぐ",
    "address1": "大分県",
    "address2": "別府市駅前本町3-5",

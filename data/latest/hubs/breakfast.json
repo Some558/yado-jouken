@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-07-25",
+ "dataAsOf": "2026-07-26",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 83,
    "matchRate": 23.5,
    "minPrice": 5500,
-   "medianPrice": 15117,
-   "reviewAvgMean": 4.4
+   "medianPrice": 14950,
+   "reviewAvgMean": 4.39
   },
   {
    "area": {
@@ -28,8 +28,8 @@
    "matchCount": 36,
    "matchRate": 23.5,
    "minPrice": 4490,
-   "medianPrice": 12090,
-   "reviewAvgMean": 4.39
+   "medianPrice": 11590,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -54,8 +54,8 @@
    "matchCount": 82,
    "matchRate": 32.8,
    "minPrice": 1500,
-   "medianPrice": 8100,
-   "reviewAvgMean": 4.32
+   "medianPrice": 7780,
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -66,9 +66,9 @@
    "slug": "breakfast--yufuin",
    "matchCount": 86,
    "matchRate": 27.9,
-   "minPrice": 5500,
-   "medianPrice": 14150,
-   "reviewAvgMean": 4.47
+   "minPrice": 6600,
+   "medianPrice": 13970,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -80,8 +80,8 @@
    "matchCount": 52,
    "matchRate": 32.9,
    "minPrice": 4500,
-   "medianPrice": 12000,
-   "reviewAvgMean": 4.43
+   "medianPrice": 11550,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -92,9 +92,9 @@
    "slug": "breakfast--ikaho",
    "matchCount": 30,
    "matchRate": 42.3,
-   "minPrice": 4350,
+   "minPrice": 4500,
    "medianPrice": 9020,
-   "reviewAvgMean": 4.22
+   "reviewAvgMean": 4.23
   },
   {
    "area": {
@@ -106,7 +106,7 @@
    "matchCount": 70,
    "matchRate": 20.6,
    "minPrice": 3000,
-   "medianPrice": 10400,
+   "medianPrice": 10150,
    "reviewAvgMean": 4.36
   },
   {
@@ -119,8 +119,8 @@
    "matchCount": 47,
    "matchRate": 17.0,
    "minPrice": 4500,
-   "medianPrice": 13200,
-   "reviewAvgMean": 4.34
+   "medianPrice": 12600,
+   "reviewAvgMean": 4.35
   },
   {
    "area": {
@@ -132,8 +132,8 @@
    "matchCount": 47,
    "matchRate": 26.3,
    "minPrice": 2300,
-   "medianPrice": 5592,
-   "reviewAvgMean": 4.24
+   "medianPrice": 5503,
+   "reviewAvgMean": 4.25
   }
  ]
 }

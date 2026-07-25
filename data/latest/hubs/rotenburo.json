@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-07-25",
+ "dataAsOf": "2026-07-26",
  "areas": [
   {
    "area": {
@@ -28,8 +28,8 @@
    "matchCount": 38,
    "matchRate": 42.2,
    "minPrice": 6006,
-   "medianPrice": 13090,
-   "reviewAvgMean": 4.41
+   "medianPrice": 12590,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -41,8 +41,8 @@
    "matchCount": 63,
    "matchRate": 70.0,
    "minPrice": 5000,
-   "medianPrice": 11150,
-   "reviewAvgMean": 4.33
+   "medianPrice": 11000,
+   "reviewAvgMean": 4.34
   },
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 59,
    "matchRate": 65.6,
    "minPrice": 3500,
-   "medianPrice": 10000,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.38
   },
   {
@@ -81,7 +81,7 @@
    "matchRate": 25.6,
    "minPrice": 7590,
    "medianPrice": 11980,
-   "reviewAvgMean": 4.46
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -94,7 +94,7 @@
    "matchRate": 52.1,
    "minPrice": 4980,
    "medianPrice": 8998,
-   "reviewAvgMean": 4.22
+   "reviewAvgMean": 4.23
   },
   {
    "area": {
@@ -107,7 +107,7 @@
    "matchRate": 56.7,
    "minPrice": 3000,
    "medianPrice": 12000,
-   "reviewAvgMean": 4.43
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -119,8 +119,8 @@
    "matchCount": 22,
    "matchRate": 24.4,
    "minPrice": 4700,
-   "medianPrice": 13650,
-   "reviewAvgMean": 4.43
+   "medianPrice": 13100,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -133,7 +133,7 @@
    "matchRate": 38.9,
    "minPrice": 2700,
    "medianPrice": 9000,
-   "reviewAvgMean": 4.35
+   "reviewAvgMean": 4.36
   }
  ]
 }
