@@ -108,8 +108,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188147/188147.jpg",
    "special": "24時間万代鉱源泉泉掛け流し家族風呂、１２品以上の会席料理と湯畑へのアクセスの良い木造宿",
    "conditions": [
-    "kinen",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -192,11 +190,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158400.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158400/158400.jpg",
    "special": "気づいたら帰りたい宿、草明庵。ゆっくり、たっぷりと草津の旅をお愉しみいただけます。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 162719,
@@ -258,9 +252,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184611/184611.jpg",
    "special": "草津温泉バスターミナルまで徒歩２分、湯畑まで徒歩5分。仲通りに佇む温泉宿です。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -281,6 +272,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184503/184503.jpg",
    "special": "小さく可愛い素泊り温泉宿です。 日々の雑踏から離れ、ゆったりと流れる静かな時をお楽しみください。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -389,9 +383,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70807/70807.jpg",
    "special": "湯畑すぐ。草津最古の源泉『白旗の湯』を楽しめる老舗宿。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -613,10 +604,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182411.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182411/182411.jpg",
    "special": "湯畑まで徒歩２分！湯畑源泉かけ流しのお湯を貸切でのんびり楽しめる素朴で昔なつかしい小さな旅館。",
-   "conditions": [
-    "onsen",
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 130704,
@@ -634,7 +622,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130704.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130704/130704.jpg",
    "special": "草津温泉の中心『湯畑』が目の前♪希少価値の高い『白旗源泉』かけ流しの温泉を提供する寛ぎの湯宿",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 39705,
@@ -696,6 +689,7 @@
    "conditions": [
     "onsen",
     "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -718,7 +712,6 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -739,6 +732,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179990/179990.jpg",
    "special": "楽天トラベル口コミ「風呂」4.64(6/28時点)★唯一無二の≪最上階温泉眺望浴場≫から絶景を望む",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -848,6 +845,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634.jpg",
    "special": "草津温泉にある全室木曽檜で数寄屋造の純和風旅館。源泉かけ流しの3つの無料貸切風呂",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -929,7 +929,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38838.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38838/38838.jpg",
    "special": "湯畑まで徒歩５〜７分♪全４部屋の小さな宿。お食事は個室にてゆっくりと♪お客様アンケート総合部門５つ星",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 56137,
@@ -972,6 +976,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6092/6092.jpg",
    "special": "3つの無料貸切温泉と地場物など素地にごだわったお食事が大好評★　現地現金決済割引あり！",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -1072,6 +1079,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107756/107756.jpg",
    "special": "全室温泉露天風呂付きの湯宿。温泉街から離れた高台に佇む湯宿で静かにお過ごしください。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1115,10 +1126,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67960.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67960/67960.jpg",
    "special": "「全室禁煙」禁煙認定施設につき喫煙者の方及び「就寝時間23時45分」を守れない方はご宿泊できません。",
-   "conditions": [
-    "onsen",
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 9598,
@@ -1166,7 +1174,6 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1211,12 +1218,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151295.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151295/151295.jpg",
    "special": "湯畑まで徒歩約2分　観光にもビジネス利用にも最適の宿！",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 7582,
@@ -1235,6 +1237,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7582/7582.jpg",
    "special": "草津隋一の良質源泉。24時間入浴可能な地蔵源泉　無料貸切温泉◇部屋食　湯畑徒歩5分",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -1304,7 +1309,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
    "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。",
    "conditions": [
-    "kinen"
+    "kinen",
+    "pet-ok"
    ]
   },
   {
@@ -1348,6 +1354,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75162/75162.jpg",
    "special": "1913年創業、日本旅館の伝統的建築そして草津の自然と文化を体験できます。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1394,9 +1403,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16556/16556.jpg",
    "special": "湯畑から徒歩圏内の静かな宿。源泉100％かけ流しの温泉は24時間入浴可！無料の貸切風呂も人気です",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -1434,7 +1440,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/173103.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173103/173103.jpg",
    "special": "素泊まり旅館で、リモートロックシステムで、セルフチェックインで自由に気楽におくつろぎいただけます。",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 108128,
@@ -1475,6 +1483,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
    "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。",
    "conditions": [
+    "onsen",
+    "kinen",
     "pet-ok"
    ]
   },
@@ -1495,9 +1505,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2487/2487.jpg",
    "special": "湯畑まで徒歩3分！明治時代から続く老舗旅館。100%源泉かけ流しの尻焼き風呂。貸切風呂無料！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1518,7 +1525,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/149296.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149296/149296.jpg",
    "special": "湯畑から徒歩１分♪2024年、湯畑源泉貸切風呂を新設♪無料温泉も複数有り、外湯めぐりに最適です♪",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 2398,
@@ -1537,10 +1546,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398.jpg",
    "special": "【2024年楽天トラベル☆ゴールドアワード＆日本の宿アワード☆】ダブル受賞を致しました！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1587,6 +1592,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184445/184445.jpg",
    "special": "★2022年秋オープン★新名所『裏草津』に屋上貸切露天風呂やルーフトップテラスのある宿が誕生♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1651,11 +1660,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136296.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136296/136296.jpg",
    "special": "湯めぐり・外食・観光の拠点に駅にも温泉街にも近い源泉かけ流しの旅館",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 7128,
@@ -1673,7 +1678,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7128.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7128/7128.jpg",
    "special": "湯畑の湯を守り続ける草津最古の老舗宿。保養に最適。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 136143,
@@ -1695,6 +1704,7 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -1739,10 +1749,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183532/183532.jpg",
    "special": "当館専用通路『湯畑小路』利用で【湯畑】までわずか徒歩3分！三種の源泉を堪能出来る温泉宿",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1851,6 +1857,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184476/184476.jpg",
    "special": "★草津温泉スキー場まで徒歩5分！！★万代鉱源泉掛け流しの温泉が自慢♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1943,6 +1953,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172893/172893.jpg",
    "special": "2019年4月NEWOPEN！『和モダン×洋モダン』をテーマにした全客室温泉半露天風呂付スパホテル",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1965,9 +1978,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52104/52104.jpg",
    "special": "旅のふれあいの宿。激安価格で観光プランも充実。無料貸切風呂あります。　全室インターネット可能です。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -1987,9 +1997,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8632.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8632/8632.jpg",
    "special": "国道沿いのベーカリーショップとコインランドリー併用の気軽なホテル(２４ｈ入浴ＯＫの温泉有ります。",
-   "conditions": [
-    "onsen"
-   ]
+   "conditions": []
   }
  ]
 }

@@ -14,17 +14,17 @@
   "type": "facility"
  },
  "stats": {
-  "matchCount": 30,
-  "matchRate": 33.3,
+  "matchCount": 31,
+  "matchRate": 34.4,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2980,
-  "medianPrice": 13000,
-  "reviewAvgMean": 4.58,
-  "pricedCount": 30
+  "medianPrice": 12500,
+  "reviewAvgMean": 4.57,
+  "pricedCount": 31
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "全室半露天風呂付の客室で癒しのひと時を。客室・温泉・お食事、那須の自然豊かな空間をご用意。"
   }
  ],
- "listedMatchCount": 30
+ "listedMatchCount": 31
 }

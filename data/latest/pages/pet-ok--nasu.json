@@ -14,17 +14,17 @@
   "type": "facility"
  },
  "stats": {
-  "matchCount": 25,
-  "matchRate": 27.8,
+  "matchCount": 26,
+  "matchRate": 28.9,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2980,
-  "medianPrice": 11000,
+  "medianPrice": 10387,
   "reviewAvgMean": 4.47,
-  "pricedCount": 25
+  "pricedCount": 26
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "那須のド真ん中に位置し観光に便利な天然温泉宿。貸切り露天風呂人気。ファミマ徒歩５分。"
   }
  ],
- "listedMatchCount": 25
+ "listedMatchCount": 26
 }

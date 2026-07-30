@@ -66,6 +66,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187330/187330.jpg",
    "special": "良質な温泉と厳選した食材で彩られた会席料理をプライベートな空間で、非日常のお寛ぎを。",
    "conditions": [
+    "onsen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -87,6 +89,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
    "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。",
    "conditions": [
+    "onsen",
+    "kinen",
     "rotenburo",
     "sauna"
    ]
@@ -151,6 +155,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197470/197470.jpg",
    "special": "熱海で唯一のミシュランキー(‘24,’25連続)選出ホテル",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -239,6 +246,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38893/38893.jpg",
    "special": "【総合★4.8】相模湾を望む全室オーシャンビュー、3つの無料貸切露天風呂と山海の幸で極上の熱海ステイ",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -309,7 +320,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197709.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197709/197709.jpg",
    "special": "2025年11月、熱海に新章。“美味眺望”の渚館。九階の展望湯と海景会席で、海と心がほどける至福を。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen"
+   ]
   },
   {
    "hotelNo": 198339,
@@ -328,6 +343,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198339/198339.jpg",
    "special": "オーシャンビューで相模湾を一望、季節の海と山の贅沢なお料理と温泉が自慢です。",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -397,6 +415,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136112/136112.jpg",
    "special": "熱海の山上より、相模湾と夜景を一望できるお部屋。スタイリッシュなリゾートで多様な滞在スタイルを",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -444,6 +466,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179729/179729.jpg",
    "special": "全室天然温泉風呂付き。オープンキッチンで愉しむ地元の旬の食材、海や花火を一望する空間をご満喫下さい。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -464,6 +490,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1854/1854.jpg",
    "special": "熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -507,6 +537,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130641/130641.jpg",
    "special": "熱海は海あり、山あり、温泉ありと四季を通じて楽しむ宿",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -600,6 +633,7 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -620,10 +654,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8223/8223.jpg",
    "special": "屋上天空露天から熱海の街が一望。夕食朝食ともお部屋食でゆったりとできる和風温泉旅館です。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -646,7 +676,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -668,8 +697,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7669/7669.jpg",
    "special": "日本画の巨匠横山大観ゆかりの宿　宏壮な日本庭園と京風懐石料理の味わいをご堪能下さい",
    "conditions": [
-    "onsen",
-    "daiyokujo",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -692,6 +719,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3044/3044.jpg",
    "special": "【夕・朝食ともにお部屋食】＜昭和7年創業＞熱海の緑の庭園に囲まれた閑静な和風温泉旅館",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -711,7 +742,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151233.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151233/151233.jpg",
    "special": "全12室 源泉露天風呂付き客室☆ 正統派オーベルジュ",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 1970,
@@ -754,6 +789,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/186096/186096.jpg",
    "special": "全室オーシャンビュー！ルーフトップテラス、温泉大浴場、ドリンクフリーフローサービスでおもてなし",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "pet-ok"
    ]
   },
@@ -777,6 +815,7 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -798,6 +837,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76848/76848.jpg",
    "special": "熱海　海を見渡す高台に佇む大人のための隠れ家的宿",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -844,6 +886,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/859/859.jpg",
    "special": "【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro",
@@ -915,10 +961,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32059.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32059/32059.jpg",
    "special": "全室オーシャンビュー！自慢のお食事は「部屋食」で♪お風呂は平日貸切OK！",
-   "conditions": [
-    "onsen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 149439,
@@ -1006,7 +1049,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15488.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15488/15488.jpg",
    "special": "■全館禁煙（喫煙所あり）■　熱海の老舗旅館で心休まる寛ぎの時間をごゆっくりお過ごしください。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 181341,
@@ -1135,7 +1183,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187532.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187532/187532.jpg",
    "special": "熱海駅よりお車で約5分 伊豆山温泉 オーシャンビューの宿",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 5417,
@@ -1180,6 +1231,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14505/14505.jpg",
    "special": "海まで徒歩１分！熱海中心街で観光に好立地。口コミ料理部門★４，５★源泉100％露天風呂有。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1296,6 +1351,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147782/147782.jpg",
    "special": "【26年3月 全室サウナ・露天風呂付きの別邸OPEN】絶景足湯が自慢のオールインクルーシブ温泉宿",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1613,6 +1672,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7646/7646.jpg",
    "special": "平成25年7月オープン！ 熱海駅から徒歩2分「懐かしの湯宿」がテーマの浴衣で楽しめる宿",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1654,6 +1717,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147565/147565.jpg",
    "special": "湧き出る天然温泉で癒しのひとときを愉しむ大人のリゾート♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -1723,7 +1789,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108403/108403.jpg",
    "special": "JR線熱海駅から徒歩4分で朝食・小学生以下添い寝無料のホテル！サンビーチまで車で10分",
    "conditions": [
-    "kinen",
     "breakfast"
    ]
   },
@@ -1768,6 +1833,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147451/147451.jpg",
    "special": "熱海駅から徒歩7分！海×露天風呂を満喫♪ 屋上テラスからは熱海海上花火大会も◎",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1854,10 +1923,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9557/9557.jpg",
    "special": "金鯱輝く大浴場と露天風呂、美しい日本庭園を満喫。夕食バイキングはアルコールも飲み放題付き",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1878,6 +1943,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137432/137432.jpg",
    "special": "温泉以外の施設も充実した熱海の温泉リゾートです。森の温泉で、ごゆっくりとおくつろぎください。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1987,6 +2056,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1459/1459.jpg",
    "special": "飲み放題バイキングが大人気！熱海サンビーチやムーンテラスへ徒歩5分",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -2028,7 +2101,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108115.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108115/108115.jpg",
    "special": "ＪＲ熱海駅より徒歩１分。ホテル直下より汲み上げられる自家源泉がお楽しみ頂けます。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 7313,

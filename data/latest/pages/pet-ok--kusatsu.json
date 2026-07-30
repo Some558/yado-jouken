@@ -14,19 +14,36 @@
   "type": "facility"
  },
  "stats": {
-  "matchCount": 4,
-  "matchRate": 4.4,
+  "matchCount": 5,
+  "matchRate": 5.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7160,
-  "medianPrice": 10500,
-  "reviewAvgMean": 3.98,
-  "pricedCount": 4
+  "medianPrice": 9440,
+  "reviewAvgMean": 4.04,
+  "pricedCount": 5
  },
  "hotels": [
+  {
+   "hotelNo": 25817,
+   "name": "ペットと泊まれる宿　コンドミニアム　フラットレット草津",
+   "kana": "ぺっとととまれるやど　こんどみにあむ　ふらっとれっと　くさつ",
+   "minCharge": 7605,
+   "reviewAverage": 4.3,
+   "reviewCount": 100,
+   "access": "関越道渋川伊香保ＩＣよりＲ353、145、292経由で草津へ60ｋｍ/ＪＲ吾妻線長野原草津口駅～バス25分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-1211",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25817",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25817%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25817",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25817.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
+   "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。"
+  },
   {
    "hotelNo": 195645,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
@@ -96,5 +113,5 @@
    "special": "2019年4月NEWOPEN！『和モダン×洋モダン』をテーマにした全客室温泉半露天風呂付スパホテル"
   }
  ],
- "listedMatchCount": 4
+ "listedMatchCount": 5
 }

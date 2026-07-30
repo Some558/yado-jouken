@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "kashikiri-buro--beppu",
-   "matchCount": 33,
-   "matchRate": 36.7,
+   "matchCount": 34,
+   "matchRate": 37.8,
    "minPrice": 2700,
-   "medianPrice": 10400,
-   "reviewAvgMean": 4.39
+   "medianPrice": 10414,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kashikiri-buro--yufuin",
-   "matchCount": 35,
-   "matchRate": 38.9,
+   "matchCount": 37,
+   "matchRate": 41.1,
    "minPrice": 4032,
    "medianPrice": 14000,
-   "reviewAvgMean": 4.46
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kashikiri-buro--nasu",
-   "matchCount": 30,
-   "matchRate": 33.3,
+   "matchCount": 31,
+   "matchRate": 34.4,
    "minPrice": 2980,
-   "medianPrice": 13000,
-   "reviewAvgMean": 4.58
+   "medianPrice": 12500,
+   "reviewAvgMean": 4.57
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kashikiri-buro--karuizawa",
-   "matchCount": 7,
-   "matchRate": 7.8,
-   "minPrice": 12000,
-   "medianPrice": 14200,
-   "reviewAvgMean": 4.47
+   "matchCount": 8,
+   "matchRate": 8.9,
+   "minPrice": 5767,
+   "medianPrice": 13600,
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -129,10 +129,10 @@
     "officialName": "松山・道後"
    },
    "slug": "kashikiri-buro--dogo",
-   "matchCount": 11,
-   "matchRate": 12.2,
+   "matchCount": 12,
+   "matchRate": 13.3,
    "minPrice": 3500,
-   "medianPrice": 7700,
+   "medianPrice": 9575,
    "reviewAvgMean": 4.45
   }
  ]

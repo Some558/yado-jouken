@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "pet-ok--kusatsu",
-   "matchCount": 4,
-   "matchRate": 4.4,
+   "matchCount": 5,
+   "matchRate": 5.6,
    "minPrice": 7160,
-   "medianPrice": 10500,
-   "reviewAvgMean": 3.98
+   "medianPrice": 9440,
+   "reviewAvgMean": 4.04
   },
   {
    "area": {
@@ -103,10 +103,10 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 25,
-   "matchRate": 27.8,
+   "matchCount": 26,
+   "matchRate": 28.9,
    "minPrice": 2980,
-   "medianPrice": 11000,
+   "medianPrice": 10387,
    "reviewAvgMean": 4.47
   },
   {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "pet-ok--dogo",
-   "matchCount": 3,
-   "matchRate": 3.3,
+   "matchCount": 4,
+   "matchRate": 4.4,
    "minPrice": 9660,
-   "medianPrice": 13750,
-   "reviewAvgMean": 4.28
+   "medianPrice": 12600,
+   "reviewAvgMean": 4.34
   }
  ]
 }

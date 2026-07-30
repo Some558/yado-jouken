@@ -12,8 +12,8 @@
  "dataAsOf": "2026-07-30",
  "detection": {
   "type": "vacant",
-  "checkinDate": "2026-07-11",
-  "checkoutDate": "2026-07-12"
+  "checkinDate": "2026-08-01",
+  "checkoutDate": "2026-08-02"
  },
  "stats": {
   "matchCount": 14,
@@ -24,11 +24,45 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 6200,
-  "medianPrice": 14200,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 11
+  "medianPrice": 20916,
+  "reviewAvgMean": 4.5,
+  "pricedCount": 13
  },
  "hotels": [
+  {
+   "hotelNo": 199017,
+   "name": "ホテルルートインＧｒａｎｄ佐久－佐久平駅南－",
+   "kana": "ほてるるーといんぐらんどさく　さくだいらえきみなみ",
+   "minCharge": 6800,
+   "reviewAverage": 4.8,
+   "reviewCount": 5,
+   "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久中佐都ICから車で約5分",
+   "address1": "長野県",
+   "address2": "佐久市岩村田5513-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199017",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199017%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199017",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199017.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199017/199017.jpg",
+   "special": "北陸新幹線「佐久平駅」より徒歩約10分、天然温泉大浴場・サウナ完備！"
+  },
+  {
+   "hotelNo": 181982,
+   "name": "ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　軽井沢　御代田",
+   "kana": "ざ　ひらまつ　かるいざわ　みよた",
+   "minCharge": 37000,
+   "reviewAverage": 4.75,
+   "reviewCount": 96,
+   "access": "上信越自動車道「佐久IC」から車で20分、北陸新幹線「佐久平駅」から車で25分",
+   "address1": "長野県",
+   "address2": "北佐久郡御代田町大字塩野375-723",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181982",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181982%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181982",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181982.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181982/181982.jpg",
+   "special": "ひらまつが提案する「グラン・オーベルジュ」。食と地域を楽しむ新しいホテルスタイルをご提案します。"
+  },
   {
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
@@ -64,23 +98,6 @@
    "special": "奥軽井沢での静寂の時間、浅間山を望みながら至福の時を"
   },
   {
-   "hotelNo": 151519,
-   "name": "信州八重原温泉　アートヴィレッジ明神館",
-   "kana": "しんしゅうやえはらおんせん　あーとヴぃれっじみょうじんかん",
-   "minCharge": 8200,
-   "reviewAverage": 4.67,
-   "reviewCount": 82,
-   "access": "しなの鉄道田中駅より車で15分（送迎は要事前予約）、北陸新幹線上田駅より車で30分、上信越道東部湯の丸ＩＣより車で20分",
-   "address1": "長野県",
-   "address2": "東御市八重原1806-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151519",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151519%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151519",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151519.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151519/151519.jpg",
-   "special": "浅間連峰を望む絶景のお部屋と展望露天風呂！☆日帰り入浴も利用可能。詳しくは注意事項をご参考ください。"
-  },
-  {
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
@@ -96,6 +113,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/164648.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164648/164648.jpg",
    "special": "閑静な旧軽井沢の南仏薫るホテルで心地よい休日を愛犬と一緒にお過ごし下さい。ワンちゃん2頭目まで無料。"
+  },
+  {
+   "hotelNo": 167023,
+   "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
+   "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
+   "minCharge": 25410,
+   "reviewAverage": 4.61,
+   "reviewCount": 342,
+   "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町発地864-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167023",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167023%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167023",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167023.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167023/167023.jpg",
+   "special": "【売れ筋ランキング第3位】7万坪の大自然と天然温泉、信州の贅を尽くしたフレンチも高評価"
   },
   {
    "hotelNo": 2010,
@@ -115,6 +149,23 @@
    "special": "日本一赤い湯と大自然に囲まれた、気取らない秘湯の一軒宿。浅間山のふもとで、のんびり過ごす温泉時間"
   },
   {
+   "hotelNo": 129421,
+   "name": "布引温泉　こもろ",
+   "kana": "ぬのびきおんせん　こもろ",
+   "minCharge": 6400,
+   "reviewAverage": 4.47,
+   "reviewCount": 159,
+   "access": "小諸駅よりお車で７分",
+   "address1": "長野県",
+   "address2": "小諸市大久保620-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129421",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129421%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129421",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129421.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129421/129421.jpg",
+   "special": "■牛に引かれて善光寺伝説発祥の地■浅間山の絶景を愛でながら湯浴み-信州食材を大切にした料理"
+  },
+  {
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
@@ -130,6 +181,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177441.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177441/177441.jpg",
    "special": "目の前に浅間山、「軽井沢タリアセン」隣接。塩沢エリアを一新する、5ヘクタール超、新たなる軽井沢へ。"
+  },
+  {
+   "hotelNo": 181343,
+   "name": "軽井沢プリンスホテル　イースト",
+   "kana": "かるいざわぷりんすほてるいーすと",
+   "minCharge": 20916,
+   "reviewAverage": 4.35,
+   "reviewCount": 202,
+   "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行☆",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町大字軽井沢1016-75",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181343",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181343%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181343",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181343.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181343/181343.jpg",
+   "special": "「森の中、物語を見つけに。」温泉、スポーツ、ショッピングなど自由な滞在を楽しむ高原リゾート"
   },
   {
    "hotelNo": 67500,
@@ -166,40 +234,6 @@
    "special": "四季を通じ多彩なスタイルで親子三代が楽しめる一大リゾートエリア"
   },
   {
-   "hotelNo": 27892,
-   "name": "菱野温泉　常盤館",
-   "kana": "ひしのおんせん　ときわかん",
-   "minCharge": 12230,
-   "reviewAverage": 4.25,
-   "reviewCount": 443,
-   "access": "しなの鉄道 小諸駅／長野新幹線 佐久平駅／上信越自動車道 小諸ＩＣより約１０分",
-   "address1": "長野県",
-   "address2": "小諸市菱平762-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D27892",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D27892%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D27892",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/27892.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27892/27892.jpg",
-   "special": "標高1050m。雲を見下ろす絶景露天のある旅館です。八ヶ岳のパノラマと東信の山の幸をご堪能ください。"
-  },
-  {
-   "hotelNo": 153419,
-   "name": "軽井沢マリオットホテル",
-   "kana": "かるいざわまりおっとほてる",
-   "minCharge": 24405,
-   "reviewAverage": 4.21,
-   "reviewCount": 176,
-   "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉4339",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153419",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153419%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153419",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153419.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153419/153419.jpg",
-   "special": "世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。"
-  },
-  {
    "hotelNo": 19304,
    "name": "ゆとりろ軽井沢ホテル",
    "kana": "ゆとりろかるいざわほてる",
@@ -217,5 +251,5 @@
    "special": "【楽天アワード2025受賞】森に佇む洋館で、軽井沢の休日を。／無料送迎有"
   }
  ],
- "listedMatchCount": 11
+ "listedMatchCount": 13
 }

@@ -66,6 +66,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165194/165194.jpg",
    "special": "大人のための上質で贅沢な空間で「現代の湯治」をお愉しみください。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "rotenburo"
    ]
   },
@@ -89,6 +92,7 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -128,7 +132,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184795.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184795/184795.jpg",
    "special": "一棟一棟が完全に離れのお部屋は全室に道後温泉からの引き湯の露天風桧風呂をご用意しております。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 178753,
@@ -146,7 +154,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/178753.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178753/178753.jpg",
    "special": "時を越え人々を癒してきた道後の湯。各お部屋の湯殿では、源泉掛け流しの「生湯」がお愉しみいただけます。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 11332,
@@ -190,6 +202,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145017/145017.jpg",
    "special": "湯築の杜を望む静かな落ち着き。数寄屋造りの歴史感じる温泉宿で過ごす大人の贅沢。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -231,6 +247,7 @@
    "special": "露天風呂を含む3種の貸切風呂が入り放題。温泉付離れを含む全6室。ご友人や夫婦で水入らずの癒しの旅を。",
    "conditions": [
     "onsen",
+    "kinen",
     "breakfast",
     "rotenburo",
     "kashikiri-buro"
@@ -278,6 +295,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13429/13429.jpg",
    "special": "慶応4年創業、道後温泉本館徒歩すぐの老舗宿。能舞台「千寿殿」や名物鯛めしの朝食で格式ある滞在を。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -409,7 +430,14 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14270.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14270/14270.jpg",
    "special": "海の見える温泉宿です。食事は瀬戸内の魚を使った会席料理で部屋食です。※当館に看板猫はいません。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "kashikiri-buro",
+    "pet-ok"
+   ]
   },
   {
    "hotelNo": 13653,
@@ -451,7 +479,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188387.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188387/188387.jpg",
    "special": "水庭を眺めながら非日常を体験する、ここにしかないLocal Luxury Resort",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 187888,
@@ -470,6 +501,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187888/187888.jpg",
    "special": "客室は全室サウナ、水風呂、半露天風呂付き。完全プライベート空間で、居心地の良さを感じる体験型ホテル",
    "conditions": [
+    "kinen",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -541,8 +573,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184071/184071.jpg",
    "special": "客室は全室サウナ付き。自分の別荘に来たかのような居心地の良さを感じさせるライフスタイルホテルです。",
    "conditions": [
-    "kinen",
-    "breakfast",
     "sauna"
    ]
   },
@@ -657,6 +687,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27716/27716.jpg",
    "special": "【西日本最大級の露天風呂で湯巡り♪】道後から車で１０分！大自然に佇む美人湯の宿",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -703,7 +737,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108156.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108156/108156.jpg",
    "special": "楽天トラベルアワード受賞☆こだわりビュッフェ＆今治タオル＆砥部焼の競演♪道後温泉は歩いて５分♪",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 165105,
@@ -724,8 +761,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -773,9 +808,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166095/166095.jpg",
    "special": "道後で唯一ドッグラン♪ペットと泊まれる宿♪Wi-Fi完備★全室禁煙",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "pet-ok"
    ]
   },
@@ -795,7 +827,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/226.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/226/226.jpg",
    "special": "道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 130460,
@@ -834,7 +869,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168297.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168297/168297.jpg",
    "special": "【農家が営む宿】２０１９年２月オープン！自家製フレッシュ野菜バー、出来立てのフレンチトーストが人気",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 184526,
@@ -875,10 +913,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181835.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181835/181835.jpg",
    "special": "【全室禁煙】朝食無料、Wi-Fi無料、駐車場無料（大・中型車除く）でコスパに優れたホテルです。",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 180563,
@@ -997,7 +1032,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15597.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15597/15597.jpg",
    "special": "市内中心部に位置し、城山に近くビジネス・観光に最適",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 68295,
@@ -1271,10 +1308,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15271.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15271/15271.jpg",
    "special": "愛媛大学・松山大学・放送大学に一番近いホテルで道後、ビジネス街へのアクセスも良好です。",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 76392,
@@ -1292,7 +1326,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76392.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76392/76392.jpg",
    "special": "地元の厳選食材、今治タオル、砥部焼と愛媛を感じて頂くことを重視した地産地消の宿。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 20712,
@@ -1409,12 +1447,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/141611.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141611/141611.jpg",
    "special": "神湯「道後」の地で新しくも心安らぐ独自の世界観でお客様にサプライズを。道後サプライズがお迎えします。",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 20374,
@@ -1456,6 +1489,7 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1475,7 +1509,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20377.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20377/20377.jpg",
    "special": "JR松山駅に徒歩約１分、ビジネスや観光に最適です。防災の為お部屋にヘルメットを設置しています。",
-   "conditions": []
+   "conditions": [
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 198319,
@@ -1494,7 +1530,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198319/198319.jpg",
    "special": "松山空港から30分、大街道駅目の前の好アクセス◎ハッピー泡〜やお夜食サービスでホテルステイを満喫",
    "conditions": [
-    "kinen"
+    "kinen",
+    "breakfast"
    ]
   },
   {
@@ -1539,7 +1576,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147840/147840.jpg",
    "special": "道後温泉・松山城・大街道にも近くビジネス観光の拠点に最適！！",
    "conditions": [
-    "kinen"
+    "kinen",
+    "breakfast"
    ]
   },
   {
@@ -1644,10 +1682,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179258/179258.jpg",
    "special": "愛媛県伊予市の【いよ温泉】にあるホテルです。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "sauna"
    ]
   },
@@ -1692,8 +1726,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164470/164470.jpg",
    "special": "コンパクトな館内で快適に◆2017年OPEN「新館プレミア」とお手頃な「旧館セカンド」から選べる客室",
    "conditions": [
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1714,6 +1746,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43995/43995.jpg",
    "special": "最上階には展望大浴場！敷地内に駐車場も完備！ごゆっくりお寛ぎください☆彡",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1795,10 +1830,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/13883.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13883/13883.jpg",
    "special": "ＪＲ松山駅から徒歩3分！車で空港15分！2025年4月4日グランドオープンいたしました！",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 32253,
@@ -1818,6 +1850,7 @@
    "special": "松山城の麓に位置し緑豊かな環境★コンビニまで徒歩2分★平面駐車場40台駐車可能",
    "conditions": [
     "daiyokujo",
+    "kinen",
     "rotenburo",
     "sauna"
    ]
@@ -1839,6 +1872,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7520/7520.jpg",
    "special": "道後温泉本館まで徒歩2分の便利な立地。晴れた夜には、展望露天風呂から星や月をご覧いただけます。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1897,9 +1934,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56687.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56687/56687.jpg",
    "special": "JR松山駅から徒歩3分！朝食&平日無料夕食あり！ウェルカムドリンク時間限定飲み放題！",
-   "conditions": [
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 932,
@@ -1939,10 +1974,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20474.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20474/20474.jpg",
    "special": "品数豊富な朝食バイキング無料サービスをご提供しております。選べる枕も人気でございます♪",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 32037,

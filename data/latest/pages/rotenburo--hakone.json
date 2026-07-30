@@ -14,8 +14,8 @@
   "type": "facility"
  },
  "stats": {
-  "matchCount": 68,
-  "matchRate": 75.6,
+  "matchCount": 69,
+  "matchRate": 76.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -23,8 +23,8 @@
   },
   "minPrice": 6550,
   "medianPrice": 15950,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 68
+  "reviewAvgMean": 4.41,
+  "pricedCount": 69
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿"
   }
  ],
- "listedMatchCount": 68
+ "listedMatchCount": 69
 }

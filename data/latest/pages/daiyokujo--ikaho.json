@@ -12,23 +12,40 @@
  "dataAsOf": "2026-07-30",
  "detection": {
   "type": "vacant",
-  "checkinDate": "2026-07-11",
-  "checkoutDate": "2026-07-12"
+  "checkinDate": "2026-08-01",
+  "checkoutDate": "2026-08-02"
  },
  "stats": {
-  "matchCount": 26,
-  "matchRate": 36.6,
+  "matchCount": 35,
+  "matchRate": 49.3,
   "denominator": {
    "type": "area_total",
    "value": 71,
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4500,
-  "medianPrice": 9020,
-  "reviewAvgMean": 4.23,
-  "pricedCount": 26
+  "medianPrice": 8998,
+  "reviewAvgMean": 4.22,
+  "pricedCount": 35
  },
  "hotels": [
+  {
+   "hotelNo": 70871,
+   "name": "伊香保温泉　香雲館",
+   "kana": "こううんかん",
+   "minCharge": 28600,
+   "reviewAverage": 4.84,
+   "reviewCount": 317,
+   "access": "ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保175",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70871",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70871%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70871",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70871.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70871/70871.jpg",
+   "special": "★全10室・全室露天風呂付客室の宿★大浴場はわずか8軒の【黄金の湯】を100％源泉掛け流しで贅沢に。"
+  },
   {
    "hotelNo": 6266,
    "name": "伊香保温泉　ホテル木暮",
@@ -45,6 +62,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/6266.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6266/6266.jpg",
    "special": "★2024年楽天お風呂評価_全国２位★北関東最大級1300坪_庭園露天付き大浴場"
+  },
+  {
+   "hotelNo": 2630,
+   "name": "伊香保温泉　お宿玉樹",
+   "kana": "いかほおんせん　おやどたまき",
+   "minCharge": 20900,
+   "reviewAverage": 4.62,
+   "reviewCount": 465,
+   "access": "渋川駅から車で１５分。石段街まで徒歩2分",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保87-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2630",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2630%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2630",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2630.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2630/2630.jpg",
+   "special": "畳廊下の純和風の宿です。"
   },
   {
    "hotelNo": 10737,
@@ -132,6 +166,23 @@
    "special": "露天風呂付客室、サウナ付客室、展望部屋、バリアフリールームなど8種以上の客室タイプ。"
   },
   {
+   "hotelNo": 8079,
+   "name": "伊香保温泉　あかりの宿　おかべ",
+   "kana": "いかほおんせん　あかりのやど　おかべ",
+   "minCharge": 15400,
+   "reviewAverage": 4.5,
+   "reviewCount": 183,
+   "access": "東京駅よりJR上越新幹線で約50分→高崎駅乗り換え、JR上越線で約20分→渋川駅下車、バスで約30分。",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保373-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8079",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8079%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8079",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8079.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8079/8079.jpg",
+   "special": "客室は限定4室【2つの貸切風呂が無料】伊香保で一番小さな料理宿"
+  },
+  {
    "hotelNo": 7170,
    "name": "伊香保温泉　温泉宿　塚越屋七兵衛",
    "kana": "いかほおんせん　おんせんやど　つかごしやしちべえ",
@@ -181,6 +232,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197742.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197742/197742.jpg",
    "special": "伊香保温泉石段街へ送迎付＆カップルに人気の無料貸切風呂｜ペット可対応で広々120平米ドッグランあり"
+  },
+  {
+   "hotelNo": 38692,
+   "name": "伊香保温泉　旅館　さくらい",
+   "kana": "いかほおんせん　りょかん　さくらい",
+   "minCharge": 6600,
+   "reviewAverage": 4.34,
+   "reviewCount": 1172,
+   "access": "JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保210-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38692",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38692%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38692",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38692.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg",
+   "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂"
   },
   {
    "hotelNo": 80783,
@@ -300,75 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38250.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38250/38250.jpg",
    "special": "静かでおだやかな空気,ゆっくりと流れる時間,ここで至福のひと時を。"
-  },
-  {
-   "hotelNo": 147842,
-   "name": "フォレストリゾート　コニファーいわびつ",
-   "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
-   "minCharge": 10080,
-   "reviewAverage": 4.19,
-   "reviewCount": 401,
-   "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
-   "address1": "群馬県",
-   "address2": "吾妻郡東吾妻町原町4399",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147842",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147842%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147842",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147842.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147842/147842.jpg",
-   "special": "自然溢れる敷地内で楽しむ夏休みはプチ冒険気分！ペットＯＫのログハウス・体育館・グラウンド・キャンプ場"
-  },
-  {
-   "hotelNo": 68264,
-   "name": "伊香保温泉　よろこびの宿　しん喜",
-   "kana": "いかほおんせん　よろこびのやど　しんき",
-   "minCharge": 8800,
-   "reviewAverage": 4.18,
-   "reviewCount": 353,
-   "access": "上越線　渋川駅から伊香保温泉行バス乗車で２５分、「伊香保温泉バスターミナル」下車で徒歩２分",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保557-34",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D68264",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68264%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D68264",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68264.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68264/68264.jpg",
-   "special": "眺めの良い展望大浴場と四季で変わる地産地消の会席"
-  },
-  {
-   "hotelNo": 167324,
-   "name": "ヘルシーパル赤城",
-   "kana": "へるしーぱるあかぎ",
-   "minCharge": 8300,
-   "reviewAverage": 4.09,
-   "reviewCount": 181,
-   "access": "電車、ＪＲ上越線 敷島駅より徒歩にて約１０分　車、関越自動車道 赤城ICより約７分。又は渋川伊香保ICより約１５分。　",
-   "address1": "群馬県",
-   "address2": "渋川市赤城町敷島44",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167324",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167324%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167324",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167324.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167324/167324.jpg",
-   "special": "榛名山と利根川の優美な景観が望める敷島温泉の閑静な一軒宿。"
-  },
-  {
-   "hotelNo": 78153,
-   "name": "ホテルルートイン渋川",
-   "kana": "るーといんしぶかわ",
-   "minCharge": 6200,
-   "reviewAverage": 4.07,
-   "reviewCount": 877,
-   "access": "ＪＲ上越線　渋川駅から徒歩で約15分 　渋川伊香保インターよりお車約4分　伊香保温泉まで20分",
-   "address1": "群馬県",
-   "address2": "渋川市渋川1186-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D78153",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D78153%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D78153",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/78153.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78153/78153.jpg",
-   "special": "渋川伊香保インターよりお車で5分！伊香保温泉まで好アクセス！榛名湖観光もお勧め！！"
   }
  ],
- "listedMatchCount": 26
+ "listedMatchCount": 35
 }

@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "rotenburo--hakone",
-   "matchCount": 68,
-   "matchRate": 75.6,
+   "matchCount": 69,
+   "matchRate": 76.7,
    "minPrice": 6550,
    "medianPrice": 15950,
-   "reviewAvgMean": 4.42
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "rotenburo--beppu",
-   "matchCount": 59,
-   "matchRate": 65.6,
+   "matchCount": 60,
+   "matchRate": 66.7,
    "minPrice": 3420,
-   "medianPrice": 10000,
-   "reviewAvgMean": 4.4
+   "medianPrice": 10200,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -64,10 +64,10 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "rotenburo--yufuin",
-   "matchCount": 74,
-   "matchRate": 82.2,
+   "matchCount": 75,
+   "matchRate": 83.3,
    "minPrice": 7500,
-   "medianPrice": 16000,
+   "medianPrice": 16250,
    "reviewAvgMean": 4.47
   },
   {
@@ -103,10 +103,10 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "rotenburo--nasu",
-   "matchCount": 51,
-   "matchRate": 56.7,
+   "matchCount": 52,
+   "matchRate": 57.8,
    "minPrice": 2980,
-   "medianPrice": 12100,
+   "medianPrice": 12050,
    "reviewAvgMean": 4.41
   },
   {

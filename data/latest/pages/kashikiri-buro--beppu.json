@@ -14,19 +14,36 @@
   "type": "facility"
  },
  "stats": {
-  "matchCount": 33,
-  "matchRate": 36.7,
+  "matchCount": 34,
+  "matchRate": 37.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 10400,
-  "reviewAvgMean": 4.39,
-  "pricedCount": 33
+  "medianPrice": 10414,
+  "reviewAvgMean": 4.41,
+  "pricedCount": 34
  },
  "hotels": [
+  {
+   "hotelNo": 72789,
+   "name": "別府　おぐら",
+   "kana": "べっぷ　おぐら",
+   "minCharge": 38500,
+   "reviewAverage": 5.0,
+   "reviewCount": 92,
+   "access": "【JRご利用】別府駅より扇山団地行３番バスにて２０分　　【車ご利用】別府ＩＣ料金所右折、信号３つ目先左折",
+   "address1": "大分県",
+   "address2": "別府市小倉町10番26号",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D72789",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D72789%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D72789",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/72789.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72789/72789.jpg",
+   "special": "三代目料理長自慢の会席料理は絶品。日によって乳白色から青色に変わる露天風呂は大人気！"
+  },
   {
    "hotelNo": 153304,
    "name": "別府温泉　匠晴の宿　心庵",
@@ -349,24 +366,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/72876.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72876/72876.jpg",
    "special": "新館にラウンジオープン！個室食、貸切家族風呂もあり、避密の旅に最適。街並みを眼下に望む、高台の宿"
-  },
-  {
-   "hotelNo": 28628,
-   "name": "別府温泉　天空湯房　清海荘",
-   "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 6600,
-   "reviewAverage": 4.35,
-   "reviewCount": 617,
-   "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",
-   "address1": "大分県",
-   "address2": "別府市北浜3丁目14-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28628",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28628%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28628",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28628.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28628/28628.jpg",
-   "special": "別府で唯一の別府湾の絶景をお楽しみいただける展望貸切露天風呂を十分ご堪能下さい。"
   }
  ],
- "listedMatchCount": 33
+ "listedMatchCount": 34
 }

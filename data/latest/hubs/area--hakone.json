@@ -66,6 +66,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151465/151465.jpg",
    "special": "箱根小涌谷温泉源泉かけ流しの自家温泉露天風呂を全23室の客室に完備。心ゆくまでお過ごしいただけます。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -87,10 +91,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28275/28275.jpg",
    "special": "2024年7月リニューアル！箱根神社の東隣、芦ノ湖の絶景とモダン懐石が自慢の大人宿",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -112,6 +112,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184430/184430.jpg",
    "special": "森林の香り　岩と草花　箱根連山が広がる山のリゾート",
    "conditions": [
+    "onsen",
     "daiyokujo",
     "kinen",
     "breakfast"
@@ -272,7 +273,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153202.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153202/153202.jpg",
    "special": "【1日8組限定】アクティブな旅行より、おこもり旅行。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 172961,
@@ -315,7 +321,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182450.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182450/182450.jpg",
    "special": "「究極のおこもりステイ」存分にご堪能下さいませ。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 79294,
@@ -334,6 +344,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79294/79294.jpg",
    "special": "全館禁煙。自家源泉掛流し客室露天風呂を全室に備え、箱根西麓野や相模湾の幸を巧みに盛込む京会席に舌鼓。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -399,6 +413,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180298/180298.jpg",
    "special": "８室専用露天風呂付客室！朝夕食部屋食。２０２１年６月全客室改装オープン！",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -420,6 +437,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188264/188264.jpg",
    "special": "〜自分らしく過ごす〜もう一つの日常を当ホテルで体験。新しく生まれ変わった朝食で彩り豊かな朝を。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -490,6 +511,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107882/107882.jpg",
    "special": "★木造9室の小さな隠れ家★【木のぬくもり】【湯めぐり】で旅の想い出を♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -510,6 +534,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31681/31681.jpg",
    "special": "日本庭園露天と貸切温泉を満喫。季節替りの和食膳はお部屋食で。2018年より全室禁煙。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -606,6 +634,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147613/147613.jpg",
    "special": "〔強羅花扇　円かの杜〕全室「温泉露天風呂付客室」",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -626,6 +658,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg",
    "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -692,10 +728,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16106/16106.jpg",
    "special": "箱根芦ノ湖畔に佇む随一の眺望と庭園からの富士。とっておきのリゾートステイを。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -717,6 +749,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146841/146841.jpg",
    "special": "★客室専用温泉露天風呂で免疫力を高めましょう★当館はわずか9室",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -761,7 +796,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195644.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195644/195644.jpg",
    "special": "★今年4月オープン★ 最大8名定員 プライベートヴィラ｜全室天然温泉付き◎",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen"
+   ]
   },
   {
    "hotelNo": 29488,
@@ -829,6 +867,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162753/162753.jpg",
    "special": "★お食事高評価★仙石原の別荘地に佇む全24室の大人限定宿／別館は温泉半露天風呂付き",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -875,6 +917,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189383/189383.jpg",
    "special": "★2024年3月グランドオープン★芦ノ湖、富士山が一望できる好立地！ゆったり流れる贅沢な時間を堪能",
    "conditions": [
+    "onsen",
+    "kinen",
     "pet-ok"
    ]
   },
@@ -895,6 +939,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20447/20447.jpg",
    "special": "秋は紅葉、春は若緑。湯坂山の四季を愛でる露天風呂のくつろぎを。旧東海道沿いにひっそりと佇む全9室の宿",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -966,7 +1013,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147481.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147481/147481.jpg",
    "special": "温かみのあるおもてなしと絶景に心癒される湯宿。２０１４年７月１２日オープン。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 29177,
@@ -1101,6 +1151,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193943/193943.jpg",
    "special": "全室天然温泉・サウナ・テラス付◎エクスクルーシブな非日常体験が叶う、大人が主役のご褒美旅を。",
    "conditions": [
+    "onsen",
+    "kinen",
     "sauna",
     "pet-ok"
    ]
@@ -1146,6 +1198,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137346/137346.jpg",
    "special": "3種の源泉貸切風呂【無料】と、季節の食材を使った和食会席料理が人気！非日常を楽しめる隠れ宿！",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1192,6 +1248,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176633/176633.jpg",
    "special": "◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備  オーナーこだわりの世界をお愉しみ下さい。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1237,6 +1297,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/190540/190540.jpg",
    "special": "小涌谷で過ごす、上質な箱根リゾート。箱根の風物詩とこだわりの「おもてなし」を体感。",
    "conditions": [
+    "onsen",
+    "kinen",
     "pet-ok"
    ]
   },
@@ -1257,6 +1319,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19684/19684.jpg",
    "special": "５本の源泉持ち、豊富な湯量、良質の温泉が楽しめる宿。展望大浴場、足湯、湯の里（特別優待）と種類も豊富",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1351,6 +1417,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164532/164532.jpg",
    "special": "全室露天風呂付客室でご用意。滞在中の飲み物はオールインクルーシブなので追加料金気にせず安心♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1420,7 +1490,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/166534.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166534/166534.jpg",
    "special": "2024年8月に仙石原久の葉としてリブランドOPEN！（旧箱根久織亭）",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 138119,
@@ -1463,6 +1538,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172913/172913.jpg",
    "special": "２０１９年８月オープン。良質な自家源泉や、滞在を楽しむ施設が充実。お客様の集いのひと時を演出します。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "sauna",
     "kashikiri-buro"
    ]
@@ -1484,6 +1563,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74776/74776.jpg",
    "special": "コンセプトルームが自慢の宿。滞在中の飲み物はオールインクルーシブなので追加料金気にせず安心♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1554,6 +1637,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/170212/170212.jpg",
    "special": "全室温泉＆足湯付き！最大10名宿泊可能なメゾネットヴィラ！仙石原草原へは徒歩約10分",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "pet-ok"
    ]
   },
@@ -1574,6 +1660,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54102/54102.jpg",
    "special": "強羅駅前に位置し、全客室１５８室に露天風呂をご用意、温泉は源泉かけ流しをお愉しめる宿。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1621,6 +1711,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146134/146134.jpg",
    "special": "全14部屋　箱根強羅に佇む大人の隠れ家…美食と温泉を満喫／貸切露天ジャグジー＆貸切岩盤浴あり",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1640,7 +1734,13 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/74713.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74713/74713.jpg",
    "special": "源泉かけ流しの客室専用露天風呂が人気。飲み物はオールインクルーシブなので追加料金気にせず安心♪",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "rotenburo"
+   ]
   },
   {
    "hotelNo": 84721,
@@ -1709,7 +1809,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8968.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8968/8968.jpg",
    "special": "自家源泉の天然温泉（大浴場）と、大涌谷からの硫黄泉を供給する「貸切風呂」が楽しめる高原のホテル",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 11011,
@@ -1918,6 +2023,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193942/193942.jpg",
    "special": "2025年7月グランドオープン｜全室に客室天然温泉付き｜すすき草原徒歩３分",
    "conditions": [
+    "onsen",
+    "kinen",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -2035,6 +2142,7 @@
    "conditions": [
     "onsen",
     "daiyokujo",
+    "kinen",
     "breakfast",
     "rotenburo",
     "sauna",
@@ -2081,7 +2189,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen",
     "breakfast",
     "rotenburo",
     "sauna",
