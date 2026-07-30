@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -118,7 +118,7 @@
    "hotelNo": 179099,
    "name": "ｆｉｃｏ　ＨＩＪＩ",
    "kana": "ふぃこ　ひじ",
-   "minCharge": 4200,
+   "minCharge": 3750,
    "reviewAverage": 4.62,
    "reviewCount": 150,
    "access": "ＪＲ九州　暘谷駅より徒歩にて約１０分",
@@ -288,7 +288,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 2970,
+   "minCharge": 3520,
    "reviewAverage": 4.55,
    "reviewCount": 1348,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",
@@ -299,7 +299,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D683",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/683.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/683/683.jpg",
-   "special": "別府中心部の旅館。２つの大浴場と３箇所の半露天家族貸切湯で温泉三昧。WiFiフリー"
+   "special": "別府中心部の旅館。２つの大浴場と３箇所の家族貸切湯で温泉三昧。WiFiフリー"
   },
   {
    "hotelNo": 196409,
@@ -339,7 +339,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 6600,
+   "minCharge": 7700,
    "reviewAverage": 4.52,
    "reviewCount": 632,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",

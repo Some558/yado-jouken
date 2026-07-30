@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-07-11",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 86,
-  "matchRate": 27.9,
+  "matchRate": 27.8,
   "denominator": {
    "type": "area_total",
-   "value": 308,
+   "value": 309,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 6600,
-  "medianPrice": 13970,
+  "medianPrice": 14400,
   "reviewAvgMean": 4.48,
   "pricedCount": 50
  },
@@ -81,23 +81,6 @@
    "special": "お客様の声☆5つ　人に優しいお宿です"
   },
   {
-   "hotelNo": 168504,
-   "name": "由布院　ＺＥＮ",
-   "kana": "ゆふいん　ぜん",
-   "minCharge": 12999,
-   "reviewAverage": 4.87,
-   "reviewCount": 63,
-   "access": "■ＪＲ由布院駅から車で５分　■湯布院インターから車で５分　※お越しの際はGoogleマップで検索してください。",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川北596",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168504",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D168504%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D168504",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168504.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168504/168504.jpg",
-   "special": "湯布院盆地一望の全室一戸建離れ・大人限定宿。料理の鉄人推薦のシェフが作る料理を絶景が一望できる個室で"
-  },
-  {
    "hotelNo": 138081,
    "name": "由布院温泉　山荘　わらび野",
    "kana": "ゆふいんおんせん　さんそう　わらびの",
@@ -130,6 +113,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29253.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29253/29253.jpg",
    "special": "上質な「おおいた和牛」、由布院の新鮮野菜、契約農家のお米など、安心安全な食材を使用した料理が自慢！"
+  },
+  {
+   "hotelNo": 141260,
+   "name": "湯平温泉　ゆけむりの宿　花木綿",
+   "kana": "ゆのひらおんせん　ゆけむりのやど　はなもめん",
+   "minCharge": 17800,
+   "reviewAverage": 4.86,
+   "reviewCount": 98,
+   "access": "湯平駅よりお車にて５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町湯平1022",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D141260",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D141260%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D141260",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/141260.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141260/141260.jpg",
+   "special": "清流花合野川沿いに佇む全８室の温泉宿。天然湯平温泉と女将手作りの花御膳をご堪能下さい。"
   },
   {
    "hotelNo": 158617,
@@ -322,7 +322,7 @@
    "hotelNo": 76812,
    "name": "由布院温泉　湯布院山荘　吾亦紅",
    "kana": "ゆふいんおんせん　ゆふいんさんそう　われもこう",
-   "minCharge": 29000,
+   "minCharge": 27000,
    "reviewAverage": 4.65,
    "reviewCount": 148,
    "access": "ＪＲ　湯布院駅よりお車にて５分",
@@ -339,7 +339,7 @@
    "hotelNo": 54134,
    "name": "源泉掛け流しの離れ宿　由布院別邸　風の森",
    "kana": "げんせんかけながしのはなれやど　ゆふいんべってい　かぜのもり",
-   "minCharge": 27060,
+   "minCharge": 22000,
    "reviewAverage": 4.63,
    "reviewCount": 127,
    "access": "◆ 由布院駅より徒歩15分　",

@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "kashikiri-buro--hakone",
    "matchCount": 24,
    "matchRate": 26.7,
-   "minPrice": 6880,
-   "medianPrice": 15830,
+   "minPrice": 6550,
+   "medianPrice": 16830,
    "reviewAvgMean": 4.45
   },
   {
@@ -40,8 +40,8 @@
    "slug": "kashikiri-buro--atami",
    "matchCount": 29,
    "matchRate": 32.2,
-   "minPrice": 4840,
-   "medianPrice": 10098,
+   "minPrice": 5000,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.33
   },
   {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "kashikiri-buro--beppu",
-   "matchCount": 32,
-   "matchRate": 35.6,
+   "matchCount": 33,
+   "matchRate": 36.7,
    "minPrice": 2700,
-   "medianPrice": 9712,
-   "reviewAvgMean": 4.38
+   "medianPrice": 10400,
+   "reviewAvgMean": 4.39
   },
   {
    "area": {
@@ -67,8 +67,8 @@
    "matchCount": 35,
    "matchRate": 38.9,
    "minPrice": 4032,
-   "medianPrice": 12900,
-   "reviewAvgMean": 4.44
+   "medianPrice": 14000,
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -80,7 +80,7 @@
    "matchCount": 41,
    "matchRate": 45.6,
    "minPrice": 4700,
-   "medianPrice": 11550,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.48
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 21,
    "matchRate": 29.6,
    "minPrice": 5300,
-   "medianPrice": 9240,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.33
   },
   {
@@ -103,10 +103,10 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kashikiri-buro--nasu",
-   "matchCount": 29,
-   "matchRate": 32.2,
-   "minPrice": 3980,
-   "medianPrice": 13500,
+   "matchCount": 30,
+   "matchRate": 33.3,
+   "minPrice": 2980,
+   "medianPrice": 13000,
    "reviewAvgMean": 4.58
   },
   {
@@ -118,8 +118,8 @@
    "slug": "kashikiri-buro--karuizawa",
    "matchCount": 7,
    "matchRate": 7.8,
-   "minPrice": 9000,
-   "medianPrice": 13200,
+   "minPrice": 12000,
+   "medianPrice": 14200,
    "reviewAvgMean": 4.47
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 11,
    "matchRate": 12.2,
    "minPrice": 3500,
-   "medianPrice": 9900,
+   "medianPrice": 7700,
    "reviewAvgMean": 4.45
   }
  ]

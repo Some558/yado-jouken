@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5111,
-  "medianPrice": 10680,
+  "medianPrice": 13680,
   "reviewAvgMean": 4.38,
   "pricedCount": 11
  },
@@ -48,7 +48,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 9775,
+   "minCharge": 10235,
    "reviewAverage": 4.82,
    "reviewCount": 45,
    "access": "熱海駅よりお車で約20分",
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 7820,
+   "minCharge": 7990,
    "reviewAverage": 4.44,
    "reviewCount": 415,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -133,7 +133,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 10680,
+   "minCharge": 13680,
    "reviewAverage": 4.33,
    "reviewCount": 1311,
    "access": "ＪＲ伊東線網代駅徒歩４分",

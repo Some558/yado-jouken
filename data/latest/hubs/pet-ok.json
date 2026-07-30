@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "pet-ok--hakone",
    "matchCount": 13,
    "matchRate": 14.4,
-   "minPrice": 6880,
-   "medianPrice": 12000,
+   "minPrice": 8000,
+   "medianPrice": 11600,
    "reviewAvgMean": 4.28
   },
   {
@@ -27,8 +27,8 @@
    "slug": "pet-ok--kusatsu",
    "matchCount": 4,
    "matchRate": 4.4,
-   "minPrice": 6760,
-   "medianPrice": 10260,
+   "minPrice": 7160,
+   "medianPrice": 10500,
    "reviewAvgMean": 3.98
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 11,
    "matchRate": 12.2,
    "minPrice": 5111,
-   "medianPrice": 10680,
+   "medianPrice": 13680,
    "reviewAvgMean": 4.38
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 4,
    "matchRate": 4.4,
    "minPrice": 1500,
-   "medianPrice": 7900,
+   "medianPrice": 7608,
    "reviewAvgMean": 3.98
   },
   {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "pet-ok--yufuin",
-   "matchCount": 10,
-   "matchRate": 11.1,
+   "matchCount": 9,
+   "matchRate": 10.0,
    "minPrice": 10000,
-   "medianPrice": 18100,
-   "reviewAvgMean": 4.5
+   "medianPrice": 24200,
+   "reviewAvgMean": 4.54
   },
   {
    "area": {
@@ -79,8 +79,8 @@
    "slug": "pet-ok--kinosaki",
    "matchCount": 4,
    "matchRate": 4.4,
-   "minPrice": 4760,
-   "medianPrice": 7600,
+   "minPrice": 5200,
+   "medianPrice": 11650,
    "reviewAvgMean": 4.46
   },
   {
@@ -103,10 +103,10 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 24,
-   "matchRate": 26.7,
-   "minPrice": 3980,
-   "medianPrice": 10230,
+   "matchCount": 25,
+   "matchRate": 27.8,
+   "minPrice": 2980,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.47
   },
   {
@@ -118,8 +118,8 @@
    "slug": "pet-ok--karuizawa",
    "matchCount": 17,
    "matchRate": 18.9,
-   "minPrice": 5400,
-   "medianPrice": 14805,
+   "minPrice": 7618,
+   "medianPrice": 14200,
    "reviewAvgMean": 4.54
   },
   {
@@ -131,7 +131,7 @@
    "slug": "pet-ok--dogo",
    "matchCount": 3,
    "matchRate": 3.3,
-   "minPrice": 8500,
+   "minPrice": 9660,
    "medianPrice": 13750,
    "reviewAvgMean": 4.28
   }

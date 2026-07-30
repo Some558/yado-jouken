@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 165194,
    "name": "道後御湯",
    "kana": "どうごみゆ",
-   "minCharge": 26410,
+   "minCharge": 30000,
    "reviewAverage": 4.88,
    "reviewCount": 300,
    "access": "伊予鉄道　道後温泉駅より徒歩にて約５分",
@@ -144,7 +144,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D13429",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/13429.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13429/13429.jpg",
-   "special": "創業150年、能舞台を有する能楽の宿。歴史ある道後温泉本館はすぐそば。和の伝統美を極めた老舗旅館。"
+   "special": "慶応4年創業、道後温泉本館徒歩すぐの老舗宿。能舞台「千寿殿」や名物鯛めしの朝食で格式ある滞在を。"
   },
   {
    "hotelNo": 142928,
@@ -167,7 +167,7 @@
    "hotelNo": 176808,
    "name": "道後温泉　ホテル古湧園　遥",
    "kana": "どうごおんせん　こわくえん　はるか",
-   "minCharge": 10890,
+   "minCharge": 11880,
    "reviewAverage": 4.61,
    "reviewCount": 735,
    "access": "道後温泉駅より徒歩にて約５分",
@@ -201,7 +201,7 @@
    "hotelNo": 179083,
    "name": "道後ｈａｋｕｒｏ",
    "kana": "どうごはくろ",
-   "minCharge": 6950,
+   "minCharge": 7850,
    "reviewAverage": 4.57,
    "reviewCount": 1333,
    "access": "道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分",
@@ -269,7 +269,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 13200,
+   "minCharge": 15300,
    "reviewAverage": 4.47,
    "reviewCount": 685,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",
@@ -286,7 +286,7 @@
    "hotelNo": 8384,
    "name": "道後プリンスホテル〜旬華趣湯　あったらいいな、が湧く湯宿〜",
    "kana": "どうごおんせん　どうごぷりんすほてる",
-   "minCharge": 9900,
+   "minCharge": 7700,
    "reviewAverage": 4.46,
    "reviewCount": 2171,
    "access": "【車】松山道松山ICより30分。【リムジンバス】松山空港より40分。松山観光港より45分。道後温泉駅到着後、電話で送迎有",
@@ -320,7 +320,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 12800,
+   "minCharge": 11700,
    "reviewAverage": 4.45,
    "reviewCount": 2613,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",

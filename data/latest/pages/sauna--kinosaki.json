@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 10000,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.42,
   "pricedCount": 17
  },
@@ -48,7 +48,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 4760,
+   "minCharge": 6800,
    "reviewAverage": 4.75,
    "reviewCount": 12,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -116,7 +116,7 @@
    "hotelNo": 153168,
    "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
    "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
-   "minCharge": 10000,
+   "minCharge": 22100,
    "reviewAverage": 4.65,
    "reviewCount": 324,
    "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
@@ -252,7 +252,7 @@
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
-   "minCharge": 17000,
+   "minCharge": 16200,
    "reviewAverage": 4.17,
    "reviewCount": 2507,
    "access": "城崎温泉駅⇒当館　旅館組合の送迎バス（詳しい出発時間は駅舎の係員にお尋ね下さい）",
@@ -286,7 +286,7 @@
    "hotelNo": 15315,
    "name": "リロステイＶＩＬＬＡ　城崎　ザ・コンドミニアム（旧レイセニット城崎スイートＶＩＬＬＡ）",
    "kana": "りろすていヴぃらきのさきざこんどみにあむ",
-   "minCharge": 8030,
+   "minCharge": 7480,
    "reviewAverage": 3.83,
    "reviewCount": 1970,
    "access": "ＪＲ山陰本線「城崎温泉」駅から車で約７分(無料送迎車あり※予約制）。北近畿豊岡自動車道「日高神鍋高原」ＩＣより40分。",

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-07-26",
+ "dataAsOf": "2026-07-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6006,
-  "medianPrice": 12590,
+  "medianPrice": 13100,
   "reviewAvgMean": 4.38,
   "pricedCount": 36
  },
@@ -201,7 +201,7 @@
    "hotelNo": 179990,
    "name": "ラビスタ草津ヒルズ（共立リゾート）",
    "kana": "らびすた　くさつひるず",
-   "minCharge": 21230,
+   "minCharge": 22220,
    "reviewAverage": 4.58,
    "reviewCount": 1039,
    "access": "渋川伊香保ICより車約６０km／JR長野原草津口より路線バス／草津温泉バスターミナルよりシャトルバス有",
@@ -252,7 +252,7 @@
    "hotelNo": 56137,
    "name": "草津温泉　ホテル櫻井",
    "kana": "さくらい",
-   "minCharge": 15400,
+   "minCharge": 17600,
    "reviewAverage": 4.5,
    "reviewCount": 4839,
    "access": "ＪＲ吾妻線長野原草津口駅からバスで約28分／関越道渋川伊香保ＩＣ又は上信越道碓井軽井沢IC経由／ＪＲ高速バスゆめぐり号",
@@ -269,7 +269,7 @@
    "hotelNo": 7166,
    "name": "草津温泉　５種貸切風呂の宿　湯宿　きんだい",
    "kana": "くさつおんせん　５しゅかしきりぶろのやど　ゆやど　きんだい",
-   "minCharge": 9800,
+   "minCharge": 13000,
    "reviewAverage": 4.46,
    "reviewCount": 519,
    "access": "関越自動車道渋川伊香保ICから中之条を経て約60km。",
@@ -320,7 +320,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 16500,
+   "minCharge": 21850,
    "reviewAverage": 4.4,
    "reviewCount": 3080,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
