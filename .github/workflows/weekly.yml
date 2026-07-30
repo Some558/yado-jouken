@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  deployments: write
 
 concurrency:
   group: yadoshibori-data-refresh
@@ -43,13 +44,35 @@ jobs:
           rm -rf data/latest
           cp -R data/staged data/latest
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Build site
+        run: |
+          set -euo pipefail
+          cd site
+          npm ci
+          npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # CF API は長い日本語 commit message を弾くため SHA を明示渡し
+          command: pages deploy site/dist --project-name=yado-jouken --branch=main --commit-message="${{ github.sha }}" --commit-dirty=true
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit latest + squeeze cache + facilities
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           AS_OF=$(TZ=Asia/Tokyo date +%F)
-          # CF Pages の watch path が site/ のみだと data/ 変更でビルドされないため stamp を触る
           printf '%s\n' "$AS_OF" > site/.data-asof
           git add data/latest/ data/cache/squeeze.json data/facilities/ site/.data-asof
           if git diff --staged --quiet; then
@@ -75,7 +98,7 @@ jobs:
           PY
           curl -sfS -X POST "$SLACK_WEBHOOK_URL" \
             -H 'Content-type: application/json' \
-            --data "{\"text\":\"✅ ヤドシボリ週次更新: ${AS_OF} 完了 (squeeze+facilities)\"}"
+            --data "{\"text\":\"✅ ヤドシボリ週次更新: ${AS_OF} 完了 (squeeze+facilities+Pages)\"}"
           echo "slack_ok"
 
       - name: Slack failure
