@@ -35,7 +35,7 @@
 
 - 失敗時: commitされず前日データ維持+Slack 🔴。手動リカバリは Actions の workflow_dispatch
 - API制約: 1req/sec(実装1.1s)・クレジット表記義務・2026-05-14旧API廃止済み
-- Cloudflare Pages: `main` への data push で自動ビルド(接続はA5)
+- Cloudflare Pages: プロジェクト `yado-jouken`（本番=yadoshibori.com）。Git連携済みだが watch path が `site/` 寄りだと `data/` のみの commit でビルドされない → 日次/週次は `site/.data-asof` を更新して発火させる。手動: `cd site && npm run build && npx wrangler pages deploy dist --project-name=yado-jouken --branch=main`
 
 ## 障害時の連絡先・確認先
 

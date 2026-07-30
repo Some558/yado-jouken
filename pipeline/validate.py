@@ -7,6 +7,8 @@
  3. 価格異常値: minCharge <= 0 または > 1,000,000 の混入ゼロ
  4. アフィリURL: infoUrl/planUrl 全件が hb.afl.rakuten.co.jp かつ(環境にIDがあれば)affiliateId を含む
  5. 前回比: ページ中央値価格の変動 > 30% があれば fail(初回はスキップ)
+    - 件数の少ないページ(中央値が1件の出入りで大きく跳ねる)は対象外
+    - vacant系(ローリング日付の空室検索)は対象外 — 日付が動けば相場も動く前提
 
 usage: python3 pipeline/validate.py [staged_dir] [--baseline data/latest]
 """
@@ -27,6 +29,8 @@ SCHEMA = json.loads((ROOT / "pipeline" / "schema" / "page.schema.json").read_tex
 MIN_TOTAL_HOTELS = 300
 PAGE_KEEP_RATIO = 0.8
 MEDIAN_DIVERGENCE = 0.30
+# pet-ok 等の薄ページは n=3〜17 が多く、中央値30%ゲートが常時誤爆する
+MEDIAN_MIN_MATCH = 20
 
 errors: list[str] = []
 
@@ -89,12 +93,22 @@ def main():
                     err(f"affiliateId不一致 {slug} hotelNo={h['hotelNo']} {key}")
 
     # 5. 前回比の中央値ダイバージェンス
+    median_skipped = 0
     if baseline.exists():
         for slug, d in page_data.items():
             prev_file = baseline / "pages" / f"{slug}.json"
             if not prev_file.exists():
                 continue
             prev = json.loads(prev_file.read_text())
+            # vacant = 翌週末ローリング日付の空室検索。日付が動けば中央値も動くので対象外
+            if (d.get("detection") or {}).get("type") == "vacant":
+                median_skipped += 1
+                continue
+            n_prev = prev.get("stats", {}).get("matchCount") or 0
+            n_cur = d.get("stats", {}).get("matchCount") or 0
+            if min(n_prev, n_cur) < MEDIAN_MIN_MATCH:
+                median_skipped += 1
+                continue
             a, b = prev["stats"]["medianPrice"], d["stats"]["medianPrice"]
             if a and b and abs(b - a) / a > MEDIAN_DIVERGENCE:
                 err(f"中央値価格が{MEDIAN_DIVERGENCE:.0%}超変動 {slug}: {a}→{b}")
@@ -103,7 +117,8 @@ def main():
         print(f"\nvalidate: CRIT {len(errors)}件 → 公開中止(fail-closed)")
         sys.exit(1)
     baseline_note = f"前回{prev_pages}p比OK" if prev_pages is not None else "初回(前回比スキップ)"
-    print(f"validate: 全緑 pages={len(pages)} hotels合計={total_hotels} {baseline_note}")
+    skip_note = f" medianスキップ={median_skipped}" if median_skipped else ""
+    print(f"validate: 全緑 pages={len(pages)} hotels合計={total_hotels} {baseline_note}{skip_note}")
 
 
 if __name__ == "__main__":
