@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-01",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 1850,
-  "medianPrice": 7700,
+  "medianPrice": 7850,
   "reviewAvgMean": 4.31,
   "pricedCount": 51
  },
@@ -271,7 +271,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6300,
+   "minCharge": 6350,
    "reviewAverage": 4.48,
    "reviewCount": 1044,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -322,7 +322,7 @@
    "hotelNo": 8384,
    "name": "道後プリンスホテル〜旬華趣湯　あったらいいな、が湧く湯宿〜",
    "kana": "どうごおんせん　どうごぷりんすほてる",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.46,
    "reviewCount": 2171,
    "access": "【車】松山道松山ICより30分。【リムジンバス】松山空港より40分。松山観光港より45分。道後温泉駅到着後、電話で送迎有",
@@ -339,7 +339,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 4670,
+   "minCharge": 4840,
    "reviewAverage": 4.45,
    "reviewCount": 2154,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",
@@ -356,7 +356,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 11700,
+   "minCharge": 12800,
    "reviewAverage": 4.45,
    "reviewCount": 2613,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4598,
-  "medianPrice": 18650,
+  "medianPrice": 19050,
   "reviewAvgMean": 4.5,
   "pricedCount": 20
  },
@@ -82,7 +82,7 @@
    "hotelNo": 183280,
    "name": "オーソルヴェール軽井沢倶楽部",
    "kana": "おーそるヴぇーるかるいざわくらぶ",
-   "minCharge": 14200,
+   "minCharge": 15000,
    "reviewAverage": 4.71,
    "reviewCount": 105,
    "access": "軽井沢駅から25分（軽井沢駅から無料送迎有・7日前まで要予約）。佐久平ICから20分。信濃追分駅から15分・駐車場無料",
@@ -184,7 +184,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 9400,
+   "minCharge": 9900,
    "reviewAverage": 4.62,
    "reviewCount": 755,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -201,7 +201,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 25410,
+   "minCharge": 30085,
    "reviewAverage": 4.61,
    "reviewCount": 342,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -252,7 +252,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 25667,
+   "minCharge": 32334,
    "reviewAverage": 4.43,
    "reviewCount": 292,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",

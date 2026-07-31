@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-01",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 1500,
-  "medianPrice": 9790,
+  "medianPrice": 9500,
   "reviewAvgMean": 4.38,
   "pricedCount": 69
  },
@@ -67,7 +67,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 30100,
+   "minCharge": 33834,
    "reviewAverage": 4.89,
    "reviewCount": 99,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -203,7 +203,7 @@
    "hotelNo": 172768,
    "name": "灯りの宿　燈月",
    "kana": "あかりのやど　とうげつ",
-   "minCharge": 10400,
+   "minCharge": 11550,
    "reviewAverage": 4.62,
    "reviewCount": 846,
    "access": "別府駅より車で２０分",
@@ -288,7 +288,7 @@
    "hotelNo": 136161,
    "name": "癒しの宿　彩葉",
    "kana": "いやしのやど　いろは",
-   "minCharge": 12400,
+   "minCharge": 12750,
    "reviewAverage": 4.6,
    "reviewCount": 295,
    "access": "別府駅よりお車で１５分",
@@ -339,7 +339,7 @@
    "hotelNo": 38409,
    "name": "別府温泉　眺望の宿　しおり",
    "kana": "べっぷおんせん　ちょうぼうのやど　しおり",
-   "minCharge": 9000,
+   "minCharge": 19635,
    "reviewAverage": 4.59,
    "reviewCount": 901,
    "access": "別府駅から車で10分（別府駅から送迎あり）☆別府ICから車で10分☆大分空港から車で40分（専用道路ご利用の場合）",

@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-01",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 12650,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.51,
   "pricedCount": 34
  },
@@ -84,7 +84,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 6800,
+   "minCharge": 7820,
    "reviewAverage": 4.75,
    "reviewCount": 12,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -115,23 +115,6 @@
    "special": "かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有"
   },
   {
-   "hotelNo": 138019,
-   "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
-   "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 12000,
-   "reviewAverage": 4.73,
-   "reviewCount": 128,
-   "access": "城崎温泉駅から徒歩７分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島379",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D138019",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D138019%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D138019",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/138019.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138019/138019.jpg",
-   "special": "城崎のど真ん中♪なのに静かで美しい木屋町通りに佇むたった5室の 美食家集う、旨し隠れ宿。"
-  },
-  {
    "hotelNo": 7597,
    "name": "城崎温泉　泉翠（せんすい）",
    "kana": "きのさきおんせん　せんすい",
@@ -147,6 +130,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7597.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7597/7597.jpg",
    "special": "温泉街中心に位置する大人限定の宿。サウナ付貸切風呂もオープン 館内の貸切風呂も無料で利用可"
+  },
+  {
+   "hotelNo": 138019,
+   "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
+   "kana": "うましかくれが　ゆやど　やまよし",
+   "minCharge": 21000,
+   "reviewAverage": 4.73,
+   "reviewCount": 128,
+   "access": "城崎温泉駅から徒歩７分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島379",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D138019",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D138019%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D138019",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/138019.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138019/138019.jpg",
+   "special": "城崎のど真ん中♪なのに静かで美しい木屋町通りに佇むたった5室の 美食家集う、旨し隠れ宿。"
   },
   {
    "hotelNo": 50571,
@@ -254,7 +254,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 17000,
+   "minCharge": 25479,
    "reviewAverage": 4.68,
    "reviewCount": 715,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",

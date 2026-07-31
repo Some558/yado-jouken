@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7590,
-  "medianPrice": 12100,
+  "medianPrice": 13750,
   "reviewAvgMean": 4.44,
   "pricedCount": 23
  },
@@ -133,7 +133,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 17000,
+   "minCharge": 25479,
    "reviewAverage": 4.68,
    "reviewCount": 715,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",
@@ -167,7 +167,7 @@
    "hotelNo": 8619,
    "name": "城崎温泉　きのさき　夢こやど　天望苑",
    "kana": "きのさきおんせん　こやど　てんぼうえん",
-   "minCharge": 10450,
+   "minCharge": 13750,
    "reviewAverage": 4.63,
    "reviewCount": 461,
    "access": "JR城崎温泉駅から無料バス5分/徒歩15分。無料Pあり。北近畿豊岡道・豊岡出石ICから約20分",
@@ -337,7 +337,7 @@
    "hotelNo": 72798,
    "name": "城崎温泉　泉都",
    "kana": "きのさきおんせん　せんと",
-   "minCharge": 8415,
+   "minCharge": 9350,
    "reviewAverage": 4.22,
    "reviewCount": 579,
    "access": "ＪＲ　城崎温泉より徒歩１０分",

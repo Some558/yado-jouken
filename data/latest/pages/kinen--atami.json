@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-01",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 101,
-  "matchRate": 37.7,
+  "matchRate": 37.5,
   "denominator": {
    "type": "area_total",
-   "value": 268,
+   "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2310,
-  "medianPrice": 10497,
+  "minPrice": 3500,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.31,
   "pricedCount": 62
  },
@@ -149,23 +149,6 @@
    "special": "【旅館甲子園優勝の宿】7/29(水)〜8/1(土)空室わずか★クーポン有【お部屋食】"
   },
   {
-   "hotelNo": 197709,
-   "name": "熱海温泉　熱海　ホテル渚館",
-   "kana": "あたみおんせん　あたみ　なぎさかん",
-   "minCharge": 9980,
-   "reviewAverage": 4.62,
-   "reviewCount": 50,
-   "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
-   "address1": "静岡県",
-   "address2": "熱海市渚町11-9",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197709",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D197709%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D197709",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197709.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197709/197709.jpg",
-   "special": "2025年11月、熱海に新章。“美味眺望”の渚館。九階の展望湯と海景会席で、海と心がほどける至福を。"
-  },
-  {
    "hotelNo": 198339,
    "name": "熱海ニュー美松",
    "kana": "あたみにゅーみまつ",
@@ -181,6 +164,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198339.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198339/198339.jpg",
    "special": "オーシャンビューで相模湾を一望、季節の海と山の贅沢なお料理と温泉が自慢です。"
+  },
+  {
+   "hotelNo": 197709,
+   "name": "熱海温泉　熱海　ホテル渚館",
+   "kana": "あたみおんせん　あたみ　なぎさかん",
+   "minCharge": 11220,
+   "reviewAverage": 4.62,
+   "reviewCount": 50,
+   "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
+   "address1": "静岡県",
+   "address2": "熱海市渚町11-9",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197709",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D197709%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D197709",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197709.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197709/197709.jpg",
+   "special": "2025年11月、熱海に新章。“美味眺望”の渚館。九階の展望湯と海景会席で、海と心がほどける至福を。"
   },
   {
    "hotelNo": 179717,
@@ -237,7 +237,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 18750,
+   "minCharge": 19843,
    "reviewAverage": 4.57,
    "reviewCount": 309,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -254,7 +254,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10200,
+   "minCharge": 15749,
    "reviewAverage": 4.56,
    "reviewCount": 1068,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -271,7 +271,7 @@
    "hotelNo": 75291,
    "name": "熱海倶楽部　迎賓館",
    "kana": "あたみくらぶ　げいひんかん",
-   "minCharge": 29700,
+   "minCharge": 36300,
    "reviewAverage": 4.56,
    "reviewCount": 4383,
    "access": "熱海駅より車で約８分。タクシーでお越しの場合は「熱海ゴルフ倶楽部」とお伝え下さい。",
@@ -305,7 +305,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 15600,
+   "minCharge": 13900,
    "reviewAverage": 4.55,
    "reviewCount": 689,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",

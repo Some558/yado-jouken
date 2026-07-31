@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 2980,
-  "medianPrice": 12500,
+  "minPrice": 3980,
+  "medianPrice": 13500,
   "reviewAvgMean": 4.57,
   "pricedCount": 31
  },
@@ -218,7 +218,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 16800,
+   "minCharge": 17900,
    "reviewAverage": 4.66,
    "reviewCount": 462,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -303,7 +303,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 5950,
+   "minCharge": 17452,
    "reviewAverage": 4.6,
    "reviewCount": 65,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -337,7 +337,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 12100,
+   "minCharge": 11550,
    "reviewAverage": 4.57,
    "reviewCount": 485,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4000,
-  "medianPrice": 14360,
+  "minPrice": 5313,
+  "medianPrice": 14450,
   "reviewAvgMean": 4.3,
   "pricedCount": 34
  },
@@ -65,7 +65,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 10235,
+   "minCharge": 10695,
    "reviewAverage": 4.82,
    "reviewCount": 45,
    "access": "熱海駅よりお車で約20分",
@@ -184,7 +184,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 15600,
+   "minCharge": 13900,
    "reviewAverage": 4.55,
    "reviewCount": 689,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
@@ -303,7 +303,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 17400,
+   "minCharge": 17700,
    "reviewAverage": 4.24,
    "reviewCount": 3112,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",
@@ -354,7 +354,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 13720,
+   "minCharge": 16610,
    "reviewAverage": 4.19,
    "reviewCount": 1029,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

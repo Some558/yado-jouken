@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 122,
    "matchRate": 34.7,
    "minPrice": 5500,
-   "medianPrice": 15525,
+   "medianPrice": 15625,
    "reviewAvgMean": 4.42
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 39,
    "matchRate": 25.5,
    "minPrice": 4490,
-   "medianPrice": 12140,
+   "medianPrice": 12950,
    "reviewAvgMean": 4.37
   },
   {
@@ -39,9 +39,9 @@
    },
    "slug": "breakfast--atami",
    "matchCount": 78,
-   "matchRate": 29.1,
-   "minPrice": 2310,
-   "medianPrice": 11000,
+   "matchRate": 29.0,
+   "minPrice": 3500,
+   "medianPrice": 13320,
    "reviewAvgMean": 4.3
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 85,
    "matchRate": 34.0,
    "minPrice": 1500,
-   "medianPrice": 9250,
+   "medianPrice": 9370,
    "reviewAvgMean": 4.37
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 105,
    "matchRate": 34.0,
    "minPrice": 3290,
-   "medianPrice": 16600,
+   "medianPrice": 17600,
    "reviewAvgMean": 4.49
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 44,
    "matchRate": 27.8,
    "minPrice": 5460,
-   "medianPrice": 13200,
+   "medianPrice": 13750,
    "reviewAvgMean": 4.54
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 41,
    "matchRate": 57.7,
    "minPrice": 4500,
-   "medianPrice": 8998,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.24
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 92,
    "matchRate": 27.0,
    "minPrice": 3000,
-   "medianPrice": 10500,
+   "medianPrice": 11310,
    "reviewAvgMean": 4.39
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 41,
    "matchRate": 14.7,
    "minPrice": 5100,
-   "medianPrice": 14200,
+   "medianPrice": 14455,
    "reviewAvgMean": 4.44
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 57,
    "matchRate": 31.8,
    "minPrice": 1850,
-   "medianPrice": 7700,
+   "medianPrice": 7850,
    "reviewAvgMean": 4.31
   }
  ]

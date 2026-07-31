@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-01",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 15525,
+  "medianPrice": 15625,
   "reviewAvgMean": 4.42,
   "pricedCount": 72
  },
@@ -84,7 +84,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 39550,
+   "minCharge": 41810,
    "reviewAverage": 4.87,
    "reviewCount": 641,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -169,7 +169,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 36300,
+   "minCharge": 41800,
    "reviewAverage": 4.75,
    "reviewCount": 140,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -339,7 +339,7 @@
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 12100,
+   "minCharge": 15400,
    "reviewAverage": 4.62,
    "reviewCount": 267,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
@@ -356,7 +356,7 @@
    "hotelNo": 130716,
    "name": "箱根湯本温泉　喜仙荘",
    "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 9350,
+   "minCharge": 10450,
    "reviewAverage": 4.6,
    "reviewCount": 284,
    "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",

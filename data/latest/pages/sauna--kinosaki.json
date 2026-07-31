@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 6800,
+   "minCharge": 7820,
    "reviewAverage": 4.75,
    "reviewCount": 12,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -99,7 +99,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 17000,
+   "minCharge": 25479,
    "reviewAverage": 4.68,
    "reviewCount": 715,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",
@@ -286,7 +286,7 @@
    "hotelNo": 15315,
    "name": "リロステイＶＩＬＬＡ　城崎　ザ・コンドミニアム（旧レイセニット城崎スイートＶＩＬＬＡ）",
    "kana": "りろすていヴぃらきのさきざこんどみにあむ",
-   "minCharge": 7480,
+   "minCharge": 8030,
    "reviewAverage": 3.83,
    "reviewCount": 1970,
    "access": "ＪＲ山陰本線「城崎温泉」駅から車で約７分(無料送迎車あり※予約制）。北近畿豊岡自動車道「日高神鍋高原」ＩＣより40分。",

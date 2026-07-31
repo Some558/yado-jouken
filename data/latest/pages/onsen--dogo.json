@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-01",
@@ -305,7 +305,7 @@
    "hotelNo": 8384,
    "name": "道後プリンスホテル〜旬華趣湯　あったらいいな、が湧く湯宿〜",
    "kana": "どうごおんせん　どうごぷりんすほてる",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.46,
    "reviewCount": 2171,
    "access": "【車】松山道松山ICより30分。【リムジンバス】松山空港より40分。松山観光港より45分。道後温泉駅到着後、電話で送迎有",
@@ -322,7 +322,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 11700,
+   "minCharge": 12800,
    "reviewAverage": 4.45,
    "reviewCount": 2613,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",

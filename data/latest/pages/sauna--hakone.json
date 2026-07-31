@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-07-30",
+ "dataAsOf": "2026-07-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6430,
-  "medianPrice": 15950,
+  "medianPrice": 16105,
   "reviewAvgMean": 4.39,
   "pricedCount": 40
  },
@@ -48,7 +48,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 39550,
+   "minCharge": 41810,
    "reviewAverage": 4.87,
    "reviewCount": 641,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -184,7 +184,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 12500,
+   "minCharge": 18000,
    "reviewAverage": 4.55,
    "reviewCount": 6549,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -286,7 +286,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 19360,
+   "minCharge": 20350,
    "reviewAverage": 4.46,
    "reviewCount": 1016,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",
@@ -337,7 +337,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 15200,
+   "minCharge": 12800,
    "reviewAverage": 4.41,
    "reviewCount": 76,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
