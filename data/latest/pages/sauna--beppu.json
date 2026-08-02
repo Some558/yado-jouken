@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 7700,
+  "medianPrice": 7500,
   "reviewAvgMean": 4.39,
   "pricedCount": 29
  },
@@ -96,6 +96,23 @@
    "special": "名物！蒸し湯も人気♪レトロな空間と心温まるおもてなしが自慢！"
   },
   {
+   "hotelNo": 172768,
+   "name": "灯りの宿　燈月",
+   "kana": "あかりのやど　とうげつ",
+   "minCharge": 9504,
+   "reviewAverage": 4.63,
+   "reviewCount": 852,
+   "access": "別府駅より車で２０分",
+   "address1": "大分県",
+   "address2": "別府市大字火売６組－２",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172768",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172768%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172768",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172768.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172768/172768.jpg",
+   "special": "別府でここだけ！大分県が誇る最高峰「おおいた和牛」ステーキ食べ放題をビュッフェでお好きなだけ楽しめる"
+  },
+  {
    "hotelNo": 70231,
    "name": "別府鉄輪温泉　旅館　喜楽＜大分県＞",
    "kana": "きらく＜おおいたけん＞",
@@ -111,23 +128,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70231.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70231/70231.jpg",
    "special": "2022年2月客室リニューアル。鉄輪温泉本来の熱めの泉質と名物の地元料理が愉しめる。"
-  },
-  {
-   "hotelNo": 172768,
-   "name": "灯りの宿　燈月",
-   "kana": "あかりのやど　とうげつ",
-   "minCharge": 11550,
-   "reviewAverage": 4.63,
-   "reviewCount": 852,
-   "access": "別府駅より車で２０分",
-   "address1": "大分県",
-   "address2": "別府市大字火売６組－２",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172768",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172768%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172768",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172768.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172768/172768.jpg",
-   "special": "別府でここだけ！大分県が誇る最高峰「おおいた和牛」ステーキ食べ放題をビュッフェでお好きなだけ楽しめる"
   },
   {
    "hotelNo": 5547,
@@ -150,7 +150,7 @@
    "hotelNo": 183018,
    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
    "kana": "ぐらんヴぃりおほてるべっぷわん　わくら　るーといんほてるず",
-   "minCharge": 6500,
+   "minCharge": 6000,
    "reviewAverage": 4.59,
    "reviewCount": 1061,
    "access": "■別府駅より無料送迎バスあり（要予約）■別府湾スマートICより車で約10分　■大分空港より車で約35分　■駐車場無料",
@@ -235,7 +235,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 7700,
+   "minCharge": 6600,
    "reviewAverage": 4.52,
    "reviewCount": 634,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
@@ -252,7 +252,7 @@
    "hotelNo": 182800,
    "name": "アマネク別府ゆらり",
    "kana": "あまねくべっぷ　ゆらり",
-   "minCharge": 7119,
+   "minCharge": 6058,
    "reviewAverage": 4.46,
    "reviewCount": 457,
    "access": "JR線「別府駅」東口から徒歩3分",
@@ -286,7 +286,7 @@
    "hotelNo": 147186,
    "name": "Ｔａｂｉｓｔ　日生や　別府鉄輪",
    "kana": "たびすと　にっせいや　べっぷかんなわ",
-   "minCharge": 4750,
+   "minCharge": 4987,
    "reviewAverage": 4.33,
    "reviewCount": 252,
    "access": "別府大学駅よりバスにて約5分。別府駅よりバスで約30分。鉄輪バス停下車徒歩5分。",
@@ -303,7 +303,7 @@
    "hotelNo": 674,
    "name": "ホテルアーサー　ＫＩＴＡＨＡＭＡ　ＢＡＳＥ",
    "kana": "ほてるあーさー　きたはまべーす",
-   "minCharge": 3783,
+   "minCharge": 3995,
    "reviewAverage": 4.3,
    "reviewCount": 1632,
    "access": "ＪＲ「別府駅」より徒歩３分 　大分空港より「北浜停留所」徒歩５分　大分自動車道別府I.Cより15分",

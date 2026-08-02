@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "recordCount": 70,
  "conditions": [
   {
@@ -274,7 +274,7 @@
    "hotelNo": 147464,
    "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
    "kana": "いかほおんせん　ちぎらじんせんてい",
-   "minCharge": 15840,
+   "minCharge": 13200,
    "reviewAverage": 4.57,
    "reviewCount": 542,
    "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
@@ -485,7 +485,7 @@
    "hotelNo": 197407,
    "name": "ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　渋川",
    "kana": "ほてる あーるないん ざ やーど しぶかわ",
-   "minCharge": 3900,
+   "minCharge": 4200,
    "reviewAverage": 4.38,
    "reviewCount": 120,
    "access": "【電車】渋川駅より徒歩10分、タクシーで4分。【お車】渋川伊香保ICより車で5分。",
@@ -567,10 +567,31 @@
    ]
   },
   {
+   "hotelNo": 38692,
+   "name": "伊香保温泉　旅館　さくらい",
+   "kana": "いかほおんせん　りょかん　さくらい",
+   "minCharge": 6600,
+   "reviewAverage": 4.33,
+   "reviewCount": 1175,
+   "access": "JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保210-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38692",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38692%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38692",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38692.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg",
+   "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 7050,
    "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
    "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 9240,
+   "minCharge": 8085,
    "reviewAverage": 4.33,
    "reviewCount": 1496,
    "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
@@ -616,27 +637,6 @@
    ]
   },
   {
-   "hotelNo": 38692,
-   "name": "伊香保温泉　旅館　さくらい",
-   "kana": "いかほおんせん　りょかん　さくらい",
-   "minCharge": 14080,
-   "reviewAverage": 4.33,
-   "reviewCount": 1175,
-   "access": "JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保210-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38692",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38692%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38692",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38692.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg",
-   "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂",
-   "conditions": [
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 80783,
    "name": "伊香保温泉　いかほ秀水園",
    "kana": "いかほおんせん　いかほしゅうすいえん",
@@ -665,7 +665,7 @@
    "hotelNo": 16386,
    "name": "徳田屋旅館",
    "kana": "とくだやりょかん",
-   "minCharge": 8300,
+   "minCharge": 6600,
    "reviewAverage": 4.3,
    "reviewCount": 272,
    "access": "ＪＲ上越線渋川駅より伊香保温泉行きバスにて２５分",
@@ -683,7 +683,7 @@
    "hotelNo": 28606,
    "name": "伊香保温泉　福一",
    "kana": "いかほおんせん　ふくいち",
-   "minCharge": 9240,
+   "minCharge": 7392,
    "reviewAverage": 4.29,
    "reviewCount": 1671,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",
@@ -942,7 +942,7 @@
    "hotelNo": 7105,
    "name": "伊香保温泉　ホテル天坊",
    "kana": "いかほおんせん　てんぼう",
-   "minCharge": 9900,
+   "minCharge": 10450,
    "reviewAverage": 4.04,
    "reviewCount": 3093,
    "access": "関越自動車道渋川伊香保ＩＣより車約２０分 / 渋川駅より路線バス２５分見晴下下車（送迎はなし）",
@@ -1442,7 +1442,7 @@
    "hotelNo": 192441,
    "name": "Ｙ－ＣＡＭＰ",
    "kana": "わいきゃんぷ",
-   "minCharge": 22000,
+   "minCharge": 15000,
    "reviewAverage": null,
    "reviewCount": null,
    "access": "渋川伊香保ＩＣより約２０分",

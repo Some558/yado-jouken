@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5316,
-  "medianPrice": 13600,
+  "medianPrice": 13500,
   "reviewAvgMean": 4.52,
   "pricedCount": 8
  },
@@ -82,7 +82,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 16000,
+   "minCharge": 14000,
    "reviewAverage": 4.68,
    "reviewCount": 1501,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -133,7 +133,7 @@
    "hotelNo": 28349,
    "name": "軽井沢ホテル　ロンギングハウス",
    "kana": "かるいざわほてる　ろんぎんぐはうす",
-   "minCharge": 12800,
+   "minCharge": 11800,
    "reviewAverage": 4.28,
    "reviewCount": 1391,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",

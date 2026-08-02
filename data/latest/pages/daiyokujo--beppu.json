@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2500,
-  "medianPrice": 7700,
+  "medianPrice": 7500,
   "reviewAvgMean": 4.32,
   "pricedCount": 47
  },
@@ -67,7 +67,7 @@
    "hotelNo": 172768,
    "name": "灯りの宿　燈月",
    "kana": "あかりのやど　とうげつ",
-   "minCharge": 11550,
+   "minCharge": 9504,
    "reviewAverage": 4.63,
    "reviewCount": 852,
    "access": "別府駅より車で２０分",
@@ -220,7 +220,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 7700,
+   "minCharge": 6600,
    "reviewAverage": 4.52,
    "reviewCount": 634,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
@@ -305,7 +305,7 @@
    "hotelNo": 182800,
    "name": "アマネク別府ゆらり",
    "kana": "あまねくべっぷ　ゆらり",
-   "minCharge": 7119,
+   "minCharge": 6058,
    "reviewAverage": 4.46,
    "reviewCount": 457,
    "access": "JR線「別府駅」東口から徒歩3分",
@@ -356,7 +356,7 @@
    "hotelNo": 167075,
    "name": "コスタ・デル・ソル　ひじ",
    "kana": "こすた　でる　そる　ひじ",
-   "minCharge": 15100,
+   "minCharge": 7000,
    "reviewAverage": 4.41,
    "reviewCount": 182,
    "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",

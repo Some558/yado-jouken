@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -23,8 +23,8 @@
    "value": 352,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 6330,
-  "medianPrice": 15600,
+  "minPrice": 5600,
+  "medianPrice": 15875,
   "reviewAvgMean": 4.42,
   "pricedCount": 78
  },
@@ -118,7 +118,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 46100,
+   "minCharge": 48000,
    "reviewAverage": 4.82,
    "reviewCount": 61,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -169,7 +169,7 @@
    "hotelNo": 172961,
    "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
    "kana": "ばーほてる　はこねかざん",
-   "minCharge": 25200,
+   "minCharge": 26700,
    "reviewAverage": 4.77,
    "reviewCount": 63,
    "access": "箱根湯本駅から箱根登山バスまたは伊豆箱根バスで「蓬莱園」バス停まで約20分／蓬莱園バス停から徒歩で約5分",
@@ -237,7 +237,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 38500,
+   "minCharge": 37400,
    "reviewAverage": 4.71,
    "reviewCount": 875,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",

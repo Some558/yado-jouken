@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -50,7 +50,7 @@
    "hotelNo": 144993,
    "name": "湯平温泉　癒しの宿　鷹勝",
    "kana": "いやしのやど　たかしょう",
-   "minCharge": 27000,
+   "minCharge": 25000,
    "reviewAverage": 4.86,
    "reviewCount": 661,
    "access": "湯布院ICよりお車で30分＜ＪＲ湯平駅への送迎サービス有り。※5日前までのご予約を＞",
@@ -152,7 +152,7 @@
    "hotelNo": 43826,
    "name": "由布院温泉　かほりの郷　はな村",
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
-   "minCharge": 22895,
+   "minCharge": 21945,
    "reviewAverage": 4.68,
    "reviewCount": 768,
    "access": "ＪＲ　由布院駅より徒歩１0分／湯布院ＩＣより車で１０分/由布院駅までの送迎ご希望の方は由布院駅よりお電話下さい。",

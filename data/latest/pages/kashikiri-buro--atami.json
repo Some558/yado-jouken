@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20790,
+   "minCharge": 21780,
    "reviewAverage": 4.61,
    "reviewCount": 317,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -303,7 +303,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 6600,
+   "minCharge": 7700,
    "reviewAverage": 4.2,
    "reviewCount": 446,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
@@ -354,7 +354,7 @@
    "hotelNo": 68189,
    "name": "旅荘　天城",
    "kana": "りょそう　あまぎ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.15,
    "reviewCount": 352,
    "access": "熱海駅より車で７分、又はバス『後楽園行』に乗車→停留所「銀座」下車、徒歩３分",

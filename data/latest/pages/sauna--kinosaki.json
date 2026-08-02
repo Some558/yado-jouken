@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 153168,
    "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
    "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
-   "minCharge": 22100,
+   "minCharge": 19900,
    "reviewAverage": 4.72,
    "reviewCount": 324,
    "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
@@ -218,7 +218,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 7590,
+   "minCharge": 7060,
    "reviewAverage": 4.34,
    "reviewCount": 412,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",

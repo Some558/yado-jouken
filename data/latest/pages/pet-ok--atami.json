@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 8625,
+   "minCharge": 8280,
    "reviewAverage": 4.83,
    "reviewCount": 48,
    "access": "熱海駅よりお車で約20分",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8800,
+  "medianPrice": 9000,
   "reviewAvgMean": 4.35,
   "pricedCount": 35
  },
@@ -99,7 +99,7 @@
    "hotelNo": 165673,
    "name": "道後温泉　あたたかい宿　谷屋",
    "kana": "どうごおんせん　あたたかいやど　たにや",
-   "minCharge": 18300,
+   "minCharge": 17200,
    "reviewAverage": 4.72,
    "reviewCount": 156,
    "access": "道後温泉駅より徒歩にて約１分",
@@ -184,7 +184,7 @@
    "hotelNo": 179083,
    "name": "道後ｈａｋｕｒｏ",
    "kana": "どうごはくろ",
-   "minCharge": 7850,
+   "minCharge": 7350,
    "reviewAverage": 4.57,
    "reviewCount": 1343,
    "access": "道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分",
@@ -235,7 +235,7 @@
    "hotelNo": 187888,
    "name": "ｐｒｉｖａｔｅ　ｙｏｕｒ　ｒｅｓｏｒｔ　ＩＴＴＥＫＵＲＡｉ　松山",
    "kana": "プライベート　ユア　リゾート　イッテクライ　マツヤマ",
-   "minCharge": 20200,
+   "minCharge": 19300,
    "reviewAverage": 4.5,
    "reviewCount": 39,
    "access": "川内インターよりお車にて5分　松山空港、松山観光港よりお車にて約４０分 松山駅よりお車にて約３０分",
@@ -286,7 +286,7 @@
    "hotelNo": 8384,
    "name": "道後プリンスホテル〜旬華趣湯　あったらいいな、が湧く湯宿〜",
    "kana": "どうごおんせん　どうごぷりんすほてる",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.46,
    "reviewCount": 2181,
    "access": "【車】松山道松山ICより30分。【リムジンバス】松山空港より40分。松山観光港より45分。道後温泉駅到着後、電話で送迎有",

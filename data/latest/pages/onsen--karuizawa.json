@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4598,
-  "medianPrice": 20436,
+  "medianPrice": 16137,
   "reviewAvgMean": 4.4,
   "pricedCount": 15
  },
@@ -118,7 +118,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 28545,
+   "minCharge": 22220,
    "reviewAverage": 4.63,
    "reviewCount": 343,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -152,7 +152,7 @@
    "hotelNo": 74000,
    "name": "ホテルハーヴェスト旧軽井沢",
    "kana": "はーヴぇすときゅうかるいざわ",
-   "minCharge": 29700,
+   "minCharge": 27800,
    "reviewAverage": 4.56,
    "reviewCount": 1141,
    "access": "軽井沢駅より徒歩11分",
@@ -169,7 +169,7 @@
    "hotelNo": 67500,
    "name": "ザ・プリンス軽井沢",
    "kana": "ざ・ぷりんすかるいざわ",
-   "minCharge": 21298,
+   "minCharge": 15949,
    "reviewAverage": 4.46,
    "reviewCount": 319,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",
@@ -220,7 +220,7 @@
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 22149,
+   "minCharge": 21397,
    "reviewAverage": 4.09,
    "reviewCount": 179,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",

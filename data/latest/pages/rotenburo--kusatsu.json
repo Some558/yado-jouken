@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6006,
-  "medianPrice": 13000,
+  "medianPrice": 12840,
   "reviewAvgMean": 4.37,
   "pricedCount": 36
  },
@@ -201,7 +201,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 13180,
+   "minCharge": 12680,
    "reviewAverage": 4.59,
    "reviewCount": 39,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -337,7 +337,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 16850,
+   "minCharge": 15800,
    "reviewAverage": 4.4,
    "reviewCount": 3092,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -354,7 +354,7 @@
    "hotelNo": 108587,
    "name": "草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）",
    "kana": "くさつおんせん　ゆばたけてんぼうろてんのやど　ぬしゆうりょかん",
-   "minCharge": 11000,
+   "minCharge": 10000,
    "reviewAverage": 4.38,
    "reviewCount": 534,
    "access": "長野原草津口駅から草津温泉行きバスで約２０分",

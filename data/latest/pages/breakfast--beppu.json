@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 1500,
-  "medianPrice": 9500,
+  "medianPrice": 9370,
   "reviewAvgMean": 4.36,
   "pricedCount": 62
  },
@@ -135,7 +135,7 @@
    "hotelNo": 153568,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＧＡＨＡＭＡ（ガハマテラス）",
    "kana": "あまね　りぞーと　がはま",
-   "minCharge": 24971,
+   "minCharge": 21783,
    "reviewAverage": 4.69,
    "reviewCount": 123,
    "access": "別府駅よりお車にて約１５分",
@@ -152,7 +152,7 @@
    "hotelNo": 172768,
    "name": "灯りの宿　燈月",
    "kana": "あかりのやど　とうげつ",
-   "minCharge": 11550,
+   "minCharge": 9504,
    "reviewAverage": 4.63,
    "reviewCount": 852,
    "access": "別府駅より車で２０分",
@@ -237,7 +237,7 @@
    "hotelNo": 183018,
    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
    "kana": "ぐらんヴぃりおほてるべっぷわん　わくら　るーといんほてるず",
-   "minCharge": 6500,
+   "minCharge": 6000,
    "reviewAverage": 4.59,
    "reviewCount": 1061,
    "access": "■別府駅より無料送迎バスあり（要予約）■別府湾スマートICより車で約10分　■大分空港より車で約35分　■駐車場無料",

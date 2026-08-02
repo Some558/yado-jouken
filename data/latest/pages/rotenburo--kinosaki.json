@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7590,
-  "medianPrice": 13750,
+  "minPrice": 7060,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.45,
   "pricedCount": 23
  },
@@ -99,7 +99,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 21285,
+   "minCharge": 17600,
    "reviewAverage": 4.72,
    "reviewCount": 461,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -201,7 +201,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 14980,
+   "minCharge": 12980,
    "reviewAverage": 4.58,
    "reviewCount": 1022,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",
@@ -269,7 +269,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 7590,
+   "minCharge": 7060,
    "reviewAverage": 4.34,
    "reviewCount": 412,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",
@@ -286,7 +286,7 @@
    "hotelNo": 54668,
    "name": "休暇村　竹野海岸",
    "kana": "きゅうかむら　たけのかいがん",
-   "minCharge": 16500,
+   "minCharge": 11500,
    "reviewAverage": 4.34,
    "reviewCount": 522,
    "access": "ＪＲ　竹野駅より車で５分（送迎有り）",

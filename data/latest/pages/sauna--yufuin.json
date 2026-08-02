@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,16 +22,16 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8750,
-  "medianPrice": 12086,
+  "medianPrice": 10890,
   "reviewAvgMean": 4.43,
-  "pricedCount": 11
+  "pricedCount": 10
  },
  "hotels": [
   {
    "hotelNo": 144993,
    "name": "湯平温泉　癒しの宿　鷹勝",
    "kana": "いやしのやど　たかしょう",
-   "minCharge": 27000,
+   "minCharge": 25000,
    "reviewAverage": 4.86,
    "reviewCount": 661,
    "access": "湯布院ICよりお車で30分＜ＪＲ湯平駅への送迎サービス有り。※5日前までのご予約を＞",
@@ -48,7 +48,7 @@
    "hotelNo": 189041,
    "name": "月洸樹　由布院",
    "kana": "げっこうじゅ　ゆふいん",
-   "minCharge": 63835,
+   "minCharge": null,
    "reviewAverage": 4.8,
    "reviewCount": 6,
    "access": "由布院駅よりお車で約５分、大分自動車道湯布院ＩＣよりお車で約１０分",
@@ -82,7 +82,7 @@
    "hotelNo": 43826,
    "name": "由布院温泉　かほりの郷　はな村",
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
-   "minCharge": 22895,
+   "minCharge": 21945,
    "reviewAverage": 4.68,
    "reviewCount": 768,
    "access": "ＪＲ　由布院駅より徒歩１0分／湯布院ＩＣより車で１０分/由布院駅までの送迎ご希望の方は由布院駅よりお電話下さい。",
@@ -99,7 +99,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 12086,
+   "minCharge": 10080,
    "reviewAverage": 4.63,
    "reviewCount": 145,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",

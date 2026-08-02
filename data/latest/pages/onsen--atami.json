@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2310,
-  "medianPrice": 11970,
+  "medianPrice": 11220,
   "reviewAvgMean": 4.28,
   "pricedCount": 69
  },
@@ -67,7 +67,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 52800,
+   "minCharge": 53200,
    "reviewAverage": 4.76,
    "reviewCount": 165,
    "access": "ＪＲ　熱海駅",
@@ -152,7 +152,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20790,
+   "minCharge": 21780,
    "reviewAverage": 4.61,
    "reviewCount": 317,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -169,7 +169,7 @@
    "hotelNo": 136112,
    "name": "リゾナーレ熱海",
    "kana": "りぞなーれあたみ",
-   "minCharge": 18600,
+   "minCharge": 17400,
    "reviewAverage": 4.59,
    "reviewCount": 450,
    "access": "熱海駅より送迎バスにて15分",

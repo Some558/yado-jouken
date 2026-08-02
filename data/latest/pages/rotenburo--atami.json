@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5000,
-  "medianPrice": 12100,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.33,
   "pricedCount": 63
  },
@@ -82,7 +82,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 8625,
+   "minCharge": 8280,
    "reviewAverage": 4.83,
    "reviewCount": 48,
    "access": "熱海駅よりお車で約20分",
@@ -99,7 +99,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 52800,
+   "minCharge": 53200,
    "reviewAverage": 4.76,
    "reviewCount": 165,
    "access": "ＪＲ　熱海駅",
@@ -184,7 +184,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20790,
+   "minCharge": 21780,
    "reviewAverage": 4.61,
    "reviewCount": 317,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -201,7 +201,7 @@
    "hotelNo": 136112,
    "name": "リゾナーレ熱海",
    "kana": "りぞなーれあたみ",
-   "minCharge": 18600,
+   "minCharge": 17400,
    "reviewAverage": 4.59,
    "reviewCount": 450,
    "access": "熱海駅より送迎バスにて15分",
@@ -354,7 +354,7 @@
    "hotelNo": 197470,
    "name": "熱海・伊豆山　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "あたみ・いずさん・からく（おりっくすほてるずあんどりぞーつ）",
-   "minCharge": 45660,
+   "minCharge": 41700,
    "reviewAverage": 4.5,
    "reviewCount": 16,
    "access": "JR東海道新幹線・東海道本線「熱海駅」より車で約7分　※JR熱海駅との送迎（先着順要予約・乗り合い）",

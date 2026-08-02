@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4700,
-  "medianPrice": 13100,
+  "medianPrice": 12990,
   "reviewAvgMean": 4.48,
   "pricedCount": 40
  },
@@ -82,7 +82,7 @@
    "hotelNo": 79381,
    "name": "城崎温泉　料理旅館　よしはる",
    "kana": "きのさきおんせん　りょうりりょかん　よしはる",
-   "minCharge": 17930,
+   "minCharge": 18469,
    "reviewAverage": 4.9,
    "reviewCount": 256,
    "access": "ＪＲ　城崎温泉駅より徒歩にて３分",
@@ -235,7 +235,7 @@
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 13200,
+   "minCharge": 16500,
    "reviewAverage": 4.67,
    "reviewCount": 222,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
@@ -337,7 +337,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 14980,
+   "minCharge": 12980,
    "reviewAverage": 4.58,
    "reviewCount": 1022,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",

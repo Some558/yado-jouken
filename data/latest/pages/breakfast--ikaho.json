@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 9240,
+  "medianPrice": 8800,
   "reviewAvgMean": 4.25,
   "pricedCount": 33
  },
@@ -118,7 +118,7 @@
    "hotelNo": 147464,
    "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
    "kana": "いかほおんせん　ちぎらじんせんてい",
-   "minCharge": 15840,
+   "minCharge": 13200,
    "reviewAverage": 4.57,
    "reviewCount": 542,
    "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
@@ -271,7 +271,7 @@
    "hotelNo": 7050,
    "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
    "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 9240,
+   "minCharge": 8085,
    "reviewAverage": 4.33,
    "reviewCount": 1496,
    "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
@@ -322,7 +322,7 @@
    "hotelNo": 28606,
    "name": "伊香保温泉　福一",
    "kana": "いかほおんせん　ふくいち",
-   "minCharge": 9240,
+   "minCharge": 7392,
    "reviewAverage": 4.29,
    "reviewCount": 1671,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",

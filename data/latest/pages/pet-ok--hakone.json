@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 8000,
+  "minPrice": 5600,
   "medianPrice": 11780,
   "reviewAvgMean": 4.24,
   "pricedCount": 13
@@ -82,7 +82,7 @@
    "hotelNo": 192238,
    "name": "ペットと泊まれる宿－モリトソラ箱根－",
    "kana": "ぺっとととまれるやどーもりとそらはこねー",
-   "minCharge": 26500,
+   "minCharge": 24900,
    "reviewAverage": 4.41,
    "reviewCount": 64,
    "access": "【車】「萩窪ＩＣ」より約３５分【電車】小田原駅から箱根登山バス＆伊豆箱根バス「上鷹ノ巣」バス停目の前",
@@ -116,7 +116,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 13600,
+   "minCharge": 15200,
    "reviewAverage": 4.39,
    "reviewCount": 77,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -184,7 +184,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 8000,
+   "minCharge": 5600,
    "reviewAverage": 3.99,
    "reviewCount": 174,
    "access": "箱根登山バス：仙石高原 から徒歩2分",
@@ -235,7 +235,7 @@
    "hotelNo": 161012,
    "name": "リブマックスリゾート箱根芦ノ湖",
    "kana": "りぶまっくすりぞーとはこねあしのこ",
-   "minCharge": 8500,
+   "minCharge": 8000,
    "reviewAverage": 3.54,
    "reviewCount": 563,
    "access": "ＪＲ「小田原駅」よりお車にて約46分　伊豆箱根バス「大石バス停」から徒歩１分",

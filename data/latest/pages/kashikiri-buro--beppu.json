@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-02",
+ "dataAsOf": "2026-08-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 9645,
+  "medianPrice": 9500,
   "reviewAvgMean": 4.42,
   "pricedCount": 34
  },
@@ -130,6 +130,23 @@
    "special": "なつかしい日本の風情にゆったり浸かって、ゆったり味わい、時を忘れる豊かなくつろぎの宿"
   },
   {
+   "hotelNo": 172768,
+   "name": "灯りの宿　燈月",
+   "kana": "あかりのやど　とうげつ",
+   "minCharge": 9504,
+   "reviewAverage": 4.63,
+   "reviewCount": 852,
+   "access": "別府駅より車で２０分",
+   "address1": "大分県",
+   "address2": "別府市大字火売６組－２",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172768",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172768%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172768",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172768.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172768/172768.jpg",
+   "special": "別府でここだけ！大分県が誇る最高峰「おおいた和牛」ステーキ食べ放題をビュッフェでお好きなだけ楽しめる"
+  },
+  {
    "hotelNo": 70231,
    "name": "別府鉄輪温泉　旅館　喜楽＜大分県＞",
    "kana": "きらく＜おおいたけん＞",
@@ -145,23 +162,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70231.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70231/70231.jpg",
    "special": "2022年2月客室リニューアル。鉄輪温泉本来の熱めの泉質と名物の地元料理が愉しめる。"
-  },
-  {
-   "hotelNo": 172768,
-   "name": "灯りの宿　燈月",
-   "kana": "あかりのやど　とうげつ",
-   "minCharge": 11550,
-   "reviewAverage": 4.63,
-   "reviewCount": 852,
-   "access": "別府駅より車で２０分",
-   "address1": "大分県",
-   "address2": "別府市大字火売６組－２",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172768",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172768%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172768",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172768.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172768/172768.jpg",
-   "special": "別府でここだけ！大分県が誇る最高峰「おおいた和牛」ステーキ食べ放題をビュッフェでお好きなだけ楽しめる"
   },
   {
    "hotelNo": 30664,
@@ -303,7 +303,7 @@
    "hotelNo": 167075,
    "name": "コスタ・デル・ソル　ひじ",
    "kana": "こすた　でる　そる　ひじ",
-   "minCharge": 15100,
+   "minCharge": 7000,
    "reviewAverage": 4.41,
    "reviewCount": 182,
    "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",
