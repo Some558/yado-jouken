@@ -1,18 +1,18 @@
 {
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "generatedPages": 80,
  "skippedThin": [],
  "areaTotals": {
   "hakone": 352,
   "kusatsu": 153,
-  "atami": 269,
+  "atami": 270,
   "beppu": 250,
-  "yufuin": 309,
+  "yufuin": 310,
   "kinosaki": 158,
-  "ikaho": 71,
-  "nasu": 341,
+  "ikaho": 70,
+  "nasu": 344,
   "karuizawa": 278,
-  "dogo": 179
+  "dogo": 181
  },
  "facilityCacheCount": 891
 }

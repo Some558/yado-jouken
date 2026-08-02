@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "kinen--hakone",
    "matchCount": 154,
    "matchRate": 43.8,
-   "minPrice": 5500,
-   "medianPrice": 15400,
+   "minPrice": 6330,
+   "medianPrice": 14077,
    "reviewAvgMean": 4.41
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 53,
    "matchRate": 34.6,
    "minPrice": 4490,
-   "medianPrice": 12100,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.37
   },
   {
@@ -39,10 +39,10 @@
    },
    "slug": "kinen--atami",
    "matchCount": 101,
-   "matchRate": 37.5,
-   "minPrice": 3500,
-   "medianPrice": 12100,
-   "reviewAvgMean": 4.31
+   "matchRate": 37.4,
+   "minPrice": 2310,
+   "medianPrice": 11760,
+   "reviewAvgMean": 4.3
   },
   {
    "area": {
@@ -53,8 +53,8 @@
    "slug": "kinen--beppu",
    "matchCount": 128,
    "matchRate": 51.2,
-   "minPrice": 3000,
-   "medianPrice": 9500,
+   "minPrice": 2800,
+   "medianPrice": 9146,
    "reviewAvgMean": 4.39
   },
   {
@@ -65,9 +65,9 @@
    },
    "slug": "kinen--yufuin",
    "matchCount": 148,
-   "matchRate": 47.9,
+   "matchRate": 47.7,
    "minPrice": 3290,
-   "medianPrice": 16600,
+   "medianPrice": 15750,
    "reviewAvgMean": 4.47
   },
   {
@@ -81,7 +81,7 @@
    "matchRate": 26.6,
    "minPrice": 3000,
    "medianPrice": 13200,
-   "reviewAvgMean": 4.51
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -91,9 +91,9 @@
    },
    "slug": "kinen--ikaho",
    "matchCount": 42,
-   "matchRate": 59.2,
+   "matchRate": 60.0,
    "minPrice": 3500,
-   "medianPrice": 9990,
+   "medianPrice": 9432,
    "reviewAvgMean": 4.22
   },
   {
@@ -104,10 +104,10 @@
    },
    "slug": "kinen--nasu",
    "matchCount": 119,
-   "matchRate": 34.9,
-   "minPrice": 3000,
-   "medianPrice": 10375,
-   "reviewAvgMean": 4.4
+   "matchRate": 34.6,
+   "minPrice": 2730,
+   "medianPrice": 9287,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -118,9 +118,9 @@
    "slug": "kinen--karuizawa",
    "matchCount": 62,
    "matchRate": 22.3,
-   "minPrice": 5100,
-   "medianPrice": 13241,
-   "reviewAvgMean": 4.42
+   "minPrice": 4000,
+   "medianPrice": 13200,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -130,7 +130,7 @@
    },
    "slug": "kinen--dogo",
    "matchCount": 77,
-   "matchRate": 43.0,
+   "matchRate": 42.5,
    "minPrice": 1850,
    "medianPrice": 7825,
    "reviewAvgMean": 4.32

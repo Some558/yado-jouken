@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "detection": {
   "type": "facility"
  },
@@ -22,34 +22,17 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5200,
-  "medianPrice": 12710,
+  "medianPrice": 12540,
   "reviewAvgMean": 4.46,
   "pricedCount": 4
  },
  "hotels": [
   {
-   "hotelNo": 199940,
-   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
-   "kana": null,
-   "minCharge": 7820,
-   "reviewAverage": 4.75,
-   "reviewCount": 12,
-   "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町上山1414-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199940",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199940%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199940",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199940.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199940/199940.jpg",
-   "special": "★2026年6月新規OPEN★客室専用の天然温泉を存分に堪能、日常を離れた贅沢なプライベート空間"
-  },
-  {
    "hotelNo": 153168,
    "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
    "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
    "minCharge": 22100,
-   "reviewAverage": 4.65,
+   "reviewAverage": 4.72,
    "reviewCount": 324,
    "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
    "address1": "兵庫県",
@@ -62,12 +45,29 @@
    "special": "城崎１５分全室オーシャンビュー♪美と健康の女子力ＵＰの宿★時を気にしない贅沢なひと時★カニ＆但馬牛"
   },
   {
+   "hotelNo": 199940,
+   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
+   "kana": null,
+   "minCharge": 7480,
+   "reviewAverage": 4.65,
+   "reviewCount": 17,
+   "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町上山1414-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199940",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199940%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199940",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199940.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199940/199940.jpg",
+   "special": "★2026年6月新規OPEN★客室専用の天然温泉を存分に堪能、日常を離れた贅沢なプライベート空間"
+  },
+  {
    "hotelNo": 14074,
    "name": "城崎温泉　お宿　白山　花まんだら　【湯亭　花のれん】",
    "kana": "きのさきおんせん　おやど　はくさん　はなまんだら",
    "minCharge": 17600,
-   "reviewAverage": 4.38,
-   "reviewCount": 1000,
+   "reviewAverage": 4.37,
+   "reviewCount": 1001,
    "access": "ＪＲ山陰本線城崎温泉駅より無料バスで5分／中国自動車道吉川ＩＣ→舞鶴若狭道春日→北近畿自動車道終点→Ｒ３１２",
    "address1": "兵庫県",
    "address2": "豊岡市城崎町湯島564",
@@ -83,8 +83,8 @@
    "name": "こだま荘",
    "kana": "こだまそう",
    "minCharge": 5200,
-   "reviewAverage": 4.05,
-   "reviewCount": 76,
+   "reviewAverage": 4.1,
+   "reviewCount": 78,
    "access": "舞鶴自動車道福知山ＩＣより国道９号・国道４２６号経由、約３８㎞",
    "address1": "兵庫県",
    "address2": "豊岡市但東町相田36",

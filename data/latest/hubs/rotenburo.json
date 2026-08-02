@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 69,
    "matchRate": 76.7,
    "minPrice": 6550,
-   "medianPrice": 15950,
+   "medianPrice": 15400,
    "reviewAvgMean": 4.41
   },
   {
@@ -28,8 +28,8 @@
    "matchCount": 38,
    "matchRate": 42.2,
    "minPrice": 6006,
-   "medianPrice": 13100,
-   "reviewAvgMean": 4.38
+   "medianPrice": 13000,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -41,8 +41,8 @@
    "matchCount": 63,
    "matchRate": 70.0,
    "minPrice": 5000,
-   "medianPrice": 13200,
-   "reviewAvgMean": 4.34
+   "medianPrice": 12100,
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -53,8 +53,8 @@
    "slug": "rotenburo--beppu",
    "matchCount": 60,
    "matchRate": 66.7,
-   "minPrice": 3420,
-   "medianPrice": 10431,
+   "minPrice": 3240,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.41
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 75,
    "matchRate": 83.3,
    "minPrice": 7500,
-   "medianPrice": 16800,
+   "medianPrice": 16750,
    "reviewAvgMean": 4.47
   },
   {
@@ -81,7 +81,7 @@
    "matchRate": 25.6,
    "minPrice": 7590,
    "medianPrice": 13750,
-   "reviewAvgMean": 4.44
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -90,10 +90,10 @@
     "officialName": "伊香保温泉・渋川"
    },
    "slug": "rotenburo--ikaho",
-   "matchCount": 37,
-   "matchRate": 52.1,
-   "minPrice": 4980,
-   "medianPrice": 9940,
+   "matchCount": 36,
+   "matchRate": 51.4,
+   "minPrice": 4620,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.23
   },
   {
@@ -105,8 +105,8 @@
    "slug": "rotenburo--nasu",
    "matchCount": 52,
    "matchRate": 57.8,
-   "minPrice": 3000,
-   "medianPrice": 11775,
+   "minPrice": 2730,
+   "medianPrice": 10750,
    "reviewAvgMean": 4.41
   },
   {
@@ -118,8 +118,8 @@
    "slug": "rotenburo--karuizawa",
    "matchCount": 22,
    "matchRate": 24.4,
-   "minPrice": 4700,
-   "medianPrice": 13100,
+   "minPrice": 4200,
+   "medianPrice": 13600,
    "reviewAvgMean": 4.45
   },
   {
@@ -132,8 +132,8 @@
    "matchCount": 35,
    "matchRate": 38.9,
    "minPrice": 2700,
-   "medianPrice": 9660,
-   "reviewAvgMean": 4.36
+   "medianPrice": 8800,
+   "reviewAvgMean": 4.35
   }
  ]
 }

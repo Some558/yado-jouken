@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "breakfast--hakone",
    "matchCount": 122,
    "matchRate": 34.7,
-   "minPrice": 5500,
-   "medianPrice": 15625,
+   "minPrice": 6550,
+   "medianPrice": 14800,
    "reviewAvgMean": 4.42
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 39,
    "matchRate": 25.5,
    "minPrice": 4490,
-   "medianPrice": 12950,
+   "medianPrice": 12375,
    "reviewAvgMean": 4.37
   },
   {
@@ -39,10 +39,10 @@
    },
    "slug": "breakfast--atami",
    "matchCount": 78,
-   "matchRate": 29.0,
-   "minPrice": 3500,
-   "medianPrice": 13320,
-   "reviewAvgMean": 4.3
+   "matchRate": 28.9,
+   "minPrice": 2310,
+   "medianPrice": 12375,
+   "reviewAvgMean": 4.29
   },
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 85,
    "matchRate": 34.0,
    "minPrice": 1500,
-   "medianPrice": 9370,
+   "medianPrice": 8910,
    "reviewAvgMean": 4.37
   },
   {
@@ -65,10 +65,10 @@
    },
    "slug": "breakfast--yufuin",
    "matchCount": 105,
-   "matchRate": 34.0,
+   "matchRate": 33.9,
    "minPrice": 3290,
    "medianPrice": 17600,
-   "reviewAvgMean": 4.49
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -81,7 +81,7 @@
    "matchRate": 27.8,
    "minPrice": 5460,
    "medianPrice": 13750,
-   "reviewAvgMean": 4.54
+   "reviewAvgMean": 4.55
   },
   {
    "area": {
@@ -91,9 +91,9 @@
    },
    "slug": "breakfast--ikaho",
    "matchCount": 41,
-   "matchRate": 57.7,
+   "matchRate": 58.6,
    "minPrice": 4500,
-   "medianPrice": 9900,
+   "medianPrice": 9240,
    "reviewAvgMean": 4.24
   },
   {
@@ -104,10 +104,10 @@
    },
    "slug": "breakfast--nasu",
    "matchCount": 92,
-   "matchRate": 27.0,
-   "minPrice": 3000,
-   "medianPrice": 11310,
-   "reviewAvgMean": 4.39
+   "matchRate": 26.7,
+   "minPrice": 2730,
+   "medianPrice": 10005,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -118,9 +118,9 @@
    "slug": "breakfast--karuizawa",
    "matchCount": 41,
    "matchRate": 14.7,
-   "minPrice": 5100,
-   "medianPrice": 14455,
-   "reviewAvgMean": 4.44
+   "minPrice": 4700,
+   "medianPrice": 14200,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -130,7 +130,7 @@
    },
    "slug": "breakfast--dogo",
    "matchCount": 57,
-   "matchRate": 31.8,
+   "matchRate": 31.5,
    "minPrice": 1850,
    "medianPrice": 7850,
    "reviewAvgMean": 4.31

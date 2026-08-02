@@ -3,7 +3,7 @@
   "slug": "daiyokujo",
   "label": "大浴場"
  },
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "areas": [
   {
    "area": {
@@ -14,9 +14,9 @@
    "slug": "daiyokujo--hakone",
    "matchCount": 106,
    "matchRate": 30.1,
-   "minPrice": 5500,
-   "medianPrice": 15400,
-   "reviewAvgMean": 4.39
+   "minPrice": 6330,
+   "medianPrice": 14000,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -28,7 +28,7 @@
    "matchCount": 36,
    "matchRate": 23.5,
    "minPrice": 5880,
-   "medianPrice": 12400,
+   "medianPrice": 11830,
    "reviewAvgMean": 4.31
   },
   {
@@ -39,10 +39,10 @@
    },
    "slug": "daiyokujo--atami",
    "matchCount": 57,
-   "matchRate": 21.2,
-   "minPrice": 3500,
+   "matchRate": 21.1,
+   "minPrice": 2310,
    "medianPrice": 11550,
-   "reviewAvgMean": 4.28
+   "reviewAvgMean": 4.27
   },
   {
    "area": {
@@ -53,8 +53,8 @@
    "slug": "daiyokujo--beppu",
    "matchCount": 58,
    "matchRate": 23.2,
-   "minPrice": 3000,
-   "medianPrice": 8100,
+   "minPrice": 2800,
+   "medianPrice": 7700,
    "reviewAvgMean": 4.33
   },
   {
@@ -65,7 +65,7 @@
    },
    "slug": "daiyokujo--yufuin",
    "matchCount": 45,
-   "matchRate": 14.6,
+   "matchRate": 14.5,
    "minPrice": 7700,
    "medianPrice": 17600,
    "reviewAvgMean": 4.45
@@ -81,7 +81,7 @@
    "matchRate": 15.8,
    "minPrice": 3000,
    "medianPrice": 13750,
-   "reviewAvgMean": 4.46
+   "reviewAvgMean": 4.47
   },
   {
    "area": {
@@ -91,9 +91,9 @@
    },
    "slug": "daiyokujo--ikaho",
    "matchCount": 35,
-   "matchRate": 49.3,
+   "matchRate": 50.0,
    "minPrice": 4500,
-   "medianPrice": 9900,
+   "medianPrice": 9240,
    "reviewAvgMean": 4.22
   },
   {
@@ -104,10 +104,10 @@
    },
    "slug": "daiyokujo--nasu",
    "matchCount": 34,
-   "matchRate": 10.0,
-   "minPrice": 3000,
-   "medianPrice": 12320,
-   "reviewAvgMean": 4.37
+   "matchRate": 9.9,
+   "minPrice": 2730,
+   "medianPrice": 10502,
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -119,8 +119,8 @@
    "matchCount": 18,
    "matchRate": 6.5,
    "minPrice": 5100,
-   "medianPrice": 15000,
-   "reviewAvgMean": 4.47
+   "medianPrice": 14200,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -130,9 +130,9 @@
    },
    "slug": "daiyokujo--dogo",
    "matchCount": 39,
-   "matchRate": 21.8,
+   "matchRate": 21.5,
    "minPrice": 3100,
-   "medianPrice": 9000,
+   "medianPrice": 8800,
    "reviewAvgMean": 4.35
   }
  ]

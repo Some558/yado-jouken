@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-07-31",
+ "dataAsOf": "2026-08-02",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 1500,
   "medianPrice": 7320,
-  "reviewAvgMean": 3.98,
+  "reviewAvgMean": 3.99,
   "pricedCount": 4
  },
  "hotels": [
@@ -49,8 +49,8 @@
    "name": "別府温泉　わんこの宿　ゆるり",
    "kana": "べっぷおんせん　わんこのやど　ゆるり",
    "minCharge": 9240,
-   "reviewAverage": 4.0,
-   "reviewCount": 170,
+   "reviewAverage": 4.04,
+   "reviewCount": 171,
    "access": "別府駅よりお車にて約２０分",
    "address1": "大分県",
    "address2": "別府市野田114-1",
@@ -67,7 +67,7 @@
    "kana": "べっぷおんせん　こうらく",
    "minCharge": 5400,
    "reviewAverage": 3.88,
-   "reviewCount": 699,
+   "reviewCount": 701,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",
    "address1": "大分県",
    "address2": "別府市北浜3-13-21",
@@ -84,7 +84,7 @@
    "kana": "べっぷえきまえ　はやし",
    "minCharge": 1500,
    "reviewAverage": 3.44,
-   "reviewCount": 1424,
+   "reviewCount": 1428,
    "access": "別府駅前すぐ",
    "address1": "大分県",
    "address2": "別府市駅前本町3-5",
