@@ -105,10 +105,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199017/199017.jpg",
    "special": "北陸新幹線「佐久平駅」より徒歩約10分、天然温泉大浴場・サウナ完備！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "sauna"
    ]
   },
@@ -226,7 +222,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/104683.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104683/104683.jpg",
    "special": "軽井沢の駅より徒歩１５分の好立地。別荘地に佇む全室２ＬＤＫスイートルームタイプのリゾートホテル。",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 136825,
@@ -285,6 +283,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167941/167941.jpg",
    "special": "◆旅慣れた大人のリゾート軽井沢◆人気スポット雲場池まで徒歩10分◆愛犬と過ごす贅沢な時間",
    "conditions": [
+    "kinen",
+    "breakfast",
     "pet-ok"
    ]
   },
@@ -305,8 +305,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165025/165025.jpg",
    "special": "【軽井沢の四季をゆっくり堪能】愛犬と過ごす水と森のリゾート♪",
    "conditions": [
-    "kinen",
-    "breakfast",
     "pet-ok"
    ]
   },
@@ -349,6 +347,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184094/184094.jpg",
    "special": "光と風のグランピング。　グランピング×スパで欲張りな休日を",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -479,6 +481,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167027/167027.jpg",
    "special": "ヒルトン日本初進出のキュリオ。伝統と格式高い旧軽井沢という地にあるプライベートラグジュアリーホテル。",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "sauna"
    ]
   },
@@ -736,7 +741,6 @@
    "special": "家族・グループ旅行にピッタリ。ペットと泊まれる全室独立型トレーラーハウスホテル！",
    "conditions": [
     "kinen",
-    "breakfast",
     "pet-ok"
    ]
   },
@@ -758,8 +762,7 @@
    "special": "日本一赤い湯と大自然に囲まれた、気取らない秘湯の一軒宿。浅間山のふもとで、のんびり過ごす温泉時間",
    "conditions": [
     "onsen",
-    "kinen",
-    "breakfast"
+    "kinen"
    ]
   },
   {
@@ -779,6 +782,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74000/74000.jpg",
    "special": "森の静かな場所に佇むリゾート。駅、観光名所、アウトレット、全てにアクセスが良好",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -799,7 +806,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/178974.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178974/178974.jpg",
    "special": "【楽天トラベルシルバーアワード2025受賞】フリーフロー毎日開催！話題の美顔器貸出などサービス満載",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 50619,
@@ -872,7 +882,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
    "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。",
    "conditions": [
-    "kinen",
     "pet-ok"
    ]
   },
@@ -893,10 +902,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129421/129421.jpg",
    "special": "■牛に引かれて善光寺伝説発祥の地■浅間山の絶景を愛でながら湯浴み-信州食材を大切にした料理",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -980,7 +985,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167281.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167281/167281.jpg",
    "special": "【軽井沢駅北口から徒歩約5分】全室禁煙デザイナーズホテル",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 177441,
@@ -999,10 +1007,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177441/177441.jpg",
    "special": "目の前に浅間山、「軽井沢タリアセン」隣接。塩沢エリアを一新する、5ヘクタール超、新たなる軽井沢へ。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1025,6 +1029,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183829/183829.jpg",
    "special": "ぬくもりある別荘に着想を得た、隠れ家のような空間「ホテルインディゴ軽井沢」",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1101,10 +1108,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181158.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181158/181158.jpg",
    "special": "別荘に”過ごす”ように”泊まる”。何かに追われる日常から抜け出し、上質な時間を楽しむ",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 50768,
@@ -1332,6 +1336,7 @@
    "special": "5/8〜5/31金・日曜日は10％オフ",
    "conditions": [
     "kinen",
+    "breakfast",
     "pet-ok"
    ]
   },
@@ -1431,6 +1436,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177042/177042.jpg",
    "special": "徒歩圏内に軽井沢アウトレットショッピングモールや旧軽井沢銀座、美術館などが点在。",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "sauna"
    ]
   },
@@ -1528,6 +1536,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153419/153419.jpg",
    "special": "世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "pet-ok"
    ]
@@ -1548,7 +1559,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/191694.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191694/191694.jpg",
    "special": "2024年7月開業◆碓氷軽井沢ICより車で約14分◆駐車場無料◆日替わりカレーが人気の朝食ビュッフェ",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 5910,
@@ -1704,7 +1718,6 @@
    "special": "☆8種類の浴槽と2種類のサウナが自慢の天然温泉☆信州佐久平の中心地☆駐車場200台完備（大型OK）",
    "conditions": [
     "daiyokujo",
-    "kinen",
     "breakfast",
     "rotenburo",
     "sauna"
@@ -1748,6 +1761,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8651/8651.jpg",
    "special": "懐古園すぐ横！小諸駅徒歩約5分●軽井沢・上田まで車約35分●",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "sauna"
    ]
   },
@@ -1767,9 +1784,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147775.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147775/147775.jpg",
    "special": "wifi全室対応、コンビニ徒歩2分、小諸駅徒歩8分、佐久平車20分、軽井沢車40分、上田車30分。",
-   "conditions": [
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 139851,
@@ -1787,7 +1802,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/139851.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139851/139851.jpg",
    "special": "趣味の仲間どの貸し切りや一人旅にも！創業４００年の歴史あるお宿！全室禁煙ルーム",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 19304,
@@ -1864,7 +1884,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14006.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14006/14006.jpg",
    "special": "６階に展望風呂設置　国道沿いに面しIC/最寄駅からも近くに位置しており軽井沢へのアクセスも良好。",
-   "conditions": []
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 76446,

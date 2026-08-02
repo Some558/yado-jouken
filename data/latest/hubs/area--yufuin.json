@@ -65,7 +65,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31261.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31261/31261.jpg",
    "special": "■隠れ家のような空間と華のある料理。これぞ１日限定４組様だけの最上級のおもてなし。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 187285,
@@ -129,6 +132,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30707/30707.jpg",
    "special": "自然の趣きを大切にした宿。観光の中心地にありながら露天風呂と由布院ならではの美味しい料理を味わえる。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -150,6 +156,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158659/158659.jpg",
    "special": "１日３組限定の贅沢な離れ宿。絶景ロケーションと２名様専用の温泉露天風呂付きスイートルームをご用意",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -170,6 +179,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76917/76917.jpg",
    "special": "■約２万３千坪という広大な敷地の和モダン宿。おおいた和牛を中心に山里ならではの夕食をお楽しみ下さい。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -425,10 +437,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20590/20590.jpg",
    "special": "お客様の声☆5つ　人に優しいお宿です",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -472,6 +480,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
    "special": "夜空の星と二人だけの時間に包まれる高原の離れ宿。露天からの星空は絶景です",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -518,8 +529,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189041/189041.jpg",
    "special": "由布院の豊かな自然に包まれる全室130㎡以上のオールスイートヴィラで至福のひとときを・・・",
    "conditions": [
-    "onsen",
-    "breakfast",
     "sauna"
    ]
   },
@@ -587,6 +596,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153349/153349.jpg",
    "special": "【全室温泉風呂付・素泊まり】口コミ高評価の和モダン貸切サウナ「天照」「月読」でととのう贅沢な温泉旅",
    "conditions": [
+    "onsen",
+    "kinen",
     "rotenburo",
     "sauna"
    ]
@@ -659,6 +670,8 @@
    "conditions": [
     "onsen",
     "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro",
     "pet-ok"
@@ -823,6 +836,7 @@
    "conditions": [
     "onsen",
     "kinen",
+    "breakfast",
     "sauna",
     "pet-ok"
    ]
@@ -1054,6 +1068,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187963/187963.jpg",
    "special": "広大な敷地で心身が歓ぶ体験ができるラグジュアリーオーベルジュ",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1075,10 +1092,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40557/40557.jpg",
    "special": "客室温泉レストラン全てから金鱗湖を望めます。ホームページ刷新！p-toyonokuniで検索！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1101,6 +1114,7 @@
    "conditions": [
     "onsen",
     "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1144,10 +1158,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/160845.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160845/160845.jpg",
    "special": "【1日4組限定】お風呂は貸切風呂のみ！炭火焼が自慢のこぢんまり宿。",
-   "conditions": [
-    "onsen",
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 70705,
@@ -1285,6 +1296,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177044/177044.jpg",
    "special": "新感覚の贅沢キャンプ！まるでリゾートホテル♪　キャンプなのに道具は不要！九州最大のグランピング体験を",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1353,9 +1368,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76447/76447.jpg",
    "special": "◆全室内湯・露天付き離れ◆チェックアウト12：00、一部屋二名限定の大人のための寛ぎ宿",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1399,12 +1411,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180797.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180797/180797.jpg",
    "special": "楽天トラベルアワード2023受賞施設！源泉かけ流しの温泉と由布岳を望む絶景グランピング♪",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 31742,
@@ -1423,8 +1430,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31742/31742.jpg",
    "special": "『湯布院の我が家』全室露天風呂付の素泊まり専門のお宿で源泉掛け流しの湯を満喫。お部屋は離れ形式です",
    "conditions": [
-    "onsen",
-    "kinen",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1614,7 +1619,6 @@
    "special": "彼処ではすべてが静寧で、秩序と美しさのバランスが　確信をもって　しかも控え目に語られる　其処にいるだけで充ちたりた満足。",
    "conditions": [
     "onsen",
-    "kinen",
     "breakfast"
    ]
   },
@@ -1704,6 +1708,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28141/28141.jpg",
    "special": "由布院駅より車で３分。湯布院インターより車で１０分とアクセス良好。由布院盆地の中央部にあります。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1921,6 +1929,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166507/166507.jpg",
    "special": "らんぷの宿は築１７５年母屋とオイルランプ、せせらぎと水車、離れと貸切温泉がある湯布院のモダンな宿",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro",
     "pet-ok"
@@ -1966,9 +1977,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180079/180079.jpg",
    "special": "３０００坪の雑木林の中、温泉かけ流しの内風呂を完備したお部屋となつかしい山里料理をご用意してます。",
    "conditions": [
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -2011,11 +2019,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183101.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183101/183101.jpg",
    "special": "由布院駅より車で5分",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 106100,
@@ -2122,6 +2126,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54128/54128.jpg",
    "special": "２階露天風呂から見る由布岳の四季、木々に囲まれた癒しの空間",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]

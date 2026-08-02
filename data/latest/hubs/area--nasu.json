@@ -134,8 +134,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138068/138068.jpg",
    "special": "わん’Ｓはペットと一緒に気兼ねなく！がモットーです。ペットにとって何も制約はありません。　　",
    "conditions": [
-    "kinen",
-    "breakfast",
     "pet-ok"
    ]
   },
@@ -216,6 +214,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196547/196547.jpg",
    "special": "シェフ自慢の和洋折衷コースと、動物管理栄養士が作る安心・安全のワンちゃんご飯を楽しめるペンション",
    "conditions": [
+    "kinen",
+    "breakfast",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -281,8 +281,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67191/67191.jpg",
    "special": "露天風呂貸切無料。夕食は黒毛和牛のＡ４等級のステーキ。離れの露天風呂付コテージも好評。",
    "conditions": [
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -345,8 +343,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16272/16272.jpg",
    "special": "地産食材を多く使ったお料理と気軽に貸切利用の出来る露天風呂が大好評♪",
    "conditions": [
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -479,10 +475,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32111/32111.jpg",
    "special": "楽天トラベルブロンズアワード2022を受賞！那須の源泉ととちぎ和牛の創作会席を愉しむ小さな湯宿です",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -553,8 +545,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143355/143355.jpg",
    "special": "天然温泉、広いドッグラン、そして畳敷きの客室でペットと一緒にゆったりと満喫できるペンションです。",
    "conditions": [
-    "kinen",
-    "breakfast",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -576,6 +566,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167342/167342.jpg",
    "special": "オールインクルーシブの温泉リゾート。自然との一体感が楽しめる「森のスパ」",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -700,10 +694,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109130/109130.jpg",
    "special": "木の温もりと、珪藻土壁の落ち着きあるこだわりのお部屋は、すべて異なる造りとなっております。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -765,8 +755,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
    "special": "心ほっこり口コミ高評価★7月26日〜8月7日空室有★健康と美容を磨くきらり那須旅行",
    "conditions": [
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -812,10 +800,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142918/142918.jpg",
    "special": "貸切露天風呂と天然温泉の大浴場。お食事は半個室でゆっくり、那須高原ならではの旬と味を堪能。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -837,10 +821,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183550/183550.jpg",
    "special": "那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -862,10 +842,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192854/192854.jpg",
    "special": "全室半露天風呂付の客室で癒しのひと時を。客室・温泉・お食事、那須の自然豊かな空間をご用意。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -887,9 +863,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29896/29896.jpg",
    "special": "オリエンタルな空間に癒される特別な休日を。国産牛ステーキ＆豊富なドリンク類をお好きなだけどうぞ！",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -935,7 +908,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184896/184896.jpg",
    "special": "7匹のベンガル猫とふれあい＆夕食は国産牛肉のBBQ！各棟に全天候型BBQスペース付き",
    "conditions": [
-    "kinen"
+    "kinen",
+    "breakfast"
    ]
   },
   {
@@ -977,6 +951,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193295/193295.jpg",
    "special": "ＴＲＡＶＥＬ＆ＳＴＡＹ　愛犬と那須をもっと自由に",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "pet-ok"
    ]
@@ -1086,8 +1063,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198714/198714.jpg",
    "special": "那須高原唯一の湖「りんどう湖」と大自然や那須連山を望む抜群の景観の中で非日常の世界をご体感ください。",
    "conditions": [
-    "kinen",
-    "breakfast"
+    "kinen"
    ]
   },
   {
@@ -1106,11 +1082,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/74658.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74658/74658.jpg",
    "special": "【癒・美・健・食を堪能】 気軽に過ごす大人のリゾート♪   〜那須通が集う大人の隠れ家〜",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 7335,
@@ -1129,6 +1101,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg",
    "special": "地元の旬菜にこだわる食事＆施設充実のトップリゾート",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1176,7 +1152,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198001/198001.jpg",
    "special": "ペット同伴可・全室に専用薪サウナ完備の一棟貸しグランピング。硫黄泉の貸切温泉、食材持ち込みBBQ可",
    "conditions": [
-    "kinen",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1199,6 +1174,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/935/935.jpg",
    "special": "＜愛犬と泊まる宿＞那須高原の隠れ家リゾート／温泉付客室多数／全館プライベートコテージ ペットと一緒旅",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "pet-ok"
    ]
   },
@@ -1353,9 +1331,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2937/2937.jpg",
    "special": "木造小さなペンション！個室で豚しゃぶ＆つまみ＆デザート食放題＆飲放題！貸切温泉５サウナ２！露天付高額",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1426,6 +1401,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54303/54303.jpg",
    "special": "ゲストも大切なペットも安心して寛げて、ペットと温泉浴もＯＫ☆貸切温泉露天＆ディナーも堪能できます。",
    "conditions": [
+    "breakfast",
     "rotenburo",
     "pet-ok"
    ]
@@ -1448,6 +1424,7 @@
    "special": "新緑の那須を満喫する旅の拠点に！非対面チェックイン&人工温泉完備！ペットと宿泊可能な部屋もございます",
    "conditions": [
     "kinen",
+    "breakfast",
     "pet-ok"
    ]
   },
@@ -1491,6 +1468,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76430/76430.jpg",
    "special": "那須のド真ん中に位置し観光に便利な天然温泉宿。貸切り露天風呂人気。ファミマ徒歩５分。",
    "conditions": [
+    "onsen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro",
     "pet-ok"
@@ -1557,10 +1536,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68250/68250.jpg",
    "special": "那須御用邸に隣接した森の中に静かに佇むホテル＆コテージ。愛犬同宿可。乳白色の硫黄温泉が自慢！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "sauna",
     "pet-ok"
    ]
@@ -1582,7 +1557,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192389/192389.jpg",
    "special": "大自然に囲まれ、温泉とお食事を楽しむ、温泉リゾート・ドームテントグランピングホテル！",
    "conditions": [
-    "kinen",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1604,6 +1578,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/73998/73998.jpg",
    "special": "大人たちの癒しの森　会員制ホテルに併設されたホテルハーヴェスト那須。ロイヤルリゾートへようこそ。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1625,10 +1603,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198329.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198329/198329.jpg",
    "special": "２０２６年３月東横ＩＮＮがオープン！最寄り駅から徒歩1分の好立地！！",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 31077,
@@ -1672,6 +1647,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183740/183740.jpg",
    "special": "2022年4月15日〜のご予約はこちら！　自慢の源泉掛け流しのにごり湯が自慢の宿！",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1787,10 +1766,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183690/183690.jpg",
    "special": "豊富な湯量と絶景が自慢の宿。美肌成分たっぷりの温泉をお楽しみください。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1812,6 +1787,7 @@
    "special": "全て一戸建の別荘なので、隣を気にすることなく、気の合う仲間や家族とのんびり過ごすことができます。",
    "conditions": [
     "kinen",
+    "breakfast",
     "pet-ok"
    ]
   },
@@ -1965,9 +1941,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184639/184639.jpg",
    "special": "1日最大7室の心ほどける、那須の隠れ宿(オールインクルーシブスタイル)",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -2033,10 +2006,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8389/8389.jpg",
    "special": "好評！皆幸乃湯。天然温泉大浴場・露天風呂有り。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -2057,10 +2026,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20184.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20184/20184.jpg",
    "special": "那須に近くレジャーにも最適。ビジネスにもくつろげるように、やさしい色づかいで統一しています。",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   }
  ]
 }

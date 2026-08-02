@@ -157,8 +157,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111190/111190.jpg",
    "special": "ゆったり流れる時間を楽しむ、隠れ家の小さなの宿です！",
    "conditions": [
-    "onsen",
-    "kinen",
     "sauna",
     "kashikiri-buro"
    ]
@@ -201,7 +199,6 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -222,10 +219,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2630/2630.jpg",
    "special": "畳廊下の純和風の宿です。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -547,9 +540,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182808/182808.jpg",
    "special": "天然温泉・朝食・駐車無料と癒やしをテーマにしたホテルが伊香保インター近くに2021年8月誕生！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -642,10 +632,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg",
    "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -781,10 +767,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38250/38250.jpg",
    "special": "静かでおだやかな空気,ゆっくりと流れる時間,ここで至福のひと時を。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -830,10 +812,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30135/30135.jpg",
    "special": "温泉街の中心「石段街」まで徒歩3分。上州連山を見渡せる展望露天風呂、畳風呂をお楽しみください。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -856,7 +834,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen",
     "breakfast",
     "rotenburo",
     "sauna",
@@ -929,6 +906,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167324/167324.jpg",
    "special": "榛名山と利根川の優美な景観が望める敷島温泉の閑静な一軒宿。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -974,10 +955,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7105/7105.jpg",
    "special": "千坪の敷地に趣向を凝らしたお風呂いろいろ“天晴”。2種類の温泉“黄金の湯”“白銀の湯”が楽しめる。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1000,9 +977,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31082/31082.jpg",
    "special": "展望大浴場＆無料貸切風呂！無料マッサージチェアに漫画3000冊以上！無料朝食と平日限定の無料夜カレー",
    "conditions": [
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "sauna"
    ]
   },
@@ -1265,9 +1239,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14324/14324.jpg",
    "special": "囲炉裏で焼く名物“炭火焼き料理”と美肌効果のある“白銀の湯”が自慢の伊香保温泉でリーズナブルな宿",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1333,7 +1304,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/190452/190452.jpg",
    "special": "　",
    "conditions": [
-    "kinen",
     "breakfast"
    ]
   },
@@ -1446,9 +1416,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195956.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195956/195956.jpg",
    "special": "リノベ古民家を丸々貸切！観光＆大人数で戸建てを貸切、宿泊を最高の体験に",
-   "conditions": [
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 199794,
@@ -1466,7 +1434,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199794.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199794/199794.jpg",
    "special": "榛東村に南国リゾート！グランピング施設AKATSUKI Village誕生。",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 192441,
@@ -1484,9 +1454,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192441.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192441/192441.jpg",
    "special": "大自然とともに息づく、贅沢なキャンプ体験ができる！",
-   "conditions": [
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 171521,

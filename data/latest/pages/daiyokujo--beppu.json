@@ -12,8 +12,8 @@
  "dataAsOf": "2026-08-02",
  "detection": {
   "type": "vacant",
-  "checkinDate": "2026-08-01",
-  "checkoutDate": "2026-08-02"
+  "checkinDate": "2026-08-08",
+  "checkoutDate": "2026-08-09"
  },
  "stats": {
   "matchCount": 58,
@@ -23,9 +23,9 @@
    "value": 250,
    "label": "別府・日出エリアの掲載施設数"
   },
-  "minPrice": 2800,
+  "minPrice": 2500,
   "medianPrice": 7700,
-  "reviewAvgMean": 4.33,
+  "reviewAvgMean": 4.32,
   "pricedCount": 47
  },
  "hotels": [
@@ -62,23 +62,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/41836.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41836/41836.jpg",
    "special": "見晴らしの良い客室と、全室に岩風呂が備わり、鉄輪の名湯を気兼ねなく満喫できます。"
-  },
-  {
-   "hotelNo": 70231,
-   "name": "別府鉄輪温泉　旅館　喜楽＜大分県＞",
-   "kana": "きらく＜おおいたけん＞",
-   "minCharge": 9790,
-   "reviewAverage": 4.63,
-   "reviewCount": 417,
-   "access": "日豊本線　別府駅より車にて１５分",
-   "address1": "大分県",
-   "address2": "別府市御幸4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70231",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70231%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70231",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70231.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70231/70231.jpg",
-   "special": "2022年2月客室リニューアル。鉄輪温泉本来の熱めの泉質と名物の地元料理が愉しめる。"
   },
   {
    "hotelNo": 172768,
@@ -164,6 +147,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38409.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38409/38409.jpg",
    "special": "別府湾の波先、高崎山の見事な稜線が広がる、「しおり」自慢の眺望に心を緩めてください。"
+  },
+  {
+   "hotelNo": 683,
+   "name": "別府温泉　野上本館",
+   "kana": "べっぷおんせん　のがみほんかん",
+   "minCharge": 3520,
+   "reviewAverage": 4.54,
+   "reviewCount": 1349,
+   "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",
+   "address1": "大分県",
+   "address2": "別府市北浜1-12-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D683",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D683%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D683",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/683.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/683/683.jpg",
+   "special": "別府中心部の旅館。２つの大浴場と３箇所の家族貸切湯で温泉三昧。WiFiフリー"
   },
   {
    "hotelNo": 188238,

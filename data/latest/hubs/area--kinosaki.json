@@ -101,7 +101,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/146878.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/146878/146878.jpg",
    "special": "まちの記憶の遺す、名建築ホテル",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 183569,
@@ -307,9 +310,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19704/19704.jpg",
    "special": "まちを愉しむ。ゆったりととのう。宿泊＆朝食の新スタイル旅館。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "sauna",
     "kashikiri-buro"
    ]
@@ -445,6 +445,7 @@
    "conditions": [
     "onsen",
     "kinen",
+    "breakfast",
     "sauna",
     "kashikiri-buro"
    ]
@@ -490,10 +491,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79415/79415.jpg",
    "special": "夏の城崎　城崎夏物語はじまります",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -514,6 +511,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70709/70709.jpg",
    "special": "一流の料理人が選び抜き、美食にこだわる隠れ宿。悠にして閑、安にして穏なる宿。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -534,10 +535,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153168/153168.jpg",
    "special": "城崎１５分全室オーシャンビュー♪美と健康の女子力ＵＰの宿★時を気にしない贅沢なひと時★カニ＆但馬牛",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "sauna",
     "pet-ok"
    ]
@@ -559,10 +556,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28142/28142.jpg",
    "special": "城崎温泉のまん中にあり外湯めぐりに最適です。直営工場で作った地ビールをお楽しみ下さい。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -630,10 +623,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165044/165044.jpg",
    "special": "プライベート重視が嬉しい♪貸切温泉×個室レストラン／城崎温泉おとな専用湯宿",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -656,6 +645,7 @@
    "conditions": [
     "onsen",
     "kinen",
+    "breakfast",
     "sauna",
     "pet-ok"
    ]
@@ -759,7 +749,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184669.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184669/184669.jpg",
    "special": "兵庫の自然や食を巡る旅の拠点に。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 56951,
@@ -991,10 +983,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5307/5307.jpg",
    "special": "展望貸切露天と美食が自慢。地蟹から但馬牛まで地元グルメ堪能♪客室・食事処など続々リニューアル中！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1034,7 +1022,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8468.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8468/8468.jpg",
    "special": "天体観測、アウトドア体験が楽しめるホテル",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 13552,
@@ -1100,6 +1092,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7020/7020.jpg",
    "special": "城崎マリンワールド徒歩１分！日本海の迫力ある大パノラマ絶景に露天風呂★城崎温泉車10分（送迎あり）",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1140,11 +1136,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7835.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7835/7835.jpg",
    "special": "幕末の維新志士桂小五郎が潜居していた、城崎温泉の情緒に溶け込んだ宿",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 70350,
@@ -1252,9 +1244,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107747/107747.jpg",
    "special": "情緒溢れる貸切風呂が好評な宿。城崎温泉の中心の柳木並木通り。外湯巡りに大変便利。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -1300,6 +1289,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128351/128351.jpg",
    "special": "とろっと極上泉質美人の湯♪じゅわっとろける但馬牛石焼に朝食はあの但熊たまごのたまごかけごはんも♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1403,6 +1396,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5719/5719.jpg",
    "special": "風そよぐ★2湯のプライベート貸切風呂が人気宿★駅4分・コンビニ1分の場所・外湯めぐりチケット付♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1504,6 +1500,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8754/8754.jpg",
    "special": "城崎温泉ど真ん中！外湯めぐりや街歩きに超便利！家族で営むこじんまりとしたアットホームな宿です。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -1523,7 +1522,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/53384.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53384/53384.jpg",
    "special": "豊岡駅から徒歩５分☆Wi-Fi全室OK☆",
-   "conditions": []
+   "conditions": [
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 130498,
@@ -1586,7 +1587,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177593.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177593/177593.jpg",
    "special": "城崎温泉駅より無料送迎付き／豊かな自然と四季折々の絶景＆日本海の新鮮な魚介類やカニ、但馬牛を満喫",
-   "conditions": []
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 147534,
@@ -1607,6 +1612,7 @@
    "conditions": [
     "onsen",
     "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -1672,6 +1678,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8778/8778.jpg",
    "special": "アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の休息を。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1693,8 +1703,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19708/19708.jpg",
    "special": "四季を通じて新鮮な海の幸をお召し上がりいただけます。外湯めぐり（外湯巡り券付き）にも便利です。",
    "conditions": [
-    "onsen",
-    "breakfast"
+    "onsen"
    ]
   },
   {
@@ -1731,7 +1740,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147192.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147192/147192.jpg",
    "special": "城崎温泉外湯めぐりに最適！但馬牛や津居山かにを堪能！個室お食事処でカップル・ファミリーも大歓迎！",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 18743,
@@ -1887,7 +1900,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/141211.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141211/141211.jpg",
    "special": "当ホテルは、但馬（兵庫県北部）の中心に位置しますので、観光拠点として大変便利です。",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 9150,
@@ -1946,7 +1961,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/193255.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193255/193255.jpg",
    "special": "湯宿ささくらは１１０年以上の歴史ある温泉宿を承継し、リニューアルオープンいたしました。",
-   "conditions": []
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
   }
  ]
 }

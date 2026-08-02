@@ -162,7 +162,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107891/107891.jpg",
    "special": "別荘の様なお部屋に露天湯。美人湯と謳われる上質な湯と時空間。当庵は素泊まりの湯宿となっております。",
    "conditions": [
-    "onsen",
     "kashikiri-buro"
    ]
   },
@@ -209,6 +208,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184851/184851.jpg",
    "special": "【全室源泉かけ流し温泉付】和の風情を感じる癒しの宿＜cafe併設＞ ムレ別府",
    "conditions": [
+    "onsen",
+    "kinen",
     "rotenburo"
    ]
   },
@@ -297,10 +298,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182154.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182154/182154.jpg",
    "special": "［別府温泉×大人の贅沢な時間］全10棟／おとな2名様限定の素泊まり旅館",
-   "conditions": [
-    "onsen",
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 70231,
@@ -319,10 +317,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70231/70231.jpg",
    "special": "2022年2月客室リニューアル。鉄輪温泉本来の熱めの泉質と名物の地元料理が愉しめる。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -420,8 +414,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179099/179099.jpg",
    "special": "日出町の中心地に位置しとても利便性の良い立地です。ハーモニーランド8分",
    "conditions": [
-    "kinen",
-    "breakfast"
+    "kinen"
    ]
   },
   {
@@ -514,7 +507,6 @@
    "special": "【全室源泉かけ流し】本館は岩風呂総桧壁造り 日本最大級貸切露天風呂は圧巻 離れは全室露天風呂&内湯",
    "conditions": [
     "onsen",
-    "kinen",
     "rotenburo"
    ]
   },
@@ -557,8 +549,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136161/136161.jpg",
    "special": "専用温泉付き離れ形式の素泊まり旅館。全１５室の客室は洋室または和洋室タイプ。",
    "conditions": [
-    "onsen",
-    "kinen",
     "rotenburo"
    ]
   },
@@ -652,6 +642,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/683/683.jpg",
    "special": "別府中心部の旅館。２つの大浴場と３箇所の家族貸切湯で温泉三昧。WiFiフリー",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -890,9 +883,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136033/136033.jpg",
    "special": "【PCページでご覧頂くとより見やすくなります。　】　木々に囲まれた全６室の静かな料理宿　",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -937,7 +927,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/135526.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135526/135526.jpg",
    "special": "亀川駅より徒歩３分、お手軽『遊湯』完全個室の別府の温泉、完全プライベート空間、出張、大歓迎",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen"
+   ]
   },
   {
    "hotelNo": 30691,
@@ -1054,10 +1047,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30130/30130.jpg",
    "special": "ベイサイドホテル　源泉掛け流し温泉あり",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1151,6 +1140,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74798/74798.jpg",
    "special": "全６室の大人の隠れ宿。内４室は専用露天風呂付の客室。３ヶ所の貸切露天風呂がある、すべて源泉かけ流し",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1172,6 +1164,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70731/70731.jpg",
    "special": "全客室半露天風呂付き。別府の喧騒が嘘のよう。美食の隠れ家で温泉三昧、美食三昧。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo"
    ]
   },
@@ -1239,9 +1235,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168301/168301.jpg",
    "special": "2021年8月リニューアルOPEN！！源泉かけ流し温泉つきのゲストハウス。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -1286,9 +1279,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183136/183136.jpg",
    "special": "ここにしかないアートな旅を体験するホテル／全室オーシャンビューの半露天風呂付き",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1356,9 +1346,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7084/7084.jpg",
    "special": "阿蘇くじゅう国立公園に立地、温泉・ゴルフ場・城島高原パークを併設した高原リゾート／テレワークにも最適",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1445,10 +1432,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1938/1938.jpg",
    "special": "別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1566,6 +1549,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18318/18318.jpg",
    "special": "眺めが最高！別府が一望できる高台にある閑静なホテル。絶品料理と天然温泉でお寛ぎください。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1683,7 +1670,6 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -1729,12 +1715,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/9243.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9243/9243.jpg",
    "special": "別府駅まで徒歩１分！ 駐車場無料！ 天然温泉掛け流し100％ あり！！",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 5730,
@@ -1924,6 +1905,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182799/182799.jpg",
    "special": "別府駅徒歩3分！併設の「アマネク別府ゆらり」大浴場・プール等の設備も利用可能です！",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1995,7 +1980,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/778.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/778/778.jpg",
    "special": "全室天然温泉、展望風呂、全室無料Wi-Fi完備、90台無料駐車場",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 7297,
@@ -2039,9 +2028,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68116.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68116/68116.jpg",
    "special": "シングルルームは全てセミダブルベッドを使用。駐車場は100台分あり、近隣施設も充実しております。",
-   "conditions": [
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 167883,
@@ -2080,7 +2067,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen",
     "breakfast",
     "kashikiri-buro",
     "pet-ok"
