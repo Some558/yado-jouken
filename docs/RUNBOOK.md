@@ -28,14 +28,14 @@
 - ⚠️ GitHub Actions の `on.schedule` に `timezone:` キーは使えない(無効YAML扱いで workflow_dispatch も消える)。JSTはUTC換算で書くこと
 - **squeeze正本**: `data/cache/squeeze.json`(git管理)。`data/work/` はローカル作業用でgitignore
 - **ローカル確認(APIなし)**: `./scripts/daily-refresh.sh --skip-fetch` → `cd site && npm run build`
-- **GHA実走前提**: GitHub secrets `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY` / `RAKUTEN_AFFILIATE_ID` / `SLACK_WEBHOOK_URL` / `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID` + 楽天 Allowed websites=`yadoshibori.com`
+- **GHA実走前提**: GitHub secrets `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY` / `RAKUTEN_AFFILIATE_ID` / `SLACK_WEBHOOK_URL` / `CLOUDFLARE_DEPLOY_HOOK_URL` + 楽天 Allowed websites=`yadoshibori.com`
 - **ハーネス**: automation-harness.md §1 台帳 + §2.1 例外e(プラン承認で決裁済・A4で台帳追記)
 
 ## 運用
 
 - 失敗時: commitされず前日データ維持+Slack 🔴。手動リカバリは Actions の workflow_dispatch
 - API制約: 1req/sec(実装1.1s)・クレジット表記義務・2026-05-14旧API廃止済み
-- Cloudflare Pages: 日次/週次 GHA が `site` を build → `wrangler pages deploy`（プロジェクト `yado-jouken` / 本番 yadoshibori.com）。Git連携の自動ビルドには依存しない。手動: `cd site && npm run build && npx wrangler pages deploy dist --project-name=yado-jouken --branch=main`
+- Cloudflare Pages: 日次/週次は data を commit 後に **Deploy Hook** (`CLOUDFLARE_DEPLOY_HOOK_URL`) で Git ビルドを発火し、本番の `データ取得日` が揃うまで待機。短命の wrangler OAuth には依存しない。手動: CF Dashboard の Deploy Hook POST、または `cd site && npm run build && npx wrangler pages deploy dist --project-name=yado-jouken --branch=main`
 
 ## 障害時の連絡先・確認先
 

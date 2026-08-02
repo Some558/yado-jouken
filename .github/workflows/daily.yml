@@ -8,7 +8,6 @@ on:
 
 permissions:
   contents: write
-  deployments: write
 
 concurrency:
   group: yadoshibori-data-refresh
@@ -42,43 +41,49 @@ jobs:
           rm -rf data/latest
           cp -R data/staged data/latest
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-          cache: npm
-          cache-dependency-path: site/package-lock.json
-
-      - name: Build site
-        run: |
-          set -euo pipefail
-          cd site
-          npm ci
-          npm run build
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          # CF API は長い日本語 commit message を弾くため SHA を明示渡し
-          command: pages deploy site/dist --project-name=yado-jouken --branch=main --commit-message="${{ github.sha }}" --commit-dirty=true
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "Commit data/latest (fail-closed: only after validate+deploy)"
+      - name: "Commit data/latest (fail-closed: only after validate)"
+        id: commit
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           AS_OF=$(TZ=Asia/Tokyo date +%F)
+          echo "as_of=${AS_OF}" >> "$GITHUB_OUTPUT"
           printf '%s\n' "$AS_OF" > site/.data-asof
           git add data/latest/ site/.data-asof
           if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "no data changes"
           else
             git commit -m "data: daily refresh ${AS_OF}"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # wrangler OAuth は短命で schedule 実行が落ちるため、Deploy Hook で Git ビルドを発火する
+      - name: Trigger Cloudflare Pages Deploy Hook
+        env:
+          HOOK_URL: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK_URL }}
+          AS_OF: ${{ steps.commit.outputs.as_of }}
+        run: |
+          set -euo pipefail
+          if [ -z "${HOOK_URL:-}" ]; then
+            echo "CLOUDFLARE_DEPLOY_HOOK_URL 未設定" >&2
+            exit 1
+          fi
+          curl -sfS -X POST "$HOOK_URL" | tee /tmp/hook.json
+          echo
+          # 本番反映待ち（最大6分）
+          for i in $(seq 1 36); do
+            if curl -sfS "https://yadoshibori.com/?t=$(date +%s)" | grep -q "データ取得日 ${AS_OF}"; then
+              echo "live_ok as_of=${AS_OF} attempt=${i}"
+              exit 0
+            fi
+            echo "waiting live as_of=${AS_OF} attempt=${i}"
+            sleep 10
+          done
+          echo "timeout: live site did not show ${AS_OF}" >&2
+          exit 1
 
       - name: Slack success
         if: success()
@@ -88,7 +93,6 @@ jobs:
           set -euo pipefail
           AS_OF=$(TZ=Asia/Tokyo date +%F)
           if [ -z "${SLACK_WEBHOOK_URL:-}" ]; then echo "SLACK_WEBHOOK_URL未設定"; exit 1; fi
-          # hostのみ診断（URL本体は出さない）
           python3 - <<'PY'
           import os
           from urllib.parse import urlparse
