@@ -16,8 +16,8 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 31,
-  "matchRate": 20.3,
+  "matchCount": 29,
+  "matchRate": 19.0,
   "denominator": {
    "type": "area_total",
    "value": 153,
@@ -26,7 +26,7 @@
   "minPrice": 5880,
   "medianPrice": 11000,
   "reviewAvgMean": 4.32,
-  "pricedCount": 30
+  "pricedCount": 28
  },
  "hotels": [
   {
@@ -96,23 +96,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7052.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7052/7052.jpg",
    "special": "体にやさしい「地蔵の湯」の源泉の宿です。館内禁煙（全客室含む）となります。"
-  },
-  {
-   "hotelNo": 39705,
-   "name": "草津温泉　ホテル一井",
-   "kana": "くさつおんせん　いちい",
-   "minCharge": 17600,
-   "reviewAverage": 4.6,
-   "reviewCount": 3214,
-   "access": "ＪＲ吾妻線　長野原草津口駅より路線バス２５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津411",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D39705",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D39705%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D39705",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/39705.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705.jpg",
-   "special": "20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェが話題"
   },
   {
    "hotelNo": 183529,
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108128.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108128/108128.jpg",
    "special": "２つの大浴場と貸切露天風呂を合わせ２３種の湯めぐり三昧がお愉しみいただけます。"
+  },
+  {
+   "hotelNo": 181654,
+   "name": "和える宿　高松",
+   "kana": "あえるやど　たかまつ",
+   "minCharge": 14850,
+   "reviewAverage": 4.18,
+   "reviewCount": 596,
+   "access": "JR吾妻線長野原草津口駅より路線バスで約30分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津290-14",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181654",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181654%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181654",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181654.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181654/181654.jpg",
+   "special": "”草津温泉をオアシスで和える”をコンセプトにした和と洋を和えたモダンスタイルのホテルです。"
   }
  ],
- "listedMatchCount": 30
+ "listedMatchCount": 28
 }

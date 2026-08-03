@@ -16,17 +16,17 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 51,
-  "matchRate": 32.3,
+  "matchCount": 52,
+  "matchRate": 32.9,
   "denominator": {
    "type": "area_total",
    "value": 158,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 12100,
-  "reviewAvgMean": 4.44,
-  "pricedCount": 39
+  "medianPrice": 11000,
+  "reviewAvgMean": 4.43,
+  "pricedCount": 40
  },
  "hotels": [
   {
@@ -285,6 +285,23 @@
    "special": "兵庫の自然や食を巡る旅の拠点に。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。"
   },
   {
+   "hotelNo": 7739,
+   "name": "城崎温泉　喜楽",
+   "kana": "きのさきおんせん　きらく",
+   "minCharge": 7150,
+   "reviewAverage": 4.6,
+   "reviewCount": 1868,
+   "access": "城崎温泉駅から徒歩10分（旅館組合無料バスあり）北近畿豊岡道・豊岡出石ICから約30分。御所の湯付近★",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島495",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7739",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7739%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7739",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7739.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7739/7739.jpg",
+   "special": "温泉街の中央に位置し外湯巡りに最適な場所！陶芸･七宝焼･絵付け体験可能。2ヶ所の貸切風呂もございます"
+  },
+  {
    "hotelNo": 144559,
    "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
    "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
@@ -300,23 +317,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144559.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144559/144559.jpg",
    "special": "日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿"
-  },
-  {
-   "hotelNo": 11351,
-   "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
-   "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 12980,
-   "reviewAverage": 4.58,
-   "reviewCount": 1022,
-   "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島844",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D11351",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D11351%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D11351",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/11351.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11351/11351.jpg",
-   "special": "楽天アワード＆マイスター受賞★お料理評価好評◎＆３つのお花・フルーツの無料貸切風呂が大人気"
   },
   {
    "hotelNo": 172553,
@@ -370,5 +370,5 @@
    "special": "温泉街の入り口・外湯地蔵湯のそば。外湯めぐりや観光に便利な立地"
   }
  ],
- "listedMatchCount": 39
+ "listedMatchCount": 40
 }

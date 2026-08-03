@@ -28,6 +28,11 @@
    "slug": "breakfast--kusatsu"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--kusatsu"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--kusatsu"
@@ -111,6 +116,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -335,6 +341,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -378,7 +385,8 @@
    "special": "「湯畑」から徒歩１分、温泉街のドまん中　全室露天風呂付の素泊まりの宿",
    "conditions": [
     "onsen",
-    "kinen"
+    "kinen",
+    "dinner"
    ]
   },
   {
@@ -400,7 +408,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -444,6 +453,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -646,7 +656,8 @@
    "special": "暮らすように泊まれる宿　ゆっくり気兼ねなく、自分のペースで、温泉、街歩き、山の眺望を楽しめる宿",
    "conditions": [
     "onsen",
-    "kinen"
+    "kinen",
+    "dinner"
    ]
   },
   {
@@ -670,6 +681,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -690,10 +702,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705.jpg",
    "special": "20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェが話題",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
@@ -718,6 +726,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -743,6 +752,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -767,7 +777,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -830,6 +841,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -874,6 +886,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -934,6 +947,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1017,7 +1031,8 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen"
+    "kinen",
+    "dinner"
    ]
   },
   {
@@ -1081,6 +1096,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1106,6 +1122,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1148,6 +1165,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1172,6 +1190,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1198,6 +1217,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1241,6 +1261,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1392,6 +1413,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1436,6 +1458,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1483,6 +1506,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1550,6 +1574,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1571,10 +1596,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398.jpg",
    "special": "【2024年楽天トラベル☆ゴールドアワード＆日本の宿アワード☆】ダブル受賞を致しました！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1596,6 +1617,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184445/184445.jpg",
    "special": "★2022年秋オープン★新名所『裏草津』に屋上貸切露天風呂やルーフトップテラスのある宿が誕生♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1700,6 +1726,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1724,6 +1751,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1748,6 +1776,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1768,10 +1797,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/148947/148947.jpg",
    "special": "自然湧出量日本一を誇り名湯として名高い草津温泉。静かな別荘地に佇む宿で、悠久の安らぎを肌に感じて。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1798,6 +1823,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -1884,6 +1910,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1908,6 +1935,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]

@@ -16,17 +16,17 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 115,
-  "matchRate": 37.1,
+  "matchCount": 114,
+  "matchRate": 36.8,
   "denominator": {
    "type": "area_total",
    "value": 310,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 17800,
+  "medianPrice": 17700,
   "reviewAvgMean": 4.51,
-  "pricedCount": 73
+  "pricedCount": 72
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "個性豊かな由布院温泉の旅館の中で夢想園は眺めがよく、大きな露天風呂にこだわり旅館を営んでいます。"
   }
  ],
- "listedMatchCount": 73
+ "listedMatchCount": 72
 }

@@ -28,6 +28,11 @@
    "slug": "breakfast--dogo"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--dogo"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--dogo"
@@ -93,6 +98,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -178,6 +184,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -201,6 +208,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -224,6 +232,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -249,6 +258,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -273,6 +283,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -421,6 +432,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -463,7 +475,8 @@
    "special": "水庭を眺めながら非日常を体験する、ここにしかないLocal Luxury Resort",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -533,6 +546,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -578,6 +592,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -604,6 +619,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -651,6 +667,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -765,6 +782,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -790,6 +808,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1031,7 +1050,8 @@
    "special": "【農家が営む宿】２０２３年８月新装オープン★農家がつくる本気のごはんを召し上がれ！",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1098,6 +1118,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1117,7 +1139,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68295.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68295/68295.jpg",
    "special": "国道１１号線に面し道後温泉まで市電で約１０分、松山城・大街道にも近くビジネス・観光の拠点に最適♪",
-   "conditions": []
+   "conditions": [
+    "kinen"
+   ]
   },
   {
    "hotelNo": 220,
@@ -1280,7 +1304,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1360,7 +1385,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1528,6 +1554,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1676,6 +1703,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1778,6 +1806,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1924,7 +1953,8 @@
    "conditions": [
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1943,10 +1973,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20474.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20474/20474.jpg",
    "special": "品数豊富な朝食バイキング無料サービスをご提供しております。選べる枕も人気でございます♪",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 32037,

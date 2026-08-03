@@ -1,8 +1,8 @@
 {
- "slug": "daiyokujo--hakone",
+ "slug": "dinner--hakone",
  "condition": {
-  "slug": "daiyokujo",
-  "label": "大浴場"
+  "slug": "dinner",
+  "label": "夕食付きプラン"
  },
  "area": {
   "slug": "hakone",
@@ -16,17 +16,17 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 108,
-  "matchRate": 30.7,
+  "matchCount": 126,
+  "matchRate": 35.8,
   "denominator": {
    "type": "area_total",
    "value": 352,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5830,
-  "medianPrice": 15500,
-  "reviewAvgMean": 4.41,
-  "pricedCount": 68
+  "minPrice": 5600,
+  "medianPrice": 15875,
+  "reviewAvgMean": 4.43,
+  "pricedCount": 80
  },
  "hotels": [
   {
@@ -64,6 +64,23 @@
    "special": "2024年7月リニューアル！箱根神社の東隣、芦ノ湖の絶景とモダン懐石が自慢の大人宿"
   },
   {
+   "hotelNo": 182748,
+   "name": "ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　仙石原",
+   "kana": "ざ　ひらまつ　ほてるず　あんど　りぞーつ　せんごくはら",
+   "minCharge": 30900,
+   "reviewAverage": 4.88,
+   "reviewCount": 59,
+   "access": "箱根湯本駅からバスで約35分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原1245-337",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182748",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182748%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182748",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182748.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182748/182748.jpg",
+   "special": "【全室源泉掛け流し】ひらまつがお贈りする贅をつくした料理と温かいおもてなしの「滞在するレストラン」。"
+  },
+  {
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
@@ -79,6 +96,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16108.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16108/16108.jpg",
    "special": "全客室露天風呂付きにて、2022年9月11日リニューアルオープン。"
+  },
+  {
+   "hotelNo": 49387,
+   "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
+   "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
+   "minCharge": 19800,
+   "reviewAverage": 4.84,
+   "reviewCount": 671,
+   "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原1245-703",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D49387",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D49387%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D49387",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/49387.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/49387/49387.jpg",
+   "special": "全客室に展望温泉露天風呂付きの宿　　本格フレンチのオーベルジュ"
   },
   {
    "hotelNo": 184430,
@@ -166,6 +200,23 @@
    "special": "全館禁煙。自家源泉掛流し客室露天風呂を全室に備え、箱根西麓野や相模湾の幸を巧みに盛込む京会席に舌鼓。"
   },
   {
+   "hotelNo": 182450,
+   "name": "玄　箱根強羅",
+   "kana": "げん　はこねごうら",
+   "minCharge": 41800,
+   "reviewAverage": 4.74,
+   "reviewCount": 142,
+   "access": "箱根登山鉄道強羅駅より送迎車で約５分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町強羅1300-238",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182450",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182450%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182450",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182450.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182450/182450.jpg",
+   "special": "「究極のおこもりステイ」存分にご堪能下さいませ。"
+  },
+  {
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
@@ -215,6 +266,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158501.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158501/158501.jpg",
    "special": "楽天トラベルCM撮影地になりました！箱根の絶景を眺めるインフィニティ温泉や全客室温泉露天風呂客室"
+  },
+  {
+   "hotelNo": 173084,
+   "name": "レジーナリゾート箱根仙石原",
+   "kana": "れじーなりぞーとはこねせんごくはら",
+   "minCharge": 32400,
+   "reviewAverage": 4.69,
+   "reviewCount": 137,
+   "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原817-360",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D173084",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D173084%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D173084",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/173084.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/173084/173084.jpg",
+   "special": "箱根の風情を感じて、愛犬と向き合うひとときを満喫"
   },
   {
    "hotelNo": 59637,
@@ -300,75 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188264.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188264/188264.jpg",
    "special": "〜自分らしく過ごす〜もう一つの日常を当ホテルで体験。新しく生まれ変わった朝食で彩り豊かな朝を。"
-  },
-  {
-   "hotelNo": 130716,
-   "name": "箱根湯本温泉　喜仙荘",
-   "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 9350,
-   "reviewAverage": 4.6,
-   "reviewCount": 284,
-   "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本509",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D130716",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D130716%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D130716",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130716.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130716/130716.jpg",
-   "special": "家族でも広々【貸切露天風呂♪】で箱根湯本温泉★満喫！"
-  },
-  {
-   "hotelNo": 129428,
-   "name": "萬翠楼福住",
-   "kana": "ばんすいろうふくずみ",
-   "minCharge": 19500,
-   "reviewAverage": 4.57,
-   "reviewCount": 208,
-   "access": "箱根湯本駅から徒歩で７分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本643",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129428",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129428%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129428",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129428.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129428/129428.jpg",
-   "special": "創業寛永２年（１６２５）箱根屈指の老舗旅館。旧館は旅館第一号の国指定重要文化財。"
-  },
-  {
-   "hotelNo": 19786,
-   "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
-   "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 10000,
-   "reviewAverage": 4.56,
-   "reviewCount": 6563,
-   "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本468-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D19786",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19786%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D19786",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19786.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg",
-   "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿"
-  },
-  {
-   "hotelNo": 147613,
-   "name": "強羅花扇　円かの杜",
-   "kana": "ごうらはなおうぎ　まどかのもり",
-   "minCharge": 45000,
-   "reviewAverage": 4.56,
-   "reviewCount": 92,
-   "access": "強羅駅もしくは早雲山駅より無料でお迎えにあがります。ご一報くださいませ。　",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1320-862",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147613",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147613%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147613",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147613.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147613/147613.jpg",
-   "special": "〔強羅花扇　円かの杜〕全室「温泉露天風呂付客室」"
   }
  ],
- "listedMatchCount": 68
+ "listedMatchCount": 80
 }

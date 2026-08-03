@@ -16,8 +16,8 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 48,
-  "matchRate": 31.4,
+  "matchCount": 46,
+  "matchRate": 30.1,
   "denominator": {
    "type": "area_total",
    "value": 153,
@@ -26,7 +26,7 @@
   "minPrice": 5800,
   "medianPrice": 12100,
   "reviewAvgMean": 4.37,
-  "pricedCount": 45
+  "pricedCount": 43
  },
  "hotels": [
   {
@@ -217,23 +217,6 @@
    "special": "体にやさしい「地蔵の湯」の源泉の宿です。館内禁煙（全客室含む）となります。"
   },
   {
-   "hotelNo": 39705,
-   "name": "草津温泉　ホテル一井",
-   "kana": "くさつおんせん　いちい",
-   "minCharge": 17600,
-   "reviewAverage": 4.6,
-   "reviewCount": 3214,
-   "access": "ＪＲ吾妻線　長野原草津口駅より路線バス２５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津411",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D39705",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D39705%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D39705",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/39705.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39705/39705.jpg",
-   "special": "20室のみの湯畑眺望客室は希少！すき焼きやライブキッチンでのお寿司などを楽しめるビュッフェが話題"
-  },
-  {
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/139908.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139908/139908.jpg",
    "special": "露天風呂付客室は”湯畑源泉かけ流し”良質な温泉を存分に楽しめる。湯畑前の好立地、街歩きに最適。"
+  },
+  {
+   "hotelNo": 180101,
+   "name": "湯川テラス",
+   "kana": "ゆがわてらす",
+   "minCharge": 22150,
+   "reviewAverage": 4.43,
+   "reviewCount": 34,
+   "access": "JR長野原草津口下車、路線バス25分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津375",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180101",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D180101%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180101",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180101.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180101/180101.jpg",
+   "special": "街の中心街「湯畑」から徒歩２０秒の立地に源泉かけ流し（内湯）とカフェ＆レストランを併設した２室限定宿"
   }
  ],
- "listedMatchCount": 45
+ "listedMatchCount": 43
 }

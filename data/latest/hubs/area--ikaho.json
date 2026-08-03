@@ -28,6 +28,11 @@
    "slug": "breakfast--ikaho"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--ikaho"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--ikaho"
@@ -69,6 +74,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -111,7 +117,8 @@
    "special": "石段街が目の前！散策に大変便利です。お風呂は、天然温泉かけ流し。伊香保独特の茶色いにごり湯です。",
    "conditions": [
     "onsen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -135,6 +142,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -265,6 +273,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -291,6 +300,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -334,6 +344,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -359,6 +370,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -383,6 +395,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -404,6 +417,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19468/19468.jpg",
    "special": "本館は国の登録有形文化財　源泉掛け流し貸切風呂は宿泊の方は無料",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -428,6 +445,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -452,6 +470,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -472,10 +491,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196707/196707.jpg",
    "special": "2025年8月オープン☆カフェラウンジ・朝食・天然温泉かけ流しサウナ付貸切風呂 無料!!",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -520,7 +535,8 @@
    "conditions": [
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -540,6 +556,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182808/182808.jpg",
    "special": "天然温泉・朝食・駐車無料と癒やしをテーマにしたホテルが伊香保インター近くに2021年8月誕生！",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -563,7 +583,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -608,6 +629,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "kashikiri-buro"
    ]
@@ -633,6 +655,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -657,6 +680,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -700,6 +724,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -726,6 +751,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -792,6 +818,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -834,7 +861,9 @@
    "conditions": [
     "onsen",
     "daiyokujo",
+    "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro",
@@ -862,6 +891,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -910,6 +940,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -934,6 +965,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -996,9 +1028,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168659.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168659/168659.jpg",
    "special": "伊香保温泉石段街の入口。東京からの直通バス停留所から徒歩１分に位置する眺望最高な宿泊特化ホテル。",
-   "conditions": [
-    "kinen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 177613,
@@ -1039,6 +1069,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1081,6 +1112,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1128,6 +1160,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1152,6 +1185,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1177,6 +1211,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro",
@@ -1219,7 +1254,8 @@
    "special": "こどもが主役☆館内、お部屋、すべてで遊び尽くせるキッズパラダイスホテル",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1262,6 +1298,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]

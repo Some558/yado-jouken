@@ -28,6 +28,11 @@
    "slug": "breakfast--kinosaki"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--kinosaki"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--kinosaki"
@@ -184,6 +189,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -224,6 +230,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -266,7 +273,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -290,6 +298,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -333,7 +342,8 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -376,6 +386,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -400,6 +411,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -423,7 +435,8 @@
    "special": "燻製工房が手掛ける手ぶらキャンプ場",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -446,6 +459,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "kashikiri-buro"
    ]
@@ -470,6 +484,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -515,6 +530,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -581,6 +597,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -603,7 +620,8 @@
    "special": "星降る神鍋高原☆澄んだ空気と新鮮な自家米&野菜が自慢！ママシェフ特製フルコースが美味しいペンション♪",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -646,6 +664,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "pet-ok"
    ]
@@ -667,9 +686,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8619/8619.jpg",
    "special": "女子旅やカップルの記念日にオススメの閑静な隠れ家的お宿〈全プラン城崎温泉外湯巡り券/無料送迎付〉",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -730,6 +746,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -791,6 +808,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7739/7739.jpg",
    "special": "温泉街の中央に位置し外湯巡りに最適な場所！陶芸･七宝焼･絵付け体験可能。2ヶ所の貸切風呂もございます",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -814,6 +834,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -855,10 +876,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11351/11351.jpg",
    "special": "楽天アワード＆マイスター受賞★お料理評価好評◎＆３つのお花・フルーツの無料貸切風呂が大人気",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -883,6 +900,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1025,7 +1043,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1047,7 +1066,8 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1071,6 +1091,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1096,6 +1117,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1136,7 +1158,13 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7835.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7835/7835.jpg",
    "special": "幕末の維新志士桂小五郎が潜居していた、城崎温泉の情緒に溶け込んだ宿",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
   },
   {
    "hotelNo": 70350,
@@ -1158,6 +1186,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1200,7 +1229,8 @@
    "conditions": [
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1223,6 +1253,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -1268,6 +1299,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "kashikiri-buro"
    ]
@@ -1293,6 +1325,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1337,6 +1370,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1399,6 +1433,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1439,11 +1474,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/140777.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/140777/140777.jpg",
    "special": "パブリック、浴室をリニューアル☆全館禁煙☆外湯券付き",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 191684,
@@ -1503,6 +1534,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1522,9 +1554,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/53384.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53384/53384.jpg",
    "special": "豊岡駅から徒歩５分☆Wi-Fi全室OK☆",
-   "conditions": [
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 130498,
@@ -1547,6 +1577,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1590,7 +1621,8 @@
    "conditions": [
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1613,6 +1645,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1657,6 +1690,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1682,6 +1716,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1702,9 +1737,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19708.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19708/19708.jpg",
    "special": "四季を通じて新鮮な海の幸をお召し上がりいただけます。外湯めぐり（外湯巡り券付き）にも便利です。",
-   "conditions": [
-    "onsen"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 68184,
@@ -1743,7 +1776,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1762,7 +1796,9 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18743.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18743/18743.jpg",
    "special": "■豊岡駅から徒歩5分、最寄コンビニまで徒歩1分■客室Wifi完備",
-   "conditions": []
+   "conditions": [
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 14265,
@@ -1821,6 +1857,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1921,6 +1958,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9150/9150.jpg",
    "special": "川畔を望む貸切り露天風呂が新設◎日本海の海の幸・但馬の山の幸が楽しめるやすらぎの宿◎",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1963,7 +2005,8 @@
    "special": "湯宿ささくらは１１０年以上の歴史ある温泉宿を承継し、リニューアルオープンいたしました。",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   }
  ]

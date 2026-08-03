@@ -24,9 +24,9 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5600,
-  "medianPrice": 15875,
+  "medianPrice": 15800,
   "reviewAvgMean": 4.42,
-  "pricedCount": 78
+  "pricedCount": 79
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "家族でも広々【貸切露天風呂♪】で箱根湯本温泉★満喫！"
   }
  ],
- "listedMatchCount": 78
+ "listedMatchCount": 79
 }

@@ -16,16 +16,16 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 61,
-  "matchRate": 33.7,
+  "matchCount": 60,
+  "matchRate": 33.1,
   "denominator": {
    "type": "area_total",
    "value": 181,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 2510,
+  "minPrice": 2000,
   "medianPrice": 5850,
-  "reviewAvgMean": 4.29,
+  "reviewAvgMean": 4.3,
   "pricedCount": 48
  },
  "hotels": [

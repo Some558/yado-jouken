@@ -16,17 +16,17 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 128,
-  "matchRate": 36.4,
+  "matchCount": 129,
+  "matchRate": 36.6,
   "denominator": {
    "type": "area_total",
    "value": 352,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5600,
-  "medianPrice": 16050,
+  "medianPrice": 15950,
   "reviewAvgMean": 4.43,
-  "pricedCount": 78
+  "pricedCount": 79
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "〜自分らしく過ごす〜もう一つの日常を当ホテルで体験。新しく生まれ変わった朝食で彩り豊かな朝を。"
   }
  ],
- "listedMatchCount": 78
+ "listedMatchCount": 79
 }

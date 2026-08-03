@@ -12,10 +12,10 @@
     "officialName": "箱根"
    },
    "slug": "kinen--hakone",
-   "matchCount": 170,
-   "matchRate": 48.3,
+   "matchCount": 169,
+   "matchRate": 48.0,
    "minPrice": 5600,
-   "medianPrice": 15800,
+   "medianPrice": 15700,
    "reviewAvgMean": 4.43
   },
   {
@@ -25,8 +25,8 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "kinen--kusatsu",
-   "matchCount": 49,
-   "matchRate": 32.0,
+   "matchCount": 47,
+   "matchRate": 30.7,
    "minPrice": 5000,
    "medianPrice": 12100,
    "reviewAvgMean": 4.39
@@ -38,8 +38,8 @@
     "officialName": "熱海"
    },
    "slug": "kinen--atami",
-   "matchCount": 89,
-   "matchRate": 33.0,
+   "matchCount": 88,
+   "matchRate": 32.6,
    "minPrice": 2310,
    "medianPrice": 11000,
    "reviewAvgMean": 4.3
@@ -51,8 +51,8 @@
     "officialName": "別府・日出"
    },
    "slug": "kinen--beppu",
-   "matchCount": 120,
-   "matchRate": 48.0,
+   "matchCount": 116,
+   "matchRate": 46.4,
    "minPrice": 3060,
    "medianPrice": 8910,
    "reviewAvgMean": 4.4
@@ -64,10 +64,10 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kinen--yufuin",
-   "matchCount": 159,
-   "matchRate": 51.3,
+   "matchCount": 158,
+   "matchRate": 51.0,
    "minPrice": 4032,
-   "medianPrice": 17800,
+   "medianPrice": 17700,
    "reviewAvgMean": 4.49
   },
   {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "kinen--kinosaki",
-   "matchCount": 51,
-   "matchRate": 32.3,
+   "matchCount": 52,
+   "matchRate": 32.9,
    "minPrice": 3000,
-   "medianPrice": 12100,
-   "reviewAvgMean": 4.44
+   "medianPrice": 11000,
+   "reviewAvgMean": 4.43
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kinen--nasu",
-   "matchCount": 92,
-   "matchRate": 26.7,
-   "minPrice": 4500,
-   "medianPrice": 11000,
-   "reviewAvgMean": 4.42
+   "matchCount": 89,
+   "matchRate": 25.9,
+   "minPrice": 4000,
+   "medianPrice": 10450,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kinen--karuizawa",
-   "matchCount": 62,
-   "matchRate": 22.3,
+   "matchCount": 59,
+   "matchRate": 21.2,
    "minPrice": 4100,
    "medianPrice": 12550,
-   "reviewAvgMean": 4.39
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "kinen--dogo",
-   "matchCount": 61,
-   "matchRate": 33.7,
-   "minPrice": 2510,
+   "matchCount": 60,
+   "matchRate": 33.1,
+   "minPrice": 2000,
    "medianPrice": 5850,
-   "reviewAvgMean": 4.29
+   "reviewAvgMean": 4.3
   }
  ]
 }

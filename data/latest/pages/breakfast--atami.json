@@ -16,8 +16,8 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 84,
-  "matchRate": 31.1,
+  "matchCount": 85,
+  "matchRate": 31.5,
   "denominator": {
    "type": "area_total",
    "value": 270,

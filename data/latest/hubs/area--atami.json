@@ -28,6 +28,11 @@
    "slug": "breakfast--atami"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--atami"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--atami"
@@ -68,6 +73,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -92,6 +98,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -154,6 +161,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -180,6 +188,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -227,6 +236,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -251,6 +261,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -275,7 +286,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -299,6 +311,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -322,6 +335,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -346,6 +360,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -396,6 +411,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -442,6 +458,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro",
@@ -468,6 +485,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -492,6 +510,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -517,6 +536,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -541,6 +561,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -564,7 +585,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -587,6 +609,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -699,6 +722,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -721,7 +745,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -745,6 +770,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -816,6 +842,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -840,6 +867,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -863,6 +891,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -889,6 +918,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro",
@@ -915,6 +945,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -940,6 +971,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -964,6 +996,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -989,6 +1022,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1031,6 +1065,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro",
     "pet-ok"
@@ -1077,6 +1112,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1100,7 +1136,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1124,6 +1161,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1148,6 +1186,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1172,6 +1211,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1215,7 +1255,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1287,6 +1328,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1311,6 +1353,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1336,6 +1379,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1361,6 +1405,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1385,6 +1430,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1409,6 +1455,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1452,6 +1499,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1496,6 +1544,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1543,6 +1592,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "pet-ok"
    ]
@@ -1589,6 +1639,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1614,6 +1665,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1637,7 +1689,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1661,6 +1714,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1685,6 +1739,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1709,6 +1764,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1734,7 +1790,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1758,6 +1815,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1820,6 +1878,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1843,6 +1902,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1888,7 +1948,8 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1935,6 +1996,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1959,6 +2021,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -2010,6 +2073,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -2075,6 +2139,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -2100,6 +2165,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -2143,6 +2209,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]

@@ -16,17 +16,17 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 81,
-  "matchRate": 32.4,
+  "matchCount": 78,
+  "matchRate": 31.2,
   "denominator": {
    "type": "area_total",
    "value": 250,
    "label": "別府・日出エリアの掲載施設数"
   },
-  "minPrice": 1500,
+  "minPrice": 2500,
   "medianPrice": 9370,
-  "reviewAvgMean": 4.36,
-  "pricedCount": 62
+  "reviewAvgMean": 4.37,
+  "pricedCount": 60
  },
  "hotels": [
   {
@@ -285,23 +285,6 @@
    "special": "別府駅から徒歩３分！加温加水なし１００％天然温泉、貸切風呂で２４時間可。繁華街に近い閑静な和風旅館"
   },
   {
-   "hotelNo": 38409,
-   "name": "別府温泉　眺望の宿　しおり",
-   "kana": "べっぷおんせん　ちょうぼうのやど　しおり",
-   "minCharge": 19635,
-   "reviewAverage": 4.58,
-   "reviewCount": 902,
-   "access": "別府駅から車で10分（別府駅から送迎あり）☆別府ICから車で10分☆大分空港から車で40分（専用道路ご利用の場合）",
-   "address1": "大分県",
-   "address2": "別府市大字南立石2218番5",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38409",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38409%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38409",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38409.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38409/38409.jpg",
-   "special": "別府湾の波先、高崎山の見事な稜線が広がる、「しおり」自慢の眺望に心を緩めてください。"
-  },
-  {
    "hotelNo": 187531,
    "name": "別館　うみね",
    "kana": "べっかん　うみね",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/12660.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/12660/12660.jpg",
    "special": "朝食の和洋ビュッフェは、出来たて焼きたてをはじめ60種類が食べ放題！大分の贅を味わう料理の宿"
+  },
+  {
+   "hotelNo": 54697,
+   "name": "別府温泉　悠彩の宿　望海",
+   "kana": "ゆうさいのやど　ぼうかい",
+   "minCharge": 6600,
+   "reviewAverage": 4.52,
+   "reviewCount": 634,
+   "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
+   "address1": "大分県",
+   "address2": "別府市北浜3-8-7",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D54697",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D54697%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D54697",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/54697.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54697/54697.jpg",
+   "special": "夕食は贅沢な会席料理を「お部屋食」にてご提供♪　温泉施設も令和６年１２月に最新の設備に&#9832;"
   }
  ],
- "listedMatchCount": 62
+ "listedMatchCount": 60
 }

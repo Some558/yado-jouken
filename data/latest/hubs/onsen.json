@@ -15,7 +15,7 @@
    "matchCount": 135,
    "matchRate": 38.4,
    "minPrice": 5600,
-   "medianPrice": 15875,
+   "medianPrice": 15800,
    "reviewAvgMean": 4.42
   },
   {
@@ -25,8 +25,8 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "onsen--kusatsu",
-   "matchCount": 48,
-   "matchRate": 31.4,
+   "matchCount": 46,
+   "matchRate": 30.1,
    "minPrice": 5800,
    "medianPrice": 12100,
    "reviewAvgMean": 4.37
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "onsen--beppu",
-   "matchCount": 86,
-   "matchRate": 34.4,
-   "minPrice": 1500,
-   "medianPrice": 8690,
-   "reviewAvgMean": 4.37
+   "matchCount": 85,
+   "matchRate": 34.0,
+   "minPrice": 2500,
+   "medianPrice": 8800,
+   "reviewAvgMean": 4.39
   },
   {
    "area": {
@@ -64,10 +64,10 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "onsen--yufuin",
-   "matchCount": 131,
-   "matchRate": 42.3,
+   "matchCount": 130,
+   "matchRate": 41.9,
    "minPrice": 4032,
-   "medianPrice": 17600,
+   "medianPrice": 17300,
    "reviewAvgMean": 4.49
   },
   {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "onsen--kinosaki",
-   "matchCount": 41,
-   "matchRate": 25.9,
+   "matchCount": 40,
+   "matchRate": 25.3,
    "minPrice": 7060,
-   "medianPrice": 13475,
-   "reviewAvgMean": 4.47
+   "medianPrice": 13200,
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -90,8 +90,8 @@
     "officialName": "伊香保温泉・渋川"
    },
    "slug": "onsen--ikaho",
-   "matchCount": 30,
-   "matchRate": 42.9,
+   "matchCount": 31,
+   "matchRate": 44.3,
    "minPrice": 3500,
    "medianPrice": 8800,
    "reviewAvgMean": 4.22
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "onsen--nasu",
-   "matchCount": 42,
-   "matchRate": 12.2,
+   "matchCount": 40,
+   "matchRate": 11.6,
    "minPrice": 3980,
-   "medianPrice": 11750,
-   "reviewAvgMean": 4.4
+   "medianPrice": 11445,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -119,8 +119,8 @@
    "matchCount": 15,
    "matchRate": 5.4,
    "minPrice": 4598,
-   "medianPrice": 16137,
-   "reviewAvgMean": 4.4
+   "medianPrice": 16043,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -129,8 +129,8 @@
     "officialName": "松山・道後"
    },
    "slug": "onsen--dogo",
-   "matchCount": 32,
-   "matchRate": 17.7,
+   "matchCount": 31,
+   "matchRate": 17.1,
    "minPrice": 3100,
    "medianPrice": 10700,
    "reviewAvgMean": 4.4

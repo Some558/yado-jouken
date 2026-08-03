@@ -28,6 +28,11 @@
    "slug": "breakfast--beppu"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--beppu"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--beppu"
@@ -91,6 +96,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -140,6 +146,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -186,6 +193,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -232,6 +240,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -279,7 +288,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -298,7 +308,10 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182154.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182154/182154.jpg",
    "special": "［別府温泉×大人の贅沢な時間］全10棟／おとな2名様限定の素泊まり旅館",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen"
+   ]
   },
   {
    "hotelNo": 172768,
@@ -321,6 +334,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -369,6 +383,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -394,6 +409,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -438,6 +454,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -461,6 +478,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -485,6 +503,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -529,6 +548,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -592,10 +612,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38409/38409.jpg",
    "special": "別府湾の波先、高崎山の見事な稜線が広がる、「しおり」自慢の眺望に心を緩めてください。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -621,6 +637,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -669,6 +686,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -718,6 +736,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -742,6 +761,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -765,6 +785,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -790,6 +811,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -815,6 +837,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -839,6 +862,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -863,6 +887,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -907,6 +932,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -929,7 +955,8 @@
    "special": "亀川駅より徒歩３分、お手軽『遊湯』完全個室の別府の温泉、完全プライベート空間、出張、大歓迎",
    "conditions": [
     "onsen",
-    "kinen"
+    "kinen",
+    "dinner"
    ]
   },
   {
@@ -977,7 +1004,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1001,6 +1029,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1026,6 +1055,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1071,6 +1101,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1096,6 +1127,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1120,7 +1152,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1143,6 +1176,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1168,6 +1202,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1214,6 +1249,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1259,6 +1295,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1279,6 +1316,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183136/183136.jpg",
    "special": "ここにしかないアートな旅を体験するホテル／全室オーシャンビューの半露天風呂付き",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1326,6 +1367,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1456,6 +1498,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1481,6 +1524,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1527,6 +1571,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1549,10 +1594,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18318/18318.jpg",
    "special": "眺めが最高！別府が一望できる高台にある閑静なホテル。絶品料理と天然温泉でお寛ぎください。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1578,6 +1619,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1623,6 +1665,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1647,7 +1690,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1694,6 +1738,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1755,7 +1800,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1779,6 +1825,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1802,6 +1849,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1848,6 +1896,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1934,6 +1983,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1959,6 +2009,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1983,7 +2034,8 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -2007,6 +2059,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -2068,6 +2121,7 @@
     "onsen",
     "daiyokujo",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -2093,6 +2147,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -2113,8 +2168,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9242/9242.jpg",
    "special": "展望風呂有り。ビジネス・観光に便利。",
    "conditions": [
-    "onsen",
-    "breakfast",
     "pet-ok"
    ]
   }

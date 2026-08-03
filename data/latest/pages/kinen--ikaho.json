@@ -200,23 +200,6 @@
    "special": "伊香保に語り継がれる希少泉質「黄金の湯」を、贅沢に源泉かけ流しで楽しむ至福の宿泊体験。"
   },
   {
-   "hotelNo": 196707,
-   "name": "赤城天然温泉　ハナホテル＆スパ渋川",
-   "kana": "あかぎてんねんおんせん はなほてるあんどすぱしぶかわ",
-   "minCharge": 5600,
-   "reviewAverage": 4.4,
-   "reviewCount": 1141,
-   "access": "関越自動車道「赤城IC」よりお車で約7分 、「渋川伊香保IC」よりお車で約15分、JR上越線「敷島駅」よりお車で約4分",
-   "address1": "群馬県",
-   "address2": "渋川市赤城町宮田850-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196707",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196707%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196707",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196707.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196707/196707.jpg",
-   "special": "2025年8月オープン☆カフェラウンジ・朝食・天然温泉かけ流しサウナ付貸切風呂 無料!!"
-  },
-  {
    "hotelNo": 197407,
    "name": "ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　渋川",
    "kana": "ほてる あーるないん ざ やーど しぶかわ",
@@ -249,6 +232,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197742.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197742/197742.jpg",
    "special": "伊香保温泉石段街へ送迎付＆カップルに人気の無料貸切風呂｜ペット可対応で広々120平米ドッグランあり"
+  },
+  {
+   "hotelNo": 182808,
+   "name": "渋川天然温泉　ハナホテル＆スパ　伊香保インター",
+   "kana": "しぶかわてんねんおんせん　はなほてる　すぱいかほいんたー",
+   "minCharge": 7000,
+   "reviewAverage": 4.34,
+   "reviewCount": 1951,
+   "access": "渋川・伊香保インターより車で５分。JR上越線『渋川駅』よりバスで30分。『八木原駅』よりバスで3分。",
+   "address1": "群馬県",
+   "address2": "渋川市半田3129-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182808",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182808%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182808",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182808.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182808/182808.jpg",
+   "special": "天然温泉・朝食・駐車無料と癒やしをテーマにしたホテルが伊香保インター近くに2021年8月誕生！"
   },
   {
    "hotelNo": 68523,

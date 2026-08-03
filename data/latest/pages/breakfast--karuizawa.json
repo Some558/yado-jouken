@@ -16,35 +16,35 @@
   "checkoutDate": "2026-08-09"
  },
  "stats": {
-  "matchCount": 46,
-  "matchRate": 16.5,
+  "matchCount": 45,
+  "matchRate": 16.2,
   "denominator": {
    "type": "area_total",
    "value": 278,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4100,
-  "medianPrice": 14100,
-  "reviewAvgMean": 4.36,
-  "pricedCount": 36
+  "medianPrice": 14000,
+  "reviewAvgMean": 4.4,
+  "pricedCount": 37
  },
  "hotels": [
   {
-   "hotelNo": 181982,
-   "name": "ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　軽井沢　御代田",
-   "kana": "ざ　ひらまつ　かるいざわ　みよた",
-   "minCharge": 35000,
-   "reviewAverage": 4.76,
-   "reviewCount": 97,
-   "access": "上信越自動車道「佐久IC」から車で20分、北陸新幹線「佐久平駅」から車で25分",
+   "hotelNo": 199017,
+   "name": "ホテルルートインＧｒａｎｄ佐久－佐久平駅南－",
+   "kana": "ほてるるーといんぐらんどさく　さくだいらえきみなみ",
+   "minCharge": 6800,
+   "reviewAverage": 4.9,
+   "reviewCount": 10,
+   "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久中佐都ICから車で約5分",
    "address1": "長野県",
-   "address2": "北佐久郡御代田町大字塩野375-723",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181982",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181982%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181982",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181982.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181982/181982.jpg",
-   "special": "ひらまつが提案する「グラン・オーベルジュ」。食と地域を楽しむ新しいホテルスタイルをご提案します。"
+   "address2": "佐久市岩村田5513-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199017",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199017%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199017",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199017.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199017/199017.jpg",
+   "special": "北陸新幹線「佐久平駅」より徒歩約10分、天然温泉大浴場・サウナ完備！"
   },
   {
    "hotelNo": 167941,
@@ -113,6 +113,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183280.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183280/183280.jpg",
    "special": "全13室、48平米以上ラグジュアリーステイ　最新家電のキッチン付【ドッグラン付客室あり】ゴルフ場隣接"
+  },
+  {
+   "hotelNo": 196141,
+   "name": "グランディスタイル旧軽井沢ホテル＆リゾート",
+   "kana": "ぐらんでぃすたいるきゅうかるいざわほてるあんどりぞーと",
+   "minCharge": 25960,
+   "reviewAverage": 4.71,
+   "reviewCount": 180,
+   "access": "軽井沢駅より車で約５分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町軽井沢691-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196141",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196141%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196141",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196141.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196141/196141.jpg",
+   "special": "■2025年8月27日開業■全室50平米以上の客室。温泉・サウナで寛ぎ、美食を味わう癒しの休日"
   },
   {
    "hotelNo": 28308,
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183829.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183829/183829.jpg",
    "special": "ぬくもりある別荘に着想を得た、隠れ家のような空間「ホテルインディゴ軽井沢」"
-  },
-  {
-   "hotelNo": 181343,
-   "name": "軽井沢プリンスホテル　イースト",
-   "kana": "かるいざわぷりんすほてるいーすと",
-   "minCharge": 16137,
-   "reviewAverage": 4.33,
-   "reviewCount": 205,
-   "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行☆",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町大字軽井沢1016-75",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181343",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181343%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181343",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181343.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181343/181343.jpg",
-   "special": "「森の中、物語を見つけに。」温泉、スポーツ、ショッピングなど自由な滞在を楽しむ高原リゾート"
   }
  ],
- "listedMatchCount": 36
+ "listedMatchCount": 37
 }

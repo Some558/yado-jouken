@@ -28,6 +28,11 @@
    "slug": "breakfast--karuizawa"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--karuizawa"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--karuizawa"
@@ -105,6 +110,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199017/199017.jpg",
    "special": "北陸新幹線「佐久平駅」より徒歩約10分、天然温泉大浴場・サウナ完備！",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast",
     "sauna"
    ]
   },
@@ -260,11 +268,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181982.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181982/181982.jpg",
    "special": "ひらまつが提案する「グラン・オーベルジュ」。食と地域を楽しむ新しいホテルスタイルをご提案します。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 167941,
@@ -285,6 +289,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -351,6 +356,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -376,6 +382,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "pet-ok"
    ]
@@ -415,6 +422,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196141/196141.jpg",
    "special": "■2025年8月27日開業■全室50平米以上の客室。温泉・サウナで寛ぎ、美食を味わう癒しの休日",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "sauna"
    ]
   },
@@ -436,7 +446,8 @@
    "special": "軽井沢の歴史とともに歩み続けるクラシックホテル",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -460,6 +471,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -484,6 +496,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -624,6 +637,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -648,6 +662,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -673,6 +688,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna",
     "pet-ok"
    ]
@@ -698,6 +714,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -762,7 +779,8 @@
    "special": "日本一赤い湯と大自然に囲まれた、気取らない秘湯の一軒宿。浅間山のふもとで、のんびり過ごす温泉時間",
    "conditions": [
     "onsen",
-    "kinen"
+    "kinen",
+    "dinner"
    ]
   },
   {
@@ -786,6 +804,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -966,6 +985,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1090,7 +1110,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2925.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2925/2925.jpg",
    "special": "大浴場完備！朝食バイキング無料！美しい自然に囲まれた静かな立地で、観光・ビジネスに最適です。",
-   "conditions": []
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 181158,
@@ -1127,6 +1151,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50768/50768.jpg",
    "special": "アクアホテルアネックスは2024年8月1日〜リニューアルオープン！　佐久平駅徒歩1分！",
    "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
     "rotenburo",
     "sauna"
    ]
@@ -1169,7 +1196,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1271,6 +1299,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1293,6 +1322,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1454,9 +1484,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177042/177042.jpg",
    "special": "徒歩圏内に軽井沢アウトレットショッピングモールや旧軽井沢銀座、美術館などが点在。",
    "conditions": [
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "sauna"
    ]
   },
@@ -1476,7 +1503,11 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/3086.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3086/3086.jpg",
    "special": "アウトレットだけでなく、佐久・軽井沢プリンス・湯の丸等長野県のスキー場へも便利！",
-   "conditions": []
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 5783,
@@ -1539,6 +1570,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1634,10 +1666,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109519.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109519/109519.jpg",
    "special": "改札を抜けた先は高原リゾート。フットワークの軽さが思い出の数になる、リゾートの中心に滞在する特権。",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 67962,
@@ -1765,6 +1794,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -1806,7 +1836,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1825,12 +1856,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19304.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19304/19304.jpg",
    "special": "【楽天アワード2025受賞】森に佇む洋館で、軽井沢の休日を。／無料送迎有",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 142644,
@@ -1887,7 +1913,8 @@
    "conditions": [
     "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {

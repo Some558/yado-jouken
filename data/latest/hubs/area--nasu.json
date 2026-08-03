@@ -28,6 +28,11 @@
    "slug": "breakfast--nasu"
   },
   {
+   "condition": "dinner",
+   "label": "夕食付きプラン",
+   "slug": "dinner--nasu"
+  },
+  {
    "condition": "rotenburo",
    "label": "露天風呂",
    "slug": "rotenburo--nasu"
@@ -89,6 +94,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -113,6 +119,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -156,7 +163,8 @@
    "conditions": [
     "onsen",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -216,6 +224,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -240,6 +249,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -387,6 +397,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -454,6 +465,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -499,6 +511,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -520,10 +533,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051.jpg",
    "special": "山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -570,6 +579,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -595,6 +605,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -780,6 +791,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -887,6 +899,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "kashikiri-buro",
     "pet-ok"
    ]
@@ -909,7 +922,8 @@
    "special": "7匹のベンガル猫とふれあい＆夕食は国産牛肉のBBQ！各棟に全天候型BBQスペース付き",
    "conditions": [
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -931,6 +945,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "sauna"
    ]
   },
@@ -954,6 +969,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -977,6 +993,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1042,6 +1059,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1105,6 +1123,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1174,9 +1193,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/935/935.jpg",
    "special": "＜愛犬と泊まる宿＞那須高原の隠れ家リゾート／温泉付客室多数／全館プライベートコテージ ペットと一緒旅",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
     "pet-ok"
    ]
   },
@@ -1200,6 +1216,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1225,6 +1242,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1271,6 +1289,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "pet-ok"
@@ -1357,6 +1376,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1381,6 +1401,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1402,6 +1423,7 @@
    "special": "ゲストも大切なペットも安心して寛げて、ペットと温泉浴もＯＫ☆貸切温泉露天＆ディナーも堪能できます。",
    "conditions": [
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1425,6 +1447,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1448,6 +1471,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1470,6 +1494,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro",
     "pet-ok"
@@ -1492,6 +1517,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75262/75262.jpg",
    "special": "ＪＲ那須塩原駅から徒歩０分★Wifi完備★お部屋は25平米以上！無料朝食＆コーヒー・紅茶飲み放題♪",
    "conditions": [
+    "kinen",
     "breakfast"
    ]
   },
@@ -1514,6 +1540,7 @@
    "conditions": [
     "onsen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro",
     "pet-ok"
@@ -1626,6 +1653,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1651,6 +1679,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1671,8 +1700,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78180/78180.jpg",
    "special": "ワンランク上の客室がリーズナブルプライスで。 ビジネスや観光でご利用頂けるホテルです",
    "conditions": [
-    "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1696,6 +1725,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1721,6 +1751,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1746,6 +1777,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1788,6 +1820,7 @@
    "conditions": [
     "kinen",
     "breakfast",
+    "dinner",
     "pet-ok"
    ]
   },
@@ -1826,6 +1859,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164840/164840.jpg",
    "special": "愛犬と泊まれる癒しの旅館です。那須の地では珍しい全室に源泉かけ流しの露天風呂も完備しております。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1848,7 +1886,8 @@
    "special": "老舗旅館■「鹿の湯」源泉かけ流し白濁温泉　24時間OK■お食事処にて栃木牛と季節の懐石膳",
    "conditions": [
     "onsen",
-    "breakfast"
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1872,6 +1911,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "pet-ok"
    ]
@@ -1897,6 +1937,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -1920,6 +1961,7 @@
     "onsen",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1965,6 +2007,7 @@
     "daiyokujo",
     "kinen",
     "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },

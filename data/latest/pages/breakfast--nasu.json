@@ -24,9 +24,9 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3980,
-  "medianPrice": 11000,
-  "reviewAvgMean": 4.39,
-  "pricedCount": 47
+  "medianPrice": 10325,
+  "reviewAvgMean": 4.38,
+  "pricedCount": 46
  },
  "hotels": [
   {
@@ -164,23 +164,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181751.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181751/181751.jpg",
    "special": "那須街道沿いにあるアクセス抜群のグランピング施設！ペット連れのお客様もご利用いただけます。"
-  },
-  {
-   "hotelNo": 32051,
-   "name": "那須温泉　大丸温泉旅館",
-   "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 16800,
-   "reviewAverage": 4.66,
-   "reviewCount": 462,
-   "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本269",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D32051",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D32051%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D32051",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32051.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051.jpg",
-   "special": "山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。"
   },
   {
    "hotelNo": 167342,
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7335.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg",
    "special": "地元の旬菜にこだわる食事＆施設充実のトップリゾート"
+  },
+  {
+   "hotelNo": 188786,
+   "name": "美肌と薬草の極楽湯　芦野温泉",
+   "kana": "びはだとやくそうのごくらくゆ　あしのおんせん",
+   "minCharge": 12100,
+   "reviewAverage": 4.44,
+   "reviewCount": 392,
+   "access": "JR東北新幹線「那須塩原駅」よりお車で約３０分、東北自動車道「那須ＩＣ」より約２５分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町芦野1461",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188786",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188786%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188786",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188786.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188786/188786.jpg",
+   "special": "噂のピリピリ薬草湯でデトックス。化粧水のような温泉で全身が潤い、とろける那須野ヶ原牛や旬料理を堪能"
   }
  ],
- "listedMatchCount": 47
+ "listedMatchCount": 46
 }
