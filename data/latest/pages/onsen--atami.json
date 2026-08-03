@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -23,8 +23,8 @@
    "value": 270,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2310,
-  "medianPrice": 11220,
+  "minPrice": 3500,
+  "medianPrice": 11970,
   "reviewAvgMean": 4.28,
   "pricedCount": 69
  },
@@ -84,7 +84,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 48400,
+   "minCharge": 49500,
    "reviewAverage": 4.75,
    "reviewCount": 73,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -118,7 +118,7 @@
    "hotelNo": 197709,
    "name": "熱海温泉　熱海　ホテル渚館",
    "kana": "あたみおんせん　あたみ　なぎさかん",
-   "minCharge": 11220,
+   "minCharge": 17160,
    "reviewAverage": 4.63,
    "reviewCount": 52,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -305,7 +305,7 @@
    "hotelNo": 75291,
    "name": "熱海倶楽部　迎賓館",
    "kana": "あたみくらぶ　げいひんかん",
-   "minCharge": 29700,
+   "minCharge": 35200,
    "reviewAverage": 4.55,
    "reviewCount": 4391,
    "access": "熱海駅より車で約８分。タクシーでお越しの場合は「熱海ゴルフ倶楽部」とお伝え下さい。",

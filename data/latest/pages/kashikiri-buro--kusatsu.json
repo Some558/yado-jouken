@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 188147,
    "name": "民宿　ひょうたん",
    "kana": "　ひょうたん",
-   "minCharge": 22700,
+   "minCharge": 7700,
    "reviewAverage": 4.85,
    "reviewCount": 28,
    "access": "草津温泉バスターミナルから徒歩約７分",
@@ -218,7 +218,7 @@
    "hotelNo": 67285,
    "name": "草津温泉　群龍館",
    "kana": "くさつおんせん　ぐんりゅうかん",
-   "minCharge": 13200,
+   "minCharge": 12100,
    "reviewAverage": 4.65,
    "reviewCount": 200,
    "access": "ＪＲ吾妻線　長野原草津口からＪＲバスに乗車→草津温泉バスターミナル下車、徒歩５分",

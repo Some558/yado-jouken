@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "areas": [
   {
    "area": {
@@ -40,8 +40,8 @@
    "slug": "onsen--atami",
    "matchCount": 80,
    "matchRate": 29.6,
-   "minPrice": 2310,
-   "medianPrice": 11220,
+   "minPrice": 3500,
+   "medianPrice": 11970,
    "reviewAvgMean": 4.28
   },
   {
@@ -66,8 +66,8 @@
    "slug": "onsen--yufuin",
    "matchCount": 130,
    "matchRate": 41.9,
-   "minPrice": 4032,
-   "medianPrice": 17300,
+   "minPrice": 3456,
+   "medianPrice": 16750,
    "reviewAvgMean": 4.49
   },
   {
@@ -79,7 +79,7 @@
    "slug": "onsen--kinosaki",
    "matchCount": 40,
    "matchRate": 25.3,
-   "minPrice": 7060,
+   "minPrice": 6800,
    "medianPrice": 13200,
    "reviewAvgMean": 4.46
   },
@@ -93,7 +93,7 @@
    "matchCount": 31,
    "matchRate": 44.3,
    "minPrice": 3500,
-   "medianPrice": 8800,
+   "medianPrice": 10080,
    "reviewAvgMean": 4.22
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 31,
    "matchRate": 17.1,
    "minPrice": 3100,
-   "medianPrice": 10700,
+   "medianPrice": 10525,
    "reviewAvgMean": 4.4
   }
  ]

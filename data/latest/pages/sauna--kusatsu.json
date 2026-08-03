@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6426,
-  "medianPrice": 14850,
+  "minPrice": 6741,
+  "medianPrice": 13800,
   "reviewAvgMean": 4.37,
   "pricedCount": 13
  },
@@ -150,7 +150,7 @@
    "hotelNo": 16110,
    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
-   "minCharge": 6426,
+   "minCharge": 6741,
    "reviewAverage": 4.29,
    "reviewCount": 1195,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",
@@ -184,7 +184,7 @@
    "hotelNo": 181654,
    "name": "和える宿　高松",
    "kana": "あえるやど　たかまつ",
-   "minCharge": 14850,
+   "minCharge": 13750,
    "reviewAverage": 4.18,
    "reviewCount": 596,
    "access": "JR吾妻線長野原草津口駅より路線バスで約30分",
@@ -235,7 +235,7 @@
    "hotelNo": 172893,
    "name": "リブマックスリゾート草津温泉",
    "kana": "りぶまっくすりぞーとくさつおんせん",
-   "minCharge": 10110,
+   "minCharge": 11000,
    "reviewAverage": 3.78,
    "reviewCount": 533,
    "access": "湯畑から徒歩約10分",

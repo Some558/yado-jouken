@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -220,7 +220,7 @@
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 21397,
+   "minCharge": 20645,
    "reviewAverage": 4.09,
    "reviewCount": 179,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",

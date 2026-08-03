@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "recordCount": 310,
  "conditions": [
   {
@@ -607,7 +607,7 @@
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 8750,
+   "minCharge": 7875,
    "reviewAverage": 4.75,
    "reviewCount": 61,
    "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",
@@ -754,7 +754,7 @@
    "hotelNo": 43826,
    "name": "由布院温泉　かほりの郷　はな村",
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
-   "minCharge": 21945,
+   "minCharge": 14000,
    "reviewAverage": 4.68,
    "reviewCount": 768,
    "access": "ＪＲ　由布院駅より徒歩１0分／湯布院ＩＣより車で１０分/由布院駅までの送迎ご希望の方は由布院駅よりお電話下さい。",
@@ -1329,7 +1329,7 @@
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 13650,
+   "minCharge": 10790,
    "reviewAverage": 4.48,
    "reviewCount": 312,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",
@@ -1514,7 +1514,7 @@
    "hotelNo": 43844,
    "name": "由布院温泉　ほてい屋",
    "kana": "ゆふいんおんせん　ほていや",
-   "minCharge": 29000,
+   "minCharge": 31000,
    "reviewAverage": 4.36,
    "reviewCount": 165,
    "access": "ＪＲ　由布院駅より徒歩２０分／大分自動車道　湯布院ＩＣより１０分。",
@@ -1753,7 +1753,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 9910,
+   "minCharge": 9415,
    "reviewAverage": 4.15,
    "reviewCount": 260,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",
@@ -1958,7 +1958,7 @@
    "hotelNo": 141911,
    "name": "湯布院別荘　四季彩ホテル",
    "kana": "ゆふいんべっそう しきさいほてる",
-   "minCharge": 7500,
+   "minCharge": 5600,
    "reviewAverage": 4.0,
    "reviewCount": 313,
    "access": "JR由布院駅より車5分、徒歩25分、湯布院インターより車7分。",
@@ -2006,30 +2006,6 @@
    ]
   },
   {
-   "hotelNo": 76428,
-   "name": "由布院温泉　由布院　寛ぎの宿　なな川",
-   "kana": "ゆふいんおんせん　ゆふいん　くつろぎのやど　ななかわ",
-   "minCharge": 33800,
-   "reviewAverage": 4.0,
-   "reviewCount": 118,
-   "access": "由布院駅よりタクシーで５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1551-8",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76428",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76428%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76428",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76428.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76428/76428.jpg",
-   "special": "湯布院観光の中心部に在りながら静かな隠れ宿　露天付きメゾネット客室で寛ぎのひとときを",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
    "hotelNo": 180079,
    "name": "由布院　玉の湯",
    "kana": "ゆふいん　たまのゆ",
@@ -2046,6 +2022,30 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180079/180079.jpg",
    "special": "３０００坪の雑木林の中、温泉かけ流しの内風呂を完備したお部屋となつかしい山里料理をご用意してます。",
    "conditions": [
+    "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 76428,
+   "name": "由布院温泉　由布院　寛ぎの宿　なな川",
+   "kana": "ゆふいんおんせん　ゆふいん　くつろぎのやど　ななかわ",
+   "minCharge": 37400,
+   "reviewAverage": 4.0,
+   "reviewCount": 118,
+   "access": "由布院駅よりタクシーで５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1551-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76428",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76428%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76428",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76428.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76428/76428.jpg",
+   "special": "湯布院観光の中心部に在りながら静かな隠れ宿　露天付きメゾネット客室で寛ぎのひとときを",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -2116,7 +2116,7 @@
    "hotelNo": 172859,
    "name": "ＥＴＡＶＩＡ湯布院金鱗湖",
    "kana": "えたびあ　ゆふいんきんりんこ",
-   "minCharge": 4032,
+   "minCharge": 3456,
    "reviewAverage": 3.78,
    "reviewCount": 91,
    "access": "由布院駅より徒歩にて約１８分／お車にて約５分",

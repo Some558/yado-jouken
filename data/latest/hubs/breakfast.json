@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 129,
    "matchRate": 36.6,
    "minPrice": 5600,
-   "medianPrice": 15950,
+   "medianPrice": 15800,
    "reviewAvgMean": 4.43
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 34,
    "matchRate": 22.2,
    "minPrice": 5880,
-   "medianPrice": 12375,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.41
   },
   {
@@ -40,8 +40,8 @@
    "slug": "breakfast--atami",
    "matchCount": 85,
    "matchRate": 31.5,
-   "minPrice": 2310,
-   "medianPrice": 11220,
+   "minPrice": 3500,
+   "medianPrice": 11970,
    "reviewAvgMean": 4.29
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 114,
    "matchRate": 36.8,
    "minPrice": 5500,
-   "medianPrice": 17700,
+   "medianPrice": 17600,
    "reviewAvgMean": 4.51
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 53,
    "matchRate": 33.5,
    "minPrice": 5000,
-   "medianPrice": 12540,
+   "medianPrice": 13000,
    "reviewAvgMean": 4.46
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 34,
    "matchRate": 48.6,
    "minPrice": 4980,
-   "medianPrice": 8800,
+   "medianPrice": 9660,
    "reviewAvgMean": 4.25
   },
   {
@@ -118,8 +118,8 @@
    "slug": "breakfast--karuizawa",
    "matchCount": 45,
    "matchRate": 16.2,
-   "minPrice": 4100,
-   "medianPrice": 14000,
+   "minPrice": 4500,
+   "medianPrice": 12900,
    "reviewAvgMean": 4.4
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 48,
    "matchRate": 26.5,
    "minPrice": 1850,
-   "medianPrice": 5350,
+   "medianPrice": 5550,
    "reviewAvgMean": 4.3
   }
  ]

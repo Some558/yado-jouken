@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "areas": [
   {
    "area": {
@@ -27,7 +27,7 @@
    "slug": "pet-ok--kusatsu",
    "matchCount": 5,
    "matchRate": 5.6,
-   "minPrice": 7580,
+   "minPrice": 7605,
    "medianPrice": 8960,
    "reviewAvgMean": 4.04
   },
@@ -80,7 +80,7 @@
    "matchCount": 4,
    "matchRate": 4.4,
    "minPrice": 3500,
-   "medianPrice": 12540,
+   "medianPrice": 12200,
    "reviewAvgMean": 4.46
   },
   {

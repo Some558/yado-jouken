@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4700,
-  "medianPrice": 12990,
+  "medianPrice": 13100,
   "reviewAvgMean": 4.48,
   "pricedCount": 40
  },
@@ -65,7 +65,7 @@
    "hotelNo": 8509,
    "name": "城崎温泉　小林屋",
    "kana": "きのさきおんせん　こばやしや",
-   "minCharge": 16500,
+   "minCharge": 22600,
    "reviewAverage": 4.91,
    "reviewCount": 143,
    "access": "車：北近畿豊岡自動車道　但馬空港ICより約30分／電車・バス：城崎温泉駅より徒歩約7分",
@@ -82,7 +82,7 @@
    "hotelNo": 79381,
    "name": "城崎温泉　料理旅館　よしはる",
    "kana": "きのさきおんせん　りょうりりょかん　よしはる",
-   "minCharge": 18469,
+   "minCharge": 17820,
    "reviewAverage": 4.9,
    "reviewCount": 256,
    "access": "ＪＲ　城崎温泉駅より徒歩にて３分",
@@ -150,7 +150,7 @@
    "hotelNo": 138019,
    "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
    "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 21000,
+   "minCharge": 13200,
    "reviewAverage": 4.74,
    "reviewCount": 129,
    "access": "城崎温泉駅から徒歩７分",

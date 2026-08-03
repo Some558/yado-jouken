@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-03",
+ "dataAsOf": "2026-08-04",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4620,
-  "medianPrice": 9625,
+  "medianPrice": 10080,
   "reviewAvgMean": 4.23,
   "pricedCount": 33
  },
@@ -31,7 +31,7 @@
    "hotelNo": 70871,
    "name": "伊香保温泉　香雲館",
    "kana": "こううんかん",
-   "minCharge": 27500,
+   "minCharge": 29150,
    "reviewAverage": 4.84,
    "reviewCount": 319,
    "access": "ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。",
@@ -116,7 +116,7 @@
    "hotelNo": 6267,
    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
    "kana": "きしごんりょかん　いしだんがいりんせつ　きしょうげんせん「おうごんのゆ」のやど",
-   "minCharge": 8800,
+   "minCharge": 11000,
    "reviewAverage": 4.57,
    "reviewCount": 1607,
    "access": "関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
@@ -184,7 +184,7 @@
    "hotelNo": 7170,
    "name": "伊香保温泉　温泉宿　塚越屋七兵衛",
    "kana": "いかほおんせん　おんせんやど　つかごしやしちべえ",
-   "minCharge": 9625,
+   "minCharge": 10780,
    "reviewAverage": 4.44,
    "reviewCount": 879,
    "access": "関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）",
@@ -286,7 +286,7 @@
    "hotelNo": 28606,
    "name": "伊香保温泉　福一",
    "kana": "いかほおんせん　ふくいち",
-   "minCharge": 7392,
+   "minCharge": 9240,
    "reviewAverage": 4.29,
    "reviewCount": 1671,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",
