@@ -26,6 +26,10 @@ const title = `${area.label}の${condition.label}の宿 ${stats.matchCount}件�
 const yen = (n: number | null) => (n == null ? '—' : `¥${n.toLocaleString('ja-JP')}`);
 const description = `${area.label}(${area.officialName})で${condition.label}の宿は${stats.matchCount}件。最安${yen(stats.minPrice)}〜・料金中央値${yen(stats.medianPrice)}・レビュー平均${stats.reviewAvgMean ?? '—'}を毎日自動集計。${dataAsOf}時点のデータ。`;
 const site = 'https://yadoshibori.com';
+const detectionAnswer =
+  detection.type === 'vacant'
+    ? `空室検索の絞り込み条件（${condition.label}）。検索条件=チェックイン${detection.checkinDate}・1泊・大人2名`
+    : `楽天トラベルに登録された施設設備情報（${condition.label}）`;
 
 const jsonLd = [
   {
@@ -47,6 +51,36 @@ const jsonLd = [
       position: i + 1,
       name: h.name,
     })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: `${area.label}で${condition.label}の宿は何件ありますか？`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `${dataAsOf}時点で${stats.matchCount}件です。最安${yen(stats.minPrice)}〜、中央値${yen(stats.medianPrice)}。`,
+        },
+      },
+      {
+        '@type': 'Question',
+        name: `このページの「${condition.label}」はどう判定していますか？`,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: detectionAnswer,
+        },
+      },
+      {
+        '@type': 'Question',
+        name: '料金はいつ時点のデータですか？',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: `データ取得日は${dataAsOf}です。大人1名あたりの最低料金で、プラン・日程により変動します。予約前に楽天トラベルで最新情報を確認してください。`,
+        },
+      },
+    ],
   },
 ];
 ---

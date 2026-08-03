@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import meta from '../../../data/latest/meta.json';
+import siteConfig from '../config/site.json';
 
 interface Props {
   title: string;
@@ -12,6 +13,7 @@ const { title, description, path, jsonLd = [] } = Astro.props;
 const site = Astro.site?.href.replace(/\/$/, '') ?? 'https://yadoshibori.com';
 const canonical = `${site}${path}`;
 const dataAsOf = meta.dataAsOf;
+const gsc = (siteConfig as { googleSiteVerification?: string }).googleSiteVerification?.trim();
 
 const orgLd = {
   '@context': 'https://schema.org',
@@ -30,7 +32,9 @@ const allLd = [orgLd, ...jsonLd];
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {gsc && <meta name="google-site-verification" content={gsc} />}
     <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ja_JP" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />

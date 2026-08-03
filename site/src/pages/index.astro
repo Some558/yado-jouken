@@ -7,7 +7,7 @@ const pages = await getCollection('pages');
 const condHubs = (await getCollection('conditionHubs')).map((e) => e.data);
 const areaHubs = (await getCollection('areaHubs')).map((e) => e.data);
 
-const condOrder = ['onsen', 'daiyokujo', 'rotenburo', 'kashikiri-buro', 'sauna', 'breakfast', 'kinen', 'pet-ok'];
+const condOrder = ['onsen', 'daiyokujo', 'rotenburo', 'kashikiri-buro', 'sauna', 'breakfast', 'dinner', 'kinen', 'pet-ok'];
 const areaOrder = ['hakone', 'kusatsu', 'atami', 'ikaho', 'nasu', 'karuizawa', 'kinosaki', 'dogo', 'beppu', 'yufuin'];
 const conditions = condOrder
   .map((s) => condHubs.find((c) => c.condition.slug === s))
@@ -42,7 +42,7 @@ const areaCards = areas.map((hub) => {
 });
 
 const title = 'ヤドシボリ｜泊まりたい条件から探す、温泉地の宿データベース';
-const description = `温泉・貸切風呂・ペット同宿可など8条件×${areas.length}温泉地の宿を毎日自動集計。該当件数・料金相場・レビュー平均をデータで比較できます。${dataAsOf}更新。`;
+const description = `温泉・夕食付き・ペット同宿可など${conditions.length}条件×${areas.length}温泉地の宿を毎日自動集計。該当件数・料金相場・レビュー平均をデータで比較できます。${dataAsOf}更新。`;
 ---
 
 <Base title={title} description={description} path="/">

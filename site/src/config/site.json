@@ -1,0 +1,4 @@
+{
+  "googleSiteVerification": "",
+  "_comment": "Google Search Console の所有確認用。HTMLタグ方式の content 値だけ入れる。空なら meta を出さない。"
+}
