@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 61,
-  "matchRate": 22.6,
+  "matchRate": 22.7,
   "denominator": {
    "type": "area_total",
-   "value": 270,
+   "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3500,
-  "medianPrice": 11000,
+  "medianPrice": 11275,
   "reviewAvgMean": 4.25,
   "pricedCount": 56
  },
@@ -112,7 +112,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】7/29(水)〜8/1(土)空室わずか★クーポン有【お部屋食】"
+   "special": "【旅館甲子園優勝の宿】8/8(土)〜15(土)空室わずか★クーポン有【お部屋食】"
   },
   {
    "hotelNo": 198339,
@@ -203,7 +203,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 13700,
+   "minCharge": 13200,
    "reviewAverage": 4.55,
    "reviewCount": 1072,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",

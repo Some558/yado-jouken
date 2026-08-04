@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6006,
-  "medianPrice": 12840,
+  "medianPrice": 12680,
   "reviewAvgMean": 4.37,
-  "pricedCount": 36
+  "pricedCount": 37
  },
  "hotels": [
   {
@@ -130,6 +130,23 @@
    "special": "マクロビ料理やファスティング。草津の上質な湯で生まれ変わる、心と体。木々のなかのウェルネスリゾート。"
   },
   {
+   "hotelNo": 29510,
+   "name": "草津温泉　ペンション　ベルクラント",
+   "kana": "べるくらんと",
+   "minCharge": 6550,
+   "reviewAverage": 4.67,
+   "reviewCount": 39,
+   "access": "JR吾妻線長野原草津口下車、接続バス終点草津温泉バスターミナルから送迎がございます(要事前予約)",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-1075",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29510",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29510%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29510",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29510.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29510/29510.jpg",
+   "special": "【露天風呂完備】草津温泉「万代鉱源泉」掛け流しの温泉とアットホームな雰囲気が心地よい宿"
+  },
+  {
    "hotelNo": 4904,
    "name": "草津温泉　望雲",
    "kana": "くさつおんせん　ぼううん",
@@ -145,23 +162,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4904.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904.jpg",
    "special": "創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの旅館。"
-  },
-  {
-   "hotelNo": 29510,
-   "name": "草津温泉　ペンション　ベルクラント",
-   "kana": "べるくらんと",
-   "minCharge": null,
-   "reviewAverage": 4.67,
-   "reviewCount": 39,
-   "access": "JR吾妻線長野原草津口下車、接続バス終点草津温泉バスターミナルから送迎がございます(要事前予約)",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-1075",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29510",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29510%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29510",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29510.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29510/29510.jpg",
-   "special": "【露天風呂完備】草津温泉「万代鉱源泉」掛け流しの温泉とアットホームな雰囲気が心地よい宿"
   },
   {
    "hotelNo": 4719,
@@ -337,7 +337,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 15800,
+   "minCharge": 16850,
    "reviewAverage": 4.4,
    "reviewCount": 3092,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",

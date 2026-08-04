@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 158,
-  "matchRate": 51.0,
+  "matchRate": 50.6,
   "denominator": {
    "type": "area_total",
-   "value": 310,
+   "value": 312,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3456,
@@ -67,7 +67,7 @@
    "hotelNo": 176658,
    "name": "由布院温泉　御宿　田　離宮",
    "kana": "ゆふいんおんせん　おんやど　でん　りきゅう",
-   "minCharge": 23000,
+   "minCharge": 25000,
    "reviewAverage": 5.0,
    "reviewCount": 53,
    "access": "ＪＲ　由布院駅より徒歩にて約１０分／大分自動車道　湯布院ＩＣよりお車にて約５分",

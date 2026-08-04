@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 4000,
-  "medianPrice": 10450,
+  "medianPrice": 10700,
   "reviewAvgMean": 4.41,
   "pricedCount": 42
  },

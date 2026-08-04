@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "facility"
  },
@@ -161,7 +161,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】7/29(水)〜8/1(土)空室わずか★クーポン有【お部屋食】"
+   "special": "【旅館甲子園優勝の宿】8/8(土)〜15(土)空室わずか★クーポン有【お部屋食】"
   },
   {
    "hotelNo": 198339,
@@ -300,27 +300,10 @@
    "special": "熱海は海あり、山あり、温泉ありと四季を通じて楽しむ宿"
   },
   {
-   "hotelNo": 1854,
-   "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
-   "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 13700,
-   "reviewAverage": 4.55,
-   "reviewCount": 1072,
-   "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
-   "address1": "静岡県",
-   "address2": "熱海市下多賀493",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1854",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1854%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1854",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1854.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1854/1854.jpg",
-   "special": "熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気"
-  },
-  {
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 13900,
+   "minCharge": 11350,
    "reviewAverage": 4.55,
    "reviewCount": 689,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
@@ -332,6 +315,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28013.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28013/28013.jpg",
    "special": "【熱海一望】客室からの絶景、細かなサービスと美食をお約束します"
+  },
+  {
+   "hotelNo": 1854,
+   "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
+   "kana": "あたみおんせん　ゆのやど　ひらつる　",
+   "minCharge": 13200,
+   "reviewAverage": 4.55,
+   "reviewCount": 1072,
+   "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
+   "address1": "静岡県",
+   "address2": "熱海市下多賀493",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1854",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1854%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1854",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1854.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1854/1854.jpg",
+   "special": "熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気"
   },
   {
    "hotelNo": 37960,

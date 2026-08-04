@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 130,
-  "matchRate": 41.9,
+  "matchRate": 41.7,
   "denominator": {
    "type": "area_total",
-   "value": 310,
+   "value": 312,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3456,
@@ -33,7 +33,7 @@
    "hotelNo": 31261,
    "name": "由布院温泉　吉祥開運亭　無尽蔵",
    "kana": "ゆふいんおんせん　きっしょうかいうんてい　むじんぞう",
-   "minCharge": 9900,
+   "minCharge": 13200,
    "reviewAverage": 5.0,
    "reviewCount": 201,
    "access": "■JR久大本線由布院駅より徒歩15分■車で５分■湯布院ICより15分程■湯の坪街道まで徒歩30秒",

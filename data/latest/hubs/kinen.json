@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "kinen--hakone",
    "matchCount": 169,
-   "matchRate": 48.0,
+   "matchRate": 47.5,
    "minPrice": 5600,
-   "medianPrice": 15500,
+   "medianPrice": 15367,
    "reviewAvgMean": 4.43
   },
   {
@@ -39,9 +39,9 @@
    },
    "slug": "kinen--atami",
    "matchCount": 88,
-   "matchRate": 32.6,
+   "matchRate": 32.7,
    "minPrice": 3500,
-   "medianPrice": 11235,
+   "medianPrice": 11550,
    "reviewAvgMean": 4.3
   },
   {
@@ -65,7 +65,7 @@
    },
    "slug": "kinen--yufuin",
    "matchCount": 158,
-   "matchRate": 51.0,
+   "matchRate": 50.6,
    "minPrice": 3456,
    "medianPrice": 17300,
    "reviewAvgMean": 4.49
@@ -93,7 +93,7 @@
    "matchCount": 33,
    "matchRate": 47.1,
    "minPrice": 3500,
-   "medianPrice": 10080,
+   "medianPrice": 9240,
    "reviewAvgMean": 4.2
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 89,
    "matchRate": 25.9,
    "minPrice": 4000,
-   "medianPrice": 10450,
+   "medianPrice": 10700,
    "reviewAvgMean": 4.41
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 59,
    "matchRate": 21.2,
    "minPrice": 4500,
-   "medianPrice": 11820,
+   "medianPrice": 12550,
    "reviewAvgMean": 4.41
   },
   {
@@ -130,9 +130,9 @@
    },
    "slug": "kinen--dogo",
    "matchCount": 60,
-   "matchRate": 33.1,
+   "matchRate": 33.3,
    "minPrice": 2000,
-   "medianPrice": 5700,
+   "medianPrice": 5732,
    "reviewAvgMean": 4.3
   }
  ]

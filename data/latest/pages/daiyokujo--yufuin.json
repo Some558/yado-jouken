@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 45,
-  "matchRate": 14.5,
+  "matchRate": 14.4,
   "denominator": {
    "type": "area_total",
-   "value": 310,
+   "value": 312,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,

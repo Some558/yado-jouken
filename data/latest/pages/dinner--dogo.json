@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -20,11 +20,11 @@
   "matchRate": 13.3,
   "denominator": {
    "type": "area_total",
-   "value": 181,
+   "value": 180,
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 11125,
+  "medianPrice": 11575,
   "reviewAvgMean": 4.38,
   "pricedCount": 22
  },
@@ -220,7 +220,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 10600,
+   "minCharge": 11700,
    "reviewAverage": 4.45,
    "reviewCount": 2620,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",

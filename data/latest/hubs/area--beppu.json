@@ -4,7 +4,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "recordCount": 250,
  "conditions": [
   {
@@ -129,7 +129,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 33600,
+   "minCharge": 31750,
    "reviewAverage": 4.89,
    "reviewCount": 99,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -669,7 +669,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6625,
+   "minCharge": 7287,
    "reviewAverage": 4.54,
    "reviewCount": 633,
    "access": "別府駅東口より徒歩約1分！",
@@ -744,7 +744,7 @@
    "hotelNo": 12660,
    "name": "別府温泉　ホテル白菊",
    "kana": "べっぷおんせん　しらぎく",
-   "minCharge": 18150,
+   "minCharge": 17050,
    "reviewAverage": 4.53,
    "reviewCount": 1436,
    "access": "JR日豊本線別府駅西口より徒歩7分／別府ICより車で13分／大分空港より車で50分／博多駅より2時間10分（別府駅下車）",
@@ -769,7 +769,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 6600,
+   "minCharge": 7700,
    "reviewAverage": 4.52,
    "reviewCount": 634,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
@@ -1012,7 +1012,7 @@
    "hotelNo": 167075,
    "name": "コスタ・デル・ソル　ひじ",
    "kana": "こすた　でる　そる　ひじ",
-   "minCharge": 8000,
+   "minCharge": 7000,
    "reviewAverage": 4.41,
    "reviewCount": 182,
    "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",
@@ -1038,7 +1038,7 @@
    "hotelNo": 108176,
    "name": "別府温泉　美湯の宿　両築別邸",
    "kana": "びゆのやど　りょうちくべってい",
-   "minCharge": 7650,
+   "minCharge": 7700,
    "reviewAverage": 4.4,
    "reviewCount": 1628,
    "access": "JR別府駅より車で10分（無料送迎あり・前日12時までの要予約）／大分自動車道別府ICより8分／大分空港より車で50分",
@@ -1136,7 +1136,7 @@
    "hotelNo": 180258,
    "name": "天然温泉　鉄輪の湯　スーパーホテル別府駅前",
    "kana": "すーぱーほてる　べっぷえきまえ　てんねんおんせん　かんなわのゆ",
-   "minCharge": 4200,
+   "minCharge": 4300,
    "reviewAverage": 4.37,
    "reviewCount": 1144,
    "access": "ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分",
@@ -1438,6 +1438,27 @@
    ]
   },
   {
+   "hotelNo": 1938,
+   "name": "別府温泉　ホテルニューツルタ",
+   "kana": "べっぷおんせん　ほてるにゅーつるた",
+   "minCharge": 3000,
+   "reviewAverage": 4.22,
+   "reviewCount": 1199,
+   "access": "ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi",
+   "address1": "大分県",
+   "address2": "別府市北浜1-14-15",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1938",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1938%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1938",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1938.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1938/1938.jpg",
+   "special": "別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！",
+   "conditions": [
+    "rotenburo",
+    "sauna"
+   ]
+  },
+  {
    "hotelNo": 9069,
    "name": "別府第一ホテル",
    "kana": "べっぷ　だいいちほてる",
@@ -1455,27 +1476,6 @@
    "special": "別府駅より徒歩１分♪お子様添い寝無料♪スマートテレビ♪快適なお部屋と丁寧な対応を提供いたします。",
    "conditions": [
     "kinen"
-   ]
-  },
-  {
-   "hotelNo": 1938,
-   "name": "別府温泉　ホテルニューツルタ",
-   "kana": "べっぷおんせん　ほてるにゅーつるた",
-   "minCharge": 3900,
-   "reviewAverage": 4.22,
-   "reviewCount": 1199,
-   "access": "ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi",
-   "address1": "大分県",
-   "address2": "別府市北浜1-14-15",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1938",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1938%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1938",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1938.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1938/1938.jpg",
-   "special": "別府湾を望む、まちなかに立地。地上20ｍにある大浴場からは別府湾が一望！",
-   "conditions": [
-    "rotenburo",
-    "sauna"
    ]
   },
   {
@@ -1879,7 +1879,7 @@
    "hotelNo": 160966,
    "name": "別府　豊泉荘",
    "kana": "べっぷ　ほうせんそう",
-   "minCharge": 5990,
+   "minCharge": 3990,
    "reviewAverage": 4.03,
    "reviewCount": 825,
    "access": "別府駅より徒歩にて約１５分",

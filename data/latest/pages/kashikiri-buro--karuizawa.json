@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5316,
-  "medianPrice": 12000,
+  "medianPrice": 13500,
   "reviewAvgMean": 4.52,
   "pricedCount": 8
  },
@@ -82,7 +82,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 10000,
+   "minCharge": 14000,
    "reviewAverage": 4.68,
    "reviewCount": 1501,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -99,7 +99,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 25800,
+   "minCharge": 27600,
    "reviewAverage": 4.44,
    "reviewCount": 213,
    "access": "軽井沢駅よりお車にて約１５分",

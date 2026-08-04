@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3980,
-  "medianPrice": 11445,
+  "medianPrice": 11500,
   "reviewAvgMean": 4.38,
   "pricedCount": 33
  },
@@ -305,7 +305,7 @@
    "hotelNo": 184489,
    "name": "那須温泉グランピング　Ｎｅｎｎ（ネン）",
    "kana": "なすおんせんぐらんぴんぐ　ねん",
-   "minCharge": 16800,
+   "minCharge": 11760,
    "reviewAverage": 4.32,
    "reviewCount": 207,
    "access": "JR那須塩原駅より車で30分",

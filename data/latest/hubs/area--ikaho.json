@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "recordCount": 70,
  "conditions": [
   {
@@ -256,7 +256,7 @@
    "hotelNo": 6267,
    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
    "kana": "きしごんりょかん　いしだんがいりんせつ　きしょうげんせん「おうごんのゆ」のやど",
-   "minCharge": 11000,
+   "minCharge": 12100,
    "reviewAverage": 4.57,
    "reviewCount": 1607,
    "access": "関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
@@ -351,6 +351,32 @@
    ]
   },
   {
+   "hotelNo": 15996,
+   "name": "伊香保温泉　市川別館　晴観荘",
+   "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
+   "minCharge": 7700,
+   "reviewAverage": 4.52,
+   "reviewCount": 911,
+   "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保557",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15996",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15996%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15996",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15996.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15996/15996.jpg",
+   "special": "1万5千坪の敷地の中、森林浴などを楽しめ、またお部屋からの眺望は伊香保随一。",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 19362,
    "name": "伊香保温泉　松本楼　洋風旅館ぴのん",
    "kana": "いかほおんせん　ようふうりょかん　びのん",
@@ -371,32 +397,6 @@
     "kinen",
     "breakfast",
     "dinner",
-    "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 15996,
-   "name": "伊香保温泉　市川別館　晴観荘",
-   "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
-   "minCharge": 11000,
-   "reviewAverage": 4.52,
-   "reviewCount": 911,
-   "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保557",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15996",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15996%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15996",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15996.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15996/15996.jpg",
-   "special": "1万5千坪の敷地の中、森林浴などを楽しめ、またお部屋からの眺望は伊香保随一。",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
     "kashikiri-buro"
    ]
   },
@@ -948,7 +948,7 @@
    "hotelNo": 68663,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
-   "minCharge": 13400,
+   "minCharge": 12900,
    "reviewAverage": 4.06,
    "reviewCount": 925,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",

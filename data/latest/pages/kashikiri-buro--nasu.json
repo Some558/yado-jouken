@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 196307,
    "name": "ＳＡＮＵ　２ｎｄ　Ｈｏｍｅ　那須２ｎｄ",
    "kana": "さぬ　せかんど　ほーむ　なす　せかんど",
-   "minCharge": 17628,
+   "minCharge": 17050,
    "reviewAverage": 5.0,
    "reviewCount": 6,
    "access": "那須塩原駅から車／レンタカーで約４５分",
@@ -303,7 +303,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 6800,
+   "minCharge": 8500,
    "reviewAverage": 4.6,
    "reviewCount": 65,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",

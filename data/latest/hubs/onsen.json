@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-08-04",
+ "dataAsOf": "2026-08-05",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "onsen--hakone",
    "matchCount": 135,
-   "matchRate": 38.4,
+   "matchRate": 37.9,
    "minPrice": 5600,
-   "medianPrice": 15800,
+   "medianPrice": 15600,
    "reviewAvgMean": 4.42
   },
   {
@@ -39,9 +39,9 @@
    },
    "slug": "onsen--atami",
    "matchCount": 80,
-   "matchRate": 29.6,
+   "matchRate": 29.7,
    "minPrice": 3500,
-   "medianPrice": 11970,
+   "medianPrice": 12080,
    "reviewAvgMean": 4.28
   },
   {
@@ -65,7 +65,7 @@
    },
    "slug": "onsen--yufuin",
    "matchCount": 130,
-   "matchRate": 41.9,
+   "matchRate": 41.7,
    "minPrice": 3456,
    "medianPrice": 16750,
    "reviewAvgMean": 4.49
@@ -93,7 +93,7 @@
    "matchCount": 31,
    "matchRate": 44.3,
    "minPrice": 3500,
-   "medianPrice": 10080,
+   "medianPrice": 9240,
    "reviewAvgMean": 4.22
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 40,
    "matchRate": 11.6,
    "minPrice": 3980,
-   "medianPrice": 11445,
+   "medianPrice": 11500,
    "reviewAvgMean": 4.38
   },
   {
@@ -130,9 +130,9 @@
    },
    "slug": "onsen--dogo",
    "matchCount": 31,
-   "matchRate": 17.1,
+   "matchRate": 17.2,
    "minPrice": 3100,
-   "medianPrice": 10525,
+   "medianPrice": 10625,
    "reviewAvgMean": 4.4
   }
  ]
