@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,
-  "medianPrice": 15650,
+  "medianPrice": 15950,
   "reviewAvgMean": 4.4,
   "pricedCount": 28
  },
@@ -356,7 +356,7 @@
    "hotelNo": 54519,
    "name": "由布院温泉　ゆふいん月燈庵",
    "kana": "ゆふいん　げっとうあん",
-   "minCharge": 17000,
+   "minCharge": 20000,
    "reviewAverage": 4.17,
    "reviewCount": 169,
    "access": "湯布院ICより車で１５分。由布院駅より車で７分。大分自動車道～湯布院ICを出て2つ目の信号を右折。50号線に乗り約4分。",

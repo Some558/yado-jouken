@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -203,7 +203,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 17600,
+   "minCharge": 18700,
    "reviewAverage": 4.72,
    "reviewCount": 461,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -271,7 +271,7 @@
    "hotelNo": 147569,
    "name": "城崎温泉　風月魚匠（ふうげつぎょしょう）",
    "kana": "きのさきおんせん　ふうげつ　ぎょしょう",
-   "minCharge": 13200,
+   "minCharge": 15400,
    "reviewAverage": 4.63,
    "reviewCount": 778,
    "access": "ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい",

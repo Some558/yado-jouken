@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5830,
-  "medianPrice": 15367,
+  "medianPrice": 15700,
   "reviewAvgMean": 4.41,
   "pricedCount": 68
  },
@@ -84,7 +84,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 48000,
+   "minCharge": 42250,
    "reviewAverage": 4.82,
    "reviewCount": 61,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -169,7 +169,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 14800,
+   "minCharge": 22800,
    "reviewAverage": 4.72,
    "reviewCount": 35,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3500,
-  "medianPrice": 11275,
+  "medianPrice": 11815,
   "reviewAvgMean": 4.25,
   "pricedCount": 56
  },
@@ -135,7 +135,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 21780,
+   "minCharge": 23100,
    "reviewAverage": 4.61,
    "reviewCount": 317,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -322,7 +322,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 7700,
+   "minCharge": 11000,
    "reviewAverage": 4.43,
    "reviewCount": 175,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -356,7 +356,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 16500,
+   "minCharge": 19800,
    "reviewAverage": 4.42,
    "reviewCount": 2578,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",

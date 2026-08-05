@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5980,
-  "medianPrice": 11602,
+  "medianPrice": 11772,
   "reviewAvgMean": 4.41,
   "pricedCount": 22
  },
@@ -150,7 +150,7 @@
    "hotelNo": 192958,
    "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
    "kana": "フォレストグランピングリゾートイツ「イツ」",
-   "minCharge": 19688,
+   "minCharge": 21263,
    "reviewAverage": 4.5,
    "reviewCount": 6,
    "access": "那須塩原駅よりお車で約３０分。フォレストリゾート『ホテルグリーンパール那須』がすぐ近く！",
@@ -218,7 +218,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 15580,
+   "minCharge": 17297,
    "reviewAverage": 4.44,
    "reviewCount": 9,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",
@@ -286,7 +286,7 @@
    "hotelNo": 184489,
    "name": "那須温泉グランピング　Ｎｅｎｎ（ネン）",
    "kana": "なすおんせんぐらんぴんぐ　ねん",
-   "minCharge": 11760,
+   "minCharge": 15960,
    "reviewAverage": 4.32,
    "reviewCount": 207,
    "access": "JR那須塩原駅より車で30分",

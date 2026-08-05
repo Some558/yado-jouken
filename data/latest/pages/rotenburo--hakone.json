@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6550,
-  "medianPrice": 15600,
+  "medianPrice": 16260,
   "reviewAvgMean": 4.41,
   "pricedCount": 69
  },
@@ -99,7 +99,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 20900,
+   "minCharge": 25300,
    "reviewAverage": 4.84,
    "reviewCount": 671,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -167,7 +167,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 14800,
+   "minCharge": 22800,
    "reviewAverage": 4.72,
    "reviewCount": 35,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -218,7 +218,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 8200,
+   "minCharge": 10000,
    "reviewAverage": 4.66,
    "reviewCount": 489,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",

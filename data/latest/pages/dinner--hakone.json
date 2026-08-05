@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5600,
-  "medianPrice": 15500,
+  "medianPrice": 16030,
   "reviewAvgMean": 4.43,
   "pricedCount": 80
  },
@@ -101,7 +101,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 20900,
+   "minCharge": 25300,
    "reviewAverage": 4.84,
    "reviewCount": 671,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -118,7 +118,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 48000,
+   "minCharge": 42250,
    "reviewAverage": 4.82,
    "reviewCount": 61,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -203,7 +203,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 41800,
+   "minCharge": 55000,
    "reviewAverage": 4.74,
    "reviewCount": 142,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -220,7 +220,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 14800,
+   "minCharge": 22800,
    "reviewAverage": 4.72,
    "reviewCount": 35,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",

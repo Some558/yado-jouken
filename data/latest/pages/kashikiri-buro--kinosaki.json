@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 147569,
    "name": "城崎温泉　風月魚匠（ふうげつぎょしょう）",
    "kana": "きのさきおんせん　ふうげつ　ぎょしょう",
-   "minCharge": 13200,
+   "minCharge": 15400,
    "reviewAverage": 4.63,
    "reviewCount": 778,
    "access": "ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい",
@@ -286,7 +286,7 @@
    "hotelNo": 56951,
    "name": "城崎温泉　但馬屋（たじまや）",
    "kana": "きのさきおんせん　たじまや",
-   "minCharge": 18700,
+   "minCharge": 13200,
    "reviewAverage": 4.61,
    "reviewCount": 326,
    "access": "ＪＲ　城崎温泉駅より徒歩１３分, 車　大阪より　中国道→吉川JCT→舞鶴若狭自動車道→春日JCT→北近畿豊岡自動車道",

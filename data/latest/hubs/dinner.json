@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 126,
    "matchRate": 35.4,
    "minPrice": 5600,
-   "medianPrice": 15500,
+   "medianPrice": 16030,
    "reviewAvgMean": 4.43
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 32,
    "matchRate": 20.9,
    "minPrice": 5880,
-   "medianPrice": 12100,
+   "medianPrice": 13460,
    "reviewAvgMean": 4.39
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 76,
    "matchRate": 28.3,
    "minPrice": 4900,
-   "medianPrice": 12090,
+   "medianPrice": 12742,
    "reviewAvgMean": 4.3
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 66,
    "matchRate": 26.4,
    "minPrice": 2500,
-   "medianPrice": 9502,
+   "medianPrice": 10150,
    "reviewAvgMean": 4.37
   },
   {
@@ -66,9 +66,9 @@
    "slug": "dinner--yufuin",
    "matchCount": 108,
    "matchRate": 34.6,
-   "minPrice": 5500,
+   "minPrice": 6050,
    "medianPrice": 17600,
-   "reviewAvgMean": 4.51
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 30,
    "matchRate": 42.9,
    "minPrice": 4980,
-   "medianPrice": 9660,
+   "medianPrice": 10290,
    "reviewAvgMean": 4.25
   },
   {

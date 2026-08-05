@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "facility"
  },
@@ -116,7 +116,7 @@
    "hotelNo": 144510,
    "name": "英国カントリーハウス　ブルックフィールドファーム",
    "kana": "えいこくかんとりーはうす　ぶるっくふぃーるどふぁーむ",
-   "minCharge": 14000,
+   "minCharge": 13000,
    "reviewAverage": 4.78,
    "reviewCount": 108,
    "access": "那須ICより１５分、那須高原スマートICより８分。電車：JR東北本線・黒田原駅よりタクシー８分。",

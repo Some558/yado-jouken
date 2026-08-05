@@ -9,21 +9,21 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 75,
-  "matchRate": 83.3,
+  "matchCount": 74,
+  "matchRate": 82.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6600,
-  "medianPrice": 16750,
-  "reviewAvgMean": 4.47,
+  "minPrice": 6562,
+  "medianPrice": 17050,
+  "reviewAvgMean": 4.48,
   "pricedCount": 74
  },
  "hotels": [
@@ -320,7 +320,7 @@
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 7875,
+   "minCharge": 6562,
    "reviewAverage": 4.75,
    "reviewCount": 61,
    "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",
@@ -368,5 +368,5 @@
    "special": "2023年春リニューアルOPEN！湯の坪街道にほど近い湯布院の街中で、静かにペットと泊まれる温泉宿"
   }
  ],
- "listedMatchCount": 75
+ "listedMatchCount": 74
 }

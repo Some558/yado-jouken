@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-05",
+ "dataAsOf": "2026-08-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -339,7 +339,7 @@
    "hotelNo": 15880,
    "name": "道後温泉　にぎたつ会館",
    "kana": "どうごおんせん　にぎたつかいかん",
-   "minCharge": 4800,
+   "minCharge": 7000,
    "reviewAverage": 4.03,
    "reviewCount": 1677,
    "access": "ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手",
