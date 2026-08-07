@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "recordCount": 158,
  "conditions": [
   {
@@ -194,6 +194,24 @@
    ]
   },
   {
+   "hotelNo": 20010,
+   "name": "竹野浜　宿　福田屋",
+   "kana": "たけのはま　やど　ふくだや",
+   "minCharge": 16000,
+   "reviewAverage": 4.9,
+   "reviewCount": 80,
+   "access": "ＪＲ竹野駅より送迎あり(要予約)／舞鶴若狭道→北近畿豊岡自動車道・但馬空港ＩＣ→国道Ｒ１７８→県道１号線→竹野浜へ",
+   "address1": "兵庫県",
+   "address2": "豊岡市竹野町竹野416-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20010",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20010%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20010",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20010.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20010/20010.jpg",
+   "special": "竹野浜まで徒歩５分★料理自慢の小さなお宿★お料理重視のお客様に大好評★個室食でのんびり",
+   "conditions": []
+  },
+  {
    "hotelNo": 79381,
    "name": "城崎温泉　料理旅館　よしはる",
    "kana": "きのさきおんせん　りょうりりょかん　よしはる",
@@ -217,28 +235,10 @@
    ]
   },
   {
-   "hotelNo": 20010,
-   "name": "竹野浜　宿　福田屋",
-   "kana": "たけのはま　やど　ふくだや",
-   "minCharge": 18000,
-   "reviewAverage": 4.9,
-   "reviewCount": 80,
-   "access": "ＪＲ竹野駅より送迎あり(要予約)／舞鶴若狭道→北近畿豊岡自動車道・但馬空港ＩＣ→国道Ｒ１７８→県道１号線→竹野浜へ",
-   "address1": "兵庫県",
-   "address2": "豊岡市竹野町竹野416-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20010",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20010%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20010",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20010.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20010/20010.jpg",
-   "special": "竹野浜まで徒歩５分★料理自慢の小さなお宿★お料理重視のお客様に大好評★個室食でのんびり",
-   "conditions": []
-  },
-  {
    "hotelNo": 153522,
    "name": "リバーサイドＭＡＲＵＹＡＭＡ（まるやま荘）",
    "kana": "りばーさいどまるやま（まるやまそう）",
-   "minCharge": 13000,
+   "minCharge": 19000,
    "reviewAverage": 4.88,
    "reviewCount": 14,
    "access": "城崎温泉駅よりお車にて約５分（送迎バス有り）",
@@ -1194,7 +1194,7 @@
    "hotelNo": 147860,
    "name": "はまや旅館　＜兵庫県＞",
    "kana": "はまやりょかん",
-   "minCharge": 5500,
+   "minCharge": 6600,
    "reviewAverage": 4.4,
    "reviewCount": 22,
    "access": "ＪＲ　竹野駅よりお車にて約５分",

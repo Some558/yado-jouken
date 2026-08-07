@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 135,
    "matchRate": 37.9,
    "minPrice": 5600,
-   "medianPrice": 16260,
+   "medianPrice": 15800,
    "reviewAvgMean": 4.42
   },
   {
@@ -52,7 +52,7 @@
    },
    "slug": "onsen--beppu",
    "matchCount": 85,
-   "matchRate": 34.0,
+   "matchRate": 33.9,
    "minPrice": 2350,
    "medianPrice": 8800,
    "reviewAvgMean": 4.39
@@ -65,9 +65,9 @@
    },
    "slug": "onsen--yufuin",
    "matchCount": 130,
-   "matchRate": 41.7,
+   "matchRate": 41.3,
    "minPrice": 4032,
-   "medianPrice": 16900,
+   "medianPrice": 16500,
    "reviewAvgMean": 4.5
   },
   {

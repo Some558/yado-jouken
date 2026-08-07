@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6600,
-  "medianPrice": 17050,
+  "minPrice": 5000,
+  "medianPrice": 16125,
   "reviewAvgMean": 4.48,
   "pricedCount": 74
  },
@@ -320,7 +320,7 @@
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 7875,
+   "minCharge": 9625,
    "reviewAverage": 4.75,
    "reviewCount": 61,
    "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",

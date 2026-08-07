@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 190540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　箱根小涌谷",
    "kana": null,
-   "minCharge": 9350,
+   "minCharge": 8500,
    "reviewAverage": 4.4,
    "reviewCount": 129,
    "access": "箱根登山鉄道　小涌谷駅から徒歩で約5分",
@@ -235,7 +235,7 @@
    "hotelNo": 161012,
    "name": "リブマックスリゾート箱根芦ノ湖",
    "kana": "りぶまっくすりぞーとはこねあしのこ",
-   "minCharge": 8000,
+   "minCharge": 9000,
    "reviewAverage": 3.54,
    "reviewCount": 563,
    "access": "ＪＲ「小田原駅」よりお車にて約46分　伊豆箱根バス「大石バス停」から徒歩１分",

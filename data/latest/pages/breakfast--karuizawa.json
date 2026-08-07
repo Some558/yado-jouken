@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4500,
-  "medianPrice": 14000,
+  "medianPrice": 13680,
   "reviewAvgMean": 4.4,
   "pricedCount": 37
  },
@@ -33,7 +33,7 @@
    "hotelNo": 199017,
    "name": "ホテルルートインＧｒａｎｄ佐久－佐久平駅南－",
    "kana": "ほてるるーといんぐらんどさく　さくだいらえきみなみ",
-   "minCharge": 6800,
+   "minCharge": 6525,
    "reviewAverage": 4.9,
    "reviewCount": 10,
    "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久中佐都ICから車で約5分",
@@ -67,7 +67,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 14805,
+   "minCharge": 13680,
    "reviewAverage": 4.73,
    "reviewCount": 127,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -169,7 +169,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 30418,
+   "minCharge": 28864,
    "reviewAverage": 4.69,
    "reviewCount": 199,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",

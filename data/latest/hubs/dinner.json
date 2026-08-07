@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 126,
    "matchRate": 35.4,
    "minPrice": 5600,
-   "medianPrice": 16580,
+   "medianPrice": 16030,
    "reviewAvgMean": 4.43
   },
   {
@@ -40,7 +40,7 @@
    "slug": "dinner--atami",
    "matchCount": 76,
    "matchRate": 28.3,
-   "minPrice": 4900,
+   "minPrice": 4000,
    "medianPrice": 13725,
    "reviewAvgMean": 4.3
   },
@@ -52,7 +52,7 @@
    },
    "slug": "dinner--beppu",
    "matchCount": 66,
-   "matchRate": 26.4,
+   "matchRate": 26.3,
    "minPrice": 2350,
    "medianPrice": 9900,
    "reviewAvgMean": 4.37
@@ -65,8 +65,8 @@
    },
    "slug": "dinner--yufuin",
    "matchCount": 108,
-   "matchRate": 34.6,
-   "minPrice": 6050,
+   "matchRate": 34.3,
+   "minPrice": 5000,
    "medianPrice": 17600,
    "reviewAvgMean": 4.52
   },
@@ -104,7 +104,7 @@
    },
    "slug": "dinner--nasu",
    "matchCount": 69,
-   "matchRate": 20.1,
+   "matchRate": 20.0,
    "minPrice": 3980,
    "medianPrice": 11445,
    "reviewAvgMean": 4.39

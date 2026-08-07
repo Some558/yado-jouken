@@ -4,8 +4,8 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-07",
- "recordCount": 344,
+ "dataAsOf": "2026-08-08",
+ "recordCount": 345,
  "conditions": [
   {
    "condition": "onsen",
@@ -799,7 +799,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 8800,
+   "minCharge": 9350,
    "reviewAverage": 4.57,
    "reviewCount": 488,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",
@@ -975,6 +975,26 @@
    ]
   },
   {
+   "hotelNo": 192958,
+   "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
+   "kana": "フォレストグランピングリゾートイツ「イツ」",
+   "minCharge": 18533,
+   "reviewAverage": 4.5,
+   "reviewCount": 6,
+   "access": "那須塩原駅よりお車で約３０分。フォレストリゾート『ホテルグリーンパール那須』がすぐ近く！",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本213-333",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192958",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192958%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192958",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192958.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192958/192958.jpg",
+   "special": "総客室数５室のプライベート重視のグランピング施設！トイレや浴室も隣接ＢＢＱハウス兼水回り棟に常設！",
+   "conditions": [
+    "sauna"
+   ]
+  },
+  {
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
@@ -995,26 +1015,6 @@
     "breakfast",
     "dinner",
     "pet-ok"
-   ]
-  },
-  {
-   "hotelNo": 192958,
-   "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
-   "kana": "フォレストグランピングリゾートイツ「イツ」",
-   "minCharge": 21263,
-   "reviewAverage": 4.5,
-   "reviewCount": 6,
-   "access": "那須塩原駅よりお車で約３０分。フォレストリゾート『ホテルグリーンパール那須』がすぐ近く！",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本213-333",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192958",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192958%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192958",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192958.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192958/192958.jpg",
-   "special": "総客室数５室のプライベート重視のグランピング施設！トイレや浴室も隣接ＢＢＱハウス兼水回り棟に常設！",
-   "conditions": [
-    "sauna"
    ]
   },
   {

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 66,
-  "matchRate": 26.4,
+  "matchRate": 26.3,
   "denominator": {
    "type": "area_total",
-   "value": 250,
+   "value": 251,
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2350,

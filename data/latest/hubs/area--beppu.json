@@ -4,8 +4,8 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-07",
- "recordCount": 250,
+ "dataAsOf": "2026-08-08",
+ "recordCount": 251,
  "conditions": [
   {
    "condition": "onsen",
@@ -1674,7 +1674,7 @@
    "hotelNo": 8725,
    "name": "ホテル　サンバリー　アネックス",
    "kana": "ほてる　さんばりー　あねっくす",
-   "minCharge": 4207,
+   "minCharge": 4070,
    "reviewAverage": 4.12,
    "reviewCount": 1963,
    "access": "別府駅より車で10分（無料送迎有）／別府大学駅より徒歩15分／福岡発着高速バス停（横断道路観光港入口）より徒歩3分",
@@ -1766,7 +1766,7 @@
    "hotelNo": 5730,
    "name": "ビジネスホテル　スター",
    "kana": "すたー",
-   "minCharge": 3200,
+   "minCharge": 3300,
    "reviewAverage": 4.06,
    "reviewCount": 892,
    "access": "◆別府駅西口一分◆別府インターから車で１０分！ビジネス・観光の拠点に便利。駐車場無料。",
@@ -1833,7 +1833,7 @@
    "hotelNo": 136026,
    "name": "別府温泉　わんこの宿　ゆるり",
    "kana": "べっぷおんせん　わんこのやど　ゆるり",
-   "minCharge": 15015,
+   "minCharge": 13860,
    "reviewAverage": 4.04,
    "reviewCount": 171,
    "access": "別府駅よりお車にて約２０分",

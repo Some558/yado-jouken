@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7875,
-  "medianPrice": 10145,
+  "minPrice": 8784,
+  "medianPrice": 10207,
   "reviewAvgMean": 4.5,
   "pricedCount": 10
  },
@@ -65,7 +65,7 @@
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 7875,
+   "minCharge": 9625,
    "reviewAverage": 4.75,
    "reviewCount": 61,
    "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",
@@ -99,7 +99,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 9216,
+   "minCharge": 8784,
    "reviewAverage": 4.63,
    "reviewCount": 145,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -116,7 +116,7 @@
    "hotelNo": 187963,
    "name": "ＥＮＯＷＡ　ＹＵＦＵＩＮ",
    "kana": "えのわ　ゆふいん",
-   "minCharge": 40945,
+   "minCharge": 38500,
    "reviewAverage": 4.56,
    "reviewCount": 12,
    "access": "由布院駅よりお車にて約5分",

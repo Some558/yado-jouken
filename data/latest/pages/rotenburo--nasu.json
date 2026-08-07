@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "facility"
  },
@@ -320,7 +320,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 8800,
+   "minCharge": 9350,
    "reviewAverage": 4.57,
    "reviewCount": 488,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",

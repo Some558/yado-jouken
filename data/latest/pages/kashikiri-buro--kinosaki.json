@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 153522,
    "name": "リバーサイドＭＡＲＵＹＡＭＡ（まるやま荘）",
    "kana": "りばーさいどまるやま（まるやまそう）",
-   "minCharge": 13000,
+   "minCharge": 19000,
    "reviewAverage": 4.88,
    "reviewCount": 14,
    "access": "城崎温泉駅よりお車にて約５分（送迎バス有り）",

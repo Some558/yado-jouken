@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -33,7 +33,7 @@
    "hotelNo": 199017,
    "name": "ホテルルートインＧｒａｎｄ佐久－佐久平駅南－",
    "kana": "ほてるるーといんぐらんどさく　さくだいらえきみなみ",
-   "minCharge": 6800,
+   "minCharge": 6525,
    "reviewAverage": 4.9,
    "reviewCount": 10,
    "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久中佐都ICから車で約5分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -23,7 +23,7 @@
    "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 4900,
+  "minPrice": 4000,
   "medianPrice": 13725,
   "reviewAvgMean": 4.3,
   "pricedCount": 62
@@ -133,9 +133,9 @@
   },
   {
    "hotelNo": 197709,
-   "name": "熱海温泉　熱海　ホテル渚館",
-   "kana": "あたみおんせん　あたみ　なぎさかん",
-   "minCharge": 17160,
+   "name": "熱海　ホテル渚館",
+   "kana": "あたみ　ほてるなぎさかん",
+   "minCharge": 14160,
    "reviewAverage": 4.63,
    "reviewCount": 52,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -186,7 +186,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 23100,
+   "minCharge": 18810,
    "reviewAverage": 4.61,
    "reviewCount": 317,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",

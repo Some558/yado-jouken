@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-07",
+ "dataAsOf": "2026-08-08",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4200,
+  "minPrice": 3700,
   "medianPrice": 13500,
   "reviewAvgMean": 4.45,
   "pricedCount": 22
@@ -184,7 +184,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 6035,
+   "minCharge": 5060,
    "reviewAverage": 4.61,
    "reviewCount": 773,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -218,7 +218,7 @@
    "hotelNo": 129421,
    "name": "布引温泉　こもろ",
    "kana": "ぬのびきおんせん　こもろ",
-   "minCharge": 5800,
+   "minCharge": 6200,
    "reviewAverage": 4.48,
    "reviewCount": 160,
    "access": "小諸駅よりお車で７分",
@@ -286,7 +286,7 @@
    "hotelNo": 50768,
    "name": "アクアホテルアネックス（旧：アクアホテル佐久平）",
    "kana": "あくあほてるあねっくす　きゅう　あくあほてるさくだいら",
-   "minCharge": 5695,
+   "minCharge": 5300,
    "reviewAverage": 4.34,
    "reviewCount": 2164,
    "access": "北陸新幹線　佐久平駅浅間口より徒歩約1分",
@@ -354,7 +354,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 4200,
+   "minCharge": 3700,
    "reviewAverage": 3.97,
    "reviewCount": 2435,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",
