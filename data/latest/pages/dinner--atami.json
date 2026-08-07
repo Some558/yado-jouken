@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4900,
-  "medianPrice": 12742,
+  "medianPrice": 13725,
   "reviewAvgMean": 4.3,
   "pricedCount": 62
  },
@@ -203,7 +203,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 15312,
+   "minCharge": 20125,
    "reviewAverage": 4.58,
    "reviewCount": 312,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -271,7 +271,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 13200,
+   "minCharge": 14399,
    "reviewAverage": 4.55,
    "reviewCount": 1072,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -305,7 +305,7 @@
    "hotelNo": 75291,
    "name": "熱海倶楽部　迎賓館",
    "kana": "あたみくらぶ　げいひんかん",
-   "minCharge": 36300,
+   "minCharge": 33000,
    "reviewAverage": 4.55,
    "reviewCount": 4391,
    "access": "熱海駅より車で約８分。タクシーでお越しの場合は「熱海ゴルフ倶楽部」とお伝え下さい。",

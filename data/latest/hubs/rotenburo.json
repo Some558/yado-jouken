@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 69,
    "matchRate": 76.7,
    "minPrice": 6550,
-   "medianPrice": 16260,
+   "medianPrice": 16900,
    "reviewAvgMean": 4.41
   },
   {
@@ -40,7 +40,7 @@
    "slug": "rotenburo--atami",
    "matchCount": 63,
    "matchRate": 70.0,
-   "minPrice": 5000,
+   "minPrice": 5650,
    "medianPrice": 12100,
    "reviewAvgMean": 4.33
   },
@@ -66,7 +66,7 @@
    "slug": "rotenburo--yufuin",
    "matchCount": 74,
    "matchRate": 82.2,
-   "minPrice": 6562,
+   "minPrice": 6600,
    "medianPrice": 17050,
    "reviewAvgMean": 4.48
   },
@@ -93,7 +93,7 @@
    "matchCount": 36,
    "matchRate": 51.4,
    "minPrice": 4620,
-   "medianPrice": 10080,
+   "medianPrice": 10450,
    "reviewAvgMean": 4.23
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 52,
    "matchRate": 57.8,
    "minPrice": 2730,
-   "medianPrice": 11222,
+   "medianPrice": 11470,
    "reviewAvgMean": 4.41
   },
   {

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -116,7 +116,7 @@
    "hotelNo": 196141,
    "name": "グランディスタイル旧軽井沢ホテル＆リゾート",
    "kana": "ぐらんでぃすたいるきゅうかるいざわほてるあんどりぞーと",
-   "minCharge": 25300,
+   "minCharge": 24915,
    "reviewAverage": 4.71,
    "reviewCount": 180,
    "access": "軽井沢駅より車で約５分",
@@ -133,7 +133,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 30014,
+   "minCharge": 30418,
    "reviewAverage": 4.69,
    "reviewCount": 199,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -218,7 +218,7 @@
    "hotelNo": 74000,
    "name": "ホテルハーヴェスト旧軽井沢",
    "kana": "はーヴぇすときゅうかるいざわ",
-   "minCharge": 27800,
+   "minCharge": 29700,
    "reviewAverage": 4.56,
    "reviewCount": 1141,
    "access": "軽井沢駅より徒歩11分",

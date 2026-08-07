@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 129,
    "matchRate": 36.2,
    "minPrice": 5600,
-   "medianPrice": 16260,
+   "medianPrice": 16900,
    "reviewAvgMean": 4.43
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 85,
    "matchRate": 31.6,
    "minPrice": 3500,
-   "medianPrice": 12285,
+   "medianPrice": 13700,
    "reviewAvgMean": 4.29
   },
   {
@@ -53,7 +53,7 @@
    "slug": "breakfast--beppu",
    "matchCount": 78,
    "matchRate": 31.2,
-   "minPrice": 2500,
+   "minPrice": 2350,
    "medianPrice": 9502,
    "reviewAvgMean": 4.37
   },
@@ -80,7 +80,7 @@
    "matchCount": 53,
    "matchRate": 33.5,
    "minPrice": 5000,
-   "medianPrice": 13000,
+   "medianPrice": 12540,
    "reviewAvgMean": 4.46
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 34,
    "matchRate": 48.6,
    "minPrice": 4980,
-   "medianPrice": 9660,
+   "medianPrice": 9870,
    "reviewAvgMean": 4.25
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 78,
    "matchRate": 22.7,
    "minPrice": 3980,
-   "medianPrice": 10575,
+   "medianPrice": 11222,
    "reviewAvgMean": 4.38
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 48,
    "matchRate": 26.7,
    "minPrice": 1850,
-   "medianPrice": 5700,
+   "medianPrice": 5550,
    "reviewAvgMean": 4.3
   }
  ]

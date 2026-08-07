@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5000,
-  "medianPrice": 10680,
+  "minPrice": 5650,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.32,
   "pricedCount": 29
  },
@@ -150,7 +150,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 13200,
+   "minCharge": 14399,
    "reviewAverage": 4.55,
    "reviewCount": 1072,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -303,7 +303,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 9900,
+   "minCharge": 11000,
    "reviewAverage": 4.2,
    "reviewCount": 446,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
@@ -337,7 +337,7 @@
    "hotelNo": 27985,
    "name": "熱海温泉　旅の宿　かみむら",
    "kana": "あたみおんせん　たびのやど　かみむら",
-   "minCharge": 17180,
+   "minCharge": 14610,
    "reviewAverage": 4.16,
    "reviewCount": 162,
    "access": "ＪＲ熱海駅下車タクシー８分（送迎有り・要予約）",
@@ -348,7 +348,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D27985",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/27985.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27985/27985.jpg",
-   "special": "客室8室の小さなお宿です。お湯とおもてなしとお料理にまごころを込めて。"
+   "special": "クーポン発行中！伊豆の旬料理と源泉かけ流しを満喫♪6室の小宿です。"
   },
   {
    "hotelNo": 68189,

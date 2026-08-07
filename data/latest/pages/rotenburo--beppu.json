@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -235,7 +235,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 22770,
+   "minCharge": 19354,
    "reviewAverage": 4.61,
    "reviewCount": 680,
    "access": "別府大学駅より徒歩１０分",
@@ -320,7 +320,7 @@
    "hotelNo": 38409,
    "name": "別府温泉　眺望の宿　しおり",
    "kana": "べっぷおんせん　ちょうぼうのやど　しおり",
-   "minCharge": 19635,
+   "minCharge": 20570,
    "reviewAverage": 4.58,
    "reviewCount": 902,
    "access": "別府駅から車で10分（別府駅から送迎あり）☆別府ICから車で10分☆大分空港から車で40分（専用道路ご利用の場合）",
@@ -354,7 +354,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7287,
+   "minCharge": 6625,
    "reviewAverage": 4.54,
    "reviewCount": 633,
    "access": "別府駅東口より徒歩約1分！",

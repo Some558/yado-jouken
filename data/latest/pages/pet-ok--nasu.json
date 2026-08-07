@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3980,
-  "medianPrice": 8810,
+  "medianPrice": 9175,
   "reviewAvgMean": 4.47,
   "pricedCount": 26
  },
@@ -167,7 +167,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 8500,
+   "minCharge": 8000,
    "reviewAverage": 4.6,
    "reviewCount": 65,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -218,7 +218,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 17000,
+   "minCharge": 20000,
    "reviewAverage": 4.5,
    "reviewCount": 62,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -354,7 +354,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 5440,
+   "minCharge": 7040,
    "reviewAverage": 4.3,
    "reviewCount": 483,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",

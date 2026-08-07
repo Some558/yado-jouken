@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4620,
-  "medianPrice": 10080,
+  "medianPrice": 10450,
   "reviewAvgMean": 4.23,
   "pricedCount": 33
  },
@@ -337,7 +337,7 @@
    "hotelNo": 38250,
    "name": "伊香保温泉　如心の里　ひびき野",
    "kana": "じょしんのさと　ひびきの",
-   "minCharge": 12100,
+   "minCharge": 11550,
    "reviewAverage": 4.2,
    "reviewCount": 2599,
    "access": "JR上越線「渋川駅」よりバスまたはタクシーで15分",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-08",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,
-  "medianPrice": 15950,
+  "medianPrice": 16300,
   "reviewAvgMean": 4.4,
   "pricedCount": 28
  },
@@ -84,7 +84,7 @@
    "hotelNo": 158617,
    "name": "由布院温泉　ゆふいん宿　清孔苑",
    "kana": "ゆふいんやど　せいこうえん",
-   "minCharge": 14000,
+   "minCharge": 15000,
    "reviewAverage": 4.83,
    "reviewCount": 242,
    "access": "由布院駅よりお車にて約５分",
@@ -271,7 +271,7 @@
    "hotelNo": 32476,
    "name": "由布院温泉　湯布院　山灯館",
    "kana": "ゆふいんおんせん　ゆふいん　さんとうかん",
-   "minCharge": 11300,
+   "minCharge": 11900,
    "reviewAverage": 4.45,
    "reviewCount": 54,
    "access": "JR　由布院駅より車で５分　徒歩で１５分　金鱗湖に近く　ショッピング湯の坪街道に便利な立地",
@@ -305,7 +305,7 @@
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
-   "minCharge": 20900,
+   "minCharge": 19800,
    "reviewAverage": 4.34,
    "reviewCount": 344,
    "access": "ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分",

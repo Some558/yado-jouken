@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 29249,
    "name": "軽井沢プリンスホテル　ウエスト",
    "kana": "かるいざわ　ぷりんす　うえすと",
-   "minCharge": 9762,
+   "minCharge": 9472,
    "reviewAverage": 4.31,
    "reviewCount": 2928,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",

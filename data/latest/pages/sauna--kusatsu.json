@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "detection": {
   "type": "facility"
  },
@@ -184,7 +184,7 @@
    "hotelNo": 181654,
    "name": "和える宿　高松",
    "kana": "あえるやど　たかまつ",
-   "minCharge": 13750,
+   "minCharge": 13200,
    "reviewAverage": 4.18,
    "reviewCount": 596,
    "access": "JR吾妻線長野原草津口駅より路線バスで約30分",

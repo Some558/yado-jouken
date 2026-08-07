@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "recordCount": 344,
  "conditions": [
   {
@@ -58,7 +58,7 @@
    "hotelNo": 196307,
    "name": "ＳＡＮＵ　２ｎｄ　Ｈｏｍｅ　那須２ｎｄ",
    "kana": "さぬ　せかんど　ほーむ　なす　せかんど",
-   "minCharge": 17050,
+   "minCharge": 16473,
    "reviewAverage": 5.0,
    "reviewCount": 6,
    "access": "那須塩原駅から車／レンタカーで約４５分",
@@ -559,31 +559,6 @@
    ]
   },
   {
-   "hotelNo": 56935,
-   "name": "那須温泉山楽",
-   "kana": "なすおんせん　さんらく",
-   "minCharge": 25300,
-   "reviewAverage": 4.64,
-   "reviewCount": 386,
-   "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本206",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D56935",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D56935%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D56935",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56935.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56935/56935.jpg",
-   "special": "五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけるお宿です",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
    "hotelNo": 167342,
    "name": "ＴＨＥ　ＫＥＹ　ＨＩＧＨＬＡＮＤ　ＮＡＳＵ",
    "kana": "ざ　きー　はいらんど　なす",
@@ -607,6 +582,31 @@
     "dinner",
     "rotenburo",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 56935,
+   "name": "那須温泉山楽",
+   "kana": "なすおんせん　さんらく",
+   "minCharge": 31350,
+   "reviewAverage": 4.64,
+   "reviewCount": 386,
+   "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本206",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D56935",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D56935%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D56935",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56935.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56935/56935.jpg",
+   "special": "五感で四季を感じられる会席料理と大露天風呂。日本情緒あふれる純和風のご滞在をご満喫いただけるお宿です",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo"
    ]
   },
   {
@@ -712,7 +712,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 8500,
+   "minCharge": 8000,
    "reviewAverage": 4.6,
    "reviewCount": 65,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -753,7 +753,7 @@
    "hotelNo": 16139,
    "name": "カントリーハウス　パディントン＜栃木県＞",
    "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
-   "minCharge": 6000,
+   "minCharge": 8800,
    "reviewAverage": 4.59,
    "reviewCount": 1306,
    "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
@@ -978,7 +978,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 17000,
+   "minCharge": 20000,
    "reviewAverage": 4.5,
    "reviewCount": 62,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -1432,7 +1432,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 5440,
+   "minCharge": 7040,
    "reviewAverage": 4.3,
    "reviewCount": 483,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",
@@ -1525,7 +1525,7 @@
    "hotelNo": 79376,
    "name": "アニマーレ　プレミアム　ｉｎ　那須",
    "kana": "あにまーれ　ぷれみあむ　いん　なす",
-   "minCharge": 8621,
+   "minCharge": 11495,
    "reviewAverage": 4.27,
    "reviewCount": 408,
    "access": "JR黒磯駅より「那須湯本行」バスにて「友愛の森」下車（送迎有り・要予約）",

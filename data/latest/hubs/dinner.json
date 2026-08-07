@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-08-06",
+ "dataAsOf": "2026-08-07",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 126,
    "matchRate": 35.4,
    "minPrice": 5600,
-   "medianPrice": 16030,
+   "medianPrice": 16580,
    "reviewAvgMean": 4.43
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 76,
    "matchRate": 28.3,
    "minPrice": 4900,
-   "medianPrice": 12742,
+   "medianPrice": 13725,
    "reviewAvgMean": 4.3
   },
   {
@@ -53,8 +53,8 @@
    "slug": "dinner--beppu",
    "matchCount": 66,
    "matchRate": 26.4,
-   "minPrice": 2500,
-   "medianPrice": 10150,
+   "minPrice": 2350,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.37
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 48,
    "matchRate": 30.4,
    "minPrice": 5200,
-   "medianPrice": 13200,
+   "medianPrice": 13000,
    "reviewAvgMean": 4.46
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 30,
    "matchRate": 42.9,
    "minPrice": 4980,
-   "medianPrice": 10290,
+   "medianPrice": 10500,
    "reviewAvgMean": 4.25
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 69,
    "matchRate": 20.1,
    "minPrice": 3980,
-   "medianPrice": 11000,
+   "medianPrice": 11445,
    "reviewAvgMean": 4.39
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 23,
    "matchRate": 8.3,
    "minPrice": 4500,
-   "medianPrice": 18120,
+   "medianPrice": 18388,
    "reviewAvgMean": 4.44
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 24,
    "matchRate": 13.3,
    "minPrice": 2800,
-   "medianPrice": 11575,
+   "medianPrice": 11125,
    "reviewAvgMean": 4.38
   }
  ]
