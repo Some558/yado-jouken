@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-08-08",
+ "dataAsOf": "2026-08-09",
  "areas": [
   {
    "area": {
@@ -12,10 +12,10 @@
     "officialName": "箱根"
    },
    "slug": "dinner--hakone",
-   "matchCount": 126,
-   "matchRate": 35.4,
+   "matchCount": 145,
+   "matchRate": 40.7,
    "minPrice": 5600,
-   "medianPrice": 16030,
+   "medianPrice": 15800,
    "reviewAvgMean": 4.43
   },
   {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "dinner--kusatsu",
-   "matchCount": 32,
-   "matchRate": 20.9,
-   "minPrice": 5880,
-   "medianPrice": 13460,
-   "reviewAvgMean": 4.39
+   "matchCount": 44,
+   "matchRate": 28.8,
+   "minPrice": 4490,
+   "medianPrice": 12400,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -38,10 +38,10 @@
     "officialName": "熱海"
    },
    "slug": "dinner--atami",
-   "matchCount": 76,
-   "matchRate": 28.3,
+   "matchCount": 90,
+   "matchRate": 33.5,
    "minPrice": 4000,
-   "medianPrice": 13725,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.3
   },
   {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "dinner--beppu",
-   "matchCount": 66,
-   "matchRate": 26.3,
-   "minPrice": 2350,
-   "medianPrice": 9900,
-   "reviewAvgMean": 4.37
+   "matchCount": 73,
+   "matchRate": 29.1,
+   "minPrice": 1500,
+   "medianPrice": 9845,
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "dinner--yufuin",
-   "matchCount": 108,
-   "matchRate": 34.3,
-   "minPrice": 5000,
+   "matchCount": 110,
+   "matchRate": 34.9,
+   "minPrice": 3290,
    "medianPrice": 17600,
-   "reviewAvgMean": 4.52
+   "reviewAvgMean": 4.53
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "dinner--kinosaki",
-   "matchCount": 48,
-   "matchRate": 30.4,
-   "minPrice": 5200,
-   "medianPrice": 13000,
-   "reviewAvgMean": 4.46
+   "matchCount": 54,
+   "matchRate": 34.2,
+   "minPrice": 5005,
+   "medianPrice": 12100,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -90,11 +90,11 @@
     "officialName": "伊香保温泉・渋川"
    },
    "slug": "dinner--ikaho",
-   "matchCount": 30,
-   "matchRate": 42.9,
+   "matchCount": 37,
+   "matchRate": 52.9,
    "minPrice": 4980,
    "medianPrice": 10500,
-   "reviewAvgMean": 4.25
+   "reviewAvgMean": 4.23
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "dinner--nasu",
-   "matchCount": 69,
-   "matchRate": 20.0,
-   "minPrice": 3980,
-   "medianPrice": 11445,
-   "reviewAvgMean": 4.39
+   "matchCount": 99,
+   "matchRate": 28.7,
+   "minPrice": 2730,
+   "medianPrice": 11497,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "dinner--karuizawa",
-   "matchCount": 23,
-   "matchRate": 8.3,
-   "minPrice": 4500,
-   "medianPrice": 18388,
-   "reviewAvgMean": 4.44
+   "matchCount": 47,
+   "matchRate": 16.9,
+   "minPrice": 4598,
+   "medianPrice": 13450,
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "dinner--dogo",
-   "matchCount": 24,
-   "matchRate": 13.3,
+   "matchCount": 33,
+   "matchRate": 18.3,
    "minPrice": 2800,
-   "medianPrice": 11125,
-   "reviewAvgMean": 4.38
+   "medianPrice": 9350,
+   "reviewAvgMean": 4.34
   }
  ]
 }

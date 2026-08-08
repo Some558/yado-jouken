@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-08",
+ "dataAsOf": "2026-08-09",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 4980,
   "medianPrice": 8550,
-  "reviewAvgMean": 3.97,
+  "reviewAvgMean": 3.96,
   "pricedCount": 4
  },
  "hotels": [
@@ -32,8 +32,8 @@
    "name": "伊香保温泉　Ｄｏｇｇｙスイート　ペロ",
    "kana": "イカホオンセンドギースイートペロ",
    "minCharge": 27300,
-   "reviewAverage": 4.76,
-   "reviewCount": 60,
+   "reviewAverage": 4.7,
+   "reviewCount": 61,
    "access": "関越自動車道渋川ＩＣよりお車で約３０分",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保166-3",
@@ -49,8 +49,8 @@
    "name": "フォレストリゾート　コニファーいわびつ",
    "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
    "minCharge": 10500,
-   "reviewAverage": 4.18,
-   "reviewCount": 405,
+   "reviewAverage": 4.21,
+   "reviewCount": 407,
    "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
    "address1": "群馬県",
    "address2": "吾妻郡東吾妻町原町4399",
@@ -84,7 +84,7 @@
    "kana": "いかほおんせん　きむら",
    "minCharge": 6600,
    "reviewAverage": 3.74,
-   "reviewCount": 2024,
+   "reviewCount": 2032,
    "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保557-32",
@@ -100,7 +100,7 @@
    "name": "伊香保温泉　ホテルいかほ銀水",
    "kana": "いかほおんせん　いかほぎんすい",
    "minCharge": 4980,
-   "reviewAverage": 3.3,
+   "reviewAverage": 3.27,
    "reviewCount": 326,
    "access": "関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。",
    "address1": "群馬県",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-08",
+ "dataAsOf": "2026-08-09",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 1500,
   "medianPrice": 7630,
-  "reviewAvgMean": 3.99,
+  "reviewAvgMean": 3.98,
   "pricedCount": 4
  },
  "hotels": [
@@ -66,8 +66,8 @@
    "name": "別府温泉　ホテル好楽",
    "kana": "べっぷおんせん　こうらく",
    "minCharge": 4860,
-   "reviewAverage": 3.88,
-   "reviewCount": 701,
+   "reviewAverage": 3.86,
+   "reviewCount": 704,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",
    "address1": "大分県",
    "address2": "別府市北浜3-13-21",
@@ -83,7 +83,7 @@
    "name": "別府駅前　ホテルはやし",
    "kana": "べっぷえきまえ　はやし",
    "minCharge": 1500,
-   "reviewAverage": 3.44,
+   "reviewAverage": 3.43,
    "reviewCount": 1428,
    "access": "別府駅前すぐ",
    "address1": "大分県",

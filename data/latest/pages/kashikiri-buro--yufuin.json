@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-08",
+ "dataAsOf": "2026-08-09",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 4032,
   "medianPrice": 14300,
-  "reviewAvgMean": 4.49,
+  "reviewAvgMean": 4.5,
   "pricedCount": 37
  },
  "hotels": [
@@ -48,7 +48,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 22000,
+   "minCharge": 20000,
    "reviewAverage": 4.96,
    "reviewCount": 378,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",
@@ -181,11 +181,28 @@
    "special": "とろっとろの温泉を楽しめる★源泉100％かけ流しの温泉自慢の宿！"
   },
   {
+   "hotelNo": 106080,
+   "name": "湯布院温泉　御宿　由布乃庄",
+   "kana": "おやど　ゆふのしょう",
+   "minCharge": 23700,
+   "reviewAverage": 4.81,
+   "reviewCount": 617,
+   "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町塚原1009",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D106080",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D106080%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D106080",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/106080.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
+   "special": "夜空の星と二人だけの時間に包まれる高原の離れ宿。露天からの星空は絶景です"
+  },
+  {
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
    "minCharge": 12870,
-   "reviewAverage": 4.82,
+   "reviewAverage": 4.8,
    "reviewCount": 1020,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
    "address1": "大分県",
@@ -196,23 +213,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20590.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20590/20590.jpg",
    "special": "お客様の声☆5つ　人に優しいお宿です"
-  },
-  {
-   "hotelNo": 106080,
-   "name": "湯布院温泉　御宿　由布乃庄",
-   "kana": "おやど　ゆふのしょう",
-   "minCharge": 23700,
-   "reviewAverage": 4.81,
-   "reviewCount": 614,
-   "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町塚原1009",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D106080",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D106080%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D106080",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/106080.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106080/106080.jpg",
-   "special": "夜空の星と二人だけの時間に包まれる高原の離れ宿。露天からの星空は絶景です"
   },
   {
    "hotelNo": 139452,
@@ -253,8 +253,8 @@
    "name": "由布院温泉　山のホテル　夢想園",
    "kana": "やまのほてる　むそうえん",
    "minCharge": 18700,
-   "reviewAverage": 4.75,
-   "reviewCount": 174,
+   "reviewAverage": 4.76,
+   "reviewCount": 175,
    "access": "ＪＲ　由布院駅より車で約５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川南1243",
@@ -271,7 +271,7 @@
    "kana": "ゆふいんおんせん　えのきやりょかん",
    "minCharge": 11088,
    "reviewAverage": 4.73,
-   "reviewCount": 245,
+   "reviewCount": 246,
    "access": "ＪＲ由布院駅より徒歩１３分／大分空港より高速バスで５５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上1086-2",
