@@ -9,22 +9,22 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 29,
-  "matchRate": 32.2,
+  "matchCount": 28,
+  "matchRate": 31.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 7700,
-  "reviewAvgMean": 4.39,
-  "pricedCount": 29
+  "medianPrice": 7600,
+  "reviewAvgMean": 4.38,
+  "pricedCount": 28
  },
  "hotels": [
   {
@@ -77,23 +77,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/41836.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41836/41836.jpg",
    "special": "見晴らしの良い客室と、全室に岩風呂が備わり、鉄輪の名湯を気兼ねなく満喫できます。"
-  },
-  {
-   "hotelNo": 30969,
-   "name": "別府鉄輪温泉　旅館　みゆき屋",
-   "kana": "みゆきや",
-   "minCharge": 7700,
-   "reviewAverage": 4.71,
-   "reviewCount": 188,
-   "access": "別府駅よりタクシーで約１５分／別府ＩＣから約７分※ナビは正確でない場合があります。お電話でお尋ねください。",
-   "address1": "大分県",
-   "address2": "別府市鉄輪東6組",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D30969",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D30969%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D30969",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/30969.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30969/30969.jpg",
-   "special": "名物！蒸し湯も人気♪レトロな空間と心温まるおもてなしが自慢！"
   },
   {
    "hotelNo": 70231,
@@ -150,7 +133,7 @@
    "hotelNo": 38409,
    "name": "別府温泉　眺望の宿　しおり",
    "kana": "べっぷおんせん　ちょうぼうのやど　しおり",
-   "minCharge": 11200,
+   "minCharge": 10100,
    "reviewAverage": 4.59,
    "reviewCount": 903,
    "access": "別府駅から車で10分（別府駅から送迎あり）☆別府ICから車で10分☆大分空港から車で40分（専用道路ご利用の場合）",
@@ -184,7 +167,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6625,
+   "minCharge": 7287,
    "reviewAverage": 4.55,
    "reviewCount": 649,
    "access": "別府駅東口より徒歩約1分！",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8950.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8950/8950.jpg",
    "special": "ハーモニーランドオフィシャルホテル。ラウンジ＆ナイトラウンジ滞在中無料"
+  },
+  {
+   "hotelNo": 107764,
+   "name": "別府鉄輪温泉　ホテル山水館",
+   "kana": "さんすいかん",
+   "minCharge": 11550,
+   "reviewAverage": 4.19,
+   "reviewCount": 238,
+   "access": "ＪＲ　別府駅よりお車にて約１５分、亀の井バスに乗車「朝日」にて下車後、徒歩１分",
+   "address1": "大分県",
+   "address2": "別府市鶴見628-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D107764",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D107764%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D107764",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/107764.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107764/107764.jpg",
+   "special": "木々に囲まれ二連水車の廻る大露天風呂と別府湾や湯煙りの情景を一望できる展望露天風呂が人気"
   }
  ],
- "listedMatchCount": 29
+ "listedMatchCount": 28
 }

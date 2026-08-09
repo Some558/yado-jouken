@@ -9,13 +9,13 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 38,
-  "matchRate": 42.2,
+  "matchCount": 36,
+  "matchRate": 40.0,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -24,7 +24,7 @@
   "minPrice": 6006,
   "medianPrice": 13000,
   "reviewAvgMean": 4.39,
-  "pricedCount": 37
+  "pricedCount": 36
  },
  "hotels": [
   {
@@ -128,23 +128,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/143278.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143278/143278.jpg",
    "special": "マクロビ料理やファスティング。草津の上質な湯で生まれ変わる、心と体。木々のなかのウェルネスリゾート。"
-  },
-  {
-   "hotelNo": 29510,
-   "name": "草津温泉　ペンション　ベルクラント",
-   "kana": "べるくらんと",
-   "minCharge": 6550,
-   "reviewAverage": 4.67,
-   "reviewCount": 39,
-   "access": "JR吾妻線長野原草津口下車、接続バス終点草津温泉バスターミナルから送迎がございます(要事前予約)",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-1075",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29510",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29510%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29510",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29510.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29510/29510.jpg",
-   "special": "【露天風呂完備】草津温泉「万代鉱源泉」掛け流しの温泉とアットホームな雰囲気が心地よい宿"
   },
   {
    "hotelNo": 4904,
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/107756.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107756/107756.jpg",
    "special": "全室温泉露天風呂付きの湯宿。温泉街から離れた高台に佇む湯宿で静かにお過ごしください。"
+  },
+  {
+   "hotelNo": 108587,
+   "name": "草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）",
+   "kana": "くさつおんせん　ゆばたけてんぼうろてんのやど　ぬしゆうりょかん",
+   "minCharge": 10000,
+   "reviewAverage": 4.37,
+   "reviewCount": 538,
+   "access": "長野原草津口駅から草津温泉行きバスで約２０分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町446",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108587",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108587%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108587",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108587.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg",
+   "special": "湯畑が望める源泉掛け流し露天風呂が自慢。草津でも名湯といわれ１０軒の宿しか引いていない「白旗の湯」をご堪能頂けます。"
   }
  ],
- "listedMatchCount": 38
+ "listedMatchCount": 36
 }

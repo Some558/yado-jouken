@@ -9,41 +9,24 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 20,
-  "matchRate": 22.2,
+  "matchCount": 19,
+  "matchRate": 21.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 15933,
-  "reviewAvgMean": 4.48,
-  "pricedCount": 20
+  "medianPrice": 12200,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 19
  },
  "hotels": [
-  {
-   "hotelNo": 192929,
-   "name": "ＧＬＡＭＤＡＹ　ＳＴＹＬＥ　ＨＯＴＥＬ　ＳＵＩＴＥ　山ノ麓",
-   "kana": "グランディスタイル ホテルスイート ヤマノフモト",
-   "minCharge": 22660,
-   "reviewAverage": 5.0,
-   "reviewCount": 6,
-   "access": "軽井沢駅よりお車で約２分、軽井沢ＩＣよりお車で約１５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢字矢ヶ崎山1016-135",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192929",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192929%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192929",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192929.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192929/192929.jpg",
-   "special": "自然あふれる魅力的な１日を過ごす場所　。穏やかに流れる時間。プライバシーを重視した贅沢な空間。"
-  },
   {
    "hotelNo": 153630,
    "name": "ゲストハウス　シャコンヌ軽井沢",
@@ -133,7 +116,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 23100,
+   "minCharge": 22110,
    "reviewAverage": 4.68,
    "reviewCount": 786,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -368,5 +351,5 @@
    "special": "懐古園すぐ横！小諸駅徒歩約5分●軽井沢・上田まで車約35分●"
   }
  ],
- "listedMatchCount": 20
+ "listedMatchCount": 19
 }

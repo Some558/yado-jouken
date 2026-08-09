@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,9 +24,9 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3290,
-  "medianPrice": 17600,
-  "reviewAvgMean": 4.53,
-  "pricedCount": 75
+  "medianPrice": 17725,
+  "reviewAvgMean": 4.55,
+  "pricedCount": 71
  },
  "hotels": [
   {
@@ -132,6 +132,23 @@
    "special": "■２０１８年９月オープン■全室半露天風呂付離れ客室で、それぞれのスタイルでのんびりとご滞在ください"
   },
   {
+   "hotelNo": 30945,
+   "name": "湯平温泉　宿潦ばん屋",
+   "kana": "ゆひらおんせん　しゅくりょうばんや",
+   "minCharge": 7838,
+   "reviewAverage": 4.94,
+   "reviewCount": 212,
+   "access": "大分道「湯布院Ｉ.Ｃ」よりお車で約２０分、ＪＲ久大本線「湯平駅」より車で７～８分程でございます。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町湯平798",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D30945",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D30945%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D30945",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/30945.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30945/30945.jpg",
+   "special": "【大人2名様限定】豊後牛・おばんざい料理・貸切風呂・Wi-Fi完備。石畳の風情溢れる宿 ※お子様不可"
+  },
+  {
    "hotelNo": 130609,
    "name": "湯平温泉　宿彩暁雲荘　源泉掛け流し大人限定宿",
    "kana": "ゆのひらおんせん　しゅくさいぎょううんそう　げんせんかけながしおとなげんていやど",
@@ -147,40 +164,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130609.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130609/130609.jpg",
    "special": "1日3組大人限定宿。源泉掛け流しの内湯付き離れと専用貸切り風呂付き客室で大分郷土料理を食す大人旅"
-  },
-  {
-   "hotelNo": 29253,
-   "name": "ゆのひら　上柳屋",
-   "kana": "ゆのひら　かみやなぎや",
-   "minCharge": 9900,
-   "reviewAverage": 4.87,
-   "reviewCount": 72,
-   "access": "JR久大線 湯平駅よりバス又はタクシーで10分／大分自動車道 湯布院I.Cより車で20分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町湯平1007",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29253",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29253%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29253",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29253.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29253/29253.jpg",
-   "special": "上質な「おおいた和牛」、由布院の新鮮野菜、契約農家のお米など、安心安全な食材を使用した料理が自慢！"
-  },
-  {
-   "hotelNo": 141260,
-   "name": "湯平温泉　ゆけむりの宿　花木綿",
-   "kana": "ゆのひらおんせん　ゆけむりのやど　はなもめん",
-   "minCharge": 17800,
-   "reviewAverage": 4.87,
-   "reviewCount": 99,
-   "access": "湯平駅よりお車にて５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町湯平1022",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D141260",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D141260%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D141260",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/141260.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141260/141260.jpg",
-   "special": "清流花合野川沿いに佇む全８室の温泉宿。天然湯平温泉と女将手作りの花御膳をご堪能下さい。"
   },
   {
    "hotelNo": 138081,
@@ -200,6 +183,23 @@
    "special": "由布院の風景を纏う宿『山荘 わらび野』で贅沢なひとときを・・・"
   },
   {
+   "hotelNo": 30752,
+   "name": "由布院温泉　別荘　ふるさと",
+   "kana": "ふるさと",
+   "minCharge": 11800,
+   "reviewAverage": 4.86,
+   "reviewCount": 342,
+   "access": "駅近徒歩7分。（JR由布院駅　由布院バスセンタ－）アクセスに観光に便利です。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川南89-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D30752",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D30752%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D30752",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/30752.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30752/30752.jpg",
+   "special": "離れで過ごす。大人の旅に選ばれる隠れ宿。Ａ５ランクの豊後牛とかけ流しの源泉。駅近でおもてなしの旅館"
+  },
+  {
    "hotelNo": 56821,
    "name": "由布院温泉　癒しの里　観布亭",
    "kana": "ゆふいんおんせん　いやしのさと　かんぷてい",
@@ -215,6 +215,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56821.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56821/56821.jpg",
    "special": "全室、半露天風呂付の客室。雄大な由布山を眺めながら温泉でお寛ぎ下さい。"
+  },
+  {
+   "hotelNo": 198450,
+   "name": "ＨＯＴＥＬ　ＭＯＤＡ",
+   "kana": "ほてる もだ",
+   "minCharge": 24700,
+   "reviewAverage": 4.86,
+   "reviewCount": 7,
+   "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上442-22",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198450",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198450%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198450",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198450.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198450/198450.jpg",
+   "special": "ほどける贅沢を、すべての滞在に。全7室露天風呂。15〜18時フリーフロー（アルコール無料）"
   },
   {
    "hotelNo": 144993,
@@ -254,7 +271,7 @@
    "hotelNo": 158617,
    "name": "由布院温泉　ゆふいん宿　清孔苑",
    "kana": "ゆふいんやど　せいこうえん",
-   "minCharge": 15000,
+   "minCharge": 13000,
    "reviewAverage": 4.83,
    "reviewCount": 242,
    "access": "由布院駅よりお車にて約５分",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38277.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38277/38277.jpg",
    "special": "■料理　温泉　由布院散策　■お部屋食　■静かな宿　■金鱗湖2分　■おおいた和牛堪能"
-  },
-  {
-   "hotelNo": 19540,
-   "name": "由布院　蔓蕩蒼　－　Ｍａｔｏｕｓｏｕ　－",
-   "kana": "&#8203;ゆふいんまとうそう",
-   "minCharge": 21200,
-   "reviewAverage": 4.77,
-   "reviewCount": 120,
-   "access": "ＪＲ九州　南由布駅より徒歩3分／湯布院ＩＣより車で５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町中川1081",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D19540",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19540%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D19540",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19540.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19540/19540.jpg",
-   "special": "一日三組限定の大人の隠れ家。何もしない特別な一日を、大切な人とお過ごしください。"
   }
  ],
- "listedMatchCount": 75
+ "listedMatchCount": 71
 }

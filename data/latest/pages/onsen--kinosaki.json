@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -25,8 +25,8 @@
   },
   "minPrice": 7000,
   "medianPrice": 12980,
-  "reviewAvgMean": 4.44,
-  "pricedCount": 47
+  "reviewAvgMean": 4.46,
+  "pricedCount": 49
  },
  "hotels": [
   {
@@ -234,6 +234,23 @@
    "special": "一流の料理人が選び抜き、美食にこだわる隠れ宿。悠にして閑、安にして穏なる宿。"
   },
   {
+   "hotelNo": 108999,
+   "name": "城崎温泉　喧噪の隠れ家　月のしずく",
+   "kana": "きのさきおんせん　けんそうのかくれが　つきのしずく",
+   "minCharge": 8000,
+   "reviewAverage": 4.7,
+   "reviewCount": 392,
+   "access": "ＪＲ山陰本線　城崎温泉駅より徒歩にて１０分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島503-6",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108999",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108999%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108999",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108999.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108999/108999.jpg",
+   "special": "≪全館禁煙≫2種類の貸切温泉が無料☆お食事はお部屋食確約！温泉街の閑静な高台にある大人専用隠れ宿☆"
+  },
+  {
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144559.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144559/144559.jpg",
    "special": "日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿"
-  },
-  {
-   "hotelNo": 29554,
-   "name": "城崎温泉　お宿　芹",
-   "kana": "おやど　せり",
-   "minCharge": 7000,
-   "reviewAverage": 4.58,
-   "reviewCount": 419,
-   "access": "JR城崎温泉駅(15：00～22：30送迎有。お電話ください)／お車：北近畿豊岡自動車道「但馬空港IC」 より30分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町桃島1297-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29554",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29554%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29554",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29554.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29554/29554.jpg",
-   "special": "【全室お部屋食】新鮮魚介類を使った懐石料理は絶品。客室、浴室から望む国立公園円山川と山並みが絶景。"
   }
  ],
- "listedMatchCount": 47
+ "listedMatchCount": 49
 }

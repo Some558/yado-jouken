@@ -9,22 +9,22 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 52,
-  "matchRate": 57.8,
+  "matchCount": 51,
+  "matchRate": 56.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2730,
-  "medianPrice": 11747,
-  "reviewAvgMean": 4.41,
-  "pricedCount": 52
+  "medianPrice": 11000,
+  "reviewAvgMean": 4.4,
+  "pricedCount": 51
  },
  "hotels": [
   {
@@ -99,7 +99,7 @@
    "hotelNo": 108973,
    "name": "那須黒磯温泉　かんすい苑　覚楽",
    "kana": "かんすいえん　かくらく",
-   "minCharge": 16500,
+   "minCharge": 11000,
    "reviewAverage": 4.75,
    "reviewCount": 448,
    "access": "ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時～18時　翌8時～10時",
@@ -303,7 +303,7 @@
    "hotelNo": 16139,
    "name": "カントリーハウス　パディントン＜栃木県＞",
    "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
-   "minCharge": 8800,
+   "minCharge": 6000,
    "reviewAverage": 4.58,
    "reviewCount": 1307,
    "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
@@ -368,5 +368,5 @@
    "special": "全室半露天風呂付の客室で癒しのひと時を。客室・温泉・お食事、那須の自然豊かな空間をご用意。"
   }
  ],
- "listedMatchCount": 52
+ "listedMatchCount": 51
 }

@@ -9,29 +9,29 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 22,
-  "matchRate": 24.4,
+  "matchCount": 21,
+  "matchRate": 23.3,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5980,
-  "medianPrice": 12300,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.41,
-  "pricedCount": 22
+  "pricedCount": 21
  },
  "hotels": [
   {
    "hotelNo": 108973,
    "name": "那須黒磯温泉　かんすい苑　覚楽",
    "kana": "かんすいえん　かくらく",
-   "minCharge": 16500,
+   "minCharge": 11000,
    "reviewAverage": 4.75,
    "reviewCount": 448,
    "access": "ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時～18時　翌8時～10時",
@@ -130,23 +130,6 @@
    "special": "那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。"
   },
   {
-   "hotelNo": 184807,
-   "name": "那須ユートピア美野沢アートヴィレッジ",
-   "kana": "なすゆーとぴあみのさわあーと&#12436;ぃれっじ",
-   "minCharge": 12500,
-   "reviewAverage": 4.5,
-   "reviewCount": 11,
-   "access": "JR東北新幹線　那須塩原駅よりお車にて30分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町簑沢563-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184807",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184807%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184807",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184807.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184807/184807.jpg",
-   "special": "小学校をアートでリノベーションした、大人も子供も楽しめるグランピング施設！"
-  },
-  {
    "hotelNo": 192958,
    "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
    "kana": "フォレストグランピングリゾートイツ「イツ」",
@@ -184,7 +167,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 11445,
+   "minCharge": 10710,
    "reviewAverage": 4.44,
    "reviewCount": 8400,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
@@ -354,7 +337,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 6875,
+   "minCharge": 6625,
    "reviewAverage": 4.22,
    "reviewCount": 1836,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28442.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28442/28442.jpg",
    "special": "那須の滞在型ホテルへようこそ〜高原の自然に囲まれて、温泉とお食事をご堪能いただけます。"
+  },
+  {
+   "hotelNo": 20574,
+   "name": "那須温泉　ホテルサンバレー那須",
+   "kana": "ほてるさんばれーなす",
+   "minCharge": 11000,
+   "reviewAverage": 4.21,
+   "reviewCount": 8645,
+   "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本203",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20574",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20574%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20574",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20574.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20574/20574.jpg",
+   "special": "那須高原の中腹に9の宿泊施設がある北関東最大級の温泉リゾートホテル♪夏休みは温泉プールも営業！"
   }
  ],
- "listedMatchCount": 22
+ "listedMatchCount": 21
 }

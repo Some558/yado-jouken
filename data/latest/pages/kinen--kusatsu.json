@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -25,8 +25,8 @@
   },
   "minPrice": 4490,
   "medianPrice": 11200,
-  "reviewAvgMean": 4.4,
-  "pricedCount": 56
+  "reviewAvgMean": 4.38,
+  "pricedCount": 60
  },
  "hotels": [
   {
@@ -67,7 +67,7 @@
    "hotelNo": 188147,
    "name": "民宿　ひょうたん",
    "kana": "　ひょうたん",
-   "minCharge": 25700,
+   "minCharge": 15700,
    "reviewAverage": 4.83,
    "reviewCount": 28,
    "access": "草津温泉バスターミナルから徒歩約７分",
@@ -234,6 +234,23 @@
    "special": "暮らすように泊まれる宿　ゆっくり気兼ねなく、自分のペースで、温泉、街歩き、山の眺望を楽しめる宿"
   },
   {
+   "hotelNo": 111177,
+   "name": "草津温泉　綿の湯　草津ホテル別館",
+   "kana": "わたのゆ　くさつほてるべっかん",
+   "minCharge": 14600,
+   "reviewAverage": 4.59,
+   "reviewCount": 242,
+   "access": "草津バスターミナルから徒歩で８分　送迎サービスはありません",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津469-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D111177",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D111177%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D111177",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/111177.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111177/111177.jpg",
+   "special": "四季の移り変わりを楽しめる客室はシンプルな造りで寛げます。良質素材の心を込めた料理もご堪能下さい。"
+  },
+  {
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
@@ -249,23 +266,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183529.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183529/183529.jpg",
    "special": "【個室食事処｜貸切風呂無料】2000坪に全8室借景庭園付 川原湯温泉最古の宿"
-  },
-  {
-   "hotelNo": 111177,
-   "name": "草津温泉　綿の湯　草津ホテル別館",
-   "kana": "わたのゆ　くさつほてるべっかん",
-   "minCharge": 15400,
-   "reviewAverage": 4.59,
-   "reviewCount": 242,
-   "access": "草津バスターミナルから徒歩で８分　送迎サービスはありません",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津469-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D111177",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D111177%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D111177",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/111177.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111177/111177.jpg",
-   "special": "四季の移り変わりを楽しめる客室はシンプルな造りで寛げます。良質素材の心を込めた料理もご堪能下さい。"
   },
   {
    "hotelNo": 39705,
@@ -370,5 +370,5 @@
    "special": "湯畑徒歩1分◇伝統建築を再現した純和風の老舗宿。草津の名湯と本格的な京風懐石をお楽しみ下さい。"
   }
  ],
- "listedMatchCount": 56
+ "listedMatchCount": 60
 }

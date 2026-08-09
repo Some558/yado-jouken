@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -23,17 +23,17 @@
    "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 3500,
+  "minPrice": 4000,
   "medianPrice": 11000,
   "reviewAvgMean": 4.29,
-  "pricedCount": 74
+  "pricedCount": 75
  },
  "hotels": [
   {
    "hotelNo": 196361,
    "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
    "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 39000,
+   "minCharge": 43500,
    "reviewAverage": 4.94,
    "reviewCount": 17,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
@@ -370,5 +370,5 @@
    "special": "全7室の大人の隠れ宿。60平米以上室のゆったりとお過ごしいただける和洋室。天然温泉とお料理自慢の宿"
   }
  ],
- "listedMatchCount": 74
+ "listedMatchCount": 75
 }

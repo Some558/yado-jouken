@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,16 +24,16 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4000,
-  "medianPrice": 11000,
-  "reviewAvgMean": 4.3,
-  "pricedCount": 75
+  "medianPrice": 11135,
+  "reviewAvgMean": 4.29,
+  "pricedCount": 78
  },
  "hotels": [
   {
    "hotelNo": 196361,
    "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
    "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 39000,
+   "minCharge": 43500,
    "reviewAverage": 4.94,
    "reviewCount": 17,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
@@ -62,6 +62,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142946.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142946/142946.jpg",
    "special": "◆口コミ総合4.88◆全プラン貸切風呂付き。全室オーシャンビュー"
+  },
+  {
+   "hotelNo": 137049,
+   "name": "民宿　作五郎丸",
+   "kana": "さくごろうまる",
+   "minCharge": 13800,
+   "reviewAverage": 4.86,
+   "reviewCount": 260,
+   "access": "網代駅よりお車にて５分、徒歩にて１５分（送迎有）",
+   "address1": "静岡県",
+   "address2": "熱海市網代453-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137049",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137049%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137049",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137049.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137049/137049.jpg",
+   "special": "漁師町網代、路地裏の隠れ宿。海鮮料理と源泉露天風呂をお楽しみください。"
   },
   {
    "hotelNo": 198040,
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197470.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197470/197470.jpg",
    "special": "熱海で唯一のミシュランキー(‘24,’25連続)選出ホテル"
-  },
-  {
-   "hotelNo": 147964,
-   "name": "熱海温泉　昭和倶楽部",
-   "kana": "あたみおんせん　しょうわくらぶ",
-   "minCharge": 9350,
-   "reviewAverage": 4.49,
-   "reviewCount": 345,
-   "access": "熱海駅よりお車にて約７分",
-   "address1": "静岡県",
-   "address2": "熱海市昭和町17-31",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147964",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147964%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147964",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147964.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147964/147964.jpg",
-   "special": "全7室の大人の隠れ宿。60平米以上室のゆったりとお過ごしいただける和洋室。天然温泉とお料理自慢の宿"
   }
  ],
- "listedMatchCount": 75
+ "listedMatchCount": 78
 }

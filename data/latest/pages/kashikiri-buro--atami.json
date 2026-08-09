@@ -9,41 +9,24 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 29,
-  "matchRate": 32.2,
+  "matchCount": 28,
+  "matchRate": 31.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5650,
-  "medianPrice": 10680,
-  "reviewAvgMean": 4.32,
-  "pricedCount": 29
+  "minPrice": 5000,
+  "medianPrice": 10340,
+  "reviewAvgMean": 4.3,
+  "pricedCount": 28
  },
  "hotels": [
-  {
-   "hotelNo": 187330,
-   "name": "あたみ石亭別邸桜岡茶寮",
-   "kana": "あたみせきていべっていさくらがおかさりょう",
-   "minCharge": 49500,
-   "reviewAverage": 5.0,
-   "reviewCount": 9,
-   "access": "JR熱海駅よりお車にて約10分",
-   "address1": "静岡県",
-   "address2": "熱海市和田町6-17　別邸桜岡茶寮",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187330",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187330%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187330",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187330.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187330/187330.jpg",
-   "special": "良質な温泉と厳選した食材で彩られた会席料理をプライベートな空間で、非日常のお寛ぎを。"
-  },
   {
    "hotelNo": 38893,
    "name": "伊豆山温泉　ホテルニューさがみや",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/72738.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72738/72738.jpg",
    "special": "2013年全室リニューアル完了！更に快適になった客室は全室オーシャンビュー！貸切風呂のご利用は無料！"
+  },
+  {
+   "hotelNo": 72796,
+   "name": "あたみ石亭",
+   "kana": "あたみせきてい",
+   "minCharge": 23595,
+   "reviewAverage": 4.15,
+   "reviewCount": 319,
+   "access": "JR熱海駅より、タクシーにて10分",
+   "address1": "静岡県",
+   "address2": "熱海市和田町6-17",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D72796",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D72796%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D72796",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/72796.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72796/72796.jpg",
+   "special": "深山幽谷を思わせる広大な敷地の優雅な庭。そこに点在する数奇屋造りの離れ家「あたみ石亭」"
   }
  ],
- "listedMatchCount": 29
+ "listedMatchCount": 28
 }

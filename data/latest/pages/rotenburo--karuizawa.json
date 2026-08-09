@@ -9,41 +9,24 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 22,
-  "matchRate": 24.4,
+  "matchCount": 20,
+  "matchRate": 22.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 13500,
-  "reviewAvgMean": 4.45,
-  "pricedCount": 22
+  "medianPrice": 13215,
+  "reviewAvgMean": 4.42,
+  "pricedCount": 20
  },
  "hotels": [
-  {
-   "hotelNo": 40945,
-   "name": "ピッコロホテル　オペラ軽井沢",
-   "kana": "ぴっころほてる　おぺら　かるいざわ",
-   "minCharge": 13000,
-   "reviewAverage": 4.89,
-   "reviewCount": 170,
-   "access": "しなの鉄道信濃追分駅より車約7分 ／軽井沢駅からはタクシーで約15分／碓氷軽井沢I.C.から約20分 （時期による）",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉5664-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D40945",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D40945%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D40945",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/40945.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40945/40945.jpg",
-   "special": "軽井沢の小さなペンション。無料送迎・貸切風呂あり！非日常体験をどうぞ。"
-  },
   {
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
@@ -96,27 +79,10 @@
    "special": "雲海の先、標高２０００ｍのマウンテンリゾートへ"
   },
   {
-   "hotelNo": 151519,
-   "name": "信州八重原温泉　アートヴィレッジ明神館",
-   "kana": "しんしゅうやえはらおんせん　あーとヴぃれっじみょうじんかん",
-   "minCharge": 8200,
-   "reviewAverage": 4.67,
-   "reviewCount": 82,
-   "access": "しなの鉄道田中駅より車で15分（送迎は要事前予約）、北陸新幹線上田駅より車で30分、上信越道東部湯の丸ＩＣより車で20分",
-   "address1": "長野県",
-   "address2": "東御市八重原1806-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151519",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151519%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151519",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151519.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151519/151519.jpg",
-   "special": "浅間連峰を望む絶景のお部屋と展望露天風呂！☆日帰り入浴も利用可能。詳しくは注意事項をご参考ください。"
-  },
-  {
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 14000,
+   "minCharge": 12000,
    "reviewAverage": 4.67,
    "reviewCount": 1503,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -366,7 +332,41 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4792.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4792/4792.jpg",
    "special": "楽天トラベル ブロンズアワード2025受賞☆24時迄入れる7種類のお風呂＆2種類のサウナ無料"
+  },
+  {
+   "hotelNo": 182619,
+   "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
+   "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
+   "minCharge": 4750,
+   "reviewAverage": 3.89,
+   "reviewCount": 680,
+   "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",
+   "address1": "長野県",
+   "address2": "佐久市中込3150-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182619",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182619%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182619",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182619.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182619/182619.jpg",
+   "special": "☆8種類の浴槽と2種類のサウナが自慢の天然温泉☆信州佐久平の中心地☆駐車場200台完備（大型OK）"
+  },
+  {
+   "hotelNo": 147939,
+   "name": "小瀬温泉ホテル",
+   "kana": "こせおんせんほてる",
+   "minCharge": 11000,
+   "reviewAverage": 3.88,
+   "reviewCount": 242,
+   "access": "車：軽井沢駅15分（旧軽井沢からは料金所で当館利用と伝えると通行料無料）バス：軽井沢駅北口2番線から小瀬温泉下車徒歩1分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町長倉2126",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147939",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147939%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147939",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147939.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147939/147939.jpg",
+   "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 22
+ "listedMatchCount": 20
 }

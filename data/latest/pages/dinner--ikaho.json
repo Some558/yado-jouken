@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -336,23 +336,6 @@
    "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂"
   },
   {
-   "hotelNo": 80783,
-   "name": "伊香保温泉　いかほ秀水園",
-   "kana": "いかほおんせん　いかほしゅうすいえん",
-   "minCharge": 8800,
-   "reviewAverage": 4.3,
-   "reviewCount": 553,
-   "access": "ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保557",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80783",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80783%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80783",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80783.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80783/80783.jpg",
-   "special": "どこかなつかしい横丁のような雰囲気の館内。上州牛すきやきと地酒がたのしめる心地よい宿"
-  },
-  {
    "hotelNo": 28606,
    "name": "伊香保温泉　福一",
    "kana": "いかほおんせん　ふくいち",
@@ -368,6 +351,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28606.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28606/28606.jpg",
    "special": "創業440年。石段街最上段「黄金の湯」「白銀の湯」二湯を有す数少ない宿。"
+  },
+  {
+   "hotelNo": 80783,
+   "name": "伊香保温泉　いかほ秀水園",
+   "kana": "いかほおんせん　いかほしゅうすいえん",
+   "minCharge": 9350,
+   "reviewAverage": 4.3,
+   "reviewCount": 553,
+   "access": "ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保557",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80783",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80783%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80783",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80783.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80783/80783.jpg",
+   "special": "どこかなつかしい横丁のような雰囲気の館内。上州牛すきやきと地酒がたのしめる心地よい宿"
   }
  ],
  "listedMatchCount": 37

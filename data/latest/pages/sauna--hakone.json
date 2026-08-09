@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 40,
-  "matchRate": 44.4,
+  "matchCount": 39,
+  "matchRate": 43.3,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6330,
-  "medianPrice": 16407,
+  "medianPrice": 16260,
   "reviewAvgMean": 4.39,
-  "pricedCount": 40
+  "pricedCount": 39
  },
  "hotels": [
   {
@@ -116,7 +116,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 37400,
+   "minCharge": 36300,
    "reviewAverage": 4.71,
    "reviewCount": 877,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -368,5 +368,5 @@
    "special": "５本の源泉持ち、豊富な湯量、良質の温泉が楽しめる宿。展望大浴場、足湯、湯の里（特別優待）と種類も豊富"
   }
  ],
- "listedMatchCount": 40
+ "listedMatchCount": 39
 }

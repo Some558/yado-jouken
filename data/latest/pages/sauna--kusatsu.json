@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7898,
-  "medianPrice": 15400,
+  "medianPrice": 14600,
   "reviewAvgMean": 4.37,
   "pricedCount": 13
  },
@@ -82,7 +82,7 @@
    "hotelNo": 111177,
    "name": "草津温泉　綿の湯　草津ホテル別館",
    "kana": "わたのゆ　くさつほてるべっかん",
-   "minCharge": 15400,
+   "minCharge": 14600,
    "reviewAverage": 4.59,
    "reviewCount": 242,
    "access": "草津バスターミナルから徒歩で８分　送迎サービスはありません",

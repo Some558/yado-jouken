@@ -9,41 +9,24 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 8,
-  "matchRate": 8.9,
+  "matchCount": 7,
+  "matchRate": 7.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5316,
-  "medianPrice": 13500,
-  "reviewAvgMean": 4.51,
-  "pricedCount": 8
+  "medianPrice": 12000,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 7
  },
  "hotels": [
-  {
-   "hotelNo": 40945,
-   "name": "ピッコロホテル　オペラ軽井沢",
-   "kana": "ぴっころほてる　おぺら　かるいざわ",
-   "minCharge": 13000,
-   "reviewAverage": 4.89,
-   "reviewCount": 170,
-   "access": "しなの鉄道信濃追分駅より車約7分 ／軽井沢駅からはタクシーで約15分／碓氷軽井沢I.C.から約20分 （時期による）",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉5664-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D40945",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D40945%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D40945",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/40945.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40945/40945.jpg",
-   "special": "軽井沢の小さなペンション。無料送迎・貸切風呂あり！非日常体験をどうぞ。"
-  },
   {
    "hotelNo": 153630,
    "name": "ゲストハウス　シャコンヌ軽井沢",
@@ -82,7 +65,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 14000,
+   "minCharge": 12000,
    "reviewAverage": 4.67,
    "reviewCount": 1503,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -116,7 +99,7 @@
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 18000,
+   "minCharge": 28000,
    "reviewAverage": 4.34,
    "reviewCount": 162,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
@@ -164,5 +147,5 @@
    "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 8
+ "listedMatchCount": 7
 }

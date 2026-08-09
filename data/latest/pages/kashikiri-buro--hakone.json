@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 24,
-  "matchRate": 26.7,
+  "matchCount": 22,
+  "matchRate": 24.4,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 17160,
-  "reviewAvgMean": 4.45,
-  "pricedCount": 24
+  "medianPrice": 18655,
+  "reviewAvgMean": 4.44,
+  "pricedCount": 22
  },
  "hotels": [
   {
@@ -113,27 +113,10 @@
    "special": "2024〜2025年続々リニューアル！露付き客室・専用玄関のある「離れ　燈(akari)」誕生！"
   },
   {
-   "hotelNo": 130716,
-   "name": "箱根湯本温泉　喜仙荘",
-   "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 11550,
-   "reviewAverage": 4.61,
-   "reviewCount": 285,
-   "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本509",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D130716",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D130716%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D130716",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130716.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130716/130716.jpg",
-   "special": "家族でも広々【貸切露天風呂♪】で箱根湯本温泉★満喫！"
-  },
-  {
    "hotelNo": 31681,
    "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘",
    "kana": "はこねゆもとおんせん　ていえんろてんをあじわうやど　ゆさかそう",
-   "minCharge": 22000,
+   "minCharge": 19800,
    "reviewAverage": 4.61,
    "reviewCount": 556,
    "access": "箱根湯本駅より徒歩約15分または旅館共同送迎バス（200円）で約5分／小田原厚木道路箱根口ＩＣ→国道1号→県道732号",
@@ -198,23 +181,6 @@
    "special": "箱根の玄関口「箱根湯本」に全室露天風呂付きの和風デザイナーズ湯宿が誕生。"
   },
   {
-   "hotelNo": 41468,
-   "name": "箱根湯本温泉　箱根水明荘",
-   "kana": "はこねゆもとおんせん　はこねすいめいそう",
-   "minCharge": 14850,
-   "reviewAverage": 4.43,
-   "reviewCount": 696,
-   "access": "箱根湯本駅より徒歩2分、小田原厚木道路箱根口ICより約3km",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本702",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D41468",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D41468%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D41468",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/41468.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41468/41468.jpg",
-   "special": "箱根湯本駅より徒歩2分。2016年7月に露天風呂付客室がオープンしました。"
-  },
-  {
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
@@ -235,7 +201,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 14080,
+   "minCharge": 12320,
    "reviewAverage": 4.41,
    "reviewCount": 520,
    "access": "箱根湯本駅から徒歩で７分",
@@ -354,7 +320,7 @@
    "hotelNo": 9669,
    "name": "箱根湯本温泉　箱根パークス吉野",
    "kana": "はこねゆもとおんせん　はこねぱーくすよしの",
-   "minCharge": 6550,
+   "minCharge": 7510,
    "reviewAverage": 4.27,
    "reviewCount": 1465,
    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",
@@ -366,7 +332,41 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/9669.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/9669/9669.jpg",
    "special": "楽天アワード2025　地上２０ｍ展望露天風呂からの眺望はリフレッシュに最適　三箇所ある貸切風呂も好評"
+  },
+  {
+   "hotelNo": 84721,
+   "name": "箱根湯本温泉　天成園",
+   "kana": "はこねゆもとおんせん　てんせいえん",
+   "minCharge": 10769,
+   "reviewAverage": 4.17,
+   "reviewCount": 4212,
+   "access": "箱根湯本駅から徒歩で15分。または旅館協同組合の送迎バス（有料200円）Aコース『滝通り行き』にて5分。",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町湯本682",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D84721",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D84721%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D84721",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/84721.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84721/84721.jpg",
+   "special": "瀧の流れる庭園と、大自然に抱かれた天空大露天風呂が魅力な箱根湯本温泉の人気宿。"
+  },
+  {
+   "hotelNo": 18497,
+   "name": "強羅温泉　桐谷　箱根荘",
+   "kana": "ごうらおんせん　きりたに　はこねそう",
+   "minCharge": 14000,
+   "reviewAverage": 4.13,
+   "reviewCount": 2190,
+   "access": "ＪＲ小田急小田原駅から電車・ケーブルカーで公園上駅下車徒歩５分／小田原厚木道路箱根口ＩＣから国道1号線経由約２５分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町強羅1320-598",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18497",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D18497%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D18497",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18497.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18497/18497.jpg",
+   "special": "女性層に人気のにごり湯の宿。 貸切露天風呂（別料金､要予約）、家族風呂（内風呂のみ無料）あり。　　"
   }
  ],
- "listedMatchCount": 24
+ "listedMatchCount": 22
 }

@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "areas": [
   {
    "area": {
@@ -14,9 +14,9 @@
    "slug": "kinen--hakone",
    "matchCount": 204,
    "matchRate": 57.3,
-   "minPrice": 5600,
-   "medianPrice": 15800,
-   "reviewAvgMean": 4.43
+   "minPrice": 4900,
+   "medianPrice": 14866,
+   "reviewAvgMean": 4.42
   },
   {
    "area": {
@@ -29,7 +29,7 @@
    "matchRate": 45.1,
    "minPrice": 4490,
    "medianPrice": 11200,
-   "reviewAvgMean": 4.4
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "kinen--atami",
    "matchCount": 118,
    "matchRate": 43.9,
-   "minPrice": 3500,
+   "minPrice": 4000,
    "medianPrice": 11000,
    "reviewAvgMean": 4.29
   },
@@ -54,8 +54,8 @@
    "matchCount": 156,
    "matchRate": 62.2,
    "minPrice": 1500,
-   "medianPrice": 8257,
-   "reviewAvgMean": 4.36
+   "medianPrice": 8250,
+   "reviewAvgMean": 4.34
   },
   {
    "area": {
@@ -68,7 +68,7 @@
    "matchRate": 55.6,
    "minPrice": 3290,
    "medianPrice": 16325,
-   "reviewAvgMean": 4.51
+   "reviewAvgMean": 4.53
   },
   {
    "area": {
@@ -80,8 +80,8 @@
    "matchCount": 71,
    "matchRate": 44.9,
    "minPrice": 3000,
-   "medianPrice": 10900,
-   "reviewAvgMean": 4.43
+   "medianPrice": 11825,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 42,
    "matchRate": 60.0,
    "minPrice": 3500,
-   "medianPrice": 9845,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.22
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 135,
    "matchRate": 39.1,
    "minPrice": 2730,
-   "medianPrice": 10575,
+   "medianPrice": 10025,
    "reviewAvgMean": 4.42
   },
   {
@@ -120,7 +120,7 @@
    "matchRate": 34.2,
    "minPrice": 4000,
    "medianPrice": 11220,
-   "reviewAvgMean": 4.4
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -132,8 +132,8 @@
    "matchCount": 91,
    "matchRate": 50.6,
    "minPrice": 1850,
-   "medianPrice": 5402,
-   "reviewAvgMean": 4.27
+   "medianPrice": 5362,
+   "reviewAvgMean": 4.25
   }
  ]
 }

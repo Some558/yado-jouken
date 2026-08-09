@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -23,9 +23,9 @@
    "value": 356,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5600,
-  "medianPrice": 16407,
-  "reviewAvgMean": 4.43,
+  "minPrice": 4900,
+  "medianPrice": 16030,
+  "reviewAvgMean": 4.42,
   "pricedCount": 84
  },
  "hotels": [
@@ -166,6 +166,23 @@
    "special": "【1日8組限定】アクティブな旅行より、おこもり旅行。"
   },
   {
+   "hotelNo": 70712,
+   "name": "箱根湯本温泉　ホテル仙景",
+   "kana": "せんけい",
+   "minCharge": 11150,
+   "reviewAverage": 4.78,
+   "reviewCount": 398,
+   "access": "箱根湯本駅より徒歩にて１０分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町湯本592",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70712",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70712%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70712",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70712.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70712/70712.jpg",
+   "special": "須雲川沿いの温泉情趣あふれる滝通りにある朝夕部屋食が人気の旅館です。"
+  },
+  {
    "hotelNo": 172961,
    "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
    "kana": "ばーほてる　はこねかざん",
@@ -271,7 +288,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 37400,
+   "minCharge": 36300,
    "reviewAverage": 4.71,
    "reviewCount": 877,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19985.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19985/19985.jpg",
    "special": "2024〜2025年続々リニューアル！露付き客室・専用玄関のある「離れ　燈(akari)」誕生！"
-  },
-  {
-   "hotelNo": 188402,
-   "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
-   "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 13200,
-   "reviewAverage": 4.63,
-   "reviewCount": 274,
-   "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原29-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188402",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188402%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188402",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188402.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188402/188402.jpg",
-   "special": "《コンドミニアム型ホテル》全室50㎡以上の広々客室で優雅な時間を"
   }
  ],
  "listedMatchCount": 84

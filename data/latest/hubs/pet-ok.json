@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "pet-ok--hakone",
-   "matchCount": 13,
-   "matchRate": 14.4,
+   "matchCount": 14,
+   "matchRate": 15.6,
    "minPrice": 5600,
-   "medianPrice": 11280,
-   "reviewAvgMean": 4.23
+   "medianPrice": 11040,
+   "reviewAvgMean": 4.22
   },
   {
    "area": {
@@ -67,7 +67,7 @@
    "matchCount": 9,
    "matchRate": 10.0,
    "minPrice": 8784,
-   "medianPrice": 11450,
+   "medianPrice": 12000,
    "reviewAvgMean": 4.53
   },
   {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 26,
-   "matchRate": 28.9,
+   "matchCount": 21,
+   "matchRate": 23.3,
    "minPrice": 3980,
-   "medianPrice": 9175,
-   "reviewAvgMean": 4.47
+   "medianPrice": 8004,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "pet-ok--karuizawa",
-   "matchCount": 17,
-   "matchRate": 18.9,
+   "matchCount": 16,
+   "matchRate": 17.8,
    "minPrice": 5528,
-   "medianPrice": 13090,
-   "reviewAvgMean": 4.55
+   "medianPrice": 12645,
+   "reviewAvgMean": 4.53
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "pet-ok--dogo",
-   "matchCount": 4,
-   "matchRate": 4.4,
+   "matchCount": 3,
+   "matchRate": 3.3,
    "minPrice": 8500,
-   "medianPrice": 12600,
-   "reviewAvgMean": 4.34
+   "medianPrice": 13750,
+   "reviewAvgMean": 4.27
   }
  ]
 }

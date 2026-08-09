@@ -9,22 +9,22 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-09",
+ "dataAsOf": "2026-08-10",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 12,
-  "matchRate": 13.3,
+  "matchCount": 11,
+  "matchRate": 12.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 9150,
-  "reviewAvgMean": 4.46,
-  "pricedCount": 12
+  "medianPrice": 7700,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 11
  },
  "hotels": [
   {
@@ -77,23 +77,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176808.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176808/176808.jpg",
    "special": "２０１９年１０月グランドオープン♪『人と環境に優しいホテル』をコンセプトに快適な滞在をご提供します。"
-  },
-  {
-   "hotelNo": 14270,
-   "name": "権現山荘",
-   "kana": "ごんげんさんそう",
-   "minCharge": 11450,
-   "reviewAverage": 4.54,
-   "reviewCount": 577,
-   "access": "ＪＲ堀江駅より車で７分,松山駅より車で２０分",
-   "address1": "愛媛県",
-   "address2": "松山市権現町甲820",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14270",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D14270%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D14270",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14270.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14270/14270.jpg",
-   "special": "海の見える温泉宿です。食事は瀬戸内の魚を使った会席料理で部屋食です。※当館に看板猫はいません。"
   },
   {
    "hotelNo": 183045,
@@ -232,5 +215,5 @@
    "special": "松山市中心・大街道商店街すぐ！★近くに飲食店多数★奥道後温泉の大浴場とサウナ★全室エアウィーヴで快眠"
   }
  ],
- "listedMatchCount": 12
+ "listedMatchCount": 11
 }
