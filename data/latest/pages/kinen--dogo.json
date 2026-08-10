@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-10",
+ "dataAsOf": "2026-08-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -356,7 +356,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 4590,
+   "minCharge": 4500,
    "reviewAverage": 4.45,
    "reviewCount": 2169,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",

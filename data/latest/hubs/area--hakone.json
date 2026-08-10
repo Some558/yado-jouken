@@ -4,7 +4,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-10",
+ "dataAsOf": "2026-08-11",
  "recordCount": 356,
  "conditions": [
   {
@@ -383,7 +383,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 22800,
+   "minCharge": 20800,
    "reviewAverage": 4.72,
    "reviewCount": 35,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -764,7 +764,7 @@
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 8500,
+   "minCharge": 9200,
    "reviewAverage": 4.53,
    "reviewCount": 837,
    "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",
@@ -1011,6 +1011,28 @@
    ]
   },
   {
+   "hotelNo": 189383,
+   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
+   "kana": null,
+   "minCharge": 13600,
+   "reviewAverage": 4.43,
+   "reviewCount": 150,
+   "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町元箱根三ツ谷2-2　Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189383",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D189383%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D189383",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189383.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189383/189383.jpg",
+   "special": "★2024年3月グランドオープン★芦ノ湖、富士山が一望できる好立地！ゆったり流れる贅沢な時間を堪能",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 158555,
    "name": "箱根リトリートｆｏｒｅ",
    "kana": "はこね　りとりーと　ふぉーれ",
@@ -1036,32 +1058,10 @@
    ]
   },
   {
-   "hotelNo": 189383,
-   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
-   "kana": null,
-   "minCharge": 14450,
-   "reviewAverage": 4.43,
-   "reviewCount": 150,
-   "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町元箱根三ツ谷2-2　Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189383",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D189383%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D189383",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189383.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189383/189383.jpg",
-   "special": "★2024年3月グランドオープン★芦ノ湖、富士山が一望できる好立地！ゆったり流れる贅沢な時間を堪能",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 20300,
+   "minCharge": 14850,
    "reviewAverage": 4.43,
    "reviewCount": 682,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
@@ -1192,7 +1192,7 @@
    "hotelNo": 192238,
    "name": "ペットと泊まれる宿－モリトソラ箱根－",
    "kana": "ぺっとととまれるやどーもりとそらはこねー",
-   "minCharge": 24900,
+   "minCharge": 26500,
    "reviewAverage": 4.41,
    "reviewCount": 66,
    "access": "【車】「萩窪ＩＣ」より約３５分【電車】小田原駅から箱根登山バス＆伊豆箱根バス「上鷹ノ巣」バス停目の前",
@@ -1447,7 +1447,7 @@
    "hotelNo": 164532,
    "name": "仙石原　ススキの原一の湯",
    "kana": "せんごくはら　すすきのはらいちのゆ",
-   "minCharge": 14866,
+   "minCharge": 15334,
    "reviewAverage": 4.35,
    "reviewCount": 1015,
    "access": "箱根湯本駅からお車で約３０分",
@@ -1697,7 +1697,7 @@
    "hotelNo": 54102,
    "name": "季の湯　雪月花（共立リゾート）",
    "kana": "ときのゆ　せつげつか",
-   "minCharge": 16555,
+   "minCharge": 15950,
    "reviewAverage": 4.25,
    "reviewCount": 4010,
    "access": "箱根登山鉄道　強羅駅より徒歩1分　彫刻の森まで1駅、強羅公園まで徒歩約10分と観光スポットへのアクセスも良好！",
@@ -1991,31 +1991,6 @@
    ]
   },
   {
-   "hotelNo": 5066,
-   "name": "強羅温泉　メルヴェール箱根強羅",
-   "kana": "ごうらおんせん　めるう゛ぇーるはこねごうら",
-   "minCharge": 9900,
-   "reviewAverage": 4.06,
-   "reviewCount": 4582,
-   "access": "電車：箱根登山鉄道 強羅駅より無料送迎あり（徒歩約5～7分）／車：小田原厚木道路「小田原西」ＩＣより約40分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1300-70",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D5066",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D5066%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D5066",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/5066.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5066/5066.jpg",
-   "special": "【楽天ブロンズアワード2025受賞】心カラダ巡る温和リゾート×オールインクルーシブ",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 10956,
    "name": "箱根芦ノ湖温泉　源泉100％の宿　ＨＯＴＥＬ　Ｒａ　Ｋｕｕｎ　(ホテルラクーン）",
    "kana": "ほてるらくーん",
@@ -2038,6 +2013,31 @@
     "breakfast",
     "dinner",
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 5066,
+   "name": "強羅温泉　メルヴェール箱根強羅",
+   "kana": "ごうらおんせん　めるう゛ぇーるはこねごうら",
+   "minCharge": 16500,
+   "reviewAverage": 4.06,
+   "reviewCount": 4582,
+   "access": "電車：箱根登山鉄道 強羅駅より無料送迎あり（徒歩約5～7分）／車：小田原厚木道路「小田原西」ＩＣより約40分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町強羅1300-70",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D5066",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D5066%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D5066",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/5066.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5066/5066.jpg",
+   "special": "【楽天ブロンズアワード2025受賞】心カラダ巡る温和リゾート×オールインクルーシブ",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "sauna"
    ]
   },
   {

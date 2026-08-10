@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-10",
+ "dataAsOf": "2026-08-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4500,
-  "medianPrice": 12100,
+  "medianPrice": 11900,
   "reviewAvgMean": 4.44,
   "pricedCount": 58
  },
@@ -135,7 +135,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 40700,
+   "minCharge": 37400,
    "reviewAverage": 4.75,
    "reviewCount": 118,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -186,7 +186,7 @@
    "hotelNo": 183280,
    "name": "オーソルヴェール軽井沢倶楽部",
    "kana": "おーそるヴぇーるかるいざわくらぶ",
-   "minCharge": 12200,
+   "minCharge": 11800,
    "reviewAverage": 4.71,
    "reviewCount": 106,
    "access": "軽井沢駅から25分（軽井沢駅から無料送迎有・7日前まで要予約）。佐久平ICから20分。信濃追分駅から15分・駐車場無料",
@@ -203,7 +203,7 @@
    "hotelNo": 196141,
    "name": "グランディスタイル旧軽井沢ホテル＆リゾート",
    "kana": "ぐらんでぃすたいるきゅうかるいざわほてるあんどりぞーと",
-   "minCharge": 24915,
+   "minCharge": 25740,
    "reviewAverage": 4.71,
    "reviewCount": 182,
    "access": "軽井沢駅より車で約５分",
