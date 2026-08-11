@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "recordCount": 345,
  "conditions": [
   {
@@ -1656,7 +1656,7 @@
    "hotelNo": 31077,
    "name": "グランドメルキュール那須高原リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるなすこうげんりぞーとあんどすぱ",
-   "minCharge": 6960,
+   "minCharge": 6612,
    "reviewAverage": 4.23,
    "reviewCount": 3837,
    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",
@@ -1870,7 +1870,7 @@
    "hotelNo": 183690,
    "name": "ほったらかしの宿　ゆうふり那須高雄温泉ロッジ",
    "kana": "ほったらかしのやど　ゆうふりなすたかおおんせんろっじ（２０２５ねん１０がつ１にちおーぷん）",
-   "minCharge": 2730,
+   "minCharge": 2650,
    "reviewAverage": 4.09,
    "reviewCount": 243,
    "access": "東北自動車道那須IC～東北自動車道、那須IC～県道17号（那須街道）湯本方面へ、ICから約30分",

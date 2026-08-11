@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 1500,
-  "medianPrice": 8415,
+  "medianPrice": 8250,
   "reviewAvgMean": 4.34,
   "pricedCount": 77
  },
@@ -50,7 +50,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 31750,
+   "minCharge": 31500,
    "reviewAverage": 4.89,
    "reviewCount": 99,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -101,7 +101,7 @@
    "hotelNo": 153568,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＧＡＨＡＭＡ（ガハマテラス）",
    "kana": "あまね　りぞーと　がはま",
-   "minCharge": 18595,
+   "minCharge": 21631,
    "reviewAverage": 4.7,
    "reviewCount": 124,
    "access": "別府駅よりお車にて約１５分",

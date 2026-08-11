@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 136026,
    "name": "別府温泉　わんこの宿　ゆるり",
    "kana": "べっぷおんせん　わんこのやど　ゆるり",
-   "minCharge": 12705,
+   "minCharge": 11550,
    "reviewAverage": 4.04,
    "reviewCount": 171,
    "access": "別府駅よりお車にて約２０分",

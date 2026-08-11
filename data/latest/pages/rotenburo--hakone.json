@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7510,
-  "medianPrice": 15567,
+  "medianPrice": 15092,
   "reviewAvgMean": 4.41,
   "pricedCount": 62
  },
@@ -337,7 +337,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 17300,
+   "minCharge": 14300,
    "reviewAverage": 4.55,
    "reviewCount": 396,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",
@@ -354,7 +354,7 @@
    "hotelNo": 50826,
    "name": "水の音（共立リゾート）",
    "kana": "みずのと（きょうりつりぞーと）",
-   "minCharge": 11550,
+   "minCharge": 12650,
    "reviewAverage": 4.54,
    "reviewCount": 2344,
    "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",

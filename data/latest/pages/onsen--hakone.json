@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4900,
-  "medianPrice": 15334,
+  "medianPrice": 14850,
   "reviewAvgMean": 4.41,
   "pricedCount": 85
  },

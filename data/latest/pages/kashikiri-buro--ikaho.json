@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 10450,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.34,
   "pricedCount": 19
  },
@@ -65,7 +65,7 @@
    "hotelNo": 147464,
    "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
    "kana": "いかほおんせん　ちぎらじんせんてい",
-   "minCharge": 15840,
+   "minCharge": 13200,
    "reviewAverage": 4.58,
    "reviewCount": 548,
    "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
@@ -82,7 +82,7 @@
    "hotelNo": 6267,
    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
    "kana": "きしごんりょかん　いしだんがいりんせつ　きしょうげんせん「おうごんのゆ」のやど",
-   "minCharge": 12100,
+   "minCharge": 9900,
    "reviewAverage": 4.56,
    "reviewCount": 1613,
    "access": "関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
@@ -99,7 +99,7 @@
    "hotelNo": 19271,
    "name": "伊香保温泉　ホテル松本楼",
    "kana": "いかほおんせん　まつもとろう",
-   "minCharge": 12500,
+   "minCharge": 13000,
    "reviewAverage": 4.53,
    "reviewCount": 3205,
    "access": "ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ",

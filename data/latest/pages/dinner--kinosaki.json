@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -50,7 +50,7 @@
    "hotelNo": 8509,
    "name": "城崎温泉　小林屋",
    "kana": "きのさきおんせん　こばやしや",
-   "minCharge": 22600,
+   "minCharge": 22000,
    "reviewAverage": 4.91,
    "reviewCount": 143,
    "access": "車：北近畿豊岡自動車道　但馬空港ICより約30分／電車・バス：城崎温泉駅より徒歩約7分",
@@ -271,7 +271,7 @@
    "hotelNo": 108999,
    "name": "城崎温泉　喧噪の隠れ家　月のしずく",
    "kana": "きのさきおんせん　けんそうのかくれが　つきのしずく",
-   "minCharge": 8000,
+   "minCharge": 10000,
    "reviewAverage": 4.7,
    "reviewCount": 392,
    "access": "ＪＲ山陰本線　城崎温泉駅より徒歩にて１０分",
@@ -283,6 +283,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108999.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108999/108999.jpg",
    "special": "≪全館禁煙≫2種類の貸切温泉が無料☆お食事はお部屋食確約！温泉街の閑静な高台にある大人専用隠れ宿☆"
+  },
+  {
+   "hotelNo": 199940,
+   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
+   "kana": null,
+   "minCharge": 5100,
+   "reviewAverage": 4.67,
+   "reviewCount": 18,
+   "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町上山1414-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199940",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199940%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199940",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199940.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199940/199940.jpg",
+   "special": "★2026年6月新規OPEN★客室専用の天然温泉を存分に堪能、日常を離れた贅沢なプライベート空間"
   },
   {
    "hotelNo": 191681,
@@ -300,23 +317,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/191681.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191681/191681.jpg",
    "special": "燻製工房が手掛ける手ぶらキャンプ場"
-  },
-  {
-   "hotelNo": 199940,
-   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
-   "kana": null,
-   "minCharge": 7200,
-   "reviewAverage": 4.67,
-   "reviewCount": 18,
-   "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町上山1414-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199940",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199940%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199940",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199940.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199940/199940.jpg",
-   "special": "★2026年6月新規OPEN★客室専用の天然温泉を存分に堪能、日常を離れた贅沢なプライベート空間"
   },
   {
    "hotelNo": 165044,

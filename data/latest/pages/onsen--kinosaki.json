@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -23,7 +23,7 @@
    "value": 158,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
-  "minPrice": 7000,
+  "minPrice": 5100,
   "medianPrice": 12980,
   "reviewAvgMean": 4.46,
   "pricedCount": 49
@@ -33,7 +33,7 @@
    "hotelNo": 8509,
    "name": "城崎温泉　小林屋",
    "kana": "きのさきおんせん　こばやしや",
-   "minCharge": 22600,
+   "minCharge": 22000,
    "reviewAverage": 4.91,
    "reviewCount": 143,
    "access": "車：北近畿豊岡自動車道　但馬空港ICより約30分／電車・バス：城崎温泉駅より徒歩約7分",
@@ -237,7 +237,7 @@
    "hotelNo": 108999,
    "name": "城崎温泉　喧噪の隠れ家　月のしずく",
    "kana": "きのさきおんせん　けんそうのかくれが　つきのしずく",
-   "minCharge": 8000,
+   "minCharge": 10000,
    "reviewAverage": 4.7,
    "reviewCount": 392,
    "access": "ＪＲ山陰本線　城崎温泉駅より徒歩にて１０分",
@@ -254,7 +254,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 7200,
+   "minCharge": 5100,
    "reviewAverage": 4.67,
    "reviewCount": 18,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",

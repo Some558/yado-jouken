@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 73924,
    "name": "熱海温泉　海辺の宿　長濱苑",
    "kana": "あたみおんせん　うみべのやど　ながはまえん",
-   "minCharge": 6600,
+   "minCharge": 7700,
    "reviewAverage": 4.4,
    "reviewCount": 556,
    "access": "■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分　バス停「長浜」目の前",
@@ -235,7 +235,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 19800,
+   "minCharge": 18700,
    "reviewAverage": 4.4,
    "reviewCount": 2582,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -337,7 +337,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 7000,
+   "minCharge": 8000,
    "reviewAverage": 4.15,
    "reviewCount": 869,
    "access": "熱海駅より徒歩20分。車５分。",

@@ -4,7 +4,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-11",
+ "dataAsOf": "2026-08-12",
  "recordCount": 356,
  "conditions": [
   {
@@ -689,7 +689,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 17300,
+   "minCharge": 14300,
    "reviewAverage": 4.55,
    "reviewCount": 396,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",
@@ -713,7 +713,7 @@
    "hotelNo": 50826,
    "name": "水の音（共立リゾート）",
    "kana": "みずのと（きょうりつりぞーと）",
-   "minCharge": 11550,
+   "minCharge": 12650,
    "reviewAverage": 4.54,
    "reviewCount": 2344,
    "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
@@ -788,7 +788,7 @@
    "hotelNo": 162753,
    "name": "箱根風雅",
    "kana": "はこねふうが",
-   "minCharge": 8800,
+   "minCharge": 11000,
    "reviewAverage": 4.51,
    "reviewCount": 1713,
    "access": "バス停「仙石高原」より徒歩約7分／小田原駅より箱根登山バスにて約50分／バスタ新宿より高速バスにて約2時間",
@@ -1421,7 +1421,7 @@
    "hotelNo": 1729,
    "name": "箱根湯本温泉　湯本富士屋ホテル",
    "kana": "はこねゆもとおんせん　ゆもとふじやほてる",
-   "minCharge": 17600,
+   "minCharge": 17050,
    "reviewAverage": 4.36,
    "reviewCount": 1449,
    "access": "新宿駅より小田急線ロマンスカーにて約90分、箱根湯本駅下車徒歩3分。",
@@ -1493,6 +1493,31 @@
    ]
   },
   {
+   "hotelNo": 74776,
+   "name": "仙石原　品の木一の湯",
+   "kana": "せんごくはら　しなのきいちのゆ",
+   "minCharge": 9256,
+   "reviewAverage": 4.32,
+   "reviewCount": 841,
+   "access": "品の木箱根ハイランドホテル前下車後徒歩にて１分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原940-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D74776",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D74776%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D74776",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/74776.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74776/74776.jpg",
+   "special": "コンセプトルームが自慢の宿。滞在中の飲み物はオールインクルーシブなので追加料金気にせず安心♪",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo"
+   ]
+  },
+  {
    "hotelNo": 172913,
    "name": "箱根　ゆとわ",
    "kana": "はこね　ゆとわ",
@@ -1516,31 +1541,6 @@
     "dinner",
     "sauna",
     "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 74776,
-   "name": "仙石原　品の木一の湯",
-   "kana": "せんごくはら　しなのきいちのゆ",
-   "minCharge": 9724,
-   "reviewAverage": 4.32,
-   "reviewCount": 841,
-   "access": "品の木箱根ハイランドホテル前下車後徒歩にて１分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原940-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D74776",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D74776%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D74776",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/74776.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/74776/74776.jpg",
-   "special": "コンセプトルームが自慢の宿。滞在中の飲み物はオールインクルーシブなので追加料金気にせず安心♪",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
    ]
   },
   {
@@ -1895,7 +1895,7 @@
    "hotelNo": 37864,
    "name": "箱根湯本温泉　箱根の森　おかだ",
    "kana": "はこねゆもとおんせん　はこねのもり　おかだ",
-   "minCharge": 9600,
+   "minCharge": 9000,
    "reviewAverage": 4.11,
    "reviewCount": 854,
    "access": "箱根湯本駅／小田原厚木ＩＣ終点より１０分",
@@ -2089,6 +2089,30 @@
    ]
   },
   {
+   "hotelNo": 196301,
+   "name": "フォートリート箱根仙石原",
+   "kana": "ふぉーとりーとはこねせんごくはら",
+   "minCharge": 5500,
+   "reviewAverage": 4.01,
+   "reviewCount": 77,
+   "access": "箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原1290",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196301",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196301%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196301",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196301.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196301/196301.jpg",
+   "special": "全客室ダイニングテーブル・キッチン完備／長期滞在・グループ旅行におすすめ",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
@@ -2111,30 +2135,6 @@
     "dinner",
     "kashikiri-buro",
     "pet-ok"
-   ]
-  },
-  {
-   "hotelNo": 196301,
-   "name": "フォートリート箱根仙石原",
-   "kana": "ふぉーとりーとはこねせんごくはら",
-   "minCharge": 6600,
-   "reviewAverage": 4.01,
-   "reviewCount": 77,
-   "access": "箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原1290",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196301",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196301%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196301",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196301.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196301/196301.jpg",
-   "special": "全客室ダイニングテーブル・キッチン完備／長期滞在・グループ旅行におすすめ",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner"
    ]
   },
   {
