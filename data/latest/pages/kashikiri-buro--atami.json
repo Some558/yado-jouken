@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5000,
+  "minPrice": 4840,
   "medianPrice": 10340,
   "reviewAvgMean": 4.3,
   "pricedCount": 28
@@ -303,7 +303,7 @@
    "hotelNo": 27985,
    "name": "熱海温泉　旅の宿　かみむら",
    "kana": "あたみおんせん　たびのやど　かみむら",
-   "minCharge": 14610,
+   "minCharge": 13320,
    "reviewAverage": 4.16,
    "reviewCount": 162,
    "access": "ＪＲ熱海駅下車タクシー８分（送迎有り・要予約）",

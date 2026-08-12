@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "detection": {
   "type": "facility"
  },
@@ -252,7 +252,7 @@
    "hotelNo": 30664,
    "name": "源泉湯元の宿　旅館　国東荘",
    "kana": "くにさきそう",
-   "minCharge": 7400,
+   "minCharge": 6300,
    "reviewAverage": 4.56,
    "reviewCount": 215,
    "access": "日豊本線ＪＲ別府駅／大分自動車道　別府ICより車で５分",

@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "recordCount": 278,
  "conditions": [
   {
@@ -115,7 +115,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 7900,
+   "minCharge": 5400,
    "reviewAverage": 4.9,
    "reviewCount": 11,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
@@ -456,6 +456,30 @@
    ]
   },
   {
+   "hotelNo": 167027,
+   "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
+   "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
+   "minCharge": 28036,
+   "reviewAverage": 4.69,
+   "reviewCount": 200,
+   "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町軽井沢491-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167027",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167027%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167027",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167027.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167027/167027.jpg",
+   "special": "ヒルトン日本初進出のキュリオ。伝統と格式高い旧軽井沢という地にあるプライベートラグジュアリーホテル。",
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "sauna"
+   ]
+  },
+  {
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
@@ -475,30 +499,6 @@
     "kinen",
     "breakfast",
     "dinner"
-   ]
-  },
-  {
-   "hotelNo": 167027,
-   "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
-   "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 28864,
-   "reviewAverage": 4.69,
-   "reviewCount": 200,
-   "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢491-5",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167027",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167027%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167027",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167027.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167027/167027.jpg",
-   "special": "ヒルトン日本初進出のキュリオ。伝統と格式高い旧軽井沢という地にあるプライベートラグジュアリーホテル。",
-   "conditions": [
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "sauna"
    ]
   },
   {
@@ -590,7 +590,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 12000,
+   "minCharge": 10000,
    "reviewAverage": 4.67,
    "reviewCount": 1503,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -1340,7 +1340,7 @@
    "hotelNo": 16784,
    "name": "ホテル軽井沢エレガンス",
    "kana": "かるいざわ　えれがんす",
-   "minCharge": 10000,
+   "minCharge": 9600,
    "reviewAverage": 4.29,
    "reviewCount": 236,
    "access": "JR軽井沢駅より徒歩１０分、上信越自動車道碓井・軽井沢I.C.より約１５分",

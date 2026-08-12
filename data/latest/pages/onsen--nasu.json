@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2650,
-  "medianPrice": 11250,
+  "medianPrice": 11012,
   "reviewAvgMean": 4.38,
   "pricedCount": 48
  },
@@ -118,7 +118,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 8004,
+   "minCharge": 7728,
    "reviewAverage": 4.72,
    "reviewCount": 310,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -186,7 +186,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 31350,
+   "minCharge": 28050,
    "reviewAverage": 4.64,
    "reviewCount": 386,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",

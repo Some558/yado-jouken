@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "areas": [
   {
    "area": {
@@ -106,7 +106,7 @@
    "matchCount": 21,
    "matchRate": 23.3,
    "minPrice": 3980,
-   "medianPrice": 8004,
+   "medianPrice": 7728,
    "reviewAvgMean": 4.44
   },
   {
@@ -118,7 +118,7 @@
    "slug": "pet-ok--karuizawa",
    "matchCount": 16,
    "matchRate": 17.8,
-   "minPrice": 5528,
+   "minPrice": 5400,
    "medianPrice": 12445,
    "reviewAvgMean": 4.53
   },

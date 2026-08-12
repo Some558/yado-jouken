@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 161,
-  "matchRate": 45.2,
+  "matchRate": 45.0,
   "denominator": {
    "type": "area_total",
-   "value": 356,
+   "value": 358,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4900,
-  "medianPrice": 14850,
+  "medianPrice": 15334,
   "reviewAvgMean": 4.41,
   "pricedCount": 85
  },
@@ -254,7 +254,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 41800,
+   "minCharge": 40700,
    "reviewAverage": 4.72,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",

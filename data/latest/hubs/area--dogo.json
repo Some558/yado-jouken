@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "recordCount": 180,
  "conditions": [
   {
@@ -472,7 +472,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6400,
+   "minCharge": 6350,
    "reviewAverage": 4.49,
    "reviewCount": 1058,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -872,7 +872,7 @@
    "hotelNo": 179221,
    "name": "ホテルビスタ松山",
    "kana": "ほてるびすたまつやま",
-   "minCharge": 5300,
+   "minCharge": 5000,
    "reviewAverage": 4.29,
    "reviewCount": 713,
    "access": "■松山空港→リムジンバス約３０分→大街道電停徒歩１分　／　■ＪＲ松山駅→伊予電鉄 約１５分→大街道駅徒歩２分",
@@ -1213,7 +1213,7 @@
    "hotelNo": 17668,
    "name": "道後温泉　茶玻瑠",
    "kana": "どうごおんせん　ちゃはる",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.16,
    "reviewCount": 2797,
    "access": "私鉄伊予鉄道線道後温泉下車徒歩５分／ＪＲ予讃線松山駅下車タクシー１５分／松山空港から車で３０分",

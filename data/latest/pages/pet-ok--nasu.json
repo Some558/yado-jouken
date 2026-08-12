@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3980,
-  "medianPrice": 8004,
+  "medianPrice": 7728,
   "reviewAvgMean": 4.44,
   "pricedCount": 21
  },
@@ -65,7 +65,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 8004,
+   "minCharge": 7728,
    "reviewAverage": 4.72,
    "reviewCount": 310,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -150,7 +150,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 20000,
+   "minCharge": 17000,
    "reviewAverage": 4.51,
    "reviewCount": 63,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -303,7 +303,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 6720,
+   "minCharge": 6400,
    "reviewAverage": 4.3,
    "reviewCount": 484,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",

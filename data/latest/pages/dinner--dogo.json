@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-12",
+ "dataAsOf": "2026-08-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 9350,
+  "medianPrice": 8800,
   "reviewAvgMean": 4.32,
   "pricedCount": 27
  },
@@ -339,7 +339,7 @@
    "hotelNo": 17668,
    "name": "道後温泉　茶玻瑠",
    "kana": "どうごおんせん　ちゃはる",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.16,
    "reviewCount": 2797,
    "access": "私鉄伊予鉄道線道後温泉下車徒歩５分／ＪＲ予讃線松山駅下車タクシー１５分／松山空港から車で３０分",
