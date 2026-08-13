@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-13",
+ "dataAsOf": "2026-08-14",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 10000,
+   "minCharge": 11000,
    "reviewAverage": 4.67,
    "reviewCount": 1503,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -201,7 +201,7 @@
    "hotelNo": 67500,
    "name": "ザ・プリンス軽井沢",
    "kana": "ざ・ぷりんすかるいざわ",
-   "minCharge": 17089,
+   "minCharge": 17145,
    "reviewAverage": 4.46,
    "reviewCount": 319,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",

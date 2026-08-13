@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-13",
+ "dataAsOf": "2026-08-14",
  "recordCount": 180,
  "conditions": [
   {
@@ -319,7 +319,7 @@
    "hotelNo": 13429,
    "name": "道後温泉　大和屋本店",
    "kana": "どうごおんせん　やまとやほんてん",
-   "minCharge": 12523,
+   "minCharge": 14701,
    "reviewAverage": 4.62,
    "reviewCount": 2229,
    "access": "ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分",
@@ -1375,6 +1375,27 @@
    ]
   },
   {
+   "hotelNo": 15271,
+   "name": "大学にいちばん近い　ホテルサンガーデン松山（ＢＢＨホテルグループ）",
+   "kana": "だいがくにいちばんちかい　ほてるさんがーでんまつやま",
+   "minCharge": 3100,
+   "reviewAverage": 4.08,
+   "reviewCount": 904,
+   "access": "ＪＲ松山駅より路面電車12分→清水町駅より徒歩3分  松山ICより約25分",
+   "address1": "愛媛県",
+   "address2": "松山市平和通3-2-10",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15271",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15271%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15271",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15271.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15271/15271.jpg",
+   "special": "愛媛大学・松山大学・放送大学に一番近いホテルで道後、ビジネス街へのアクセスも良好です。",
+   "conditions": [
+    "kinen",
+    "breakfast"
+   ]
+  },
+  {
    "hotelNo": 20374,
    "name": "アビスイン道後・松山",
    "kana": "あびすいん　どうご・まつやま",
@@ -1390,27 +1411,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20374.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20374/20374.jpg",
    "special": "★無料朝食＿提供中！★換気・消毒・飛沫対策等、感染防止対策中！",
-   "conditions": [
-    "kinen",
-    "breakfast"
-   ]
-  },
-  {
-   "hotelNo": 15271,
-   "name": "大学にいちばん近い　ホテルサンガーデン松山（ＢＢＨホテルグループ）",
-   "kana": "だいがくにいちばんちかい　ほてるさんがーでんまつやま",
-   "minCharge": 3500,
-   "reviewAverage": 4.08,
-   "reviewCount": 904,
-   "access": "ＪＲ松山駅より路面電車12分→清水町駅より徒歩3分  松山ICより約25分",
-   "address1": "愛媛県",
-   "address2": "松山市平和通3-2-10",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15271",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15271%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15271",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15271.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15271/15271.jpg",
-   "special": "愛媛大学・松山大学・放送大学に一番近いホテルで道後、ビジネス街へのアクセスも良好です。",
    "conditions": [
     "kinen",
     "breakfast"

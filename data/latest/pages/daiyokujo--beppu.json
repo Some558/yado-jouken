@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-13",
+ "dataAsOf": "2026-08-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -118,7 +118,7 @@
    "hotelNo": 78167,
    "name": "別府明礬温泉　岡本屋旅館",
    "kana": "おかもとやりょかん",
-   "minCharge": 19800,
+   "minCharge": 18700,
    "reviewAverage": 4.63,
    "reviewCount": 498,
    "access": "ＪＲ別府駅から車で１５分、バスで約３０分　　別府ICより車で７分",
@@ -322,7 +322,7 @@
    "hotelNo": 151164,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　テラス御堂原",
    "kana": "せきや　りぞーと　てらす　みどうばる",
-   "minCharge": 14860,
+   "minCharge": 12660,
    "reviewAverage": 4.48,
    "reviewCount": 142,
    "access": "ＪＲ別府駅からタクシーで約１５分　高速別府ICから３分",

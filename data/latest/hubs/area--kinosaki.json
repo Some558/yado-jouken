@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-13",
+ "dataAsOf": "2026-08-14",
  "recordCount": 158,
  "conditions": [
   {
@@ -397,7 +397,7 @@
    "hotelNo": 138019,
    "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
    "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 19800,
+   "minCharge": 18700,
    "reviewAverage": 4.74,
    "reviewCount": 130,
    "access": "城崎温泉駅から徒歩７分",
@@ -1746,7 +1746,7 @@
    "hotelNo": 177593,
    "name": "ザ　グラン　リゾート城崎",
    "kana": "ざ　ぐらん　りぞーときのさき",
-   "minCharge": 5200,
+   "minCharge": 4300,
    "reviewAverage": 4.14,
    "reviewCount": 77,
    "access": "ＪＲ　城崎温泉駅よりお車にて約１０分",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-13",
+ "dataAsOf": "2026-08-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 145,
-  "matchRate": 40.5,
+  "matchRate": 40.6,
   "denominator": {
    "type": "area_total",
-   "value": 358,
+   "value": 357,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4900,
-  "medianPrice": 15334,
+  "medianPrice": 14850,
   "reviewAvgMean": 4.42,
   "pricedCount": 83
  },
@@ -203,7 +203,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 27600,
+   "minCharge": 26400,
    "reviewAverage": 4.78,
    "reviewCount": 895,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -356,7 +356,7 @@
    "hotelNo": 19985,
    "name": "箱根湯本温泉　箱根　花紋",
    "kana": "はこねゆもとおんせん　はこね　かもん",
-   "minCharge": 31900,
+   "minCharge": 25300,
    "reviewAverage": 4.65,
    "reviewCount": 828,
    "access": "箱根湯本駅より車で5分・徒歩15分、東名厚木ＩＣより車で30分　送迎は１５：００以降（ご宿泊の方のみ湯本駅到着後要電話）",

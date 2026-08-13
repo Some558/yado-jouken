@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-13",
+ "dataAsOf": "2026-08-14",
  "detection": {
   "type": "facility"
  },
@@ -167,7 +167,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 10710,
+   "minCharge": 9555,
    "reviewAverage": 4.44,
    "reviewCount": 8400,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
@@ -201,7 +201,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 17297,
+   "minCharge": 15580,
    "reviewAverage": 4.44,
    "reviewCount": 9,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",
