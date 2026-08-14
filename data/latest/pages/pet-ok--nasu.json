@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 17000,
+   "minCharge": 9000,
    "reviewAverage": 4.51,
    "reviewCount": 63,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -303,7 +303,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 6400,
+   "minCharge": 6080,
    "reviewAverage": 4.3,
    "reviewCount": 484,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",
@@ -320,7 +320,7 @@
    "hotelNo": 68250,
    "name": "ホテルラフォーレ那須",
    "kana": "ほてるらふぉーれなす",
-   "minCharge": 6750,
+   "minCharge": 6300,
    "reviewAverage": 4.28,
    "reviewCount": 1320,
    "access": "車：東北道那須ICより約10㎞　電車：ＪＲ那須塩原駅より車で約30分（無料送迎バス有/予約制）日光東照宮迄車で約90分",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 47,
-  "matchRate": 14.9,
+  "matchRate": 14.8,
   "denominator": {
    "type": "area_total",
-   "value": 315,
+   "value": 317,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,
-  "medianPrice": 12885,
+  "medianPrice": 13500,
   "reviewAvgMean": 4.5,
   "pricedCount": 26
  },
@@ -169,7 +169,7 @@
    "hotelNo": 43826,
    "name": "由布院温泉　かほりの郷　はな村",
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
-   "minCharge": 11000,
+   "minCharge": 14000,
    "reviewAverage": 4.68,
    "reviewCount": 772,
    "access": "ＪＲ　由布院駅より徒歩１0分／湯布院ＩＣより車で１０分/由布院駅までの送迎ご希望の方は由布院駅よりお電話下さい。",
@@ -322,7 +322,7 @@
    "hotelNo": 108557,
    "name": "由布の里　旅荘　牧場の家",
    "kana": "ゆふのさと　りょそう　まきばのいえ",
-   "minCharge": 12100,
+   "minCharge": 16500,
    "reviewAverage": 4.38,
    "reviewCount": 336,
    "access": "ＪＲ 由布院駅から徒歩約10分程、お車で約2分。湯布院 ICよりお車で約7分程でございます。",

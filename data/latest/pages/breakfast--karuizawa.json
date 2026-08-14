@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -23,7 +23,7 @@
    "value": 278,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
-  "minPrice": 4500,
+  "minPrice": 4100,
   "medianPrice": 11620,
   "reviewAvgMean": 4.44,
   "pricedCount": 58
@@ -101,7 +101,7 @@
    "hotelNo": 136825,
    "name": "軽井沢　ホテル鹿島ノ森（オークラホテルズ＆リゾーツ）",
    "kana": "かじまのもりおーくらほてるずあんどりぞーつ",
-   "minCharge": 24800,
+   "minCharge": 20550,
    "reviewAverage": 4.77,
    "reviewCount": 248,
    "access": "お車：上信越自動車道 碓氷軽井沢ICから約20分　新幹線：JR軽井沢駅下車、タクシーで約7分　駅からの送迎はございません",
@@ -135,7 +135,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 37400,
+   "minCharge": 34100,
    "reviewAverage": 4.75,
    "reviewCount": 118,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -288,7 +288,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 28251,
+   "minCharge": 28673,
    "reviewAverage": 4.69,
    "reviewCount": 465,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",
@@ -356,7 +356,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 13680,
+   "minCharge": 12555,
    "reviewAverage": 4.67,
    "reviewCount": 128,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",

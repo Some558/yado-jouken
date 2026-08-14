@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 19667,
+   "minCharge": 21767,
    "reviewAverage": 4.45,
    "reviewCount": 301,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -303,7 +303,7 @@
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 20645,
+   "minCharge": 21397,
    "reviewAverage": 4.09,
    "reviewCount": 179,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",

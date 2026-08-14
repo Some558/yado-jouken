@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "facility"
  },
@@ -184,7 +184,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6625,
+   "minCharge": 7287,
    "reviewAverage": 4.55,
    "reviewCount": 649,
    "access": "別府駅東口より徒歩約1分！",
@@ -354,7 +354,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 6050,
+   "minCharge": 4950,
    "reviewAverage": 4.34,
    "reviewCount": 619,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",

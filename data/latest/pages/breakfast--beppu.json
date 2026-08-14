@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -186,7 +186,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 19228,
+   "minCharge": 19354,
    "reviewAverage": 4.61,
    "reviewCount": 680,
    "access": "別府大学駅より徒歩１０分",
@@ -322,7 +322,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6625,
+   "minCharge": 7287,
    "reviewAverage": 4.55,
    "reviewCount": 649,
    "access": "別府駅東口より徒歩約1分！",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 12445,
+  "medianPrice": 12177,
   "reviewAvgMean": 4.53,
   "pricedCount": 16
  },
@@ -65,7 +65,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 37400,
+   "minCharge": 34100,
    "reviewAverage": 4.75,
    "reviewCount": 118,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -150,7 +150,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 13680,
+   "minCharge": 12555,
    "reviewAverage": 4.67,
    "reviewCount": 128,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -286,7 +286,7 @@
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 20645,
+   "minCharge": 21397,
    "reviewAverage": 4.09,
    "reviewCount": 179,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",

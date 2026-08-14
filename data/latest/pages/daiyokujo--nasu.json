@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-14",
+ "dataAsOf": "2026-08-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-15",
@@ -20,7 +20,7 @@
   "matchRate": 11.6,
   "denominator": {
    "type": "area_total",
-   "value": 345,
+   "value": 346,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2450,
@@ -101,7 +101,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 28050,
+   "minCharge": 31350,
    "reviewAverage": 4.64,
    "reviewCount": 386,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -172,7 +172,7 @@
    "minCharge": 8213,
    "reviewAverage": 4.59,
    "reviewCount": 1162,
-   "access": "【電車】那須塩原駅or黒磯駅より那須湯本方面のバス　友愛の森下車【高速バス】友愛の森下車　友愛の森からは送迎（要予約）",
+   "access": "【電車】那須塩原駅or黒磯駅より那須湯本方面のバス　友愛の森下車　友愛の森から無料送迎致します（要予約）",
    "address1": "栃木県",
    "address2": "那須郡那須町高久丙1577-9",
    "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25121",
@@ -339,7 +339,7 @@
    "hotelNo": 68250,
    "name": "ホテルラフォーレ那須",
    "kana": "ほてるらふぉーれなす",
-   "minCharge": 6750,
+   "minCharge": 6300,
    "reviewAverage": 4.28,
    "reviewCount": 1320,
    "access": "車：東北道那須ICより約10㎞　電車：ＪＲ那須塩原駅より車で約30分（無料送迎バス有/予約制）日光東照宮迄車で約90分",
