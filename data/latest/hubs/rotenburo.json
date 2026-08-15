@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-08-15",
+ "dataAsOf": "2026-08-16",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "rotenburo--hakone",
-   "matchCount": 62,
-   "matchRate": 68.9,
-   "minPrice": 7510,
-   "medianPrice": 15092,
-   "reviewAvgMean": 4.41
+   "matchCount": 69,
+   "matchRate": 76.7,
+   "minPrice": 4900,
+   "medianPrice": 14300,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "rotenburo--kusatsu",
-   "matchCount": 36,
-   "matchRate": 40.0,
-   "minPrice": 5691,
-   "medianPrice": 12600,
-   "reviewAvgMean": 4.39
+   "matchCount": 38,
+   "matchRate": 42.2,
+   "minPrice": 4150,
+   "medianPrice": 12150,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -38,10 +38,10 @@
     "officialName": "熱海"
    },
    "slug": "rotenburo--atami",
-   "matchCount": 62,
-   "matchRate": 68.9,
+   "matchCount": 65,
+   "matchRate": 72.2,
    "minPrice": 4840,
-   "medianPrice": 11100,
+   "medianPrice": 11200,
    "reviewAvgMean": 4.32
   },
   {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "rotenburo--beppu",
-   "matchCount": 55,
-   "matchRate": 61.1,
+   "matchCount": 59,
+   "matchRate": 65.6,
    "minPrice": 3000,
    "medianPrice": 9790,
-   "reviewAvgMean": 4.38
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "rotenburo--yufuin",
-   "matchCount": 65,
-   "matchRate": 72.2,
-   "minPrice": 5600,
-   "medianPrice": 17500,
-   "reviewAvgMean": 4.52
+   "matchCount": 75,
+   "matchRate": 83.3,
+   "minPrice": 4030,
+   "medianPrice": 15750,
+   "reviewAvgMean": 4.49
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "rotenburo--kinosaki",
-   "matchCount": 23,
-   "matchRate": 25.6,
+   "matchCount": 25,
+   "matchRate": 27.8,
    "minPrice": 7060,
    "medianPrice": 11550,
-   "reviewAvgMean": 4.44
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 36,
    "matchRate": 51.4,
    "minPrice": 4620,
-   "medianPrice": 9900,
+   "medianPrice": 9870,
    "reviewAvgMean": 4.23
   },
   {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "rotenburo--nasu",
-   "matchCount": 51,
-   "matchRate": 56.7,
+   "matchCount": 54,
+   "matchRate": 60.0,
    "minPrice": 2450,
    "medianPrice": 11000,
-   "reviewAvgMean": 4.4
+   "reviewAvgMean": 4.42
   },
   {
    "area": {

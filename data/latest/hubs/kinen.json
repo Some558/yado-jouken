@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-08-15",
+ "dataAsOf": "2026-08-16",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "kinen--hakone",
-   "matchCount": 204,
-   "matchRate": 57.1,
+   "matchCount": 184,
+   "matchRate": 51.5,
    "minPrice": 4900,
-   "medianPrice": 14850,
-   "reviewAvgMean": 4.42
+   "medianPrice": 13200,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "kinen--kusatsu",
-   "matchCount": 69,
-   "matchRate": 45.1,
+   "matchCount": 43,
+   "matchRate": 28.1,
    "minPrice": 4150,
-   "medianPrice": 11200,
-   "reviewAvgMean": 4.38
+   "medianPrice": 12200,
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "kinen--atami",
-   "matchCount": 118,
-   "matchRate": 43.9,
+   "matchCount": 114,
+   "matchRate": 42.4,
    "minPrice": 4000,
-   "medianPrice": 10000,
-   "reviewAvgMean": 4.29
+   "medianPrice": 10141,
+   "reviewAvgMean": 4.3
   },
   {
    "area": {
@@ -51,10 +51,10 @@
     "officialName": "別府・日出"
    },
    "slug": "kinen--beppu",
-   "matchCount": 156,
-   "matchRate": 62.2,
-   "minPrice": 1500,
-   "medianPrice": 8415,
+   "matchCount": 143,
+   "matchRate": 57.0,
+   "minPrice": 2500,
+   "medianPrice": 7700,
    "reviewAvgMean": 4.34
   },
   {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kinen--yufuin",
-   "matchCount": 175,
-   "matchRate": 55.2,
+   "matchCount": 192,
+   "matchRate": 60.6,
    "minPrice": 3070,
-   "medianPrice": 16700,
-   "reviewAvgMean": 4.53
+   "medianPrice": 14850,
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "kinen--kinosaki",
-   "matchCount": 71,
-   "matchRate": 44.9,
+   "matchCount": 74,
+   "matchRate": 46.8,
    "minPrice": 3000,
-   "medianPrice": 11825,
-   "reviewAvgMean": 4.44
+   "medianPrice": 12320,
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -90,11 +90,11 @@
     "officialName": "伊香保温泉・渋川"
    },
    "slug": "kinen--ikaho",
-   "matchCount": 42,
-   "matchRate": 60.0,
+   "matchCount": 37,
+   "matchRate": 52.9,
    "minPrice": 3500,
-   "medianPrice": 9295,
-   "reviewAvgMean": 4.22
+   "medianPrice": 9350,
+   "reviewAvgMean": 4.26
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kinen--nasu",
-   "matchCount": 135,
-   "matchRate": 39.0,
-   "minPrice": 2450,
-   "medianPrice": 9452,
-   "reviewAvgMean": 4.42
+   "matchCount": 126,
+   "matchRate": 36.3,
+   "minPrice": 3000,
+   "medianPrice": 8500,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kinen--karuizawa",
-   "matchCount": 95,
-   "matchRate": 34.2,
-   "minPrice": 4000,
-   "medianPrice": 11000,
-   "reviewAvgMean": 4.41
+   "matchCount": 80,
+   "matchRate": 28.8,
+   "minPrice": 4100,
+   "medianPrice": 10800,
+   "reviewAvgMean": 4.47
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "kinen--dogo",
-   "matchCount": 91,
-   "matchRate": 50.6,
+   "matchCount": 72,
+   "matchRate": 40.0,
    "minPrice": 1850,
-   "medianPrice": 5352,
-   "reviewAvgMean": 4.25
+   "medianPrice": 5650,
+   "reviewAvgMean": 4.29
   }
  ]
 }

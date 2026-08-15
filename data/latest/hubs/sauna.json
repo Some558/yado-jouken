@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-08-15",
+ "dataAsOf": "2026-08-16",
  "areas": [
   {
    "area": {
@@ -12,10 +12,10 @@
     "officialName": "箱根"
    },
    "slug": "sauna--hakone",
-   "matchCount": 39,
-   "matchRate": 43.3,
+   "matchCount": 42,
+   "matchRate": 46.7,
    "minPrice": 6330,
-   "medianPrice": 15400,
+   "medianPrice": 14575,
    "reviewAvgMean": 4.39
   },
   {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "sauna--kusatsu",
-   "matchCount": 13,
-   "matchRate": 14.4,
-   "minPrice": 5691,
+   "matchCount": 15,
+   "matchRate": 16.7,
+   "minPrice": 4150,
    "medianPrice": 14600,
-   "reviewAvgMean": 4.37
+   "reviewAvgMean": 4.34
   },
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "sauna--atami",
-   "matchCount": 34,
-   "matchRate": 37.8,
+   "matchCount": 36,
+   "matchRate": 40.0,
    "minPrice": 4840,
    "medianPrice": 13800,
-   "reviewAvgMean": 4.29
+   "reviewAvgMean": 4.27
   },
   {
    "area": {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "sauna--beppu",
-   "matchCount": 28,
-   "matchRate": 31.1,
+   "matchCount": 30,
+   "matchRate": 33.3,
    "minPrice": 2700,
-   "medianPrice": 7393,
-   "reviewAvgMean": 4.38
+   "medianPrice": 7600,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "sauna--yufuin",
-   "matchCount": 10,
-   "matchRate": 11.1,
+   "matchCount": 11,
+   "matchRate": 12.2,
    "minPrice": 8800,
-   "medianPrice": 9500,
-   "reviewAvgMean": 4.47
+   "medianPrice": 9950,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "sauna--nasu",
-   "matchCount": 21,
-   "matchRate": 23.3,
+   "matchCount": 22,
+   "matchRate": 24.4,
    "minPrice": 5980,
    "medianPrice": 11000,
-   "reviewAvgMean": 4.41
+   "reviewAvgMean": 4.42
   },
   {
    "area": {
@@ -132,7 +132,7 @@
    "matchCount": 28,
    "matchRate": 31.1,
    "minPrice": 3500,
-   "medianPrice": 6807,
+   "medianPrice": 6965,
    "reviewAvgMean": 4.3
   }
  ]

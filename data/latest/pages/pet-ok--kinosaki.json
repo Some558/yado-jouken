@@ -9,22 +9,22 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-15",
+ "dataAsOf": "2026-08-16",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 4,
-  "matchRate": 4.4,
+  "matchCount": 5,
+  "matchRate": 5.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 10250,
-  "reviewAvgMean": 4.46,
-  "pricedCount": 4
+  "medianPrice": 6000,
+  "reviewAvgMean": 4.43,
+  "pricedCount": 5
  },
  "hotels": [
   {
@@ -32,8 +32,8 @@
    "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
    "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
    "minCharge": 19900,
-   "reviewAverage": 4.7,
-   "reviewCount": 326,
+   "reviewAverage": 4.71,
+   "reviewCount": 327,
    "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
    "address1": "兵庫県",
    "address2": "豊岡市竹野町竹野3396-1",
@@ -49,8 +49,8 @@
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
    "minCharge": 5100,
-   "reviewAverage": 4.67,
-   "reviewCount": 18,
+   "reviewAverage": 4.68,
+   "reviewCount": 19,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
    "address1": "兵庫県",
    "address2": "豊岡市城崎町上山1414-4",
@@ -66,8 +66,8 @@
    "name": "城崎温泉　お宿　白山　花まんだら　【湯亭　花のれん】",
    "kana": "きのさきおんせん　おやど　はくさん　はなまんだら",
    "minCharge": 15400,
-   "reviewAverage": 4.36,
-   "reviewCount": 1003,
+   "reviewAverage": 4.38,
+   "reviewCount": 1005,
    "access": "ＪＲ山陰本線城崎温泉駅より無料バスで5分／中国自動車道吉川ＩＣ→舞鶴若狭道春日→北近畿自動車道終点→Ｒ３１２",
    "address1": "兵庫県",
    "address2": "豊岡市城崎町湯島564",
@@ -79,12 +79,29 @@
    "special": "「お宿白山」がプロデュース宿♪【湯亭花のれん】の別棟【花地蔵庵】♪無料貸切湯が４つに！"
   },
   {
+   "hotelNo": 8470,
+   "name": "ペンシオーネ　キタムラ",
+   "kana": "ぺんしおーね　きたむら",
+   "minCharge": 6000,
+   "reviewAverage": 4.24,
+   "reviewCount": 57,
+   "access": "車／北近畿豊岡自動車道・日高神鍋高原ICより国道482号で神鍋高原方面へ　電車／JR山陰本線「江原駅」よりバスで25分",
+   "address1": "兵庫県",
+   "address2": "豊岡市日高町太田159-10",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8470",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8470%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8470",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8470.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8470/8470.jpg",
+   "special": "ペットと一緒に、“美味しい”も“楽しい”も。思い出は“みんな一緒”で、幸せは倍に。"
+  },
+  {
    "hotelNo": 20407,
    "name": "こだま荘",
    "kana": "こだまそう",
    "minCharge": 3500,
-   "reviewAverage": 4.1,
-   "reviewCount": 78,
+   "reviewAverage": 4.14,
+   "reviewCount": 79,
    "access": "舞鶴自動車道福知山ＩＣより国道９号・国道４２６号経由、約３８㎞",
    "address1": "兵庫県",
    "address2": "豊岡市但東町相田36",
@@ -96,5 +113,5 @@
    "special": "別荘感覚で、仲間との手作りのパーティー、 バーベキュー、かに鍋 など楽しい感覚でお使い下さい。"
   }
  ],
- "listedMatchCount": 4
+ "listedMatchCount": 5
 }

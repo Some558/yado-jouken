@@ -9,22 +9,22 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-15",
+ "dataAsOf": "2026-08-16",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 4,
-  "matchRate": 4.4,
+  "matchCount": 5,
+  "matchRate": 5.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1500,
-  "medianPrice": 8080,
-  "reviewAvgMean": 3.98,
-  "pricedCount": 4
+  "medianPrice": 7700,
+  "reviewAvgMean": 4.06,
+  "pricedCount": 5
  },
  "hotels": [
   {
@@ -43,6 +43,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196407.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196407/196407.jpg",
    "special": "全棟半露天風呂付！天然温泉×部屋食×プライベートグランピング"
+  },
+  {
+   "hotelNo": 180427,
+   "name": "別府　丘と海のドッグリゾート（旧：別府風雅）",
+   "kana": "べっぷ　おかとうみのどっぐりぞーと（べっぷふうが）",
+   "minCharge": 7700,
+   "reviewAverage": 4.33,
+   "reviewCount": 813,
+   "access": "別府I，Cより車で約1分、別府駅よりバス堀田温泉前下車 徒歩約６分、車またはタクシーで別府駅約１５分、大分空港約４０分",
+   "address1": "大分県",
+   "address2": "別府市堀田町11-69",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180427",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D180427%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180427",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180427.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180427/180427.jpg",
+   "special": "【2026年6月20日　全館リニューアル】全室愛犬同伴可。愛犬と食事も楽しめる温泉宿"
   },
   {
    "hotelNo": 136026,
@@ -66,7 +83,7 @@
    "name": "別府温泉　ホテル好楽",
    "kana": "べっぷおんせん　こうらく",
    "minCharge": 5760,
-   "reviewAverage": 3.86,
+   "reviewAverage": 3.88,
    "reviewCount": 704,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",
    "address1": "大分県",
@@ -83,8 +100,8 @@
    "name": "別府駅前　ホテルはやし",
    "kana": "べっぷえきまえ　はやし",
    "minCharge": 1500,
-   "reviewAverage": 3.43,
-   "reviewCount": 1428,
+   "reviewAverage": 3.45,
+   "reviewCount": 1436,
    "access": "別府駅前すぐ",
    "address1": "大分県",
    "address2": "別府市駅前本町3-5",
@@ -96,5 +113,5 @@
    "special": "展望風呂有り。ビジネス・観光に便利。"
   }
  ],
- "listedMatchCount": 4
+ "listedMatchCount": 5
 }
