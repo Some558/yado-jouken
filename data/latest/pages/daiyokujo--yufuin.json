@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -305,7 +305,7 @@
    "hotelNo": 32476,
    "name": "由布院温泉　湯布院　山灯館",
    "kana": "ゆふいんおんせん　ゆふいん　さんとうかん",
-   "minCharge": 11900,
+   "minCharge": 11300,
    "reviewAverage": 4.45,
    "reviewCount": 54,
    "access": "JR　由布院駅より車で５分　徒歩で１５分　金鱗湖に近く　ショッピング湯の坪街道に便利な立地",

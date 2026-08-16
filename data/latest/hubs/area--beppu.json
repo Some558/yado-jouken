@@ -4,7 +4,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "recordCount": 251,
  "conditions": [
   {
@@ -373,7 +373,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 19354,
+   "minCharge": 19228,
    "reviewAverage": 4.61,
    "reviewCount": 682,
    "access": "別府大学駅より徒歩１０分",
@@ -564,7 +564,7 @@
    "hotelNo": 30664,
    "name": "源泉湯元の宿　旅館　国東荘",
    "kana": "くにさきそう",
-   "minCharge": 6300,
+   "minCharge": 7400,
    "reviewAverage": 4.56,
    "reviewCount": 217,
    "access": "日豊本線ＪＲ別府駅／大分自動車道　別府ICより車で５分",
@@ -828,7 +828,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 6600,
+   "minCharge": 7700,
    "reviewAverage": 4.48,
    "reviewCount": 643,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
@@ -848,6 +848,30 @@
     "dinner",
     "rotenburo",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 136033,
+   "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
+   "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
+   "minCharge": 8525,
+   "reviewAverage": 4.47,
+   "reviewCount": 184,
+   "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
+   "address1": "大分県",
+   "address2": "別府市火売1組",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D136033",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D136033%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D136033",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136033.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136033/136033.jpg",
+   "special": "【PCページでご覧頂くとより見やすくなります。　】　木々に囲まれた全６室の静かな料理宿　",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
    ]
   },
   {
@@ -899,30 +923,6 @@
     "breakfast",
     "dinner",
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 136033,
-   "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
-   "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 13557,
-   "reviewAverage": 4.47,
-   "reviewCount": 184,
-   "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
-   "address1": "大分県",
-   "address2": "別府市火売1組",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D136033",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D136033%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D136033",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136033.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136033/136033.jpg",
-   "special": "【PCページでご覧頂くとより見やすくなります。　】　木々に囲まれた全６室の静かな料理宿　",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "kashikiri-buro"
    ]
   },
   {
@@ -1198,7 +1198,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 4950,
+   "minCharge": 6050,
    "reviewAverage": 4.35,
    "reviewCount": 621,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",
@@ -1257,7 +1257,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180427",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180427.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180427/180427.jpg",
-   "special": "【2026年6月20日　全館リニューアル】全室愛犬同伴可。愛犬と食事も楽しめる温泉宿",
+   "special": "【2026年6月20日リブランドオープン】全室愛犬同伴可。愛犬と食事も楽しめる温泉宿",
    "conditions": [
     "onsen",
     "daiyokujo",
@@ -1892,7 +1892,7 @@
    "hotelNo": 136026,
    "name": "別府温泉　わんこの宿　ゆるり",
    "kana": "べっぷおんせん　わんこのやど　ゆるり",
-   "minCharge": 11550,
+   "minCharge": 10395,
    "reviewAverage": 4.04,
    "reviewCount": 171,
    "access": "別府駅よりお車にて約２０分",

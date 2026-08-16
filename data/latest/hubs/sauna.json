@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "areas": [
   {
    "area": {
@@ -25,10 +25,10 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "sauna--kusatsu",
-   "matchCount": 15,
-   "matchRate": 16.7,
+   "matchCount": 14,
+   "matchRate": 15.6,
    "minPrice": 4150,
-   "medianPrice": 14600,
+   "medianPrice": 13400,
    "reviewAvgMean": 4.34
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 36,
    "matchRate": 40.0,
    "minPrice": 4840,
-   "medianPrice": 13800,
+   "medianPrice": 11899,
    "reviewAvgMean": 4.27
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 30,
    "matchRate": 33.3,
    "minPrice": 2700,
-   "medianPrice": 7600,
+   "medianPrice": 7700,
    "reviewAvgMean": 4.37
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "sauna--karuizawa",
-   "matchCount": 19,
-   "matchRate": 21.1,
+   "matchCount": 20,
+   "matchRate": 22.2,
    "minPrice": 3700,
-   "medianPrice": 11800,
-   "reviewAvgMean": 4.45
+   "medianPrice": 15554,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {

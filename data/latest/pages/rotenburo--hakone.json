@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "facility"
  },
@@ -21,9 +21,9 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4900,
+  "minPrice": 7250,
   "medianPrice": 14300,
-  "reviewAvgMean": 4.4,
+  "reviewAvgMean": 4.41,
   "pricedCount": 69
  },
  "hotels": [
@@ -31,7 +31,7 @@
    "hotelNo": 151465,
    "name": "箱根・翠松園",
    "kana": "はこね・すいしょうえん",
-   "minCharge": 37950,
+   "minCharge": 34100,
    "reviewAverage": 5.0,
    "reviewCount": 83,
    "access": "箱根登山鉄道「小涌谷駅」より送迎（要予約）",
@@ -82,7 +82,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 39550,
+   "minCharge": 41810,
    "reviewAverage": 4.88,
    "reviewCount": 645,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -184,7 +184,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 20800,
+   "minCharge": 19800,
    "reviewAverage": 4.74,
    "reviewCount": 37,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -286,7 +286,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 9700,
+   "minCharge": 8900,
    "reviewAverage": 4.63,
    "reviewCount": 1389,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",

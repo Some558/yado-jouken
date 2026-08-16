@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 10,
-  "matchRate": 11.1,
+  "matchCount": 9,
+  "matchRate": 10.0,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5316,
-  "medianPrice": 10900,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.53,
-  "pricedCount": 10
+  "pricedCount": 9
  },
  "hotels": [
   {
@@ -113,23 +113,6 @@
    "special": "【7年連続楽天アワード受賞】食数限定フレンチ好評｜貸切風呂あり♪星野エリア車3分・結婚式前後泊も◎"
   },
   {
-   "hotelNo": 139840,
-   "name": "ペンション＆コテージ　ピエロ",
-   "kana": "ぺんしょんあんどこてーじ　ぴえろ",
-   "minCharge": 9000,
-   "reviewAverage": 4.57,
-   "reviewCount": 21,
-   "access": "軽井沢駅北口からお車で約５分、徒歩で約２５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢1148-35",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D139840",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D139840%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D139840",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/139840.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139840/139840.jpg",
-   "special": "肉料理と魚料理の両方付くコース料理でグルメに人気の宿アウトレットや駅まで車で約５分の好立地。"
-  },
-  {
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
@@ -198,5 +181,5 @@
    "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 10
+ "listedMatchCount": 9
 }

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,8 +24,8 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3070,
-  "medianPrice": 15875,
-  "reviewAvgMean": 4.52,
+  "medianPrice": 15625,
+  "reviewAvgMean": 4.54,
   "pricedCount": 76
  },
  "hotels": [
@@ -164,6 +164,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130609.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130609/130609.jpg",
    "special": "1日3組大人限定宿。源泉掛け流しの内湯付き離れと専用貸切り風呂付き客室で大分郷土料理を食す大人旅"
+  },
+  {
+   "hotelNo": 168504,
+   "name": "由布院　ＺＥＮ",
+   "kana": "ゆふいん　ぜん",
+   "minCharge": 12999,
+   "reviewAverage": 4.93,
+   "reviewCount": 64,
+   "access": "■ＪＲ由布院駅から車で５分　■湯布院インターから車で５分　※お越しの際はGoogleマップで検索してください。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川北596",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168504",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D168504%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D168504",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168504.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168504/168504.jpg",
+   "special": "湯布院盆地一望の全室一戸建離れ・大人限定宿。料理の鉄人推薦のシェフが作る料理を絶景が一望できる個室で"
   },
   {
    "hotelNo": 138081,
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/44815.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44815/44815.jpg",
    "special": "個性豊かな由布院温泉の旅館の中で夢想園は眺めがよく、大きな露天風呂にこだわり旅館を営んでいます。"
-  },
-  {
-   "hotelNo": 79345,
-   "name": "湯平温泉　奥ゆのひら　花灯り",
-   "kana": "おくゆのひら　はなあかり",
-   "minCharge": 21000,
-   "reviewAverage": 4.75,
-   "reviewCount": 131,
-   "access": "ＪＲ　湯平駅から車で１０分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町湯平675-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79345",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79345%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79345",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79345.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79345/79345.jpg",
-   "special": "湯平の静かな高台に佇む全室内湯・露天付の離れ宿。旬を奏でる創作会席と美人湯でゆったりとお過ごし下さい"
   }
  ],
  "listedMatchCount": 76

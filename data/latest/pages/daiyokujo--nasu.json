@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -67,7 +67,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 31350,
+   "minCharge": 33440,
    "reviewAverage": 4.64,
    "reviewCount": 387,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -271,7 +271,7 @@
    "hotelNo": 183740,
    "name": "フォレストリゾート　ホテルグリーンパール那須",
    "kana": "ふぉれすとりぞーと　ほてるぐりーんぱーるなす",
-   "minCharge": 12128,
+   "minCharge": 10500,
    "reviewAverage": 4.21,
    "reviewCount": 275,
    "access": "東北新幹線　那須塩原駅よりバスで45分　新那須バス亭下車　徒歩7分",

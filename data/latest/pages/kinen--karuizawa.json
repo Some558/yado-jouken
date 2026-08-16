@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -26,7 +26,7 @@
   "minPrice": 4100,
   "medianPrice": 10800,
   "reviewAvgMean": 4.47,
-  "pricedCount": 47
+  "pricedCount": 46
  },
  "hotels": [
   {
@@ -169,7 +169,7 @@
    "hotelNo": 196141,
    "name": "グランディスタイル旧軽井沢ホテル＆リゾート",
    "kana": "ぐらんでぃすたいるきゅうかるいざわほてるあんどりぞーと",
-   "minCharge": 25740,
+   "minCharge": 25630,
    "reviewAverage": 4.7,
    "reviewCount": 187,
    "access": "軽井沢駅より車で約５分",
@@ -220,7 +220,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 28036,
+   "minCharge": 27414,
    "reviewAverage": 4.69,
    "reviewCount": 200,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -271,7 +271,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 21300,
+   "minCharge": 18400,
    "reviewAverage": 4.67,
    "reviewCount": 432,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -356,7 +356,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 23100,
+   "minCharge": 20350,
    "reviewAverage": 4.6,
    "reviewCount": 349,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -370,5 +370,5 @@
    "special": "【売れ筋ランキング第3位】7万坪の大自然と天然温泉、信州の贅を尽くしたフレンチも高評価"
   }
  ],
- "listedMatchCount": 47
+ "listedMatchCount": 46
 }

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "facility"
  },
@@ -303,7 +303,7 @@
    "hotelNo": 108574,
    "name": "由布院温泉　湯らり　六妙",
    "kana": "ゆらり　ろくみょう",
-   "minCharge": 17000,
+   "minCharge": 16000,
    "reviewAverage": 4.67,
    "reviewCount": 31,
    "access": "ＪＲ　由布院駅より徒歩にて１０分",

@@ -9,22 +9,22 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 15,
-  "matchRate": 16.7,
+  "matchCount": 14,
+  "matchRate": 15.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4150,
-  "medianPrice": 14600,
+  "medianPrice": 13400,
   "reviewAvgMean": 4.34,
-  "pricedCount": 15
+  "pricedCount": 14
  },
  "hotels": [
   {
@@ -264,24 +264,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172893.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172893/172893.jpg",
    "special": "2019年4月NEWOPEN！『和モダン×洋モダン』をテーマにした全客室温泉半露天風呂付スパホテル"
-  },
-  {
-   "hotelNo": 197879,
-   "name": "湯音の櫻",
-   "kana": "ゆのねのさくら",
-   "minCharge": 78000,
-   "reviewAverage": null,
-   "reviewCount": 1,
-   "access": "ＪＲ長野原草津口駅より草津温泉行路線　バスで約２５分。 草津バスターミナルから徒歩約３分。",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津226-5",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197879",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D197879%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D197879",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197879.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197879/197879.jpg",
-   "special": "2025年10月リニューOPEN！一棟貸切温泉旅館213㎡、BBQ＆サウナあり、最大11名様"
   }
  ],
- "listedMatchCount": 15
+ "listedMatchCount": 14
 }

@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "areas": [
   {
    "area": {
@@ -25,9 +25,9 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "kashikiri-buro--kusatsu",
-   "matchCount": 41,
-   "matchRate": 45.6,
-   "minPrice": 4890,
+   "matchCount": 40,
+   "matchRate": 44.4,
+   "minPrice": 4490,
    "medianPrice": 12100,
    "reviewAvgMean": 4.46
   },
@@ -41,7 +41,7 @@
    "matchCount": 29,
    "matchRate": 32.2,
    "minPrice": 4840,
-   "medianPrice": 10680,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.32
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 36,
    "matchRate": 40.0,
    "minPrice": 2700,
-   "medianPrice": 9095,
+   "medianPrice": 8645,
    "reviewAvgMean": 4.4
   },
   {
@@ -116,10 +116,10 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kashikiri-buro--karuizawa",
-   "matchCount": 10,
-   "matchRate": 11.1,
+   "matchCount": 9,
+   "matchRate": 10.0,
    "minPrice": 5316,
-   "medianPrice": 10900,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.53
   },
   {

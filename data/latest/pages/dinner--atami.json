@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4000,
-  "medianPrice": 11932,
+  "medianPrice": 11917,
   "reviewAvgMean": 4.3,
   "pricedCount": 68
  },
@@ -322,7 +322,7 @@
    "hotelNo": 75291,
    "name": "熱海倶楽部　迎賓館",
    "kana": "あたみくらぶ　げいひんかん",
-   "minCharge": 29700,
+   "minCharge": 33000,
    "reviewAverage": 4.55,
    "reviewCount": 4406,
    "access": "熱海駅より車で約８分。タクシーでお越しの場合は「熱海ゴルフ倶楽部」とお伝え下さい。",

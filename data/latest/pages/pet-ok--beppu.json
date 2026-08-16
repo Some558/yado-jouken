@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "facility"
  },
@@ -59,13 +59,13 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180427",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180427.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180427/180427.jpg",
-   "special": "【2026年6月20日　全館リニューアル】全室愛犬同伴可。愛犬と食事も楽しめる温泉宿"
+   "special": "【2026年6月20日リブランドオープン】全室愛犬同伴可。愛犬と食事も楽しめる温泉宿"
   },
   {
    "hotelNo": 136026,
    "name": "別府温泉　わんこの宿　ゆるり",
    "kana": "べっぷおんせん　わんこのやど　ゆるり",
-   "minCharge": 11550,
+   "minCharge": 10395,
    "reviewAverage": 4.04,
    "reviewCount": 171,
    "access": "別府駅よりお車にて約２０分",

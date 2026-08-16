@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -23,7 +23,7 @@
    "value": 357,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 4900,
+  "minPrice": 5500,
   "medianPrice": 13200,
   "reviewAvgMean": 4.41,
   "pricedCount": 75
@@ -33,7 +33,7 @@
    "hotelNo": 151465,
    "name": "箱根・翠松園",
    "kana": "はこね・すいしょうえん",
-   "minCharge": 37950,
+   "minCharge": 34100,
    "reviewAverage": 5.0,
    "reviewCount": 83,
    "access": "箱根登山鉄道「小涌谷駅」より送迎（要予約）",
@@ -84,7 +84,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 39550,
+   "minCharge": 41810,
    "reviewAverage": 4.88,
    "reviewCount": 645,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -220,7 +220,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 44000,
+   "minCharge": 55000,
    "reviewAverage": 4.74,
    "reviewCount": 144,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -305,7 +305,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 9700,
+   "minCharge": 8900,
    "reviewAverage": 4.63,
    "reviewCount": 1389,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",

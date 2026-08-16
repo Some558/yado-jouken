@@ -4,7 +4,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-16",
+ "dataAsOf": "2026-08-17",
  "recordCount": 153,
  "conditions": [
   {
@@ -652,7 +652,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 13680,
+   "minCharge": 14680,
    "reviewAverage": 4.61,
    "reviewCount": 40,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -1524,6 +1524,24 @@
    "conditions": []
   },
   {
+   "hotelNo": 38293,
+   "name": "草津温泉　ペンション　ブルーベル＜群馬県＞",
+   "kana": "くさつおんせん　ぶるーべる＜ぐんまけん＞",
+   "minCharge": 9900,
+   "reviewAverage": 4.2,
+   "reviewCount": 57,
+   "access": "ＪＲ長野原草津口ＪＲバス２５分草津温泉バスターミナル／関越自動車道　渋川伊香保ＩＣ下車８０分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町464-424",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38293",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38293%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38293",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38293.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38293/38293.jpg",
+   "special": "貸しきり天然温泉、美味しい料理、猫のサスケ君",
+   "conditions": []
+  },
+  {
    "hotelNo": 2487,
    "name": "草津温泉　尻焼き風呂の桐島屋旅館",
    "kana": "くさつおんせん　しりやきぶろの　きりしまやりょかん",
@@ -1877,7 +1895,7 @@
    "hotelNo": 11091,
    "name": "小さなお宿　みとも",
    "kana": "ちいさなおやど　みとも",
-   "minCharge": 4890,
+   "minCharge": 4490,
    "reviewAverage": 3.86,
    "reviewCount": 239,
    "access": "関越自動車道・渋川伊香保ICより約70分／JR長野原草津駅より路線バスで約25分。草津温泉バスターミナル下車。徒歩約7分",
@@ -2011,27 +2029,6 @@
    "special": "国道沿いのベーカリーショップとコインランドリー併用の気軽なホテル(２４ｈ入浴ＯＫの温泉有ります。",
    "conditions": [
     "onsen"
-   ]
-  },
-  {
-   "hotelNo": 197879,
-   "name": "湯音の櫻",
-   "kana": "ゆのねのさくら",
-   "minCharge": 78000,
-   "reviewAverage": null,
-   "reviewCount": 1,
-   "access": "ＪＲ長野原草津口駅より草津温泉行路線　バスで約２５分。 草津バスターミナルから徒歩約３分。",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津226-5",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197879",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D197879%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D197879",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197879.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197879/197879.jpg",
-   "special": "2025年10月リニューOPEN！一棟貸切温泉旅館213㎡、BBQ＆サウナあり、最大11名様",
-   "conditions": [
-    "sauna",
-    "kashikiri-buro"
    ]
   }
  ]
