@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -116,7 +116,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 53200,
+   "minCharge": 51000,
    "reviewAverage": 4.73,
    "reviewCount": 169,
    "access": "ＪＲ　熱海駅",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -200,6 +200,23 @@
    "special": "由布院の風景を纏う宿『山荘 わらび野』で贅沢なひとときを・・・"
   },
   {
+   "hotelNo": 198450,
+   "name": "ＨＯＴＥＬ　ＭＯＤＡ",
+   "kana": "ほてる もだ",
+   "minCharge": 22500,
+   "reviewAverage": 4.86,
+   "reviewCount": 7,
+   "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上442-22",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198450",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198450%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198450",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198450.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198450/198450.jpg",
+   "special": "ほどける贅沢を、すべての滞在に。全7室露天風呂。15〜18時フリーフロー（アルコール無料）"
+  },
+  {
    "hotelNo": 56821,
    "name": "由布院温泉　癒しの里　観布亭",
    "kana": "ゆふいんおんせん　いやしのさと　かんぷてい",
@@ -215,23 +232,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56821.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56821/56821.jpg",
    "special": "全室、半露天風呂付の客室。雄大な由布山を眺めながら温泉でお寛ぎ下さい。"
-  },
-  {
-   "hotelNo": 198450,
-   "name": "ＨＯＴＥＬ　ＭＯＤＡ",
-   "kana": "ほてる もだ",
-   "minCharge": 24700,
-   "reviewAverage": 4.86,
-   "reviewCount": 7,
-   "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上442-22",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198450",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198450%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198450",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198450.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198450/198450.jpg",
-   "special": "ほどける贅沢を、すべての滞在に。全7室露天風呂。15〜18時フリーフロー（アルコール無料）"
   },
   {
    "hotelNo": 144993,

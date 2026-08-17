@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -167,7 +167,7 @@
    "hotelNo": 31202,
    "name": "由布院温泉　御宿　一禅",
    "kana": "ゆふいんおんせん　おやど　いちぜん",
-   "minCharge": 26700,
+   "minCharge": 24500,
    "reviewAverage": 4.29,
    "reviewCount": 303,
    "access": "JR由布院駅より車で５分／湯布院ICより車で１０分／大分空港より車で50分／別府より40分／福岡より1時間30分",

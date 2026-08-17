@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -235,7 +235,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7287,
+   "minCharge": 6625,
    "reviewAverage": 4.53,
    "reviewCount": 669,
    "access": "別府駅東口より徒歩約1分！",
@@ -269,7 +269,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 8525,
+   "minCharge": 7246,
    "reviewAverage": 4.47,
    "reviewCount": 184,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -303,7 +303,7 @@
    "hotelNo": 72876,
    "name": "別府観海寺温泉　旅亭　松葉屋",
    "kana": "べっぷかんかいじおんせん　りょてい　まつばや",
-   "minCharge": 15950,
+   "minCharge": 12650,
    "reviewAverage": 4.43,
    "reviewCount": 369,
    "access": "別府駅よりお車にて７分",

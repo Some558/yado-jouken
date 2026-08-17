@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7250,
-  "medianPrice": 14300,
+  "medianPrice": 14850,
   "reviewAvgMean": 4.41,
   "pricedCount": 69
  },
@@ -99,7 +99,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 25300,
+   "minCharge": 20900,
    "reviewAverage": 4.85,
    "reviewCount": 673,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -235,7 +235,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 10700,
+   "minCharge": 8500,
    "reviewAverage": 4.66,
    "reviewCount": 495,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",
@@ -269,7 +269,7 @@
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 13200,
+   "minCharge": 12100,
    "reviewAverage": 4.64,
    "reviewCount": 277,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",

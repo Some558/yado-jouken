@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 12000,
+   "minCharge": 11850,
    "reviewAverage": 4.91,
    "reviewCount": 171,
    "access": "黒磯駅よりお車で約２５分",
@@ -320,7 +320,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 27540,
+   "minCharge": 24420,
    "reviewAverage": 4.57,
    "reviewCount": 35,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",

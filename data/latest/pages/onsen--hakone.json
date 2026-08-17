@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 149,
-  "matchRate": 41.7,
+  "matchRate": 41.6,
   "denominator": {
    "type": "area_total",
-   "value": 357,
+   "value": 358,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 13097,
+  "medianPrice": 12997,
   "reviewAvgMean": 4.4,
   "pricedCount": 78
  },
@@ -101,7 +101,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 25300,
+   "minCharge": 20900,
    "reviewAverage": 4.85,
    "reviewCount": 673,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -118,7 +118,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 42250,
+   "minCharge": 46100,
    "reviewAverage": 4.82,
    "reviewCount": 61,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -220,7 +220,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 55000,
+   "minCharge": 40700,
    "reviewAverage": 4.74,
    "reviewCount": 144,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -288,7 +288,7 @@
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 13200,
+   "minCharge": 12100,
    "reviewAverage": 4.64,
    "reviewCount": 277,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",

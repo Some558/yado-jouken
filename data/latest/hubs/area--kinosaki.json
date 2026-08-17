@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "recordCount": 158,
  "conditions": [
   {
@@ -549,10 +549,34 @@
    ]
   },
   {
+   "hotelNo": 138019,
+   "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
+   "kana": "うましかくれが　ゆやど　やまよし",
+   "minCharge": 15300,
+   "reviewAverage": 4.72,
+   "reviewCount": 134,
+   "access": "城崎温泉駅から徒歩７分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島379",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D138019",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D138019%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D138019",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/138019.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138019/138019.jpg",
+   "special": "城崎のど真ん中♪なのに静かで美しい木屋町通りに佇むたった5室の 美食家集う、旨し隠れ宿。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 17600,
+   "minCharge": 21285,
    "reviewAverage": 4.72,
    "reviewCount": 462,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -571,30 +595,6 @@
     "breakfast",
     "dinner",
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 138019,
-   "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
-   "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 21000,
-   "reviewAverage": 4.72,
-   "reviewCount": 134,
-   "access": "城崎温泉駅から徒歩７分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島379",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D138019",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D138019%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D138019",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/138019.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/138019/138019.jpg",
-   "special": "城崎のど真ん中♪なのに静かで美しい木屋町通りに佇むたった5室の 美食家集う、旨し隠れ宿。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "kashikiri-buro"
    ]
   },
   {
@@ -1636,30 +1636,6 @@
    "conditions": []
   },
   {
-   "hotelNo": 8754,
-   "name": "城崎温泉　大和屋",
-   "kana": "きのさきおんせん　やまとや",
-   "minCharge": 8800,
-   "reviewAverage": 4.2,
-   "reviewCount": 76,
-   "access": "JR城崎温泉駅より約800m",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島427",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8754",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8754%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8754",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8754.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8754/8754.jpg",
-   "special": "城崎温泉ど真ん中！外湯めぐりや街歩きに超便利！家族で営むこじんまりとしたアットホームな宿です。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 72798,
    "name": "城崎温泉　泉都",
    "kana": "きのさきおんせん　せんと",
@@ -1702,6 +1678,30 @@
    "special": "【城崎温泉＋αの集中ケアを】鍼灸サロンが営むスモールホテル◆バレルサウナ（屋外）併設",
    "conditions": [
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 8754,
+   "name": "城崎温泉　大和屋",
+   "kana": "きのさきおんせん　やまとや",
+   "minCharge": 9900,
+   "reviewAverage": 4.2,
+   "reviewCount": 76,
+   "access": "JR城崎温泉駅より約800m",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島427",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8754",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8754%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8754",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8754.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8754/8754.jpg",
+   "special": "城崎温泉ど真ん中！外湯めぐりや街歩きに超便利！家族で営むこじんまりとしたアットホームな宿です。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
    ]
   },
   {

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 12000,
+   "minCharge": 11850,
    "reviewAverage": 4.91,
    "reviewCount": 171,
    "access": "黒磯駅よりお車で約２５分",
@@ -252,7 +252,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 33440,
+   "minCharge": 31350,
    "reviewAverage": 4.64,
    "reviewCount": 387,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",

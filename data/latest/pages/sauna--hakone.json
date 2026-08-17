@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-17",
+ "dataAsOf": "2026-08-18",
  "detection": {
   "type": "facility"
  },
@@ -201,7 +201,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 10000,
+   "minCharge": 13000,
    "reviewAverage": 4.55,
    "reviewCount": 6588,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -235,7 +235,7 @@
    "hotelNo": 162753,
    "name": "箱根風雅",
    "kana": "はこねふうが",
-   "minCharge": 11000,
+   "minCharge": 9900,
    "reviewAverage": 4.51,
    "reviewCount": 1719,
    "access": "バス停「仙石高原」より徒歩約7分／小田原駅より箱根登山バスにて約50分／バスタ新宿より高速バスにて約2時間",
