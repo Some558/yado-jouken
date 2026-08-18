@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-08-18",
+ "dataAsOf": "2026-08-19",
  "areas": [
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "sauna--atami",
    "matchCount": 36,
    "matchRate": 40.0,
-   "minPrice": 4000,
+   "minPrice": 4840,
    "medianPrice": 11899,
    "reviewAvgMean": 4.27
   },
@@ -66,7 +66,7 @@
    "slug": "sauna--yufuin",
    "matchCount": 11,
    "matchRate": 12.2,
-   "minPrice": 8800,
+   "minPrice": 8352,
    "medianPrice": 9950,
    "reviewAvgMean": 4.48
   },

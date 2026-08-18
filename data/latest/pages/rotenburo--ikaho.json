@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-18",
+ "dataAsOf": "2026-08-19",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 70871,
    "name": "伊香保温泉　香雲館",
    "kana": "こううんかん",
-   "minCharge": 25300,
+   "minCharge": 22000,
    "reviewAverage": 4.85,
    "reviewCount": 320,
    "access": "ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。",
@@ -354,7 +354,7 @@
    "hotelNo": 68264,
    "name": "伊香保温泉　よろこびの宿　しん喜",
    "kana": "いかほおんせん　よろこびのやど　しんき",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.21,
    "reviewCount": 366,
    "access": "上越線　渋川駅から伊香保温泉行バス乗車で２５分、「伊香保温泉バスターミナル」下車で徒歩２分",
