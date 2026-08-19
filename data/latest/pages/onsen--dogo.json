@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-19",
+ "dataAsOf": "2026-08-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 3100,
-  "medianPrice": 10075,
+  "medianPrice": 9625,
   "reviewAvgMean": 4.43,
   "pricedCount": 28
  },
@@ -67,7 +67,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 16500,
+   "minCharge": 17600,
    "reviewAverage": 4.75,
    "reviewCount": 2000,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -152,7 +152,7 @@
    "hotelNo": 151481,
    "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
    "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 65000,
+   "minCharge": 66000,
    "reviewAverage": 4.67,
    "reviewCount": 36,
    "access": "松山駅よりお車にて約３５分",
@@ -231,13 +231,13 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D13653",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/13653.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13653/13653.jpg",
-   "special": "5つ星☆明治レトロの趣きあふれる宿で、ビュッフェと会席の選択可能！家族旅にもカップルにも★"
+   "special": "【道後温泉本館へ徒歩3分】種類豊富なビュッフェと露天風呂を家族やカップルで楽しめる明治レトロの宿"
   },
   {
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 13200,
+   "minCharge": 14300,
    "reviewAverage": 4.5,
    "reviewCount": 692,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",

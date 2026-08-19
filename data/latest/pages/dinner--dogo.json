@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-19",
+ "dataAsOf": "2026-08-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 13200,
+  "medianPrice": 13750,
   "reviewAvgMean": 4.42,
   "pricedCount": 22
  },
@@ -50,7 +50,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 16500,
+   "minCharge": 17600,
    "reviewAverage": 4.75,
    "reviewCount": 2000,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -135,7 +135,7 @@
    "hotelNo": 151481,
    "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
    "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 65000,
+   "minCharge": 66000,
    "reviewAverage": 4.67,
    "reviewCount": 36,
    "access": "松山駅よりお車にて約３５分",
@@ -203,7 +203,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 13200,
+   "minCharge": 14300,
    "reviewAverage": 4.5,
    "reviewCount": 692,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-19",
+ "dataAsOf": "2026-08-20",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 11000,
+  "medianPrice": 10800,
   "reviewAvgMean": 4.22,
   "pricedCount": 17
  },
@@ -269,7 +269,7 @@
    "hotelNo": 153552,
    "name": "リブマックスリゾート箱根仙石原",
    "kana": "りぶまっくすりぞーとはこねせんごくばら",
-   "minCharge": 11000,
+   "minCharge": 9830,
    "reviewAverage": 3.87,
    "reviewCount": 285,
    "access": "【箱根登山バス】「台ヶ岳」バス停よりホテルまで徒歩にて約１０分　",
@@ -286,7 +286,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 3.81,
    "reviewCount": 77,
    "access": "上強羅駅より徒歩約１分",
@@ -303,7 +303,7 @@
    "hotelNo": 161012,
    "name": "リブマックスリゾート箱根芦ノ湖",
    "kana": "りぶまっくすりぞーとはこねあしのこ",
-   "minCharge": 9000,
+   "minCharge": 8000,
    "reviewAverage": 3.52,
    "reviewCount": 572,
    "access": "ＪＲ「小田原駅」よりお車にて約46分　伊豆箱根バス「大石バス停」から徒歩１分",

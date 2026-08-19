@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-19",
+ "dataAsOf": "2026-08-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3280,
-  "medianPrice": 9555,
+  "medianPrice": 8800,
   "reviewAvgMean": 4.33,
   "pricedCount": 39
  },
@@ -118,7 +118,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 34960,
+   "minCharge": 32775,
    "reviewAverage": 4.64,
    "reviewCount": 387,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -217,6 +217,23 @@
    "special": "エアコン完備で夏でも快適！ゲルで過ごす特別な時間★馬頭琴が彩る感動のひとときを♪"
   },
   {
+   "hotelNo": 7335,
+   "name": "那須温泉　ホテルエピナール那須",
+   "kana": "なすおんせん　えぴなーる　なす",
+   "minCharge": 7770,
+   "reviewAverage": 4.44,
+   "reviewCount": 8430,
+   "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
+   "address1": "栃木県",
+   "address2": "那須郡那須町大字高久丙１番地",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7335",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7335%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7335",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7335.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg",
+   "special": "地元の旬菜にこだわる食事＆施設充実のトップリゾート"
+  },
+  {
    "hotelNo": 31131,
    "name": "アクアスイート　二人の露天とミストサウナ付お部屋でフルコース",
    "kana": "あくあすいーと　ふたりのろてんとみすとさうなつきおへやでふるこーす",
@@ -232,23 +249,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31131.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31131/31131.jpg",
    "special": "木造平屋小さなホテル！温泉露天風呂とミストサウナ付客室でフルコースディナー！プライベート重視隠れ宿！"
-  },
-  {
-   "hotelNo": 7335,
-   "name": "那須温泉　ホテルエピナール那須",
-   "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 9555,
-   "reviewAverage": 4.44,
-   "reviewCount": 8430,
-   "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
-   "address1": "栃木県",
-   "address2": "那須郡那須町大字高久丙１番地",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7335",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7335%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7335",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7335.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7335/7335.jpg",
-   "special": "地元の旬菜にこだわる食事＆施設充実のトップリゾート"
   },
   {
    "hotelNo": 935,

@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-08-19",
+ "dataAsOf": "2026-08-20",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 136,
    "matchRate": 38.0,
    "minPrice": 5500,
-   "medianPrice": 12800,
+   "medianPrice": 12880,
    "reviewAvgMean": 4.4
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 84,
    "matchRate": 24.2,
    "minPrice": 4730,
-   "medianPrice": 9000,
+   "medianPrice": 8700,
    "reviewAvgMean": 4.41
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 30,
    "matchRate": 16.7,
    "minPrice": 2800,
-   "medianPrice": 13200,
+   "medianPrice": 13750,
    "reviewAvgMean": 4.42
   }
  ]

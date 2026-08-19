@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-19",
+ "dataAsOf": "2026-08-20",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6330,
-  "medianPrice": 14575,
+  "minPrice": 6430,
+  "medianPrice": 14025,
   "reviewAvgMean": 4.39,
   "pricedCount": 42
  },
@@ -269,7 +269,7 @@
    "hotelNo": 16106,
    "name": "小田急　山のホテル",
    "kana": "おだきゅう　やまのほてる",
-   "minCharge": 17600,
+   "minCharge": 15400,
    "reviewAverage": 4.5,
    "reviewCount": 1310,
    "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
