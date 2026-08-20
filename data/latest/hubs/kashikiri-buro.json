@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-08-20",
+ "dataAsOf": "2026-08-21",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "kashikiri-buro--hakone",
    "matchCount": 23,
    "matchRate": 25.6,
-   "minPrice": 5600,
-   "medianPrice": 18060,
+   "minPrice": 4800,
+   "medianPrice": 16500,
    "reviewAvgMean": 4.43
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 36,
    "matchRate": 40.0,
    "minPrice": 3456,
-   "medianPrice": 12500,
+   "medianPrice": 12950,
    "reviewAvgMean": 4.51
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 45,
    "matchRate": 50.0,
    "minPrice": 6000,
-   "medianPrice": 12650,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.53
   },
   {
@@ -91,7 +91,7 @@
    },
    "slug": "kashikiri-buro--ikaho",
    "matchCount": 20,
-   "matchRate": 28.6,
+   "matchRate": 28.2,
    "minPrice": 5600,
    "medianPrice": 9870,
    "reviewAvgMean": 4.34

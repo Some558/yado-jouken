@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-20",
+ "dataAsOf": "2026-08-21",
  "detection": {
   "type": "facility"
  },
@@ -235,7 +235,7 @@
    "hotelNo": 73924,
    "name": "熱海温泉　海辺の宿　長濱苑",
    "kana": "あたみおんせん　うみべのやど　ながはまえん",
-   "minCharge": 5500,
+   "minCharge": 6600,
    "reviewAverage": 4.42,
    "reviewCount": 557,
    "access": "■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分　バス停「長浜」目の前",

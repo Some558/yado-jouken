@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-20",
+ "dataAsOf": "2026-08-21",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5600,
-  "medianPrice": 18060,
+  "minPrice": 4800,
+  "medianPrice": 16500,
   "reviewAvgMean": 4.43,
   "pricedCount": 23
  },
@@ -116,7 +116,7 @@
    "hotelNo": 31681,
    "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘",
    "kana": "はこねゆもとおんせん　ていえんろてんをあじわうやど　ゆさかそう",
-   "minCharge": 22000,
+   "minCharge": 16500,
    "reviewAverage": 4.61,
    "reviewCount": 556,
    "access": "箱根湯本駅より徒歩約15分または旅館共同送迎バス（200円）で約5分／小田原厚木道路箱根口ＩＣ→国道1号→県道732号",
@@ -235,7 +235,7 @@
    "hotelNo": 184829,
    "name": "箱根ホテル小涌園（藤田観光リゾート）",
    "kana": "はこねほてるこわきえん（ふじたかんこうりぞーと）",
-   "minCharge": 21450,
+   "minCharge": 18850,
    "reviewAverage": 4.39,
    "reviewCount": 638,
    "access": "「小涌園」バス停徒歩すぐ／箱根登山鉄道「強羅」からシャトルバス有",

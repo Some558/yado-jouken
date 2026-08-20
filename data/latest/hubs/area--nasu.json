@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-20",
+ "dataAsOf": "2026-08-21",
  "recordCount": 347,
  "conditions": [
   {
@@ -774,7 +774,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 8800,
+   "minCharge": 9350,
    "reviewAverage": 4.58,
    "reviewCount": 496,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",
@@ -910,7 +910,7 @@
    "hotelNo": 52722,
    "name": "那須高原ペンションローレル　赤ちゃん子連れ歓迎の宿",
    "kana": "なすこうげんぺんしょんろーれるあかちゃんこづれかんげいのやど",
-   "minCharge": 6400,
+   "minCharge": 7150,
    "reviewAverage": 4.55,
    "reviewCount": 124,
    "access": "東北自動車道那須ＩＣまたは黒磯板室ＩＣより車20分",
@@ -1634,7 +1634,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 6375,
+   "minCharge": 5875,
    "reviewAverage": 4.22,
    "reviewCount": 1844,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",
