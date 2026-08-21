@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "sauna--hakone",
    "matchCount": 42,
    "matchRate": 46.7,
-   "minPrice": 6430,
+   "minPrice": 6330,
    "medianPrice": 14575,
    "reviewAvgMean": 4.39
   },
@@ -27,8 +27,8 @@
    "slug": "sauna--kusatsu",
    "matchCount": 14,
    "matchRate": 15.6,
-   "minPrice": 3775,
-   "medianPrice": 13400,
+   "minPrice": 3825,
+   "medianPrice": 13650,
    "reviewAvgMean": 4.34
   },
   {
@@ -40,7 +40,7 @@
    "slug": "sauna--atami",
    "matchCount": 36,
    "matchRate": 40.0,
-   "minPrice": 4840,
+   "minPrice": 4000,
    "medianPrice": 13175,
    "reviewAvgMean": 4.27
   },

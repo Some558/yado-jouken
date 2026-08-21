@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "recordCount": 269,
  "conditions": [
   {
@@ -934,7 +934,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.42,
    "reviewCount": 183,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -1685,7 +1685,7 @@
    "hotelNo": 177016,
    "name": "ザ　グラン　リゾート　エレガンテ熱海",
    "kana": "ざぐらんりぞーとえれがんてあたみ",
-   "minCharge": 5000,
+   "minCharge": 4000,
    "reviewAverage": 4.06,
    "reviewCount": 203,
    "access": "ＪＲ熱海駅より徒歩にて約２０分　タクシーでワンメーター　急な登り坂ですのでタクシー利用がおススメ",
@@ -1904,7 +1904,7 @@
    "hotelNo": 198719,
    "name": "ヴィラージュ熱海",
    "kana": "ヴぃらーじゅあたみ",
-   "minCharge": 9440,
+   "minCharge": 9180,
    "reviewAverage": 3.95,
    "reviewCount": 37,
    "access": "【JR】東海道線「熱海駅」徒歩14分、【JR】伊東線「来宮駅」徒歩12分",

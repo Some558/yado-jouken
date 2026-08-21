@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 93,
-  "matchRate": 26.8,
+  "matchRate": 26.7,
   "denominator": {
    "type": "area_total",
-   "value": 347,
+   "value": 348,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3800,
@@ -220,7 +220,7 @@
    "hotelNo": 18978,
    "name": "那須温泉　愛犬と泊まれる美味しいプチホテル　ザ・ハートフィールド・イン",
    "kana": "なすおんせん　あいけんととまれるおいしいぷちほてる　ざ・はーとふぃーるど・いん",
-   "minCharge": 19500,
+   "minCharge": 15000,
    "reviewAverage": 4.63,
    "reviewCount": 108,
    "access": "東北新幹線「那須塩原」駅・宇都宮線「黒磯」駅から車で35分／東北自動車道「那須IC」「白河IC」から車で20分",
@@ -288,7 +288,7 @@
    "hotelNo": 16139,
    "name": "カントリーハウス　パディントン＜栃木県＞",
    "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
-   "minCharge": 6000,
+   "minCharge": 8000,
    "reviewAverage": 4.58,
    "reviewCount": 1312,
    "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
@@ -299,7 +299,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
-   "special": "心ほっこり口コミ高評価★7月26日〜8月7日空室有★健康と美容を磨くきらり那須旅行"
+   "special": "心ほっこり口コミ高評価★8月22日〜8月31日空室有★健康と美容を磨くきらり那須旅行"
   },
   {
    "hotelNo": 29896,

@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 11825,
+  "medianPrice": 11275,
   "reviewAvgMean": 4.43,
   "pricedCount": 34
  },
@@ -220,7 +220,7 @@
    "hotelNo": 109048,
    "name": "たびたび　花院",
    "kana": "たびたび　かいん",
-   "minCharge": 14900,
+   "minCharge": 10100,
    "reviewAverage": 4.64,
    "reviewCount": 27,
    "access": "ＪＲ　城崎温泉駅からお車で７分（送迎有・要予約）　駐車場完備",

@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "onsen--hakone",
    "matchCount": 149,
-   "matchRate": 41.6,
+   "matchRate": 41.4,
    "minPrice": 4800,
-   "medianPrice": 13372,
+   "medianPrice": 12725,
    "reviewAvgMean": 4.4
   },
   {
@@ -27,8 +27,8 @@
    "slug": "onsen--kusatsu",
    "matchCount": 44,
    "matchRate": 28.8,
-   "minPrice": 3775,
-   "medianPrice": 12650,
+   "minPrice": 3825,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.35
   },
   {

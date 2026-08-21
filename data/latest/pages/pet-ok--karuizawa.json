@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 11000,
+  "medianPrice": 11800,
   "reviewAvgMean": 4.56,
   "pricedCount": 17
  },
@@ -53,7 +53,7 @@
    "reviewCount": 12,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
    "address1": "長野県",
-   "address2": "北佐久郡軽井沢町茂沢472-15",
+   "address2": "北佐久郡軽井沢町茂沢555-27",
    "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191512",
    "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D191512%26f_flg%3DPLAN",
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D191512",
@@ -133,7 +133,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 10980,
+   "minCharge": 12555,
    "reviewAverage": 4.69,
    "reviewCount": 129,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -167,7 +167,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 22110,
+   "minCharge": 21120,
    "reviewAverage": 4.67,
    "reviewCount": 790,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",

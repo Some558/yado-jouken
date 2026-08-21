@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 136,
-  "matchRate": 38.0,
+  "matchRate": 37.8,
   "denominator": {
    "type": "area_total",
-   "value": 358,
+   "value": 360,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4800,
-  "medianPrice": 12995,
+  "medianPrice": 12455,
   "reviewAvgMean": 4.4,
   "pricedCount": 77
  },
@@ -101,7 +101,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 20900,
+   "minCharge": 19800,
    "reviewAverage": 4.85,
    "reviewCount": 673,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -203,7 +203,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 55000,
+   "minCharge": 49500,
    "reviewAverage": 4.74,
    "reviewCount": 144,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -353,21 +353,21 @@
    "special": "★客室専用温泉露天風呂で免疫力を高めましょう★当館はわずか9室"
   },
   {
-   "hotelNo": 19786,
-   "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
-   "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 8500,
+   "hotelNo": 50826,
+   "name": "水の音（共立リゾート）",
+   "kana": "みずのと（きょうりつりぞーと）",
+   "minCharge": 8250,
    "reviewAverage": 4.55,
-   "reviewCount": 6588,
-   "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
+   "reviewCount": 2350,
+   "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
    "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本468-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D19786",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19786%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D19786",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19786.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg",
-   "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿"
+   "address2": "足柄下郡箱根町小涌谷492-23",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D50826",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D50826%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D50826",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50826.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50826/50826.jpg",
+   "special": "小涌谷温泉・宮ノ下温泉の2種の湯を愉しめ、13種の湯処で温泉三昧"
   }
  ],
  "listedMatchCount": 77

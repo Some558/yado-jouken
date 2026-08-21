@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 116,
-  "matchRate": 32.4,
+  "matchRate": 32.2,
   "denominator": {
    "type": "area_total",
-   "value": 358,
+   "value": 360,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 12725,
+  "medianPrice": 12387,
   "reviewAvgMean": 4.38,
   "pricedCount": 64
  },
@@ -285,6 +285,23 @@
    "special": "〜自分らしく過ごす〜もう一つの日常を当ホテルで体験。新しく生まれ変わった朝食で彩り豊かな朝を。"
   },
   {
+   "hotelNo": 50826,
+   "name": "水の音（共立リゾート）",
+   "kana": "みずのと（きょうりつりぞーと）",
+   "minCharge": 8250,
+   "reviewAverage": 4.55,
+   "reviewCount": 2350,
+   "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町小涌谷492-23",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D50826",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D50826%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D50826",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50826.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50826/50826.jpg",
+   "special": "小涌谷温泉・宮ノ下温泉の2種の湯を愉しめ、13種の湯処で温泉三昧"
+  },
+  {
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
@@ -300,23 +317,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19786.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19786/19786.jpg",
    "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿"
-  },
-  {
-   "hotelNo": 50826,
-   "name": "水の音（共立リゾート）",
-   "kana": "みずのと（きょうりつりぞーと）",
-   "minCharge": 13750,
-   "reviewAverage": 4.55,
-   "reviewCount": 2350,
-   "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町小涌谷492-23",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D50826",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D50826%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D50826",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50826.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50826/50826.jpg",
-   "special": "小涌谷温泉・宮ノ下温泉の2種の湯を愉しめ、13種の湯処で温泉三昧"
   },
   {
    "hotelNo": 179644,
@@ -339,7 +339,7 @@
    "hotelNo": 29488,
    "name": "箱根温泉　鶴井の宿　紫雲荘",
    "kana": "はこねおんせん　かくいのやど　しうんそう",
-   "minCharge": 20000,
+   "minCharge": 18480,
    "reviewAverage": 4.52,
    "reviewCount": 1148,
    "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",
@@ -356,7 +356,7 @@
    "hotelNo": 162753,
    "name": "箱根風雅",
    "kana": "はこねふうが",
-   "minCharge": 11000,
+   "minCharge": 9900,
    "reviewAverage": 4.51,
    "reviewCount": 1719,
    "access": "バス停「仙石高原」より徒歩約7分／小田原駅より箱根登山バスにて約50分／バスタ新宿より高速バスにて約2時間",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -20,7 +20,7 @@
   "matchRate": 14.7,
   "denominator": {
    "type": "area_total",
-   "value": 347,
+   "value": 348,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3280,
@@ -135,7 +135,7 @@
    "hotelNo": 18978,
    "name": "那須温泉　愛犬と泊まれる美味しいプチホテル　ザ・ハートフィールド・イン",
    "kana": "なすおんせん　あいけんととまれるおいしいぷちほてる　ざ・はーとふぃーるど・いん",
-   "minCharge": 19500,
+   "minCharge": 15000,
    "reviewAverage": 4.63,
    "reviewCount": 108,
    "access": "東北新幹線「那須塩原」駅・宇都宮線「黒磯」駅から車で35分／東北自動車道「那須IC」「白河IC」から車で20分",

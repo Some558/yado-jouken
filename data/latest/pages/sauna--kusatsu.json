@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-21",
+ "dataAsOf": "2026-08-22",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3775,
-  "medianPrice": 13400,
+  "minPrice": 3825,
+  "medianPrice": 13650,
   "reviewAvgMean": 4.34,
   "pricedCount": 14
  },
@@ -201,7 +201,7 @@
    "hotelNo": 181654,
    "name": "和える宿　高松",
    "kana": "あえるやど　たかまつ",
-   "minCharge": 12200,
+   "minCharge": 12700,
    "reviewAverage": 4.14,
    "reviewCount": 602,
    "access": "JR吾妻線長野原草津口駅より路線バスで約30分",
@@ -235,7 +235,7 @@
    "hotelNo": 199396,
    "name": "Ｂ／Ｃ　ＨＯＴＥＬ　草津",
    "kana": "びーばいしーほてるくさつ",
-   "minCharge": 3775,
+   "minCharge": 3825,
    "reviewAverage": 3.84,
    "reviewCount": 56,
    "access": "JR長野原草津口駅→バス約25分→草津温泉BT→徒歩約10分",
