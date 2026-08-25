@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-08-22",
+ "dataAsOf": "2026-08-26",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 142,
    "matchRate": 39.4,
    "minPrice": 4800,
-   "medianPrice": 12995,
-   "reviewAvgMean": 4.41
+   "medianPrice": 12320,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -26,10 +26,10 @@
    },
    "slug": "breakfast--kusatsu",
    "matchCount": 35,
-   "matchRate": 22.9,
+   "matchRate": 22.4,
    "minPrice": 3825,
-   "medianPrice": 13200,
-   "reviewAvgMean": 4.37
+   "medianPrice": 12100,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -41,8 +41,8 @@
    "matchCount": 92,
    "matchRate": 34.2,
    "minPrice": 4000,
-   "medianPrice": 11532,
-   "reviewAvgMean": 4.29
+   "medianPrice": 11365,
+   "reviewAvgMean": 4.3
   },
   {
    "area": {
@@ -52,10 +52,10 @@
    },
    "slug": "breakfast--beppu",
    "matchCount": 87,
-   "matchRate": 34.7,
+   "matchRate": 34.4,
    "minPrice": 2350,
    "medianPrice": 7837,
-   "reviewAvgMean": 4.34
+   "reviewAvgMean": 4.35
   },
   {
    "area": {
@@ -67,7 +67,7 @@
    "matchCount": 123,
    "matchRate": 38.8,
    "minPrice": 3070,
-   "medianPrice": 15625,
+   "medianPrice": 15300,
    "reviewAvgMean": 4.54
   },
   {
@@ -92,7 +92,7 @@
    "slug": "breakfast--ikaho",
    "matchCount": 40,
    "matchRate": 56.3,
-   "minPrice": 4350,
+   "minPrice": 4250,
    "medianPrice": 9020,
    "reviewAvgMean": 4.25
   },
@@ -120,7 +120,7 @@
    "matchRate": 21.9,
    "minPrice": 3900,
    "medianPrice": 11000,
-   "reviewAvgMean": 4.45
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -132,7 +132,7 @@
    "matchCount": 58,
    "matchRate": 32.2,
    "minPrice": 1850,
-   "medianPrice": 5700,
+   "medianPrice": 5779,
    "reviewAvgMean": 4.3
   }
  ]
