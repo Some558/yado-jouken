@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-26",
+ "dataAsOf": "2026-08-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 5000,
-  "medianPrice": 8213,
+  "medianPrice": 8800,
   "reviewAvgMean": 4.28,
   "pricedCount": 23
  },
@@ -118,7 +118,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 24420,
+   "minCharge": 22500,
    "reviewAverage": 4.57,
    "reviewCount": 35,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
@@ -305,7 +305,7 @@
    "hotelNo": 68157,
    "name": "フォートリート＋那須高原",
    "kana": "ふぉーとりーとぷらすなすこうげん",
-   "minCharge": 7700,
+   "minCharge": 6600,
    "reviewAverage": 4.11,
    "reviewCount": 1078,
    "access": "東北自動車道那須ICより車で約20分／那須塩原駅より路線バス有り（有料／要予約）詳しくはホテルまでお問い合わせ下さい",
@@ -322,7 +322,7 @@
    "hotelNo": 164840,
    "name": "伏楽（ふくらく）の館那須湯本店",
    "kana": "ふくらくのやかたなすゆもとてん",
-   "minCharge": 5500,
+   "minCharge": 8800,
    "reviewAverage": 4.04,
    "reviewCount": 378,
    "access": "東北自動車道那須I.Cより那須湯本方面　県道17号線　約11ｋｍ　所要時間約15分",

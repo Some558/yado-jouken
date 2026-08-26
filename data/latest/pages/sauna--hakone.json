@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-26",
+ "dataAsOf": "2026-08-27",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 9200,
+   "minCharge": 9600,
    "reviewAverage": 4.49,
    "reviewCount": 839,
    "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",

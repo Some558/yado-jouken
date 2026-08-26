@@ -4,7 +4,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-26",
+ "dataAsOf": "2026-08-27",
  "recordCount": 156,
  "conditions": [
   {
@@ -1919,7 +1919,7 @@
    "hotelNo": 129576,
    "name": "草津温泉　大東舘",
    "kana": "くさつおんせん　だいとうかん",
-   "minCharge": 6380,
+   "minCharge": 6150,
    "reviewAverage": 3.87,
    "reviewCount": 2816,
    "access": "草津温泉バスターミナルから徒歩５分",

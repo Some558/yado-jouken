@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-26",
+ "dataAsOf": "2026-08-27",
  "recordCount": 158,
  "conditions": [
   {
@@ -455,6 +455,30 @@
    ]
   },
   {
+   "hotelNo": 8766,
+   "name": "城崎温泉　つちや旅館",
+   "kana": "きのさきおんせん　つちやりょかん",
+   "minCharge": 11000,
+   "reviewAverage": 4.73,
+   "reviewCount": 246,
+   "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島573",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8766",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8766%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8766",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8766.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8766/8766.jpg",
+   "special": "2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 7597,
    "name": "城崎温泉　泉翠（せんすい）",
    "kana": "きのさきおんせん　せんすい",
@@ -476,30 +500,6 @@
     "breakfast",
     "dinner",
     "sauna",
-    "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 8766,
-   "name": "城崎温泉　つちや旅館",
-   "kana": "きのさきおんせん　つちやりょかん",
-   "minCharge": 13200,
-   "reviewAverage": 4.73,
-   "reviewCount": 246,
-   "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島573",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8766",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8766%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8766",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8766.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8766/8766.jpg",
-   "special": "2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -892,7 +892,7 @@
    "hotelNo": 56951,
    "name": "城崎温泉　但馬屋（たじまや）",
    "kana": "きのさきおんせん　たじまや",
-   "minCharge": 13200,
+   "minCharge": 9900,
    "reviewAverage": 4.59,
    "reviewCount": 333,
    "access": "ＪＲ　城崎温泉駅より徒歩１３分, 車　大阪より　中国道→吉川JCT→舞鶴若狭自動車道→春日JCT→北近畿豊岡自動車道",
@@ -1006,7 +1006,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 12980,
+   "minCharge": 10980,
    "reviewAverage": 4.56,
    "reviewCount": 1032,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",

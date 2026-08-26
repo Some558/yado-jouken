@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-26",
+ "dataAsOf": "2026-08-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4250,
-  "medianPrice": 9295,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.26,
   "pricedCount": 34
  },
@@ -322,7 +322,7 @@
    "hotelNo": 28606,
    "name": "伊香保温泉　福一",
    "kana": "いかほおんせん　ふくいち",
-   "minCharge": 9240,
+   "minCharge": 9636,
    "reviewAverage": 4.31,
    "reviewCount": 1691,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",

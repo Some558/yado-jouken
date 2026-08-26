@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-26",
+ "dataAsOf": "2026-08-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 1500,
-  "medianPrice": 8457,
+  "medianPrice": 8540,
   "reviewAvgMean": 4.37,
   "pricedCount": 72
  },
@@ -220,7 +220,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 15600,
+   "minCharge": 16600,
    "reviewAverage": 4.63,
    "reviewCount": 12737,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",
@@ -339,7 +339,7 @@
    "hotelNo": 183018,
    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
    "kana": "ぐらんヴぃりおほてるべっぷわん　わくら　るーといんほてるず",
-   "minCharge": 4000,
+   "minCharge": 5000,
    "reviewAverage": 4.57,
    "reviewCount": 1092,
    "access": "■別府駅より無料送迎バスあり（要予約）■別府湾スマートICより車で約10分　■大分空港より車で約35分　■駐車場無料",
