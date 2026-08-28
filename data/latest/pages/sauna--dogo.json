@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 6600,
+  "medianPrice": 6500,
   "reviewAvgMean": 4.3,
   "pricedCount": 28
  },
@@ -133,7 +133,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6200,
+   "minCharge": 6000,
    "reviewAverage": 4.48,
    "reviewCount": 1073,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -286,7 +286,7 @@
    "hotelNo": 130460,
    "name": "湯宿　砥邸－ＴＯＴＥＩ－",
    "kana": "ゆやど　とてい",
-   "minCharge": 3500,
+   "minCharge": 4050,
    "reviewAverage": 4.31,
    "reviewCount": 577,
    "access": "松山ＩＣより砥部方面へ１０分砥部町拾町交差点より１００m伊予市方面へ。バスはＪＲ四国で２０分 伊予鉄で３０分、高尾田下車",

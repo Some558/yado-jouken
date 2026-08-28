@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 16500,
+  "medianPrice": 18060,
   "reviewAvgMean": 4.43,
   "pricedCount": 23
  },
@@ -116,7 +116,7 @@
    "hotelNo": 31681,
    "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘",
    "kana": "はこねゆもとおんせん　ていえんろてんをあじわうやど　ゆさかそう",
-   "minCharge": 16500,
+   "minCharge": 22000,
    "reviewAverage": 4.62,
    "reviewCount": 557,
    "access": "箱根湯本駅より徒歩約15分または旅館共同送迎バス（200円）で約5分／小田原厚木道路箱根口ＩＣ→国道1号→県道732号",
@@ -167,7 +167,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 19250,
+   "minCharge": 20350,
    "reviewAverage": 4.46,
    "reviewCount": 1035,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",
@@ -320,7 +320,7 @@
    "hotelNo": 9669,
    "name": "箱根湯本温泉　箱根パークス吉野",
    "kana": "はこねゆもとおんせん　はこねぱーくすよしの",
-   "minCharge": 7130,
+   "minCharge": 7510,
    "reviewAverage": 4.28,
    "reviewCount": 1484,
    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",

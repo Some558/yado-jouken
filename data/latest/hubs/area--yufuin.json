@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "recordCount": 317,
  "conditions": [
   {
@@ -55,6 +55,30 @@
  ],
  "hotels": [
   {
+   "hotelNo": 187285,
+   "name": "由布院温泉グランピング　風の響き",
+   "kana": "ユフインオンセングランピング　カゼノヒビキ",
+   "minCharge": 16660,
+   "reviewAverage": 5.0,
+   "reviewCount": 45,
+   "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1314-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187285",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187285%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187285",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187285.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187285/187285.jpg",
+   "special": "全棟温泉付のドームテント×手ぶらで本格グランピング×由布院の人気スポットまで車で５分",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo"
+   ]
+  },
+  {
    "hotelNo": 109136,
    "name": "由布院温泉　御宿　たまゆら",
    "kana": "ゆふいんおんせん　おんやど　たまゆら",
@@ -70,30 +94,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109136.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109136/109136.jpg",
    "special": "湯布院の街並みを見下ろす高台に佇む離れ宿。朝、夕共にお食事はお部屋でごゆっくりお過ごし頂けます。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 187285,
-   "name": "由布院温泉グランピング　風の響き",
-   "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 18900,
-   "reviewAverage": 5.0,
-   "reviewCount": 45,
-   "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1314-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187285",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187285%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187285",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187285.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187285/187285.jpg",
-   "special": "全棟温泉付のドームテント×手ぶらで本格グランピング×由布院の人気スポットまで車で５分",
    "conditions": [
     "onsen",
     "kinen",
@@ -1406,7 +1406,7 @@
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 7930,
+   "minCharge": 6500,
    "reviewAverage": 4.48,
    "reviewCount": 313,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",
@@ -1753,7 +1753,7 @@
    "hotelNo": 76428,
    "name": "由布院温泉　由布院　寛ぎの宿　なな川",
    "kana": "ゆふいんおんせん　ゆふいん　くつろぎのやど　ななかわ",
-   "minCharge": 19600,
+   "minCharge": 33800,
    "reviewAverage": 4.25,
    "reviewCount": 118,
    "access": "由布院駅よりタクシーで５分",
@@ -1872,7 +1872,7 @@
    "hotelNo": 39494,
    "name": "由布院　梅園　ＧＡＲＤＥＮ　ＲＥＳＯＲＴ",
    "kana": "ゆふいん　ばいえん　がーでん　りぞーと",
-   "minCharge": 10310,
+   "minCharge": 13310,
    "reviewAverage": 4.12,
    "reviewCount": 523,
    "access": "ＪＲ九州久大本線　由布院駅から車で５分、徒歩３０分　＊金鱗湖まで自転車で3分（徒歩15分）観光にも好立地",
@@ -2117,7 +2117,7 @@
    "hotelNo": 184593,
    "name": "由布院　離れの宿　優夏月",
    "kana": "ゆふいん　はなれのやど　ゆうかげつ",
-   "minCharge": 7000,
+   "minCharge": 8000,
    "reviewAverage": 3.87,
    "reviewCount": 71,
    "access": "JR由布院駅より車で6分",

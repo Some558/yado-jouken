@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -23,8 +23,8 @@
    "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 4000,
-  "medianPrice": 11985,
+  "minPrice": 3500,
+  "medianPrice": 11485,
   "reviewAvgMean": 4.3,
   "pricedCount": 70
  },
@@ -84,7 +84,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 48400,
+   "minCharge": 50600,
    "reviewAverage": 4.8,
    "reviewCount": 76,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -254,7 +254,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 19166,
+   "minCharge": 18750,
    "reviewAverage": 4.58,
    "reviewCount": 321,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -305,7 +305,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10200,
+   "minCharge": 8200,
    "reviewAverage": 4.55,
    "reviewCount": 1081,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -33,7 +33,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 20900,
+   "minCharge": 18400,
    "reviewAverage": 4.73,
    "reviewCount": 432,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -169,7 +169,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 22550,
+   "minCharge": 23430,
    "reviewAverage": 4.6,
    "reviewCount": 352,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -302,6 +302,23 @@
    "special": "アットホームな御代田の老舗旅館。レジャー、ビジネスなどアクセス便利、人気の信州川魚料理もオススメ♪"
   },
   {
+   "hotelNo": 177042,
+   "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
+   "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
+   "minCharge": 7000,
+   "reviewAverage": 4.13,
+   "reviewCount": 247,
+   "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町軽井沢東288",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177042",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D177042%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177042",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177042.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177042/177042.jpg",
+   "special": "徒歩圏内に軽井沢アウトレットショッピングモールや旧軽井沢銀座、美術館などが点在。"
+  },
+  {
    "hotelNo": 3086,
    "name": "ホテルルートインコート軽井沢",
    "kana": "るーといんこーと　かるいざわ",
@@ -317,23 +334,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/3086.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/3086/3086.jpg",
    "special": "アウトレットだけでなく、佐久・軽井沢プリンス・湯の丸等長野県のスキー場へも便利！"
-  },
-  {
-   "hotelNo": 177042,
-   "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
-   "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 7400,
-   "reviewAverage": 4.13,
-   "reviewCount": 247,
-   "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢東288",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177042",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D177042%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177042",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177042.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177042/177042.jpg",
-   "special": "徒歩圏内に軽井沢アウトレットショッピングモールや旧軽井沢銀座、美術館などが点在。"
   },
   {
    "hotelNo": 182619,

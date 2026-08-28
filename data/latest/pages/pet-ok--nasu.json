@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3280,
+  "minPrice": 3980,
   "medianPrice": 8800,
   "reviewAvgMean": 4.46,
   "pricedCount": 23
@@ -116,7 +116,7 @@
    "hotelNo": 181751,
    "name": "那須ハミルの森",
    "kana": "なすはみるのもり",
-   "minCharge": 19200,
+   "minCharge": 21600,
    "reviewAverage": 4.67,
    "reviewCount": 126,
    "access": "那須塩原駅よりバスで30分　友愛の森バス停から徒歩1分",
@@ -286,7 +286,7 @@
    "hotelNo": 76430,
    "name": "温泉露天貸切や豪華客室露天の宿　ストリーム",
    "kana": "おんせんろてんかしきりやごうかきゃくしつろてんのやど　すとりーむ",
-   "minCharge": 3280,
+   "minCharge": 3980,
    "reviewAverage": 4.35,
    "reviewCount": 92,
    "access": "お車：東北道 那須ＩＣ－(那須街道 7km)－ファミリーマート左折400m右、バス：黒磯駅－守子坂－徒歩５分",
@@ -354,7 +354,7 @@
    "hotelNo": 68250,
    "name": "ホテルラフォーレ那須",
    "kana": "ほてるらふぉーれなす",
-   "minCharge": 6300,
+   "minCharge": 6930,
    "reviewAverage": 4.26,
    "reviewCount": 1368,
    "access": "車：東北道那須ICより約10㎞　電車：ＪＲ那須塩原駅より車で約30分（無料送迎バス有/予約制）日光東照宮迄車で約90分",

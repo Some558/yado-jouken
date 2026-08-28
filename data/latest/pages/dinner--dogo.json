@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -322,7 +322,7 @@
    "hotelNo": 76392,
    "name": "ＣＨＡＨＡＲＵ離れ　道後夢蔵　",
    "kana": "どうごゆめくら　りょあんなみろく",
-   "minCharge": 16500,
+   "minCharge": 15400,
    "reviewAverage": 4.16,
    "reviewCount": 185,
    "access": "道後温泉駅より徒歩５分/松山ICより車で30分/松山空港より車で40分",

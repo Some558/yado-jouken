@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 71,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4250,
+  "minPrice": 4350,
   "medianPrice": 9350,
   "reviewAvgMean": 4.26,
   "pricedCount": 21
@@ -235,7 +235,7 @@
    "hotelNo": 147842,
    "name": "フォレストリゾート　コニファーいわびつ",
    "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
-   "minCharge": 9870,
+   "minCharge": 10500,
    "reviewAverage": 4.25,
    "reviewCount": 412,
    "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
@@ -303,7 +303,7 @@
    "hotelNo": 31082,
    "name": "備長炭の湯　ホテル渋川ヒルズ（ＢＢＨホテルグループ）",
    "kana": "びんちょうたんのゆ　ほてるしぶかわひるず（びーびーえいちほてるぐるーぷ）",
-   "minCharge": 4250,
+   "minCharge": 4350,
    "reviewAverage": 3.97,
    "reviewCount": 1241,
    "access": "渋川駅より徒歩３分／渋川インターより１ｋｍ",

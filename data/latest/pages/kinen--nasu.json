@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-27",
+ "dataAsOf": "2026-08-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -169,7 +169,7 @@
    "hotelNo": 181751,
    "name": "那須ハミルの森",
    "kana": "なすはみるのもり",
-   "minCharge": 19200,
+   "minCharge": 21600,
    "reviewAverage": 4.67,
    "reviewCount": 126,
    "access": "那須塩原駅よりバスで30分　友愛の森バス停から徒歩1分",
