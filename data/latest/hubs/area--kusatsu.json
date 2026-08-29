@@ -4,7 +4,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-29",
+ "dataAsOf": "2026-08-30",
  "recordCount": 156,
  "conditions": [
   {
@@ -71,6 +71,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31637/31637.jpg",
    "special": "貸切専用露天を含め３種の風呂で草津の名湯を満喫！",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -81,7 +85,7 @@
    "kana": "くさつおんせん　げんせん・だいにちのゆ　ごくらくかん",
    "minCharge": 13200,
    "reviewAverage": 4.95,
-   "reviewCount": 127,
+   "reviewCount": 128,
    "access": "湯畑徒歩約3分の温泉街中心地/草津温泉バスターミナル徒歩約10分/「西の河原公園駐車場」徒歩約2分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津507",
@@ -91,11 +95,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130484.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130484/130484.jpg",
    "special": "草津唯一の自家源泉と西の河原源泉を全て貸切風呂で愉しむモーニングセットサービス付全5室の宿",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 158400,
@@ -113,15 +113,19 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158400.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158400/158400.jpg",
    "special": "気づいたら帰りたい宿、草明庵。ゆっくり、たっぷりと草津の旅をお愉しみいただけます。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 188147,
    "name": "民宿　ひょうたん",
    "kana": "　ひょうたん",
-   "minCharge": 9700,
+   "minCharge": 7700,
    "reviewAverage": 4.85,
-   "reviewCount": 30,
+   "reviewCount": 29,
    "access": "草津温泉バスターミナルから徒歩約７分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津462-18",
@@ -145,7 +149,7 @@
    "kana": "ほしがおかさんそう",
    "minCharge": 20300,
    "reviewAverage": 4.85,
-   "reviewCount": 217,
+   "reviewCount": 218,
    "access": "吾妻線　長野原草津口駅よりお車にて約３５分",
    "address1": "群馬県",
    "address2": "吾妻郡中之条町入山1539",
@@ -156,6 +160,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162719/162719.jpg",
    "special": "日本の小宿 10選に選ばれました",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -165,8 +174,8 @@
    "name": "囲炉裏の御宿　花敷の湯",
    "kana": "いろりのおやど　はなしきのゆ",
    "minCharge": 26400,
-   "reviewAverage": 4.83,
-   "reviewCount": 151,
+   "reviewAverage": 4.85,
+   "reviewCount": 152,
    "access": "関越道渋川伊香保IC→R17→R353→R292→R405→花敷温泉・尻焼温泉／JR吾妻線長野原草津口駅よりバス花敷温泉",
    "address1": "群馬県",
    "address2": "吾妻郡中之条町大字入山1533（花敷温泉）",
@@ -182,34 +191,12 @@
    ]
   },
   {
-   "hotelNo": 31451,
-   "name": "草津温泉　湯の宿　みさご",
-   "kana": "くさつおんせん　ゆのやど　みさご",
-   "minCharge": 9500,
-   "reviewAverage": 4.81,
-   "reviewCount": 169,
-   "access": "草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５３～１４５～２９２（約９０分）",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町546",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31451",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31451%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31451",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31451.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31451/31451.jpg",
-   "special": "＼万代鉱のかけ流し温泉／24時間利用可能＊３つの貸切風呂はすべて無料です♪全室エアウィーヴ＆トイレ付",
-   "conditions": [
-    "rotenburo",
-    "sauna",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 106048,
    "name": "草津温泉　草津舘",
    "kana": "くさつおんせん　くさつかん",
    "minCharge": 12100,
-   "reviewAverage": 4.8,
-   "reviewCount": 860,
+   "reviewAverage": 4.81,
+   "reviewCount": 866,
    "access": "長野原草津口駅よりバスにて約２５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津甲419",
@@ -227,22 +214,24 @@
    ]
   },
   {
-   "hotelNo": 184611,
-   "name": "うり房旅館仲通り　うら房",
-   "kana": "うりぼうりょかんなかどおり　うらぼう",
-   "minCharge": 13200,
-   "reviewAverage": 4.8,
-   "reviewCount": 31,
-   "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩4分！",
+   "hotelNo": 31451,
+   "name": "草津温泉　湯の宿　みさご",
+   "kana": "くさつおんせん　ゆのやど　みさご",
+   "minCharge": 9500,
+   "reviewAverage": 4.79,
+   "reviewCount": 170,
+   "access": "草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５３～１４５～２９２（約９０分）",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町大字草津69",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184611",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184611%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184611",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184611.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184611/184611.jpg",
-   "special": "草津温泉バスターミナルまで徒歩２分、湯畑まで徒歩5分。仲通りに佇む温泉宿です。",
+   "address2": "吾妻郡草津町546",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31451",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31451%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31451",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31451.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31451/31451.jpg",
+   "special": "＼万代鉱のかけ流し温泉／24時間利用可能＊３つの貸切風呂はすべて無料です♪全室エアウィーヴ＆トイレ付",
    "conditions": [
+    "rotenburo",
+    "sauna",
     "kashikiri-buro"
    ]
   },
@@ -251,8 +240,8 @@
    "name": "草津温泉　中村屋旅館＜群馬県＞",
    "kana": "くさつおんせん　なかむらやりょかん＜ぐんまけん＞",
    "minCharge": 11900,
-   "reviewAverage": 4.79,
-   "reviewCount": 579,
+   "reviewAverage": 4.78,
+   "reviewCount": 581,
    "access": "■JR吾妻線■長野原草津口駅下車→草津温泉行きバスで20分→草津温泉バスターミナルより徒歩2分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津98",
@@ -267,12 +256,35 @@
    ]
   },
   {
+   "hotelNo": 184611,
+   "name": "うり房旅館仲通り　うら房",
+   "kana": "うりぼうりょかんなかどおり　うらぼう",
+   "minCharge": 13200,
+   "reviewAverage": 4.78,
+   "reviewCount": 31,
+   "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩4分！",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町大字草津69",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184611",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184611%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184611",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184611.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184611/184611.jpg",
+   "special": "草津温泉バスターミナルまで徒歩２分、湯畑まで徒歩5分。仲通りに佇む温泉宿です。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 165702,
    "name": "お宿　ゆきずみ",
    "kana": "おやど　ゆきずみ",
    "minCharge": 6820,
    "reviewAverage": 4.77,
-   "reviewCount": 364,
+   "reviewCount": 365,
    "access": "長野原草津口駅よりバスにて約２５分　軽井沢駅よりバスにて1時間16分　　",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津39-12",
@@ -289,8 +301,8 @@
    "name": "草津温泉　ホテルクアビオ（Ｈｏｔｅｌ　ＫＵＲＢＩＯ）",
    "kana": "ほてるくあびお",
    "minCharge": 21500,
-   "reviewAverage": 4.75,
-   "reviewCount": 96,
+   "reviewAverage": 4.76,
+   "reviewCount": 97,
    "access": "ＪＲ長野原草津口駅よりバス草津バスターミナル行きにて２５分草津バスターミナル下車徒歩にて１３分、お車にて５分（送迎あり）",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津226-63",
@@ -311,32 +323,12 @@
    ]
   },
   {
-   "hotelNo": 184503,
-   "name": "うり房旅館",
-   "kana": "うりぼうりょかん",
-   "minCharge": 12100,
-   "reviewAverage": 4.74,
-   "reviewCount": 55,
-   "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩５分！",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町大字草津223",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184503",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184503%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184503",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184503.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184503/184503.jpg",
-   "special": "小さく可愛い素泊り温泉宿です。 日々の雑踏から離れ、ゆったりと流れる静かな時をお楽しみください。",
-   "conditions": [
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 139837,
    "name": "ペンション　はぎわら",
    "kana": "はぎわら",
    "minCharge": 5000,
    "reviewAverage": 4.72,
-   "reviewCount": 290,
+   "reviewCount": 291,
    "access": "草津温泉駅から徒歩で５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津464-279",
@@ -351,40 +343,25 @@
    ]
   },
   {
-   "hotelNo": 2029,
-   "name": "草津温泉　松村屋旅館",
-   "kana": "くさつおんせん　まつむらやりょかん",
-   "minCharge": 11000,
+   "hotelNo": 184503,
+   "name": "うり房旅館",
+   "kana": "うりぼうりょかん",
+   "minCharge": 12100,
    "reviewAverage": 4.72,
-   "reviewCount": 258,
-   "access": "ＪＲ吾妻線長野原草津口駅よりバスで３０分",
+   "reviewCount": 55,
+   "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩５分！",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町365",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2029",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2029%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2029",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2029.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2029/2029.jpg",
-   "special": "温泉街の中央の位置し純日本風のこぢんまりした旅館",
-   "conditions": []
-  },
-  {
-   "hotelNo": 147469,
-   "name": "草津温泉　益成屋旅館",
-   "kana": "えきなりやりょかん",
-   "minCharge": 19950,
-   "reviewAverage": 4.72,
-   "reviewCount": 290,
-   "access": "JR吾妻線　長野原草津駅よりJRバスにて約２５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津406",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147469",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147469%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147469",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147469.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147469/147469.jpg",
-   "special": "湯畑近くの木造３階の旅館。男女別のお風呂の他に１部屋に１ヶ所の貸切風呂。押し花作品多数展示。",
+   "address2": "吾妻郡草津町大字草津223",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184503",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184503%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184503",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184503.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184503/184503.jpg",
+   "special": "小さく可愛い素泊り温泉宿です。 日々の雑踏から離れ、ゆったりと流れる静かな時をお楽しみください。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
@@ -393,8 +370,8 @@
    "name": "草津温泉　湯畑泉水",
    "kana": "くさつおんせん　ゆばたけせんすい",
    "minCharge": 15250,
-   "reviewAverage": 4.71,
-   "reviewCount": 289,
+   "reviewAverage": 4.72,
+   "reviewCount": 298,
    "access": "長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津392ー1",
@@ -411,12 +388,54 @@
    ]
   },
   {
+   "hotelNo": 2029,
+   "name": "草津温泉　松村屋旅館",
+   "kana": "くさつおんせん　まつむらやりょかん",
+   "minCharge": 11000,
+   "reviewAverage": 4.69,
+   "reviewCount": 259,
+   "access": "ＪＲ吾妻線長野原草津口駅よりバスで３０分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町365",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2029",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2029%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2029",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2029.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2029/2029.jpg",
+   "special": "温泉街の中央の位置し純日本風のこぢんまりした旅館",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "breakfast"
+   ]
+  },
+  {
+   "hotelNo": 147469,
+   "name": "草津温泉　益成屋旅館",
+   "kana": "えきなりやりょかん",
+   "minCharge": 19950,
+   "reviewAverage": 4.69,
+   "reviewCount": 292,
+   "access": "JR吾妻線　長野原草津駅よりJRバスにて約２５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津406",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147469",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147469%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147469",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147469.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147469/147469.jpg",
+   "special": "湯畑近くの木造３階の旅館。男女別のお風呂の他に１部屋に１ヶ所の貸切風呂。押し花作品多数展示。",
+   "conditions": [
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 70807,
    "name": "草津温泉　奈良屋",
    "kana": "くさつおんせん　ならや",
    "minCharge": 34485,
-   "reviewAverage": 4.71,
-   "reviewCount": 901,
+   "reviewAverage": 4.68,
+   "reviewCount": 908,
    "access": "ＪＲ長野原草津口駅よりＪＲバスで草温泉へ２５分、下車後送迎バスあり。（原則　8:30～18:00 ）",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津396",
@@ -435,21 +454,21 @@
    ]
   },
   {
-   "hotelNo": 4904,
-   "name": "草津温泉　望雲",
-   "kana": "くさつおんせん　ぼううん",
-   "minCharge": 18700,
-   "reviewAverage": 4.67,
-   "reviewCount": 1336,
-   "access": "ＪＲ吾妻線長野原草津口駅から車で２０分。",
+   "hotelNo": 183529,
+   "name": "川原湯温泉　山木館",
+   "kana": "かわらゆおんせん　やまきかん",
+   "minCharge": 13200,
+   "reviewAverage": 4.64,
+   "reviewCount": 42,
+   "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町433-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D4904",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D4904%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D4904",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4904.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904.jpg",
-   "special": "創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの旅館。",
+   "address2": "吾妻郡長野原町大字川原湯454-91",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183529",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183529%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183529",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183529.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183529/183529.jpg",
+   "special": "【個室食事処｜貸切風呂無料】2000坪に全8室借景庭園付 川原湯温泉最古の宿",
    "conditions": [
     "onsen",
     "daiyokujo",
@@ -457,26 +476,6 @@
     "breakfast",
     "dinner",
     "rotenburo",
-    "sauna"
-   ]
-  },
-  {
-   "hotelNo": 30725,
-   "name": "草津温泉ペンション　陽のあたる場所",
-   "kana": "くさつおんせん　ぺんしょん　ひのあたるばしょ",
-   "minCharge": 6000,
-   "reviewAverage": 4.65,
-   "reviewCount": 218,
-   "access": "JR吾妻線　長野原草津口駅よりバスにて２５分／関越道　渋川・伊香保ICより９０分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津760-5",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D30725",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D30725%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D30725",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/30725.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30725/30725.jpg",
-   "special": "若いオーナーがお出迎え。畳敷きの檜風呂と石風呂の温泉。,鍵付きの完全貸切制。",
-   "conditions": [
     "kashikiri-buro"
    ]
   },
@@ -497,57 +496,30 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17838/17838.jpg",
    "special": "湯畑前の好立地！湯畑源泉かけ流しの男女浴室・無料貸切風呂も好評。薬膳料理もおすすめ！！",
    "conditions": [
+    "onsen",
+    "breakfast",
     "kashikiri-buro"
    ]
   },
   {
-   "hotelNo": 111177,
-   "name": "草津温泉　綿の湯　草津ホテル別館",
-   "kana": "わたのゆ　くさつほてるべっかん",
-   "minCharge": 13860,
+   "hotelNo": 4904,
+   "name": "草津温泉　望雲",
+   "kana": "くさつおんせん　ぼううん",
+   "minCharge": 18700,
    "reviewAverage": 4.64,
-   "reviewCount": 248,
-   "access": "草津バスターミナルから徒歩で８分　送迎サービスはありません",
+   "reviewCount": 1341,
+   "access": "ＪＲ吾妻線長野原草津口駅から車で２０分。",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町草津469-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D111177",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D111177%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D111177",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/111177.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111177/111177.jpg",
-   "special": "四季の移り変わりを楽しめる客室はシンプルな造りで寛げます。良質素材の心を込めた料理もご堪能下さい。",
+   "address2": "吾妻郡草津町433-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D4904",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D4904%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D4904",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4904.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904.jpg",
+   "special": "創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの旅館。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "sauna"
-   ]
-  },
-  {
-   "hotelNo": 183529,
-   "name": "川原湯温泉　山木館",
-   "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 14680,
-   "reviewAverage": 4.64,
-   "reviewCount": 42,
-   "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
-   "address1": "群馬県",
-   "address2": "吾妻郡長野原町大字川原湯454-91",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183529",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183529%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183529",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183529.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183529/183529.jpg",
-   "special": "【個室食事処｜貸切風呂無料】2000坪に全8室借景庭園付 川原湯温泉最古の宿",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
-    "kashikiri-buro"
+    "sauna"
    ]
   },
   {
@@ -571,26 +543,6 @@
    ]
   },
   {
-   "hotelNo": 67285,
-   "name": "草津温泉　群龍館",
-   "kana": "くさつおんせん　ぐんりゅうかん",
-   "minCharge": 12100,
-   "reviewAverage": 4.63,
-   "reviewCount": 201,
-   "access": "ＪＲ吾妻線　長野原草津口からＪＲバスに乗車→草津温泉バスターミナル下車、徒歩５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町大字草津394-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D67285",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D67285%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D67285",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67285.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67285/67285.jpg",
-   "special": "湯畑まで徒歩１分。温泉街散策に便利な宿。白旗源泉掛け流しの湯。",
-   "conditions": [
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 7052,
    "name": "草津温泉　旅館たむら",
    "kana": "くさつおんせん　りょかんたむら",
@@ -607,6 +559,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7052/7052.jpg",
    "special": "体にやさしい「地蔵の湯」の源泉の宿です。館内禁煙（全客室含む）となります。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -626,13 +583,42 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182411.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182411/182411.jpg",
    "special": "湯畑まで徒歩２分！湯畑源泉かけ流しのお湯を貸切でのんびり楽しめる素朴で昔なつかしい小さな旅館。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
+   "hotelNo": 111177,
+   "name": "草津温泉　綿の湯　草津ホテル別館",
+   "kana": "わたのゆ　くさつほてるべっかん",
+   "minCharge": 13860,
+   "reviewAverage": 4.62,
+   "reviewCount": 249,
+   "access": "草津バスターミナルから徒歩で８分　送迎サービスはありません",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津469-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D111177",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D111177%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D111177",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/111177.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/111177/111177.jpg",
+   "special": "四季の移り変わりを楽しめる客室はシンプルな造りで寛げます。良質素材の心を込めた料理もご堪能下さい。",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "sauna"
+   ]
   },
   {
    "hotelNo": 130704,
    "name": "草津温泉　お宿　平の家",
    "kana": "くさつおんせん　おやど　ひらのや",
-   "minCharge": 12300,
+   "minCharge": 15300,
    "reviewAverage": 4.62,
    "reviewCount": 266,
    "access": "長野原草津口駅より路線バスで２５分",
@@ -652,6 +638,29 @@
    ]
   },
   {
+   "hotelNo": 67285,
+   "name": "草津温泉　群龍館",
+   "kana": "くさつおんせん　ぐんりゅうかん",
+   "minCharge": 12100,
+   "reviewAverage": 4.61,
+   "reviewCount": 202,
+   "access": "ＪＲ吾妻線　長野原草津口からＪＲバスに乗車→草津温泉バスターミナル下車、徒歩５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町大字草津394-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D67285",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D67285%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D67285",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67285.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67285/67285.jpg",
+   "special": "湯畑まで徒歩１分。温泉街散策に便利な宿。白旗源泉掛け流しの湯。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 4719,
    "name": "草津温泉　湯宿　みゆき",
    "kana": "くさつおんせん　ゆやど　みゆき",
@@ -668,6 +677,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4719/4719.jpg",
    "special": "草津温泉・湯畑徒歩3分｜3つの源泉と5つの無料貸切半露天風呂を楽しむ素泊まり宿",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "rotenburo"
    ]
   },
@@ -698,8 +710,8 @@
    "name": "草津温泉　ホテル一井",
    "kana": "くさつおんせん　いちい",
    "minCharge": 17600,
-   "reviewAverage": 4.6,
-   "reviewCount": 3233,
+   "reviewAverage": 4.61,
+   "reviewCount": 3238,
    "access": "ＪＲ吾妻線　長野原草津口駅より路線バス２５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津411",
@@ -716,6 +728,30 @@
     "breakfast",
     "dinner",
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 158422,
+   "name": "草津温泉宿　永田屋",
+   "kana": "くさつおんせんやど　えいだや",
+   "minCharge": 13460,
+   "reviewAverage": 4.6,
+   "reviewCount": 172,
+   "access": "草津温泉バスターミナルよりお車にて約２分　当館目の前に駐車場あり！",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-285",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158422",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158422%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158422",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158422.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158422/158422.jpg",
+   "special": "駐車場がすぐの宿で朝から駐車可、アウト後もそのまま駐車して観光OKで大変便利！全館Wi-Fi無料！",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
    ]
   },
   {
@@ -743,21 +779,45 @@
    ]
   },
   {
-   "hotelNo": 158422,
-   "name": "草津温泉宿　永田屋",
-   "kana": "くさつおんせんやど　えいだや",
-   "minCharge": 13460,
+   "hotelNo": 30725,
+   "name": "草津温泉ペンション　陽のあたる場所",
+   "kana": "くさつおんせん　ぺんしょん　ひのあたるばしょ",
+   "minCharge": 6000,
    "reviewAverage": 4.58,
-   "reviewCount": 171,
-   "access": "草津温泉バスターミナルよりお車にて約２分　当館目の前に駐車場あり！",
+   "reviewCount": 219,
+   "access": "JR吾妻線　長野原草津口駅よりバスにて２５分／関越道　渋川・伊香保ICより９０分",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-285",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158422",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158422%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158422",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158422.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158422/158422.jpg",
-   "special": "駐車場がすぐの宿で朝から駐車可、アウト後もそのまま駐車して観光OKで大変便利！全館Wi-Fi無料！",
+   "address2": "吾妻郡草津町草津760-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D30725",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D30725%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D30725",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/30725.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30725/30725.jpg",
+   "special": "若いオーナーがお出迎え。畳敷きの檜風呂と石風呂の温泉。,鍵付きの完全貸切制。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 158384,
+   "name": "草津温泉　お豆の小宿　花いんげん",
+   "kana": "くさつおんせん　おまめのこやど　はないんげん",
+   "minCharge": 12400,
+   "reviewAverage": 4.58,
+   "reviewCount": 322,
+   "access": "草津バスターミナルより徒歩９９歩！無料駐車場、旅館すぐ横に完備！",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町92",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158384",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158384%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158384",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158384.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158384/158384.jpg",
+   "special": "2016年８月オープン！和菓子屋がプロデュースする可愛くておいしい宿。湯畑から徒歩９９歩も嬉しい！",
    "conditions": [
     "onsen",
     "kinen",
@@ -772,7 +832,7 @@
    "kana": "らびすた　くさつひるず",
    "minCharge": 21780,
    "reviewAverage": 4.58,
-   "reviewCount": 1056,
+   "reviewCount": 1062,
    "access": "渋川伊香保ICより車約６０km／JR長野原草津口より路線バス／草津温泉バスターミナルよりシャトルバス有",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津226-15",
@@ -790,26 +850,6 @@
     "dinner",
     "rotenburo",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 158384,
-   "name": "草津温泉　お豆の小宿　花いんげん",
-   "kana": "くさつおんせん　おまめのこやど　はないんげん",
-   "minCharge": 12400,
-   "reviewAverage": 4.57,
-   "reviewCount": 321,
-   "access": "草津バスターミナルより徒歩９９歩！無料駐車場、旅館すぐ横に完備！",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町92",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158384",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158384%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158384",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158384.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158384/158384.jpg",
-   "special": "2016年８月オープン！和菓子屋がプロデュースする可愛くておいしい宿。湯畑から徒歩９９歩も嬉しい！",
-   "conditions": [
-    "kashikiri-buro"
    ]
   },
   {
@@ -851,7 +891,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38838.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38838/38838.jpg",
    "special": "湯畑まで徒歩５〜７分♪全４部屋の小さな宿。お食事は個室にてゆっくりと♪お客様アンケート総合部門５つ星",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
   },
   {
    "hotelNo": 52817,
@@ -859,7 +904,7 @@
    "kana": "くさつおんせん　おおさかやりょかん",
    "minCharge": 13000,
    "reviewAverage": 4.52,
-   "reviewCount": 236,
+   "reviewCount": 237,
    "access": "ＪＲ吾妻線　長野原草津口駅よりＪＲバスにて２５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町356",
@@ -880,7 +925,7 @@
    "kana": "さくらい",
    "minCharge": 14300,
    "reviewAverage": 4.52,
-   "reviewCount": 4933,
+   "reviewCount": 4957,
    "access": "ＪＲ吾妻線長野原草津口駅からバスで約28分／関越道渋川伊香保ＩＣ又は上信越道碓井軽井沢IC経由／ＪＲ高速バスゆめぐり号",
    "address1": "群馬県",
    "address2": "吾妻郡草津町大字草津465-4",
@@ -919,6 +964,8 @@
     "onsen",
     "daiyokujo",
     "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo"
    ]
   },
@@ -927,8 +974,8 @@
    "name": "草津温泉　５種貸切風呂の宿　湯宿　きんだい",
    "kana": "くさつおんせん　５しゅかしきりぶろのやど　ゆやど　きんだい",
    "minCharge": 13000,
-   "reviewAverage": 4.47,
-   "reviewCount": 522,
+   "reviewAverage": 4.46,
+   "reviewCount": 523,
    "access": "関越自動車道渋川伊香保ICから中之条を経て約60km。",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津542-5",
@@ -943,48 +990,12 @@
    ]
   },
   {
-   "hotelNo": 51759,
-   "name": "草津温泉　湯畑源泉の宿　いで湯荘",
-   "kana": "くさつおんせん　ゆばたけげんせんのやど　いでゆそう",
-   "minCharge": 13200,
-   "reviewAverage": 4.44,
-   "reviewCount": 185,
-   "access": "草津温泉バスターミナルより徒歩３分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津189-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D51759",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D51759%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D51759",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/51759.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/51759/51759.jpg",
-   "special": "■草津温泉の中心、湯畑から徒歩5分★「上州牛」や、地元の野菜を使った創作料理が人気♪",
-   "conditions": []
-  },
-  {
-   "hotelNo": 67910,
-   "name": "草津温泉　田島屋旅館",
-   "kana": "たじまやりょかん",
-   "minCharge": 5060,
-   "reviewAverage": 4.43,
-   "reviewCount": 469,
-   "access": "ＪＲ吾妻線　長野原草津口駅からＪＲバスで２５分／関越自動車道　渋川伊香保ＩＣより９０分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津45",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D67910",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D67910%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D67910",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67910.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67910/67910.jpg",
-   "special": "タヌキが目印のぬくもりのある温泉宿。湯畑温泉１００％源泉掛け流しのいやしの湯。",
-   "conditions": []
-  },
-  {
    "hotelNo": 139908,
    "name": "草津温泉　湯畑草菴（そうあん）",
    "kana": "くさつおんせん　ゆばたけそうあん",
    "minCharge": 8000,
-   "reviewAverage": 4.43,
-   "reviewCount": 413,
+   "reviewAverage": 4.45,
+   "reviewCount": 417,
    "access": "ＪＲ吾妻線　長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし",
    "address1": "群馬県",
    "address2": "吾妻郡草津町118-1",
@@ -1006,8 +1017,8 @@
    "name": "草津温泉　昔心の宿　金みどり",
    "kana": "くさつおんせん　しゃくしんのやど　かねみどり",
    "minCharge": 12100,
-   "reviewAverage": 4.43,
-   "reviewCount": 857,
+   "reviewAverage": 4.44,
+   "reviewCount": 858,
    "access": "ＪＲ吾妻線長野原草津口駅よりバスにて２５分後、草津温泉バスターミナルから徒歩５分。　関越道渋川伊香保ＩＣより８５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津162",
@@ -1032,8 +1043,8 @@
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
    "minCharge": 15800,
-   "reviewAverage": 4.43,
-   "reviewCount": 3151,
+   "reviewAverage": 4.44,
+   "reviewCount": 3185,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津白根750",
@@ -1055,23 +1066,26 @@
    ]
   },
   {
-   "hotelNo": 180101,
-   "name": "湯川テラス",
-   "kana": "ゆがわてらす",
-   "minCharge": 22150,
-   "reviewAverage": 4.43,
-   "reviewCount": 34,
-   "access": "JR長野原草津口下車、路線バス25分",
+   "hotelNo": 108688,
+   "name": "草津温泉　客室露天風呂と旬彩の宿　湯宿　いわふじ",
+   "kana": "くさつおんせん　きゃくしつろてんぶろとしゅんさいのやど　ゆやど　いわふじ",
+   "minCharge": 22000,
+   "reviewAverage": 4.44,
+   "reviewCount": 329,
+   "access": "ＪＲ　長野原草津口駅より草津温泉行きのＪＲバスにて２５分",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町草津375",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180101",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D180101%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180101",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180101.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180101/180101.jpg",
-   "special": "街の中心街「湯畑」から徒歩２０秒の立地に源泉かけ流し（内湯）とカフェ＆レストランを併設した２室限定宿",
+   "address2": "吾妻郡草津町大字草津249-44",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108688",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108688%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108688",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108688.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108688/108688.jpg",
+   "special": "全室露天風呂付客室で草津温泉満喫、四季折々を味覚でも。",
    "conditions": [
-    "kashikiri-buro"
+    "onsen",
+    "breakfast",
+    "dinner",
+    "rotenburo"
    ]
   },
   {
@@ -1090,26 +1104,33 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67960.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67960/67960.jpg",
    "special": "「全室禁煙」禁煙認定施設につき喫煙者の方及び「就寝時間23時45分」を守れない方はご宿泊できません。",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen"
+   ]
   },
   {
-   "hotelNo": 108634,
-   "name": "草津温泉　源泉かけ流しの宿　ひのき亭　牧水",
-   "kana": "くさつおんせん　げんせんかけながしのやど　ひのきてい　ぼくすい",
-   "minCharge": 9500,
-   "reviewAverage": 4.41,
-   "reviewCount": 188,
-   "access": "ＪＲ　長野原草津口駅からバスで２０分 草津温泉バスターミナルから徒歩2分",
+   "hotelNo": 51759,
+   "name": "草津温泉　湯畑源泉の宿　いで湯荘",
+   "kana": "くさつおんせん　ゆばたけげんせんのやど　いでゆそう",
+   "minCharge": 13200,
+   "reviewAverage": 4.42,
+   "reviewCount": 186,
+   "access": "草津温泉バスターミナルより徒歩３分",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町草津19-9",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108634",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108634%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108634",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108634.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634.jpg",
-   "special": "草津温泉にある全室木曽檜で数寄屋造の純和風旅館。源泉かけ流しの3つの無料貸切風呂",
+   "address2": "吾妻郡草津町草津189-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D51759",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D51759%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D51759",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/51759.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/51759/51759.jpg",
+   "special": "■草津温泉の中心、湯畑から徒歩5分★「上州牛」や、地元の野菜を使った創作料理が人気♪",
    "conditions": [
-    "kashikiri-buro"
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1129,30 +1150,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6092/6092.jpg",
    "special": "3つの無料貸切温泉と地場物など素地にごだわったお食事が大好評★　現地現金決済割引あり！",
    "conditions": [
-    "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 108688,
-   "name": "草津温泉　客室露天風呂と旬彩の宿　湯宿　いわふじ",
-   "kana": "くさつおんせん　きゃくしつろてんぶろとしゅんさいのやど　ゆやど　いわふじ",
-   "minCharge": 22000,
-   "reviewAverage": 4.4,
-   "reviewCount": 327,
-   "access": "ＪＲ　長野原草津口駅より草津温泉行きのＪＲバスにて２５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町大字草津249-44",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108688",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108688%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108688",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108688.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108688/108688.jpg",
-   "special": "全室露天風呂付客室で草津温泉満喫、四季折々を味覚でも。",
-   "conditions": [
     "onsen",
+    "kinen",
     "breakfast",
     "dinner",
-    "rotenburo"
+    "kashikiri-buro"
    ]
   },
   {
@@ -1160,8 +1162,8 @@
    "name": "湯宿　季の庭（共立リゾート）",
    "kana": "ゆやど　ときのにわ",
    "minCharge": 26532,
-   "reviewAverage": 4.4,
-   "reviewCount": 1749,
+   "reviewAverage": 4.41,
+   "reviewCount": 1760,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そちらから専用シャトルバスで5分。",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津464-214",
@@ -1180,6 +1182,49 @@
     "rotenburo",
     "sauna",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 67910,
+   "name": "草津温泉　田島屋旅館",
+   "kana": "たじまやりょかん",
+   "minCharge": 5060,
+   "reviewAverage": 4.4,
+   "reviewCount": 477,
+   "access": "ＪＲ吾妻線　長野原草津口駅からＪＲバスで２５分／関越自動車道　渋川伊香保ＩＣより９０分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津45",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D67910",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D67910%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D67910",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67910.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67910/67910.jpg",
+   "special": "タヌキが目印のぬくもりのある温泉宿。湯畑温泉１００％源泉掛け流しのいやしの湯。",
+   "conditions": [
+    "onsen"
+   ]
+  },
+  {
+   "hotelNo": 151295,
+   "name": "草津温泉３２６　山の湯ホテル",
+   "kana": "くさつおんせん３２６　やまのゆほてる",
+   "minCharge": 7850,
+   "reviewAverage": 4.39,
+   "reviewCount": 538,
+   "access": "長野原草津口駅よりバス",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津326",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151295",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151295%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151295",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151295.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151295/151295.jpg",
+   "special": "湯畑まで徒歩約2分　観光にもビジネス利用にも最適の宿！",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
    ]
   },
   {
@@ -1204,26 +1249,47 @@
    ]
   },
   {
-   "hotelNo": 151295,
-   "name": "草津温泉３２６　山の湯ホテル",
-   "kana": "くさつおんせん３２６　やまのゆほてる",
-   "minCharge": 7850,
+   "hotelNo": 180101,
+   "name": "湯川テラス",
+   "kana": "ゆがわてらす",
+   "minCharge": 22150,
    "reviewAverage": 4.38,
-   "reviewCount": 532,
-   "access": "長野原草津口駅よりバス",
+   "reviewCount": 35,
+   "access": "JR長野原草津口下車、路線バス25分",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町草津326",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151295",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151295%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151295",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151295.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151295/151295.jpg",
-   "special": "湯畑まで徒歩約2分　観光にもビジネス利用にも最適の宿！",
+   "address2": "吾妻郡草津町草津375",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180101",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D180101%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180101",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180101.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180101/180101.jpg",
+   "special": "街の中心街「湯畑」から徒歩２０秒の立地に源泉かけ流し（内湯）とカフェ＆レストランを併設した２室限定宿",
+   "conditions": [
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 108634,
+   "name": "草津温泉　源泉かけ流しの宿　ひのき亭　牧水",
+   "kana": "くさつおんせん　げんせんかけながしのやど　ひのきてい　ぼくすい",
+   "minCharge": 9500,
+   "reviewAverage": 4.37,
+   "reviewCount": 189,
+   "access": "ＪＲ　長野原草津口駅からバスで２０分 草津温泉バスターミナルから徒歩2分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津19-9",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108634",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108634%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108634",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108634.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108634/108634.jpg",
+   "special": "草津温泉にある全室木曽檜で数寄屋造の純和風旅館。源泉かけ流しの3つの無料貸切風呂",
    "conditions": [
     "onsen",
-    "daiyokujo",
     "kinen",
-    "breakfast"
+    "breakfast",
+    "dinner",
+    "kashikiri-buro"
    ]
   },
   {
@@ -1243,30 +1309,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7582/7582.jpg",
    "special": "草津隋一の良質源泉。24時間入浴可能な地蔵源泉　無料貸切温泉◇部屋食　湯畑徒歩5分",
    "conditions": [
-    "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 108587,
-   "name": "草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）",
-   "kana": "くさつおんせん　ゆばたけてんぼうろてんのやど　ぬしゆうりょかん",
-   "minCharge": 10500,
-   "reviewAverage": 4.37,
-   "reviewCount": 545,
-   "access": "長野原草津口駅から草津温泉行きバスで約２０分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町446",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108587",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108587%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108587",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108587.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg",
-   "special": "湯畑が望める源泉掛け流し露天風呂が自慢。草津でも名湯といわれ１０軒の宿しか引いていない「白旗の湯」をご堪能頂けます。",
-   "conditions": [
     "onsen",
     "daiyokujo",
     "kinen",
-    "rotenburo",
+    "breakfast",
+    "dinner",
     "kashikiri-buro"
    ]
   },
@@ -1275,8 +1322,8 @@
    "name": "草津温泉　ホテルヴィレッジ",
    "kana": "くさつおんせん　う゛ぃれっじ",
    "minCharge": 9900,
-   "reviewAverage": 4.36,
-   "reviewCount": 4878,
+   "reviewAverage": 4.35,
+   "reviewCount": 4904,
    "access": "「関越自動車道」渋川伊香保ＩＣより約９０分・「上信越自動車道」碓氷軽井沢ICより約６０分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町大字草津618番地",
@@ -1296,12 +1343,62 @@
    ]
   },
   {
+   "hotelNo": 2108,
+   "name": "草津温泉　ペンション五郎次",
+   "kana": "くさつおんせん　ごろうじ",
+   "minCharge": 6990,
+   "reviewAverage": 4.34,
+   "reviewCount": 361,
+   "access": "草津温泉バスターミナルより徒歩8分。関越自動車道渋川伊香保IC下車90分、上信越自動車道碓氷軽井沢IC下車70 分。",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津322-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2108",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2108%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2108",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2108.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2108/2108.jpg",
+   "special": "湯畑源泉100％かけ流し貸切風呂の宿。湯畑へ徒歩３分。温泉散策に最適な家族で営む小さな宿です",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 108587,
+   "name": "草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）",
+   "kana": "くさつおんせん　ゆばたけてんぼうろてんのやど　ぬしゆうりょかん",
+   "minCharge": 10500,
+   "reviewAverage": 4.34,
+   "reviewCount": 548,
+   "access": "長野原草津口駅から草津温泉行きバスで約２０分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町446",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108587",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108587%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108587",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108587.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108587/108587.jpg",
+   "special": "湯畑が望める源泉掛け流し露天風呂が自慢。草津でも名湯といわれ１０軒の宿しか引いていない「白旗の湯」をご堪能頂けます。",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 136895,
    "name": "アイソネット草津",
    "kana": "あいそねっとくさつ",
    "minCharge": 6006,
    "reviewAverage": 4.33,
-   "reviewCount": 125,
+   "reviewCount": 128,
    "access": "ＪＲ　長野原草津口駅よりＪＲ関東バス草津温泉行き終点下車後お車にて５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津246-15",
@@ -1326,7 +1423,7 @@
    "kana": "くさつおんせん　くさつほてる　１９１３",
    "minCharge": 12100,
    "reviewAverage": 4.32,
-   "reviewCount": 1106,
+   "reviewCount": 1107,
    "access": "長野原草津口駅よりＪＲバスに２５分乗車 徒歩8分（長野原までのシャトルバスはございません、最終バスは８４８pm発です）",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津479",
@@ -1337,6 +1434,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/75162/75162.jpg",
    "special": "1913年創業、日本旅館の伝統的建築そして草津の自然と文化を体験できます。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1347,7 +1449,7 @@
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
    "minCharge": 6321,
    "reviewAverage": 4.3,
-   "reviewCount": 1239,
+   "reviewCount": 1253,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津15-8",
@@ -1360,30 +1462,6 @@
    "conditions": [
     "rotenburo",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 195645,
-   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
-   "kana": null,
-   "minCharge": 8000,
-   "reviewAverage": 4.29,
-   "reviewCount": 31,
-   "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津745　Rakuten STAY VILLA 草津温泉",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195645",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D195645%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D195645",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
-   "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "pet-ok"
    ]
   },
   {
@@ -1405,34 +1483,12 @@
    "conditions": []
   },
   {
-   "hotelNo": 16556,
-   "name": "草津温泉　ホテル松巳",
-   "kana": "くさつおんせん　まつみ",
-   "minCharge": 7700,
-   "reviewAverage": 4.27,
-   "reviewCount": 196,
-   "access": "草津温泉駅（草津バスターミナル）／ＪＲ吾妻線長野原草津口下車→草津温泉行ＪＲバス（約25分）下車徒歩約3分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津19-23",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16556",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16556%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16556",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16556.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16556/16556.jpg",
-   "special": "湯畑から徒歩圏内の静かな宿。源泉100％かけ流しの温泉は24時間入浴可！無料の貸切風呂も人気です",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 7158,
    "name": "草津温泉　草津スカイランドホテル",
    "kana": "くさつおんせん　くさつすかいらんどほてる",
    "minCharge": 13200,
-   "reviewAverage": 4.27,
-   "reviewCount": 713,
+   "reviewAverage": 4.29,
+   "reviewCount": 720,
    "access": "【車】渋川伊香保ICより80分。【電車・バス】草津温泉バスターミナルより、お電話頂ければ送迎いたします。（約５分）",
    "address1": "群馬県",
    "address2": "吾妻郡草津町530",
@@ -1453,72 +1509,32 @@
    ]
   },
   {
-   "hotelNo": 2108,
-   "name": "草津温泉　ペンション五郎次",
-   "kana": "くさつおんせん　ごろうじ",
-   "minCharge": 8990,
-   "reviewAverage": 4.25,
-   "reviewCount": 358,
-   "access": "草津温泉バスターミナルより徒歩8分。関越自動車道渋川伊香保IC下車90分、上信越自動車道碓氷軽井沢IC下車70 分。",
+   "hotelNo": 16556,
+   "name": "草津温泉　ホテル松巳",
+   "kana": "くさつおんせん　まつみ",
+   "minCharge": 7700,
+   "reviewAverage": 4.26,
+   "reviewCount": 197,
+   "access": "草津温泉駅（草津バスターミナル）／ＪＲ吾妻線長野原草津口下車→草津温泉行ＪＲバス（約25分）下車徒歩約3分",
    "address1": "群馬県",
-   "address2": "吾妻郡草津町草津322-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2108",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2108%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2108",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2108.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2108/2108.jpg",
-   "special": "湯畑源泉100％かけ流し貸切風呂の宿。湯畑へ徒歩３分。温泉散策に最適な家族で営む小さな宿です",
+   "address2": "吾妻郡草津町草津19-23",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16556",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16556%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16556",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16556.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16556/16556.jpg",
+   "special": "湯畑から徒歩圏内の静かな宿。源泉100％かけ流しの温泉は24時間入浴可！無料の貸切風呂も人気です",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "rotenburo",
     "kashikiri-buro"
    ]
-  },
-  {
-   "hotelNo": 143323,
-   "name": "草津温泉　湯畑の宿　佳乃や",
-   "kana": "くさつおんせん　ゆばたけのやど　よしのや",
-   "minCharge": 7425,
-   "reviewAverage": 4.23,
-   "reviewCount": 413,
-   "access": "長野原草津口駅よりバス（ＪＲバス関東）乗車",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津95",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D143323",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D143323%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D143323",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/143323.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143323/143323.jpg",
-   "special": "【PT10倍キャンペーン参加中】湯畑から徒歩２分！カジュアル旅籠（はたご）という新たなスタイルの宿。",
-   "conditions": []
-  },
-  {
-   "hotelNo": 149296,
-   "name": "草津温泉　ふたばや",
-   "kana": "くさつおんせん　ふたばや",
-   "minCharge": 6800,
-   "reviewAverage": 4.22,
-   "reviewCount": 215,
-   "access": "ＪＲ吾妻線　長野原草津口駅よりお車にて約２０分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津142-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D149296",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D149296%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D149296",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/149296.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149296/149296.jpg",
-   "special": "湯畑から徒歩１分♪2024年、湯畑源泉貸切風呂を新設♪無料温泉も複数有り、外湯めぐりに最適です♪",
-   "conditions": []
   },
   {
    "hotelNo": 108128,
    "name": "お宿　木の葉（共立リゾート）",
    "kana": "おやど　このは",
-   "minCharge": 18260,
-   "reviewAverage": 4.22,
-   "reviewCount": 1202,
+   "minCharge": 17325,
+   "reviewAverage": 4.25,
+   "reviewCount": 1212,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そこから専用シャトルバスで5分。",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津白根464-214",
@@ -1540,12 +1556,75 @@
    ]
   },
   {
+   "hotelNo": 143323,
+   "name": "草津温泉　湯畑の宿　佳乃や",
+   "kana": "くさつおんせん　ゆばたけのやど　よしのや",
+   "minCharge": 7425,
+   "reviewAverage": 4.22,
+   "reviewCount": 415,
+   "access": "長野原草津口駅よりバス（ＪＲバス関東）乗車",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津95",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D143323",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D143323%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D143323",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/143323.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143323/143323.jpg",
+   "special": "【PT10倍キャンペーン参加中】湯畑から徒歩２分！カジュアル旅籠（はたご）という新たなスタイルの宿。",
+   "conditions": []
+  },
+  {
+   "hotelNo": 2487,
+   "name": "草津温泉　尻焼き風呂の桐島屋旅館",
+   "kana": "くさつおんせん　しりやきぶろの　きりしまやりょかん",
+   "minCharge": 8145,
+   "reviewAverage": 4.22,
+   "reviewCount": 183,
+   "access": "関越道渋川伊香保ICより車で1時間半 or JR長野原草津口駅よりJRバスで草津温泉バスターミナル駅まで約25分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町大字草津541 桐島屋旅館",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2487",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2487%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2487",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2487.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2487/2487.jpg",
+   "special": "湯畑まで徒歩3分！明治時代から続く老舗旅館。100%源泉かけ流しの尻焼き風呂。貸切風呂無料！",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 149296,
+   "name": "草津温泉　ふたばや",
+   "kana": "くさつおんせん　ふたばや",
+   "minCharge": 7800,
+   "reviewAverage": 4.2,
+   "reviewCount": 216,
+   "access": "ＪＲ吾妻線　長野原草津口駅よりお車にて約２０分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津142-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D149296",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D149296%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D149296",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/149296.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149296/149296.jpg",
+   "special": "湯畑から徒歩１分♪2024年、湯畑源泉貸切風呂を新設♪無料温泉も複数有り、外湯めぐりに最適です♪",
+   "conditions": [
+    "kinen"
+   ]
+  },
+  {
    "hotelNo": 184445,
    "name": "裏草津　蕩",
    "kana": "うらくさつ　とう",
    "minCharge": 10738,
-   "reviewAverage": 4.19,
-   "reviewCount": 485,
+   "reviewAverage": 4.2,
+   "reviewCount": 491,
    "access": "草津温泉バスターミナルより徒歩5分、『長野原草津口駅』からバスで約28分、関越自動車道『渋川伊香保IC』より車で約90分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町大字草津300",
@@ -1562,27 +1641,6 @@
     "breakfast",
     "dinner",
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 2487,
-   "name": "草津温泉　尻焼き風呂の桐島屋旅館",
-   "kana": "くさつおんせん　しりやきぶろの　きりしまやりょかん",
-   "minCharge": 8145,
-   "reviewAverage": 4.18,
-   "reviewCount": 182,
-   "access": "関越道渋川伊香保ICより車で1時間半 or JR長野原草津口駅よりJRバスで草津温泉バスターミナル駅まで約25分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町大字草津541 桐島屋旅館",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2487",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2487%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2487",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2487.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2487/2487.jpg",
-   "special": "湯畑まで徒歩3分！明治時代から続く老舗旅館。100%源泉かけ流しの尻焼き風呂。貸切風呂無料！",
-   "conditions": [
-    "rotenburo",
-    "kashikiri-buro"
    ]
   },
   {
@@ -1622,6 +1680,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136294/136294.jpg",
    "special": "湯畑源泉とヒノキ（檜）のお風呂。湯治滞在歓迎。湯畑源泉の貸切風呂とおふくろの味、素泊まりも大歓迎！！",
    "conditions": [
+    "onsen",
+    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -1631,7 +1691,7 @@
    "kana": "くさつおんせん　ほてるぱっくす　くさつ",
    "minCharge": 9900,
    "reviewAverage": 4.16,
-   "reviewCount": 1491,
+   "reviewCount": 1496,
    "access": "JR長野原草津口駅からJRバスで２５分（草津バスターミナル～ホテル間随時送迎あり）・渋川Ｉ．Ｃより車で９０分。",
    "address1": "群馬県",
    "address2": "吾妻郡草津町大字草津470-1",
@@ -1642,11 +1702,32 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2398/2398.jpg",
    "special": "【2024年楽天トラベル☆ゴールドアワード＆日本の宿アワード☆】ダブル受賞を致しました！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
     "rotenburo",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 195645,
+   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
+   "kana": null,
+   "minCharge": 8000,
+   "reviewAverage": 4.15,
+   "reviewCount": 34,
+   "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津745　Rakuten STAY VILLA 草津温泉",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195645",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D195645%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D195645",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
+   "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "pet-ok"
    ]
   },
   {
@@ -1655,7 +1736,7 @@
    "kana": "くさつおんせん　せん",
    "minCharge": 9400,
    "reviewAverage": 4.14,
-   "reviewCount": 573,
+   "reviewCount": 574,
    "access": "ＪＲ　長野原草津口駅より路線バス45分＋徒歩20分　関越自動車道「渋川伊香保IC」から車1時間15分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津547-5",
@@ -1677,7 +1758,7 @@
    "kana": "くさつおんせん　やぐも",
    "minCharge": 11000,
    "reviewAverage": 4.13,
-   "reviewCount": 368,
+   "reviewCount": 370,
    "access": "JR吾妻線長野原草津口駅よりバスで25分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津温泉100",
@@ -1687,15 +1768,20 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4695.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4695/4695.jpg",
    "special": "【2015年3月全館リニューアル！】立地・お風呂の評価5つ星★湯畑まですぐ！総ひのき岩風呂が人気の宿",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast"
+   ]
   },
   {
    "hotelNo": 181654,
    "name": "和える宿　高松",
    "kana": "あえるやど　たかまつ",
    "minCharge": 12700,
-   "reviewAverage": 4.13,
-   "reviewCount": 605,
+   "reviewAverage": 4.12,
+   "reviewCount": 609,
    "access": "JR吾妻線長野原草津口駅より路線バスで約30分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津290-14",
@@ -1706,27 +1792,14 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181654/181654.jpg",
    "special": "”草津温泉をオアシスで和える”をコンセプトにした和と洋を和えたモダンスタイルのホテルです。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "sauna"
    ]
-  },
-  {
-   "hotelNo": 7128,
-   "name": "草津温泉　日新館",
-   "kana": "くさつおんせん　にっしんかん",
-   "minCharge": 12100,
-   "reviewAverage": 4.08,
-   "reviewCount": 240,
-   "access": "草津の中心・湯畑 湯滝の通りを入ってすぐ左側。",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津368",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7128",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7128%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7128",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7128.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7128/7128.jpg",
-   "special": "湯畑の湯を守り続ける草津最古の老舗宿。保養に最適。",
-   "conditions": []
   },
   {
    "hotelNo": 136143,
@@ -1734,7 +1807,7 @@
    "kana": "いいじまかん",
    "minCharge": 5880,
    "reviewAverage": 4.07,
-   "reviewCount": 579,
+   "reviewCount": 582,
    "access": "ＪＲ吾妻線　長野原草津口駅よりバスにて２５分、バスターミナル下車後徒歩約２分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津447-8",
@@ -1745,6 +1818,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136143/136143.jpg",
    "special": "湯畑まで徒歩約3分！源泉かけ流し　希少な湯畑・わたの湯2種の源泉が堪能できる宿。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "kashikiri-buro"
    ]
   },
@@ -1774,12 +1850,30 @@
    ]
   },
   {
+   "hotelNo": 7128,
+   "name": "草津温泉　日新館",
+   "kana": "くさつおんせん　にっしんかん",
+   "minCharge": 12100,
+   "reviewAverage": 4.05,
+   "reviewCount": 241,
+   "access": "草津の中心・湯畑 湯滝の通りを入ってすぐ左側。",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津368",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7128",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7128%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7128",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7128.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7128/7128.jpg",
+   "special": "湯畑の湯を守り続ける草津最古の老舗宿。保養に最適。",
+   "conditions": []
+  },
+  {
    "hotelNo": 183532,
    "name": "亀の井ホテル　草津湯畑",
    "kana": "かめのいほてる　くさつゆばたけ",
    "minCharge": 8510,
    "reviewAverage": 4.04,
-   "reviewCount": 811,
+   "reviewCount": 832,
    "access": "JR長野原草津口駅よりバスで25分、JR軽井沢駅よりバスで80分 草津温泉バスターミナルから徒歩10分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津512-3",
@@ -1803,8 +1897,8 @@
    "name": "草津温泉　伊東園ホテル草津",
    "kana": "くさつおんせん　いとうえんほてるくさつ",
    "minCharge": 7898,
-   "reviewAverage": 4.02,
-   "reviewCount": 691,
+   "reviewAverage": 4.03,
+   "reviewCount": 695,
    "access": "ＪＲ　吾妻線　長野原草津口駅よりＪＲバス「草津温泉バスターミナル」下車、お車にて約１０分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津464-1051",
@@ -1815,6 +1909,11 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/148947/148947.jpg",
    "special": "自然湧出量日本一を誇り名湯として名高い草津温泉。静かな別荘地に佇む宿で、悠久の安らぎを肌に感じて。",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro"
@@ -1837,6 +1936,9 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184476/184476.jpg",
    "special": "★草津温泉スキー場まで徒歩5分！！★万代鉱源泉掛け流しの温泉が自慢♪",
    "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
     "rotenburo"
    ]
   },
@@ -1846,7 +1948,7 @@
    "kana": "くさつおんせん　よろこびのやどたかまつ",
    "minCharge": 9800,
    "reviewAverage": 3.9,
-   "reviewCount": 2824,
+   "reviewCount": 2843,
    "access": "ＪＲ長野原草津口よりバスで25分／長野新幹線軽井沢駅よりバスで70分／渋川伊香保ＩＣより90分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津312",
@@ -1859,36 +1961,11 @@
    "conditions": [
     "onsen",
     "daiyokujo",
+    "kinen",
     "breakfast",
     "dinner",
     "rotenburo",
     "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 109164,
-   "name": "草津温泉　ペットと泊まれる宿　音雅",
-   "kana": "くさつおんせん　ぺっととまれるやど　おんが",
-   "minCharge": 22000,
-   "reviewAverage": 3.89,
-   "reviewCount": 161,
-   "access": "長野原草津口駅からＪＲバスで１５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町740-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109164",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109164%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109164",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109164.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109164/109164.jpg",
-   "special": "草津でペットと泊まれるお部屋のある温泉宿。露天風呂の他、４００坪のドッグランなどわんちゃんも大喜び！",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "kashikiri-buro",
-    "pet-ok"
    ]
   },
   {
@@ -1920,8 +1997,8 @@
    "name": "草津温泉　大東舘",
    "kana": "くさつおんせん　だいとうかん",
    "minCharge": 6150,
-   "reviewAverage": 3.87,
-   "reviewCount": 2816,
+   "reviewAverage": 3.86,
+   "reviewCount": 2832,
    "access": "草津温泉バスターミナルから徒歩５分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津126",
@@ -1941,38 +2018,12 @@
    ]
   },
   {
-   "hotelNo": 199396,
-   "name": "Ｂ／Ｃ　ＨＯＴＥＬ　草津",
-   "kana": "びーばいしーほてるくさつ",
-   "minCharge": 3825,
-   "reviewAverage": 3.8,
-   "reviewCount": 60,
-   "access": "JR長野原草津口駅→バス約25分→草津温泉BT→徒歩約10分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-34",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199396",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199396%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199396",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199396.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199396/199396.jpg",
-   "special": "2026年7月開業｜露天風呂×サウナ×ドッグランの草津宿",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "rotenburo",
-    "sauna",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 172893,
    "name": "リブマックスリゾート草津温泉",
    "kana": "りぶまっくすりぞーとくさつおんせん",
    "minCharge": 10500,
-   "reviewAverage": 3.8,
-   "reviewCount": 557,
+   "reviewAverage": 3.82,
+   "reviewCount": 565,
    "access": "湯畑から徒歩約10分",
    "address1": "群馬県",
    "address2": "吾妻郡草津町草津548-1",
@@ -1994,6 +2045,58 @@
    ]
   },
   {
+   "hotelNo": 109164,
+   "name": "草津温泉　ペットと泊まれる宿　音雅",
+   "kana": "くさつおんせん　ぺっととまれるやど　おんが",
+   "minCharge": 22000,
+   "reviewAverage": 3.82,
+   "reviewCount": 162,
+   "access": "長野原草津口駅からＪＲバスで１５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町740-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109164",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109164%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109164",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109164.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109164/109164.jpg",
+   "special": "草津でペットと泊まれるお部屋のある温泉宿。露天風呂の他、４００坪のドッグランなどわんちゃんも大喜び！",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "kashikiri-buro",
+    "pet-ok"
+   ]
+  },
+  {
+   "hotelNo": 199396,
+   "name": "Ｂ／Ｃ　ＨＯＴＥＬ　草津",
+   "kana": "びーばいしーほてるくさつ",
+   "minCharge": 3825,
+   "reviewAverage": 3.81,
+   "reviewCount": 72,
+   "access": "JR長野原草津口駅→バス約25分→草津温泉BT→徒歩約10分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-34",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199396",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199396%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199396",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199396.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199396/199396.jpg",
+   "special": "2026年7月開業｜露天風呂×サウナ×ドッグランの草津宿",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "rotenburo",
+    "sauna",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 28305,
    "name": "草津温泉　ペンション　レザン",
    "kana": "くさつおんせん　れざん",
@@ -2009,7 +2112,12 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28305.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28305/28305.jpg",
    "special": "草津でただ一人のソムリエが営む、ワインと料理のハーモニーを楽しめるかけ流し温泉ペンション",
-   "conditions": []
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
   },
   {
    "hotelNo": 8632,

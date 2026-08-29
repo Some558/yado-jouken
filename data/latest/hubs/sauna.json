@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-08-29",
+ "dataAsOf": "2026-08-30",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 42,
    "matchRate": 46.7,
    "minPrice": 6000,
-   "medianPrice": 13750,
-   "reviewAvgMean": 4.39
+   "medianPrice": 14850,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -92,7 +92,7 @@
    "slug": "sauna--ikaho",
    "matchCount": 21,
    "matchRate": 29.6,
-   "minPrice": 4250,
+   "minPrice": 4350,
    "medianPrice": 9350,
    "reviewAvgMean": 4.26
   },
@@ -120,7 +120,7 @@
    "matchRate": 22.2,
    "minPrice": 4200,
    "medianPrice": 14810,
-   "reviewAvgMean": 4.48
+   "reviewAvgMean": 4.47
   },
   {
    "area": {
