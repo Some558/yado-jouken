@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -23,7 +23,7 @@
    "value": 180,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 3100,
+  "minPrice": 3000,
   "medianPrice": 9625,
   "reviewAvgMean": 4.43,
   "pricedCount": 28
@@ -152,7 +152,7 @@
    "hotelNo": 10788,
    "name": "道後温泉　道後舘",
    "kana": "どうごおんせん　どうごかん",
-   "minCharge": 21450,
+   "minCharge": 15950,
    "reviewAverage": 4.67,
    "reviewCount": 2031,
    "access": "◆道後温泉本館まで徒歩５分◆飛鳥乃湯泉は坂道降りてすぐ徒歩３分◆道後温泉駅徒歩７分◆",

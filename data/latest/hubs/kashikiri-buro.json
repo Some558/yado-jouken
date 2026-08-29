@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "areas": [
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 36,
    "matchRate": 40.0,
    "minPrice": 2700,
-   "medianPrice": 8645,
+   "medianPrice": 8590,
    "reviewAvgMean": 4.4
   },
   {
@@ -105,7 +105,7 @@
    "slug": "kashikiri-buro--nasu",
    "matchCount": 30,
    "matchRate": 33.3,
-   "minPrice": 3980,
+   "minPrice": 3280,
    "medianPrice": 10700,
    "reviewAvgMean": 4.53
   },
@@ -119,7 +119,7 @@
    "matchCount": 9,
    "matchRate": 10.0,
    "minPrice": 5316,
-   "medianPrice": 11000,
+   "medianPrice": 10800,
    "reviewAvgMean": 4.53
   },
   {

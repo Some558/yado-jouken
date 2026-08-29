@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "facility"
  },
@@ -337,7 +337,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 15580,
+   "minCharge": 16780,
    "reviewAverage": 4.58,
    "reviewCount": 12,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",

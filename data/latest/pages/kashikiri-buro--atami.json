@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 37960,
    "name": "時間を旅する宿　海のはな",
    "kana": "じかんをたびするやど　うみのはな",
-   "minCharge": 28500,
+   "minCharge": 29000,
    "reviewAverage": 4.44,
    "reviewCount": 254,
    "access": "東名厚木ＩＣ～小田原厚木道路～Ｒ１３５経由　7０分　最寄駅　網代（アジロ）駅よりタクシーで5分",
@@ -354,7 +354,7 @@
    "hotelNo": 7646,
    "name": "熱海温泉　湯宿一番地",
    "kana": "あたみおんせん　ゆやどいちばんち",
-   "minCharge": 8800,
+   "minCharge": 6600,
    "reviewAverage": 4.14,
    "reviewCount": 1185,
    "access": "熱海駅から左前方の仲見世商店街抜けて徒歩2分。",

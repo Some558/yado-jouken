@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "areas": [
   {
    "area": {
@@ -105,8 +105,8 @@
    "slug": "pet-ok--nasu",
    "matchCount": 23,
    "matchRate": 25.6,
-   "minPrice": 3980,
-   "medianPrice": 8800,
+   "minPrice": 3280,
+   "medianPrice": 8525,
    "reviewAvgMean": 4.46
   },
   {
@@ -131,7 +131,7 @@
    "slug": "pet-ok--dogo",
    "matchCount": 3,
    "matchRate": 3.3,
-   "minPrice": 8500,
+   "minPrice": 9350,
    "medianPrice": 13750,
    "reviewAvgMean": 4.28
   }

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4200,
-  "medianPrice": 13600,
+  "medianPrice": 12715,
   "reviewAvgMean": 4.42,
   "pricedCount": 20
  },
@@ -99,7 +99,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 14000,
+   "minCharge": 10000,
    "reviewAverage": 4.65,
    "reviewCount": 1509,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -150,7 +150,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 23430,
+   "minCharge": 21010,
    "reviewAverage": 4.6,
    "reviewCount": 352,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -184,7 +184,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 23434,
+   "minCharge": 21767,
    "reviewAverage": 4.47,
    "reviewCount": 310,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -303,7 +303,7 @@
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 20645,
+   "minCharge": 22149,
    "reviewAverage": 4.13,
    "reviewCount": 180,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",

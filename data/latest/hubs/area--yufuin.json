@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "recordCount": 317,
  "conditions": [
   {
@@ -2044,7 +2044,7 @@
    "hotelNo": 183101,
    "name": "リゾート湯布院　〜Ｇｒａｎｄｐｉａ　Ｒｅｓｏｒｔ　ＹＵＦＵＩＮ〜",
    "kana": "りぞーとゆふいん　〜ぐらんどぴあ　りぞーと　ゆふいん〜",
-   "minCharge": 3070,
+   "minCharge": 2850,
    "reviewAverage": 3.95,
    "reviewCount": 34,
    "access": "由布院駅より車で5分",
@@ -2163,7 +2163,7 @@
    "hotelNo": 172663,
    "name": "ＥＴＡＶＩＡ　湯布院駅前",
    "kana": "えたびあ　ゆふいんえきまえ",
-   "minCharge": 4895,
+   "minCharge": 4030,
    "reviewAverage": 3.75,
    "reviewCount": 38,
    "access": "由布院駅より徒歩にて約１分",

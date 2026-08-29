@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "facility"
  },
@@ -201,7 +201,7 @@
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 14850,
+   "minCharge": 14300,
    "reviewAverage": 4.41,
    "reviewCount": 685,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3980,
-  "medianPrice": 8800,
+  "minPrice": 3280,
+  "medianPrice": 8525,
   "reviewAvgMean": 4.46,
   "pricedCount": 23
  },
@@ -184,7 +184,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 15580,
+   "minCharge": 16780,
    "reviewAverage": 4.58,
    "reviewCount": 12,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",
@@ -269,7 +269,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 9350,
+   "minCharge": 8525,
    "reviewAverage": 4.37,
    "reviewCount": 1899,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -286,7 +286,7 @@
    "hotelNo": 76430,
    "name": "温泉露天貸切や豪華客室露天の宿　ストリーム",
    "kana": "おんせんろてんかしきりやごうかきゃくしつろてんのやど　すとりーむ",
-   "minCharge": 3980,
+   "minCharge": 3280,
    "reviewAverage": 4.35,
    "reviewCount": 92,
    "access": "お車：東北道 那須ＩＣ－(那須街道 7km)－ファミリーマート左折400m右、バス：黒磯駅－守子坂－徒歩５分",
@@ -354,7 +354,7 @@
    "hotelNo": 68250,
    "name": "ホテルラフォーレ那須",
    "kana": "ほてるらふぉーれなす",
-   "minCharge": 6930,
+   "minCharge": 7560,
    "reviewAverage": 4.26,
    "reviewCount": 1368,
    "access": "車：東北道那須ICより約10㎞　電車：ＪＲ那須塩原駅より車で約30分（無料送迎バス有/予約制）日光東照宮迄車で約90分",

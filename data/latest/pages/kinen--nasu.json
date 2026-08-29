@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 8213,
+  "medianPrice": 8000,
   "reviewAvgMean": 4.4,
   "pricedCount": 55
  },
@@ -339,7 +339,7 @@
    "hotelNo": 52722,
    "name": "那須高原ペンションローレル　赤ちゃん子連れ歓迎の宿",
    "kana": "なすこうげんぺんしょんろーれるあかちゃんこづれかんげいのやど",
-   "minCharge": 6100,
+   "minCharge": 7150,
    "reviewAverage": 4.58,
    "reviewCount": 125,
    "access": "東北自動車道那須ＩＣまたは黒磯板室ＩＣより車20分",
@@ -356,7 +356,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 15580,
+   "minCharge": 16780,
    "reviewAverage": 4.58,
    "reviewCount": 12,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",

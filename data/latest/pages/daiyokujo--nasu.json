@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -220,7 +220,7 @@
    "hotelNo": 68250,
    "name": "ホテルラフォーレ那須",
    "kana": "ほてるらふぉーれなす",
-   "minCharge": 6930,
+   "minCharge": 7560,
    "reviewAverage": 4.26,
    "reviewCount": 1368,
    "access": "車：東北道那須ICより約10㎞　電車：ＪＲ那須塩原駅より車で約30分（無料送迎バス有/予約制）日光東照宮迄車で約90分",
@@ -237,7 +237,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 5875,
+   "minCharge": 5125,
    "reviewAverage": 4.22,
    "reviewCount": 1851,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",

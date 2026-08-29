@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -169,7 +169,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 41800,
+   "minCharge": 40700,
    "reviewAverage": 4.71,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",
@@ -288,7 +288,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 8500,
+   "minCharge": 12000,
    "reviewAverage": 4.55,
    "reviewCount": 6599,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",

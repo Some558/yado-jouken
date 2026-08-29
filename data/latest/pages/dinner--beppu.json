@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-08-22",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2350,
-  "medianPrice": 8837,
+  "medianPrice": 8550,
   "reviewAvgMean": 4.36,
   "pricedCount": 58
  },
@@ -152,7 +152,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 31500,
+   "minCharge": 32000,
    "reviewAverage": 4.64,
    "reviewCount": 104,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -169,7 +169,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 16600,
+   "minCharge": 17700,
    "reviewAverage": 4.63,
    "reviewCount": 12737,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",
@@ -322,7 +322,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 9075,
+   "minCharge": 7975,
    "reviewAverage": 4.54,
    "reviewCount": 187,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",

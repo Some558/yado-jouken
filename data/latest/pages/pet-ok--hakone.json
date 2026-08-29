@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-28",
+ "dataAsOf": "2026-08-29",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 153552,
    "name": "リブマックスリゾート箱根仙石原",
    "kana": "りぶまっくすりぞーとはこねせんごくばら",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 3.87,
    "reviewCount": 287,
    "access": "【箱根登山バス】「台ヶ岳」バス停よりホテルまで徒歩にて約１０分　",
@@ -286,7 +286,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 3.82,
    "reviewCount": 80,
    "access": "上強羅駅より徒歩約１分",
