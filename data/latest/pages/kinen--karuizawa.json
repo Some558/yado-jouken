@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3900,
-  "medianPrice": 9410,
-  "reviewAvgMean": 4.44,
-  "pricedCount": 60
+  "medianPrice": 9880,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 61
  },
  "hotels": [
   {
@@ -203,7 +203,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 34100,
+   "minCharge": 37400,
    "reviewAverage": 4.72,
    "reviewCount": 119,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -305,7 +305,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 28367,
+   "minCharge": 25964,
    "reviewAverage": 4.67,
    "reviewCount": 201,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -370,5 +370,5 @@
    "special": "佐久平エリア初のデザイナーズホテルとして「ワンランク上」の上質な快適さと空間を兼ね備えたホテル"
   }
  ],
- "listedMatchCount": 60
+ "listedMatchCount": 61
 }

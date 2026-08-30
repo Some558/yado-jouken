@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 9600,
+  "medianPrice": 10164,
   "reviewAvgMean": 4.2,
   "pricedCount": 17
  },
@@ -48,7 +48,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 10200,
+   "minCharge": 11050,
    "reviewAverage": 4.54,
    "reviewCount": 159,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -99,7 +99,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 9600,
+   "minCharge": 10400,
    "reviewAverage": 4.39,
    "reviewCount": 86,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -116,7 +116,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 16900,
+   "minCharge": 17400,
    "reviewAverage": 4.38,
    "reviewCount": 43,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -269,7 +269,7 @@
    "hotelNo": 153552,
    "name": "リブマックスリゾート箱根仙石原",
    "kana": "りぶまっくすりぞーとはこねせんごくばら",
-   "minCharge": 6000,
+   "minCharge": 7000,
    "reviewAverage": 3.86,
    "reviewCount": 292,
    "access": "【箱根登山バス】「台ヶ岳」バス停よりホテルまで徒歩にて約１０分　",

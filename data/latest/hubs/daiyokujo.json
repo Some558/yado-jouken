@@ -3,7 +3,7 @@
   "slug": "daiyokujo",
   "label": "大浴場"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 115,
    "matchRate": 31.9,
    "minPrice": 5500,
-   "medianPrice": 12320,
+   "medianPrice": 12455,
    "reviewAvgMean": 4.38
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 44,
    "matchRate": 28.2,
    "minPrice": 3825,
-   "medianPrice": 12100,
+   "medianPrice": 11600,
    "reviewAvgMean": 4.34
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 65,
    "matchRate": 24.2,
    "minPrice": 3000,
-   "medianPrice": 9790,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.25
   },
   {
@@ -53,7 +53,7 @@
    "slug": "daiyokujo--beppu",
    "matchCount": 61,
    "matchRate": 24.0,
-   "minPrice": 2350,
+   "minPrice": 2500,
    "medianPrice": 7700,
    "reviewAvgMean": 4.32
   },
@@ -66,8 +66,8 @@
    "slug": "daiyokujo--yufuin",
    "matchCount": 56,
    "matchRate": 17.7,
-   "minPrice": 6500,
-   "medianPrice": 13000,
+   "minPrice": 7700,
+   "medianPrice": 15000,
    "reviewAvgMean": 4.43
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 42,
    "matchRate": 26.6,
    "minPrice": 3000,
-   "medianPrice": 10940,
+   "medianPrice": 10950,
    "reviewAvgMean": 4.43
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 31,
    "matchRate": 43.7,
    "minPrice": 4350,
-   "medianPrice": 9350,
+   "medianPrice": 9636,
    "reviewAvgMean": 4.26
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 42,
    "matchRate": 12.1,
    "minPrice": 2240,
-   "medianPrice": 9600,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.35
   },
   {

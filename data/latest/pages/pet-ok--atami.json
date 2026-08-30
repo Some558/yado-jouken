@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 37180,
+   "minCharge": 38280,
    "reviewAverage": 4.88,
    "reviewCount": 565,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 6587,
+   "minCharge": 6800,
    "reviewAverage": 4.45,
    "reviewCount": 437,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -150,7 +150,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 13700,
+   "minCharge": 13900,
    "reviewAverage": 4.26,
    "reviewCount": 3324,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",

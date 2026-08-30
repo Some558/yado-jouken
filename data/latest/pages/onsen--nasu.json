@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -26,14 +26,14 @@
   "minPrice": 2240,
   "medianPrice": 11000,
   "reviewAvgMean": 4.39,
-  "pricedCount": 48
+  "pricedCount": 47
  },
  "hotels": [
   {
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11850,
+   "minCharge": 12000,
    "reviewAverage": 4.91,
    "reviewCount": 173,
    "access": "黒磯駅よりお車で約２５分",
@@ -118,7 +118,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 7728,
+   "minCharge": 8694,
    "reviewAverage": 4.7,
    "reviewCount": 327,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -220,7 +220,7 @@
    "hotelNo": 18978,
    "name": "那須温泉　愛犬と泊まれる美味しいプチホテル　ザ・ハートフィールド・イン",
    "kana": "なすおんせん　あいけんととまれるおいしいぷちほてる　ざ・はーとふぃーるど・いん",
-   "minCharge": 19500,
+   "minCharge": 15000,
    "reviewAverage": 4.63,
    "reviewCount": 108,
    "access": "東北新幹線「那須塩原」駅・宇都宮線「黒磯」駅から車で35分／東北自動車道「那須IC」「白河IC」から車で20分",
@@ -254,7 +254,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 24420,
+   "minCharge": 32889,
    "reviewAverage": 4.57,
    "reviewCount": 35,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
@@ -271,7 +271,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 15675,
+   "minCharge": 17600,
    "reviewAverage": 4.55,
    "reviewCount": 503,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",
@@ -305,7 +305,7 @@
    "hotelNo": 177663,
    "name": "リゾナーレ那須",
    "kana": "りぞなーれなす",
-   "minCharge": 21120,
+   "minCharge": 19140,
    "reviewAverage": 4.48,
    "reviewCount": 165,
    "access": "那須塩原駅よりお車にて約４０分",
@@ -356,7 +356,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 7770,
+   "minCharge": 8190,
    "reviewAverage": 4.44,
    "reviewCount": 8506,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
@@ -370,5 +370,5 @@
    "special": "地元の旬菜にこだわる食事＆施設充実のトップリゾート"
   }
  ],
- "listedMatchCount": 48
+ "listedMatchCount": 47
 }

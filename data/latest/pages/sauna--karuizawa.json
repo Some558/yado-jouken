@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 20,
-  "matchRate": 22.2,
+  "matchCount": 19,
+  "matchRate": 21.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4200,
-  "medianPrice": 14810,
-  "reviewAvgMean": 4.47,
-  "pricedCount": 20
+  "medianPrice": 17820,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 19
  },
  "hotels": [
   {
@@ -43,23 +43,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192929.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192929/192929.jpg",
    "special": "自然あふれる魅力的な１日を過ごす場所　。穏やかに流れる時間。プライバシーを重視した贅沢な空間。"
-  },
-  {
-   "hotelNo": 153630,
-   "name": "ゲストハウス　シャコンヌ軽井沢",
-   "kana": "げすとはうす　しゃこんぬかるいざわ",
-   "minCharge": 5316,
-   "reviewAverage": 4.8,
-   "reviewCount": 102,
-   "access": "軽井沢駅より徒歩にて約１５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢1062-63",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153630",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153630%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153630",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153630.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153630/153630.jpg",
-   "special": "軽井沢駅近★アウトレット徒歩３分♪★木の温もりが優しい宿。お得な貸自転車・朝食有。生演奏も楽しめます"
   },
   {
    "hotelNo": 183280,
@@ -99,7 +82,7 @@
    "hotelNo": 196141,
    "name": "グランディスタイル旧軽井沢ホテル＆リゾート",
    "kana": "ぐらんでぃすたいるきゅうかるいざわほてるあんどりぞーと",
-   "minCharge": 25630,
+   "minCharge": 24750,
    "reviewAverage": 4.68,
    "reviewCount": 197,
    "access": "軽井沢駅より車で約５分",
@@ -116,7 +99,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 28367,
+   "minCharge": 25964,
    "reviewAverage": 4.67,
    "reviewCount": 201,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -303,7 +286,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 5500,
+   "minCharge": 7400,
    "reviewAverage": 4.13,
    "reviewCount": 250,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -368,5 +351,5 @@
    "special": "懐古園すぐ横！小諸駅徒歩約5分●軽井沢・上田まで車約35分●"
   }
  ],
- "listedMatchCount": 20
+ "listedMatchCount": 19
 }

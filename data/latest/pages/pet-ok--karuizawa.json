@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 17,
-  "matchRate": 18.9,
+  "matchCount": 18,
+  "matchRate": 20.0,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5400,
-  "medianPrice": 11800,
+  "medianPrice": 11510,
   "reviewAvgMean": 4.57,
-  "pricedCount": 17
+  "pricedCount": 18
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 34100,
+   "minCharge": 37400,
    "reviewAverage": 4.72,
    "reviewCount": 119,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -164,6 +164,23 @@
    "special": "閑静な旧軽井沢の南仏薫るホテルで心地よい休日を愛犬と一緒にお過ごし下さい。ワンちゃん2頭目まで無料。"
   },
   {
+   "hotelNo": 139957,
+   "name": "ＡＲＴ　ＨＯＴＥＬ　ＶＩＬＬＡ１１　軽井沢",
+   "kana": "あーとほてるヴぃらいれぶん　かるいざわ",
+   "minCharge": 10000,
+   "reviewAverage": 4.63,
+   "reviewCount": 26,
+   "access": "中軽井沢駅からタクシーにて５分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町千ヶ滝2147",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D139957",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D139957%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D139957",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/139957.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139957/139957.jpg",
+   "special": "軽井沢、星野温泉徒歩10分　全室ワンちゃん同伴OK、ドッグラン付"
+  },
+  {
    "hotelNo": 162641,
    "name": "トレーラーハウスホテル・ジェニー",
    "kana": "とれーらーはうすほてる・じぇにー",
@@ -201,7 +218,7 @@
    "hotelNo": 172066,
    "name": "ＭＯＲＩＨＡＫＵ",
    "kana": "もりはく",
-   "minCharge": 9350,
+   "minCharge": 11220,
    "reviewAverage": 4.5,
    "reviewCount": 16,
    "access": "軽井沢駅よりお車にて約9分",
@@ -317,5 +334,5 @@
    "special": "世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。"
   }
  ],
- "listedMatchCount": 17
+ "listedMatchCount": 18
 }

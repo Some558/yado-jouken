@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4840,
+  "minPrice": 5000,
   "medianPrice": 10760,
   "reviewAvgMean": 4.32,
   "pricedCount": 65
@@ -48,7 +48,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 37180,
+   "minCharge": 38280,
    "reviewAverage": 4.88,
    "reviewCount": 565,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -201,7 +201,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 18750,
+   "minCharge": 19166,
    "reviewAverage": 4.58,
    "reviewCount": 322,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -337,7 +337,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 13050,
+   "minCharge": 12200,
    "reviewAverage": 4.54,
    "reviewCount": 696,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 1850,
-  "medianPrice": 5225,
+  "medianPrice": 5500,
   "reviewAvgMean": 4.25,
   "pricedCount": 73
  },
@@ -203,7 +203,7 @@
    "hotelNo": 13429,
    "name": "道後温泉　大和屋本店",
    "kana": "どうごおんせん　やまとやほんてん",
-   "minCharge": 14701,
+   "minCharge": 15790,
    "reviewAverage": 4.62,
    "reviewCount": 2268,
    "access": "ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分",
@@ -288,7 +288,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6030,
+   "minCharge": 6500,
    "reviewAverage": 4.48,
    "reviewCount": 1076,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -339,7 +339,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 14300,
+   "minCharge": 15300,
    "reviewAverage": 4.47,
    "reviewCount": 700,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",
@@ -356,7 +356,7 @@
    "hotelNo": 184071,
    "name": "ＨＯＴＥＬ　ＬＥＰＯ　ＣＨＡＨＡＬ",
    "kana": "ほてる　れぽ　ちゃはる",
-   "minCharge": 11000,
+   "minCharge": 12100,
    "reviewAverage": 4.44,
    "reviewCount": 64,
    "access": "大街道駅より徒歩1分、松山空港より車で約20分",

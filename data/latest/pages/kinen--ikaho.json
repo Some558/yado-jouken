@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 3500,
-  "medianPrice": 9636,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.28,
   "pricedCount": 37
  },
@@ -237,7 +237,7 @@
    "hotelNo": 7170,
    "name": "伊香保温泉　温泉宿　塚越屋七兵衛",
    "kana": "いかほおんせん　おんせんやど　つかごしやしちべえ",
-   "minCharge": 10010,
+   "minCharge": 10780,
    "reviewAverage": 4.42,
    "reviewCount": 892,
    "access": "関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）",
@@ -288,7 +288,7 @@
    "hotelNo": 197407,
    "name": "ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　渋川",
    "kana": "ほてる あーるないん ざ やーど しぶかわ",
-   "minCharge": 3600,
+   "minCharge": 3900,
    "reviewAverage": 4.35,
    "reviewCount": 125,
    "access": "【電車】渋川駅より徒歩10分、タクシーで4分。【お車】渋川伊香保ICより車で5分。",
@@ -339,7 +339,7 @@
    "hotelNo": 7050,
    "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
    "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 8085,
+   "minCharge": 15015,
    "reviewAverage": 4.32,
    "reviewCount": 1504,
    "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",

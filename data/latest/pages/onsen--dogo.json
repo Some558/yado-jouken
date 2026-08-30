@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -203,7 +203,7 @@
    "hotelNo": 13429,
    "name": "道後温泉　大和屋本店",
    "kana": "どうごおんせん　やまとやほんてん",
-   "minCharge": 14701,
+   "minCharge": 15790,
    "reviewAverage": 4.62,
    "reviewCount": 2268,
    "access": "ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分",
@@ -288,7 +288,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 14300,
+   "minCharge": 15300,
    "reviewAverage": 4.47,
    "reviewCount": 700,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",

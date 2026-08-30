@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3380,
-  "medianPrice": 8525,
+  "medianPrice": 8694,
   "reviewAvgMean": 4.47,
   "pricedCount": 23
  },
@@ -116,7 +116,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 7728,
+   "minCharge": 8694,
    "reviewAverage": 4.7,
    "reviewCount": 327,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -150,7 +150,7 @@
    "hotelNo": 18978,
    "name": "那須温泉　愛犬と泊まれる美味しいプチホテル　ザ・ハートフィールド・イン",
    "kana": "なすおんせん　あいけんととまれるおいしいぷちほてる　ざ・はーとふぃーるど・いん",
-   "minCharge": 19500,
+   "minCharge": 15000,
    "reviewAverage": 4.63,
    "reviewCount": 108,
    "access": "東北新幹線「那須塩原」駅・宇都宮線「黒磯」駅から車で35分／東北自動車道「那須IC」「白河IC」から車で20分",
@@ -235,7 +235,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 7770,
+   "minCharge": 8190,
    "reviewAverage": 4.44,
    "reviewCount": 8506,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",

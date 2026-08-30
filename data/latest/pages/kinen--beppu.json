@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -23,7 +23,7 @@
    "value": 254,
    "label": "別府・日出エリアの掲載施設数"
   },
-  "minPrice": 2350,
+  "minPrice": 2500,
   "medianPrice": 8100,
   "reviewAvgMean": 4.36,
   "pricedCount": 77
@@ -186,7 +186,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 17700,
+   "minCharge": 16600,
    "reviewAverage": 4.63,
    "reviewCount": 12799,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",
@@ -220,7 +220,7 @@
    "hotelNo": 78167,
    "name": "別府明礬温泉　岡本屋旅館",
    "kana": "おかもとやりょかん",
-   "minCharge": 18700,
+   "minCharge": 20900,
    "reviewAverage": 4.62,
    "reviewCount": 501,
    "access": "ＪＲ別府駅から車で１５分、バスで約３０分　　別府ICより車で７分",
@@ -271,7 +271,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 19228,
+   "minCharge": 20746,
    "reviewAverage": 4.61,
    "reviewCount": 685,
    "access": "別府大学駅より徒歩１０分",
@@ -339,7 +339,7 @@
    "hotelNo": 196407,
    "name": "グランシア別府鉄輪",
    "kana": "ぐらんしあべっぷかんなわ",
-   "minCharge": 10400,
+   "minCharge": 12960,
    "reviewAverage": 4.56,
    "reviewCount": 44,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",

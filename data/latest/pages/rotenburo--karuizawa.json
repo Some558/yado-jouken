@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
@@ -303,7 +303,7 @@
    "hotelNo": 28349,
    "name": "軽井沢ホテル　ロンギングハウス",
    "kana": "かるいざわほてる　ろんぎんぐはうす",
-   "minCharge": 10800,
+   "minCharge": 7800,
    "reviewAverage": 4.23,
    "reviewCount": 1420,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",

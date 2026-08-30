@@ -9,13 +9,13 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 54,
-  "matchRate": 60.0,
+  "matchCount": 52,
+  "matchRate": 57.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -23,15 +23,15 @@
   },
   "minPrice": 2240,
   "medianPrice": 11000,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 54
+  "reviewAvgMean": 4.43,
+  "pricedCount": 52
  },
  "hotels": [
   {
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11850,
+   "minCharge": 12000,
    "reviewAverage": 4.91,
    "reviewCount": 173,
    "access": "黒磯駅よりお車で約２５分",
@@ -150,7 +150,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 7728,
+   "minCharge": 8694,
    "reviewAverage": 4.7,
    "reviewCount": 327,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -269,7 +269,7 @@
    "hotelNo": 18978,
    "name": "那須温泉　愛犬と泊まれる美味しいプチホテル　ザ・ハートフィールド・イン",
    "kana": "なすおんせん　あいけんととまれるおいしいぷちほてる　ざ・はーとふぃーるど・いん",
-   "minCharge": 19500,
+   "minCharge": 15000,
    "reviewAverage": 4.63,
    "reviewCount": 108,
    "access": "東北新幹線「那須塩原」駅・宇都宮線「黒磯」駅から車で35分／東北自動車道「那須IC」「白河IC」から車で20分",
@@ -337,7 +337,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 16800,
+   "minCharge": 15700,
    "reviewAverage": 4.59,
    "reviewCount": 472,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -368,5 +368,5 @@
    "special": "地産食材を多く使ったお料理と気軽に貸切利用の出来る露天風呂が大好評♪"
   }
  ],
- "listedMatchCount": 54
+ "listedMatchCount": 52
 }

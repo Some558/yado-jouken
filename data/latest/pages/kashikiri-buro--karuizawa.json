@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 9,
-  "matchRate": 10.0,
+  "matchCount": 8,
+  "matchRate": 8.9,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5316,
-  "medianPrice": 10800,
-  "reviewAvgMean": 4.52,
-  "pricedCount": 9
+  "minPrice": 6600,
+  "medianPrice": 10500,
+  "reviewAvgMean": 4.48,
+  "pricedCount": 8
  },
  "hotels": [
   {
@@ -43,23 +43,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165083.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165083/165083.jpg",
    "special": "『人にやさしい自然の恵みにいやされて』観光地から離れた静かなエリアに佇む2015年築の貸別荘。"
-  },
-  {
-   "hotelNo": 153630,
-   "name": "ゲストハウス　シャコンヌ軽井沢",
-   "kana": "げすとはうす　しゃこんぬかるいざわ",
-   "minCharge": 5316,
-   "reviewAverage": 4.8,
-   "reviewCount": 102,
-   "access": "軽井沢駅より徒歩にて約１５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢1062-63",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153630",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153630%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153630",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153630.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153630/153630.jpg",
-   "special": "軽井沢駅近★アウトレット徒歩３分♪★木の温もりが優しい宿。お得な貸自転車・朝食有。生演奏も楽しめます"
   },
   {
    "hotelNo": 39497,
@@ -150,7 +133,7 @@
    "hotelNo": 28349,
    "name": "軽井沢ホテル　ロンギングハウス",
    "kana": "かるいざわほてる　ろんぎんぐはうす",
-   "minCharge": 10800,
+   "minCharge": 7800,
    "reviewAverage": 4.23,
    "reviewCount": 1420,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
@@ -181,5 +164,5 @@
    "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 9
+ "listedMatchCount": 8
 }

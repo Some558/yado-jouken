@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,28 +24,11 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 11000,
+  "medianPrice": 11250,
   "reviewAvgMean": 4.45,
-  "pricedCount": 67
+  "pricedCount": 66
  },
  "hotels": [
-  {
-   "hotelNo": 128547,
-   "name": "ペンション　ムーンサイド",
-   "kana": "むーんさいど",
-   "minCharge": 8800,
-   "reviewAverage": 5.0,
-   "reviewCount": 27,
-   "access": "ＪＲ江原駅（下り八鹿駅の次・豊岡駅の２駅手前）より神鍋方面バスで３０分　車・北近畿豊岡自動車道日高神鍋高原出口より１５分",
-   "address1": "兵庫県",
-   "address2": "豊岡市日高町万劫555",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D128547",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D128547%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D128547",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/128547.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128547/128547.jpg",
-   "special": "秋深まり、竹田城の雲海も見ごろを迎えています。たっぷり遊んで食べて、ゆっくりお寛ぎください！"
-  },
   {
    "hotelNo": 146878,
    "name": "ＴＯＹＯＯＫＡ１９２５",
@@ -237,7 +220,7 @@
    "hotelNo": 8766,
    "name": "城崎温泉　つちや旅館",
    "kana": "きのさきおんせん　つちやりょかん",
-   "minCharge": 11000,
+   "minCharge": 13200,
    "reviewAverage": 4.72,
    "reviewCount": 246,
    "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28142.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28142/28142.jpg",
    "special": "城崎温泉のまん中にあり外湯めぐりに最適です。直営工場で作った地ビールをお楽しみ下さい。"
+  },
+  {
+   "hotelNo": 109048,
+   "name": "たびたび　花院",
+   "kana": "たびたび　かいん",
+   "minCharge": 10100,
+   "reviewAverage": 4.64,
+   "reviewCount": 27,
+   "access": "ＪＲ　城崎温泉駅からお車で７分（送迎有・要予約）　駐車場完備",
+   "address1": "兵庫県",
+   "address2": "豊岡市気比4509",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109048",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109048%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109048",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109048.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109048/109048.jpg",
+   "special": "一日５〜６組限定　星空と実家に帰ったような雰囲気に癒される小さな宿　コウノトリにも会えるかも"
   }
  ],
- "listedMatchCount": 67
+ "listedMatchCount": 66
 }

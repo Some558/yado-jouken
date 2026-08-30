@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6000,
-  "medianPrice": 14583,
+  "minPrice": 6798,
+  "medianPrice": 14817,
   "reviewAvgMean": 4.4,
   "pricedCount": 70
  },
@@ -167,7 +167,7 @@
    "hotelNo": 79294,
    "name": "強羅温泉　強羅花扇",
    "kana": "ごうらはなおうぎ",
-   "minCharge": 45000,
+   "minCharge": 47000,
    "reviewAverage": 4.78,
    "reviewCount": 340,
    "access": "強羅駅もしくは早雲山駅より無料でお迎えにあがります。ご一報くださいませ。　",
@@ -184,7 +184,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 19800,
+   "minCharge": 17400,
    "reviewAverage": 4.74,
    "reviewCount": 38,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -235,7 +235,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 7500,
+   "minCharge": 10200,
    "reviewAverage": 4.67,
    "reviewCount": 498,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",
@@ -269,7 +269,7 @@
    "hotelNo": 31681,
    "name": "箱根湯本温泉　庭園露天を味わう宿　湯さか荘",
    "kana": "はこねゆもとおんせん　ていえんろてんをあじわうやど　ゆさかそう",
-   "minCharge": 22000,
+   "minCharge": 17600,
    "reviewAverage": 4.62,
    "reviewCount": 557,
    "access": "箱根湯本駅より徒歩約15分または旅館共同送迎バス（200円）で約5分／小田原厚木道路箱根口ＩＣ→国道1号→県道732号",

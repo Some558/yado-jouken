@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 17,
    "matchRate": 18.9,
    "minPrice": 4800,
-   "medianPrice": 9600,
+   "medianPrice": 10164,
    "reviewAvgMean": 4.2
   },
   {
@@ -66,7 +66,7 @@
    "slug": "pet-ok--yufuin",
    "matchCount": 10,
    "matchRate": 11.1,
-   "minPrice": 7920,
+   "minPrice": 8352,
    "medianPrice": 11725,
    "reviewAvgMean": 4.54
   },
@@ -106,7 +106,7 @@
    "matchCount": 23,
    "matchRate": 25.6,
    "minPrice": 3380,
-   "medianPrice": 8525,
+   "medianPrice": 8694,
    "reviewAvgMean": 4.47
   },
   {
@@ -116,10 +116,10 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "pet-ok--karuizawa",
-   "matchCount": 17,
-   "matchRate": 18.9,
+   "matchCount": 18,
+   "matchRate": 20.0,
    "minPrice": 5400,
-   "medianPrice": 11800,
+   "medianPrice": 11510,
    "reviewAvgMean": 4.57
   },
   {
@@ -131,7 +131,7 @@
    "slug": "pet-ok--dogo",
    "matchCount": 3,
    "matchRate": 3.3,
-   "minPrice": 9350,
+   "minPrice": 10660,
    "medianPrice": 13750,
    "reviewAvgMean": 4.29
   }

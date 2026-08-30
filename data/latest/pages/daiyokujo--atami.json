@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-08-30",
+ "dataAsOf": "2026-08-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 9790,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.25,
   "pricedCount": 59
  },
@@ -169,7 +169,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 18750,
+   "minCharge": 19166,
    "reviewAverage": 4.58,
    "reviewCount": 322,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -322,7 +322,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 6587,
+   "minCharge": 6800,
    "reviewAverage": 4.45,
    "reviewCount": 437,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
