@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-08-31",
+ "dataAsOf": "2026-09-01",
  "areas": [
   {
    "area": {
@@ -40,8 +40,8 @@
    "slug": "breakfast--atami",
    "matchCount": 92,
    "matchRate": 34.2,
-   "minPrice": 3000,
-   "medianPrice": 10049,
+   "minPrice": 4000,
+   "medianPrice": 10045,
    "reviewAvgMean": 4.28
   },
   {
@@ -92,7 +92,7 @@
    "slug": "breakfast--ikaho",
    "matchCount": 41,
    "matchRate": 57.7,
-   "minPrice": 4350,
+   "minPrice": 4100,
    "medianPrice": 9636,
    "reviewAvgMean": 4.27
   },
@@ -106,7 +106,7 @@
    "matchCount": 108,
    "matchRate": 31.0,
    "minPrice": 2240,
-   "medianPrice": 8900,
+   "medianPrice": 9015,
    "reviewAvgMean": 4.43
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 79,
    "matchRate": 28.4,
    "minPrice": 3900,
-   "medianPrice": 10000,
+   "medianPrice": 10200,
    "reviewAvgMean": 4.45
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 72,
    "matchRate": 40.0,
    "minPrice": 1850,
-   "medianPrice": 5600,
+   "medianPrice": 5700,
    "reviewAvgMean": 4.25
   }
  ]

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-08-31",
+ "dataAsOf": "2026-09-01",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -33,7 +33,7 @@
    "hotelNo": 187285,
    "name": "由布院温泉グランピング　風の響き",
    "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 18900,
+   "minCharge": 16660,
    "reviewAverage": 5.0,
    "reviewCount": 45,
    "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
@@ -203,7 +203,7 @@
    "hotelNo": 198450,
    "name": "ＨＯＴＥＬ　ＭＯＤＡ",
    "kana": "ほてる もだ",
-   "minCharge": 22500,
+   "minCharge": 24700,
    "reviewAverage": 4.86,
    "reviewCount": 7,
    "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",

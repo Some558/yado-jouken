@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-08-31",
+ "dataAsOf": "2026-09-01",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 21120,
+   "minCharge": 20130,
    "reviewAverage": 4.66,
    "reviewCount": 795,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -167,7 +167,7 @@
    "hotelNo": 139957,
    "name": "ＡＲＴ　ＨＯＴＥＬ　ＶＩＬＬＡ１１　軽井沢",
    "kana": "あーとほてるヴぃらいれぶん　かるいざわ",
-   "minCharge": 10000,
+   "minCharge": 9000,
    "reviewAverage": 4.63,
    "reviewCount": 26,
    "access": "中軽井沢駅からタクシーにて５分",

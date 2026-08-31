@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-08-31",
+ "dataAsOf": "2026-09-01",
  "areas": [
   {
    "area": {
@@ -40,8 +40,8 @@
    "slug": "dinner--atami",
    "matchCount": 78,
    "matchRate": 29.0,
-   "minPrice": 3000,
-   "medianPrice": 10760,
+   "minPrice": 4000,
+   "medianPrice": 10098,
    "reviewAvgMean": 4.29
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 39,
    "matchRate": 21.7,
    "minPrice": 2900,
-   "medianPrice": 10280,
+   "medianPrice": 10395,
    "reviewAvgMean": 4.37
   }
  ]

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-08-31",
+ "dataAsOf": "2026-09-01",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3825,
-  "medianPrice": 7802,
+  "medianPrice": 8042,
   "reviewAvgMean": 3.97,
   "pricedCount": 6
  },
@@ -48,7 +48,7 @@
    "hotelNo": 195645,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
    "kana": null,
-   "minCharge": 8000,
+   "minCharge": 8480,
    "reviewAverage": 4.15,
    "reviewCount": 34,
    "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
@@ -82,7 +82,7 @@
    "hotelNo": 172893,
    "name": "リブマックスリゾート草津温泉",
    "kana": "りぶまっくすりぞーとくさつおんせん",
-   "minCharge": 10500,
+   "minCharge": 10900,
    "reviewAverage": 3.82,
    "reviewCount": 565,
    "access": "湯畑から徒歩約10分",

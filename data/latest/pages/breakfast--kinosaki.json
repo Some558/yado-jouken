@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-08-31",
+ "dataAsOf": "2026-09-01",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -101,7 +101,7 @@
    "hotelNo": 178547,
    "name": "１日６組限定　ー独占、という名の贅沢ー　炭平別邸　季ト時",
    "kana": "どくせん　というなのぜいたく　すみへいべってい　ときととき",
-   "minCharge": 25400,
+   "minCharge": 27700,
    "reviewAverage": 4.89,
    "reviewCount": 491,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約５分",
@@ -285,23 +285,6 @@
    "special": "かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有"
   },
   {
-   "hotelNo": 70709,
-   "name": "城崎　円山川温泉　銀花（共立リゾート）",
-   "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 15400,
-   "reviewAverage": 4.7,
-   "reviewCount": 464,
-   "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
-   "address1": "兵庫県",
-   "address2": "豊岡市小島1177",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70709",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70709%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70709",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70709.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70709/70709.jpg",
-   "special": "一流の料理人が選び抜き、美食にこだわる隠れ宿。悠にして閑、安にして穏なる宿。"
-  },
-  {
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
@@ -317,6 +300,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50571.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50571/50571.jpg",
    "special": "いつでも「ただいま」と帰れるもうひとつの場所に。温泉街の路地奥、夫婦で営む小さな湯宿です。"
+  },
+  {
+   "hotelNo": 70709,
+   "name": "城崎　円山川温泉　銀花（共立リゾート）",
+   "kana": "きのさき　まるやまがわおんせん　ぎんか",
+   "minCharge": 16500,
+   "reviewAverage": 4.7,
+   "reviewCount": 464,
+   "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
+   "address1": "兵庫県",
+   "address2": "豊岡市小島1177",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70709",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70709%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70709",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70709.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70709/70709.jpg",
+   "special": "一流の料理人が選び抜き、美食にこだわる隠れ宿。悠にして閑、安にして穏なる宿。"
   },
   {
    "hotelNo": 176571,
