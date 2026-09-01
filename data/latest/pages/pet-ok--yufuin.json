@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7920,
-  "medianPrice": 11725,
+  "medianPrice": 11808,
   "reviewAvgMean": 4.54,
   "pricedCount": 10
  },
@@ -65,7 +65,7 @@
    "hotelNo": 28502,
    "name": "由布院温泉　榎屋旅館",
    "kana": "ゆふいんおんせん　えのきやりょかん",
-   "minCharge": 11088,
+   "minCharge": 11616,
    "reviewAverage": 4.66,
    "reviewCount": 253,
    "access": "ＪＲ由布院駅より徒歩１３分／大分空港より高速バスで５５分",

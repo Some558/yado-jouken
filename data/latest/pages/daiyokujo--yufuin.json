@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -20,11 +20,11 @@
   "matchRate": 17.7,
   "denominator": {
    "type": "area_total",
-   "value": 317,
+   "value": 316,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,
-  "medianPrice": 15000,
+  "medianPrice": 15100,
   "reviewAvgMean": 4.43,
   "pricedCount": 31
  },
@@ -84,7 +84,7 @@
    "hotelNo": 38277,
    "name": "由布院温泉　旅亭　田乃倉",
    "kana": "たのくら",
-   "minCharge": 32900,
+   "minCharge": 29610,
    "reviewAverage": 4.79,
    "reviewCount": 108,
    "access": "駅よりタクシーで5分  金鱗湖徒歩２分",
@@ -118,7 +118,7 @@
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 9900,
+   "minCharge": 10890,
    "reviewAverage": 4.75,
    "reviewCount": 1022,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
@@ -288,7 +288,7 @@
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 10790,
+   "minCharge": 21060,
    "reviewAverage": 4.49,
    "reviewCount": 313,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",

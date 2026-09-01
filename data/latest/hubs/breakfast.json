@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "areas": [
   {
    "area": {
@@ -40,8 +40,8 @@
    "slug": "breakfast--atami",
    "matchCount": 92,
    "matchRate": 34.2,
-   "minPrice": 4000,
-   "medianPrice": 10045,
+   "minPrice": 3000,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.28
   },
   {
@@ -65,9 +65,9 @@
    },
    "slug": "breakfast--yufuin",
    "matchCount": 122,
-   "matchRate": 38.5,
-   "minPrice": 2850,
-   "medianPrice": 16400,
+   "matchRate": 38.6,
+   "minPrice": 3070,
+   "medianPrice": 17000,
    "reviewAvgMean": 4.53
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 89,
    "matchRate": 56.3,
    "minPrice": 4300,
-   "medianPrice": 12320,
+   "medianPrice": 11725,
    "reviewAvgMean": 4.45
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 41,
    "matchRate": 57.7,
    "minPrice": 4100,
-   "medianPrice": 9636,
+   "medianPrice": 9350,
    "reviewAvgMean": 4.27
   },
   {
@@ -105,7 +105,7 @@
    "slug": "breakfast--nasu",
    "matchCount": 108,
    "matchRate": 31.0,
-   "minPrice": 2240,
+   "minPrice": 2040,
    "medianPrice": 9015,
    "reviewAvgMean": 4.43
   },
@@ -119,7 +119,7 @@
    "matchCount": 79,
    "matchRate": 28.4,
    "minPrice": 3900,
-   "medianPrice": 10200,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.45
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 72,
    "matchRate": 40.0,
    "minPrice": 1850,
-   "medianPrice": 5700,
+   "medianPrice": 5600,
    "reviewAvgMean": 4.25
   }
  ]

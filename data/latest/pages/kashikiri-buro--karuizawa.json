@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6600,
-  "medianPrice": 11000,
+  "medianPrice": 9750,
   "reviewAvgMean": 4.48,
   "pricedCount": 8
  },
@@ -82,7 +82,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 11000,
+   "minCharge": 8500,
    "reviewAverage": 4.61,
    "reviewCount": 1514,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -99,7 +99,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 28100,
+   "minCharge": 24200,
    "reviewAverage": 4.4,
    "reviewCount": 225,
    "access": "軽井沢駅よりお車にて約１５分",
@@ -116,7 +116,7 @@
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 23000,
+   "minCharge": 20000,
    "reviewAverage": 4.35,
    "reviewCount": 165,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",

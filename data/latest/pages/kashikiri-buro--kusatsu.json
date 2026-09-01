@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4490,
-  "medianPrice": 12000,
+  "medianPrice": 11247,
   "reviewAvgMean": 4.46,
   "pricedCount": 40
  },
@@ -167,7 +167,7 @@
    "hotelNo": 184503,
    "name": "うり房旅館",
    "kana": "うりぼうりょかん",
-   "minCharge": 12100,
+   "minCharge": 11000,
    "reviewAverage": 4.72,
    "reviewCount": 55,
    "access": "草津温泉バスターミナルから徒歩３分、湯畑まで徒歩５分！",
@@ -354,7 +354,7 @@
    "hotelNo": 5878,
    "name": "草津温泉　昔心の宿　金みどり",
    "kana": "くさつおんせん　しゃくしんのやど　かねみどり",
-   "minCharge": 12100,
+   "minCharge": 11495,
    "reviewAverage": 4.44,
    "reviewCount": 858,
    "access": "ＪＲ吾妻線長野原草津口駅よりバスにて２５分後、草津温泉バスターミナルから徒歩５分。　関越道渋川伊香保ＩＣより８５分",

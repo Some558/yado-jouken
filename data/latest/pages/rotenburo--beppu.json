@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 9350,
+  "medianPrice": 9053,
   "reviewAvgMean": 4.38,
   "pricedCount": 59
  },
@@ -99,7 +99,7 @@
    "hotelNo": 30664,
    "name": "源泉湯元の宿　旅館　国東荘",
    "kana": "くにさきそう",
-   "minCharge": 6300,
+   "minCharge": 7400,
    "reviewAverage": 4.64,
    "reviewCount": 221,
    "access": "日豊本線ＪＲ別府駅／大分自動車道　別府ICより車で５分",
@@ -320,7 +320,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7287,
+   "minCharge": 6956,
    "reviewAverage": 4.53,
    "reviewCount": 708,
    "access": "別府駅東口より徒歩約1分！",

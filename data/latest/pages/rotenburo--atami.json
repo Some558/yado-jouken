@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 10120,
+  "medianPrice": 10680,
   "reviewAvgMean": 4.32,
   "pricedCount": 65
  },
@@ -65,7 +65,7 @@
    "hotelNo": 137049,
    "name": "民宿　作五郎丸",
    "kana": "さくごろうまる",
-   "minCharge": 13800,
+   "minCharge": 13585,
    "reviewAverage": 4.87,
    "reviewCount": 262,
    "access": "網代駅よりお車にて５分、徒歩にて１５分（送迎有）",
@@ -82,7 +82,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 8280,
+   "minCharge": 7866,
    "reviewAverage": 4.82,
    "reviewCount": 62,
    "access": "熱海駅よりお車で約20分",
@@ -161,7 +161,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】8/31(月)〜9/5(土)空室わずか！限定1000円クーポン【部屋食】"
+   "special": "【旅館甲子園優勝の宿】9/1(火)〜9/5(土)空室わずか！限定1000円クーポン【部屋食】"
   },
   {
    "hotelNo": 7616,
@@ -218,7 +218,7 @@
    "hotelNo": 197470,
    "name": "熱海・伊豆山　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "あたみ・いずさん・からく（おりっくすほてるずあんどりぞーつ）",
-   "minCharge": 55640,
+   "minCharge": 50070,
    "reviewAverage": 4.58,
    "reviewCount": 19,
    "access": "JR東海道新幹線・東海道本線「熱海駅」より車で約7分　※JR熱海駅との送迎（先着順要予約・乗り合い）",

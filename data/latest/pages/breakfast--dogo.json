@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 1850,
-  "medianPrice": 5700,
+  "medianPrice": 5600,
   "reviewAvgMean": 4.25,
   "pricedCount": 63
  },
@@ -118,7 +118,7 @@
    "hotelNo": 151481,
    "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
    "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 65000,
+   "minCharge": 61750,
    "reviewAverage": 4.67,
    "reviewCount": 36,
    "access": "松山駅よりお車にて約３５分",
@@ -203,7 +203,7 @@
    "hotelNo": 179083,
    "name": "道後ｈａｋｕｒｏ",
    "kana": "どうごはくろ",
-   "minCharge": 6850,
+   "minCharge": 6480,
    "reviewAverage": 4.56,
    "reviewCount": 1368,
    "access": "道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分",
@@ -322,7 +322,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 11700,
+   "minCharge": 11115,
    "reviewAverage": 4.43,
    "reviewCount": 2679,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",

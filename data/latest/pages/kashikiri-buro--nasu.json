@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3380,
-  "medianPrice": 11000,
+  "medianPrice": 10300,
   "reviewAvgMean": 4.54,
   "pricedCount": 30
  },
@@ -218,7 +218,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 18700,
+   "minCharge": 18300,
    "reviewAverage": 4.61,
    "reviewCount": 238,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",
@@ -337,7 +337,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 17600,
+   "minCharge": 9900,
    "reviewAverage": 4.55,
    "reviewCount": 503,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",

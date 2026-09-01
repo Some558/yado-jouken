@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8590,
+  "medianPrice": 8645,
   "reviewAvgMean": 4.4,
   "pricedCount": 36
  },
@@ -116,7 +116,7 @@
    "hotelNo": 30664,
    "name": "源泉湯元の宿　旅館　国東荘",
    "kana": "くにさきそう",
-   "minCharge": 6300,
+   "minCharge": 7400,
    "reviewAverage": 4.64,
    "reviewCount": 221,
    "access": "日豊本線ＪＲ別府駅／大分自動車道　別府ICより車で５分",
@@ -201,7 +201,7 @@
    "hotelNo": 68090,
    "name": "別府温泉　入舟荘",
    "kana": "べっぷおんせん　いりふねそう",
-   "minCharge": 9900,
+   "minCharge": 9405,
    "reviewAverage": 4.61,
    "reviewCount": 135,
    "access": "別府駅から車で１５分、バス（大分交通２５分）",
@@ -235,7 +235,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7287,
+   "minCharge": 6956,
    "reviewAverage": 4.53,
    "reviewCount": 708,
    "access": "別府駅東口より徒歩約1分！",
@@ -252,7 +252,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 7975,
+   "minCharge": 11165,
    "reviewAverage": 4.51,
    "reviewCount": 189,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",

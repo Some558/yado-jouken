@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "areas": [
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "dinner--atami",
    "matchCount": 78,
    "matchRate": 29.0,
-   "minPrice": 4000,
+   "minPrice": 3000,
    "medianPrice": 10098,
    "reviewAvgMean": 4.29
   },
@@ -65,9 +65,9 @@
    },
    "slug": "dinner--yufuin",
    "matchCount": 118,
-   "matchRate": 37.2,
-   "minPrice": 2850,
-   "medianPrice": 16200,
+   "matchRate": 37.3,
+   "minPrice": 3070,
+   "medianPrice": 16830,
    "reviewAvgMean": 4.53
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 81,
    "matchRate": 51.3,
    "minPrice": 4300,
-   "medianPrice": 12725,
+   "medianPrice": 12000,
    "reviewAvgMean": 4.45
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 37,
    "matchRate": 52.1,
    "minPrice": 4980,
-   "medianPrice": 9900,
+   "medianPrice": 9636,
    "reviewAvgMean": 4.27
   },
   {
@@ -105,7 +105,7 @@
    "slug": "dinner--nasu",
    "matchCount": 101,
    "matchRate": 29.0,
-   "minPrice": 2240,
+   "minPrice": 2040,
    "medianPrice": 9200,
    "reviewAvgMean": 4.46
   },
@@ -118,7 +118,7 @@
    "slug": "dinner--karuizawa",
    "matchCount": 53,
    "matchRate": 19.1,
-   "minPrice": 4200,
+   "minPrice": 3960,
    "medianPrice": 12230,
    "reviewAvgMean": 4.48
   },
@@ -132,7 +132,7 @@
    "matchCount": 39,
    "matchRate": 21.7,
    "minPrice": 2900,
-   "medianPrice": 10395,
+   "medianPrice": 10263,
    "reviewAvgMean": 4.37
   }
  ]

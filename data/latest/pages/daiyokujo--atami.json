@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -23,7 +23,7 @@
    "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 4000,
+  "minPrice": 3000,
   "medianPrice": 9900,
   "reviewAvgMean": 4.25,
   "pricedCount": 59
@@ -84,7 +84,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 50600,
+   "minCharge": 48400,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -129,7 +129,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】8/31(月)〜9/5(土)空室わずか！限定1000円クーポン【部屋食】"
+   "special": "【旅館甲子園優勝の宿】9/1(火)〜9/5(土)空室わずか！限定1000円クーポン【部屋食】"
   },
   {
    "hotelNo": 7616,
@@ -186,7 +186,7 @@
    "hotelNo": 197470,
    "name": "熱海・伊豆山　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "あたみ・いずさん・からく（おりっくすほてるずあんどりぞーつ）",
-   "minCharge": 55640,
+   "minCharge": 50070,
    "reviewAverage": 4.58,
    "reviewCount": 19,
    "access": "JR東海道新幹線・東海道本線「熱海駅」より車で約7分　※JR熱海駅との送迎（先着順要予約・乗り合い）",
@@ -288,7 +288,7 @@
    "hotelNo": 3044,
    "name": "熱海温泉　山木旅館",
    "kana": "あたみおんせん　やまきりょかん",
-   "minCharge": 13750,
+   "minCharge": 6875,
    "reviewAverage": 4.48,
    "reviewCount": 227,
    "access": "熱海駅から車で５分。熱海駅よりバスでのご利用は「清水町」もしくは「銀座」下車徒歩約5分",
@@ -322,7 +322,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 7012,
+   "minCharge": 5333,
    "reviewAverage": 4.45,
    "reviewCount": 437,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",

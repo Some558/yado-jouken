@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8250,
+  "medianPrice": 8015,
   "reviewAvgMean": 4.34,
   "pricedCount": 34
  },
@@ -184,7 +184,7 @@
    "hotelNo": 179083,
    "name": "道後ｈａｋｕｒｏ",
    "kana": "どうごはくろ",
-   "minCharge": 6850,
+   "minCharge": 6480,
    "reviewAverage": 4.56,
    "reviewCount": 1368,
    "access": "道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分",
@@ -201,7 +201,7 @@
    "hotelNo": 187888,
    "name": "ｐｒｉｖａｔｅ　ｙｏｕｒ　ｒｅｓｏｒｔ　ＩＴＴＥＫＵＲＡｉ　松山",
    "kana": "プライベート　ユア　リゾート　イッテクライ　マツヤマ",
-   "minCharge": 19300,
+   "minCharge": 17370,
    "reviewAverage": 4.53,
    "reviewCount": 40,
    "access": "川内インターよりお車にて5分　松山空港、松山観光港よりお車にて約４０分 松山駅よりお車にて約３０分",
@@ -286,7 +286,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 11700,
+   "minCharge": 11115,
    "reviewAverage": 4.43,
    "reviewCount": 2679,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",
@@ -354,7 +354,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 6930,
+   "minCharge": 6615,
    "reviewAverage": 4.39,
    "reviewCount": 1441,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",

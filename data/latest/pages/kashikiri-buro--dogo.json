@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 11700,
+   "minCharge": 11115,
    "reviewAverage": 4.43,
    "reviewCount": 2679,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",
@@ -167,7 +167,7 @@
    "hotelNo": 130460,
    "name": "南道後温泉　ホテルていれぎ館",
    "kana": "みなみどうごおんせん　ほてるていれぎかん",
-   "minCharge": 5070,
+   "minCharge": 4910,
    "reviewAverage": 4.28,
    "reviewCount": 583,
    "access": "松山ＩＣより砥部方面へ１０分砥部町拾町交差点より１００m伊予市方面へ。バスはＪＲ四国で２０分 伊予鉄で３０分、高尾田下車",

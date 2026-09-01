@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4895,
-  "medianPrice": 15100,
+  "minPrice": 4030,
+  "medianPrice": 15750,
   "reviewAvgMean": 4.51,
   "pricedCount": 75
  },
@@ -252,7 +252,7 @@
    "hotelNo": 106080,
    "name": "湯布院温泉　御宿　由布乃庄",
    "kana": "おやど　ゆふのしょう",
-   "minCharge": 23700,
+   "minCharge": 21780,
    "reviewAverage": 4.83,
    "reviewCount": 632,
    "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
@@ -286,7 +286,7 @@
    "hotelNo": 38277,
    "name": "由布院温泉　旅亭　田乃倉",
    "kana": "たのくら",
-   "minCharge": 32900,
+   "minCharge": 29610,
    "reviewAverage": 4.79,
    "reviewCount": 108,
    "access": "駅よりタクシーで5分  金鱗湖徒歩２分",
@@ -337,7 +337,7 @@
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 9900,
+   "minCharge": 10890,
    "reviewAverage": 4.75,
    "reviewCount": 1022,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",

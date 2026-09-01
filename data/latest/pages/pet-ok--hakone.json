@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 10164,
+  "medianPrice": 9600,
   "reviewAvgMean": 4.2,
   "pricedCount": 17
  },
@@ -65,7 +65,7 @@
    "hotelNo": 192238,
    "name": "ペットと泊まれる宿－モリトソラ箱根－",
    "kana": "ぺっとととまれるやどーもりとそらはこねー",
-   "minCharge": 28000,
+   "minCharge": 26500,
    "reviewAverage": 4.41,
    "reviewCount": 75,
    "access": "【車】「萩窪ＩＣ」より約３５分【電車】小田原駅から箱根登山バス＆伊豆箱根バス「上鷹ノ巣」バス停目の前",
@@ -82,7 +82,7 @@
    "hotelNo": 190540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　箱根小涌谷",
    "kana": null,
-   "minCharge": 8500,
+   "minCharge": 7200,
    "reviewAverage": 4.39,
    "reviewCount": 141,
    "access": "箱根登山鉄道　小涌谷駅から徒歩で約5分",
@@ -99,7 +99,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 10400,
+   "minCharge": 9600,
    "reviewAverage": 4.39,
    "reviewCount": 86,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -116,7 +116,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 17400,
+   "minCharge": 15500,
    "reviewAverage": 4.38,
    "reviewCount": 43,
    "access": "箱根湯本駅よりお車にて約20分",

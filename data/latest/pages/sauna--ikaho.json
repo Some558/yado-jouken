@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4100,
-  "medianPrice": 9493,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.26,
   "pricedCount": 20
  },
@@ -99,7 +99,7 @@
    "hotelNo": 6267,
    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
    "kana": "きしごんりょかん　いしだんがいりんせつ　きしょうげんせん「おうごんのゆ」のやど",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.49,
    "reviewCount": 1654,
    "access": "関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
@@ -133,7 +133,7 @@
    "hotelNo": 80625,
    "name": "奥伊香保　旅邸　諧暢楼（かいちょうろう）",
    "kana": "おくいかほ　りょてい　かいちょうろう",
-   "minCharge": 61105,
+   "minCharge": 60570,
    "reviewAverage": 4.36,
    "reviewCount": 119,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",

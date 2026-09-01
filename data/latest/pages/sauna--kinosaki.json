@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 5100,
+   "minCharge": 4800,
    "reviewAverage": 4.72,
    "reviewCount": 25,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -184,7 +184,7 @@
    "hotelNo": 7020,
    "name": "日和山温泉　ホテル金波楼",
    "kana": "きんぱろう",
-   "minCharge": 17800,
+   "minCharge": 16600,
    "reviewAverage": 4.43,
    "reviewCount": 565,
    "access": "城崎マリンワールド隣接（ホテル宿泊者は入場半額券付）城崎温泉駅車約10分（送迎予約制）（城崎温泉街散策バス運行）",

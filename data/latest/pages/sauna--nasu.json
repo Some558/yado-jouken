@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 184489,
    "name": "那須温泉グランピング　Ｎｅｎｎ（ネン）",
    "kana": "なすおんせんぐらんぴんぐ　ねん",
-   "minCharge": 13440,
+   "minCharge": 10200,
    "reviewAverage": 4.3,
    "reviewCount": 219,
    "access": "JR那須塩原駅より車で30分",
@@ -286,7 +286,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 13500,
+   "minCharge": 11500,
    "reviewAverage": 4.3,
    "reviewCount": 675,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",

@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 70,
    "matchRate": 77.8,
    "minPrice": 6798,
-   "medianPrice": 15067,
+   "medianPrice": 15417,
    "reviewAvgMean": 4.4
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 38,
    "matchRate": 42.2,
    "minPrice": 3825,
-   "medianPrice": 12100,
+   "medianPrice": 12550,
    "reviewAvgMean": 4.38
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 65,
    "matchRate": 72.2,
    "minPrice": 4840,
-   "medianPrice": 10120,
+   "medianPrice": 10680,
    "reviewAvgMean": 4.32
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 59,
    "matchRate": 65.6,
    "minPrice": 3000,
-   "medianPrice": 9350,
+   "medianPrice": 9053,
    "reviewAvgMean": 4.38
   },
   {
@@ -66,8 +66,8 @@
    "slug": "rotenburo--yufuin",
    "matchCount": 75,
    "matchRate": 83.3,
-   "minPrice": 4895,
-   "medianPrice": 15100,
+   "minPrice": 4030,
+   "medianPrice": 15750,
    "reviewAvgMean": 4.51
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 25,
    "matchRate": 27.8,
    "minPrice": 7060,
-   "medianPrice": 12100,
+   "medianPrice": 11550,
    "reviewAvgMean": 4.45
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 36,
    "matchRate": 50.7,
    "minPrice": 4620,
-   "medianPrice": 9493,
+   "medianPrice": 9350,
    "reviewAvgMean": 4.23
   },
   {
@@ -105,8 +105,8 @@
    "slug": "rotenburo--nasu",
    "matchCount": 52,
    "matchRate": 57.8,
-   "minPrice": 2240,
-   "medianPrice": 11012,
+   "minPrice": 2040,
+   "medianPrice": 10750,
    "reviewAvgMean": 4.43
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 34,
    "matchRate": 37.8,
    "minPrice": 2700,
-   "medianPrice": 8250,
+   "medianPrice": 8015,
    "reviewAvgMean": 4.34
   }
  ]

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-01",
+ "dataAsOf": "2026-09-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6798,
-  "medianPrice": 15067,
+  "medianPrice": 15417,
   "reviewAvgMean": 4.4,
   "pricedCount": 70
  },
@@ -150,7 +150,7 @@
    "hotelNo": 172961,
    "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
    "kana": "ばーほてる　はこねかざん",
-   "minCharge": 27200,
+   "minCharge": 28475,
    "reviewAverage": 4.78,
    "reviewCount": 64,
    "access": "箱根湯本駅から箱根登山バスまたは伊豆箱根バスで「蓬莱園」バス停まで約20分／蓬莱園バス停から徒歩で約5分",
@@ -184,7 +184,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 14800,
+   "minCharge": 17400,
    "reviewAverage": 4.74,
    "reviewCount": 38,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -235,7 +235,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 9850,
+   "minCharge": 7500,
    "reviewAverage": 4.67,
    "reviewCount": 498,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",
