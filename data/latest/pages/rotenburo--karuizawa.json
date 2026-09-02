@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 17200,
+   "minCharge": 16000,
    "reviewAverage": 4.73,
    "reviewCount": 434,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -337,7 +337,7 @@
    "hotelNo": 182619,
    "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
    "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
-   "minCharge": 4750,
+   "minCharge": 4250,
    "reviewAverage": 3.89,
    "reviewCount": 707,
    "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",

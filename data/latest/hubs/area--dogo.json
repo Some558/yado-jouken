@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "recordCount": 180,
  "conditions": [
   {
@@ -557,7 +557,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 15300,
+   "minCharge": 16300,
    "reviewAverage": 4.47,
    "reviewCount": 700,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",
@@ -1052,7 +1052,7 @@
    "hotelNo": 220,
    "name": "ＡＮＡクラウンプラザホテル松山　ｂｙ　ＩＨＧ",
    "kana": "えーえぬえーくらうんぷらざほてるまつやま",
-   "minCharge": 6075,
+   "minCharge": 5805,
    "reviewAverage": 4.22,
    "reviewCount": 4934,
    "access": "松山空港よりバスで20分。ＪＲ松山駅より路面電車で8分。松山インターより車で15分。道後温泉まで路面電車で10分。",
@@ -1420,7 +1420,7 @@
    "hotelNo": 198319,
    "name": "日和ホテル松山",
    "kana": "ひよりほてるまつやま",
-   "minCharge": 4500,
+   "minCharge": 4260,
    "reviewAverage": 4.09,
    "reviewCount": 198,
    "access": "松山駅より路面電車で15分（大街道駅下車）／松山空港よりリムジンバスで約30分／松山ICより車で約25分",

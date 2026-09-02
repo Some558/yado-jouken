@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "breakfast--hakone",
    "matchCount": 143,
-   "matchRate": 39.7,
+   "matchRate": 39.6,
    "minPrice": 4800,
-   "medianPrice": 12995,
+   "medianPrice": 13730,
    "reviewAvgMean": 4.4
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 64,
    "matchRate": 41.0,
    "minPrice": 3825,
-   "medianPrice": 12100,
+   "medianPrice": 11797,
    "reviewAvgMean": 4.41
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 92,
    "matchRate": 34.2,
    "minPrice": 3000,
-   "medianPrice": 10000,
+   "medianPrice": 10246,
    "reviewAvgMean": 4.28
   },
   {
@@ -52,9 +52,9 @@
    },
    "slug": "breakfast--beppu",
    "matchCount": 88,
-   "matchRate": 34.6,
+   "matchRate": 34.8,
    "minPrice": 2500,
-   "medianPrice": 8000,
+   "medianPrice": 8100,
    "reviewAvgMean": 4.33
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 122,
    "matchRate": 38.6,
    "minPrice": 3070,
-   "medianPrice": 17000,
+   "medianPrice": 16660,
    "reviewAvgMean": 4.53
   },
   {
@@ -78,9 +78,9 @@
    },
    "slug": "breakfast--kinosaki",
    "matchCount": 89,
-   "matchRate": 56.3,
+   "matchRate": 57.1,
    "minPrice": 4300,
-   "medianPrice": 11725,
+   "medianPrice": 11550,
    "reviewAvgMean": 4.45
   },
   {

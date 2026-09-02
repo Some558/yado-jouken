@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "facility"
  },
@@ -252,7 +252,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 17600,
+   "minCharge": 19360,
    "reviewAverage": 4.42,
    "reviewCount": 2604,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -269,7 +269,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 9790,
+   "minCharge": 11660,
    "reviewAverage": 4.4,
    "reviewCount": 3103,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",

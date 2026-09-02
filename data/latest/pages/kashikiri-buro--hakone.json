@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 17855,
+  "medianPrice": 18130,
   "reviewAvgMean": 4.44,
   "pricedCount": 24
  },
@@ -82,7 +82,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 17400,
+   "minCharge": 20800,
    "reviewAverage": 4.74,
    "reviewCount": 38,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",

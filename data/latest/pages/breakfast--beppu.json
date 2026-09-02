@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 88,
-  "matchRate": 34.6,
+  "matchRate": 34.8,
   "denominator": {
    "type": "area_total",
-   "value": 254,
+   "value": 253,
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2500,
-  "medianPrice": 8000,
+  "medianPrice": 8100,
   "reviewAvgMean": 4.33,
   "pricedCount": 67
  },
@@ -220,7 +220,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 20746,
+   "minCharge": 22264,
    "reviewAverage": 4.61,
    "reviewCount": 685,
    "access": "別府大学駅より徒歩１０分",
@@ -288,7 +288,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 6956,
+   "minCharge": 7350,
    "reviewAverage": 4.53,
    "reviewCount": 708,
    "access": "別府駅東口より徒歩約1分！",
@@ -322,7 +322,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 11165,
+   "minCharge": 11935,
    "reviewAverage": 4.51,
    "reviewCount": 189,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4030,
-  "medianPrice": 15750,
+  "medianPrice": 15100,
   "reviewAvgMean": 4.51,
   "pricedCount": 75
  },
@@ -303,7 +303,7 @@
    "hotelNo": 56821,
    "name": "由布院温泉　癒しの里　観布亭",
    "kana": "ゆふいんおんせん　いやしのさと　かんぷてい",
-   "minCharge": 23500,
+   "minCharge": 21500,
    "reviewAverage": 4.77,
    "reviewCount": 267,
    "access": "由布院駅より車で５分／湯布院ＩＣより車で１０分",

@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "onsen--hakone",
    "matchCount": 150,
-   "matchRate": 41.7,
+   "matchRate": 41.6,
    "minPrice": 4800,
-   "medianPrice": 12995,
+   "medianPrice": 13730,
    "reviewAvgMean": 4.4
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 79,
    "matchRate": 50.6,
    "minPrice": 3000,
-   "medianPrice": 11274,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.38
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 90,
    "matchRate": 33.5,
    "minPrice": 3000,
-   "medianPrice": 10000,
+   "medianPrice": 10246,
    "reviewAvgMean": 4.27
   },
   {
@@ -52,9 +52,9 @@
    },
    "slug": "onsen--beppu",
    "matchCount": 96,
-   "matchRate": 37.8,
+   "matchRate": 37.9,
    "minPrice": 2500,
-   "medianPrice": 8580,
+   "medianPrice": 8600,
    "reviewAvgMean": 4.39
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 138,
    "matchRate": 43.7,
    "minPrice": 3070,
-   "medianPrice": 15050,
+   "medianPrice": 15000,
    "reviewAvgMean": 4.51
   },
   {
@@ -78,9 +78,9 @@
    },
    "slug": "onsen--kinosaki",
    "matchCount": 63,
-   "matchRate": 39.9,
+   "matchRate": 40.4,
    "minPrice": 4800,
-   "medianPrice": 12725,
+   "medianPrice": 12375,
    "reviewAvgMean": 4.45
   },
   {

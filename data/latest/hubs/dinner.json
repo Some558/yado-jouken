@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "dinner--hakone",
    "matchCount": 138,
-   "matchRate": 38.3,
+   "matchRate": 38.2,
    "minPrice": 4800,
-   "medianPrice": 12995,
+   "medianPrice": 13730,
    "reviewAvgMean": 4.4
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 78,
    "matchRate": 29.0,
    "minPrice": 3000,
-   "medianPrice": 10098,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.29
   },
   {
@@ -52,9 +52,9 @@
    },
    "slug": "dinner--beppu",
    "matchCount": 72,
-   "matchRate": 28.3,
+   "matchRate": 28.5,
    "minPrice": 3060,
-   "medianPrice": 8600,
+   "medianPrice": 9000,
    "reviewAvgMean": 4.36
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 118,
    "matchRate": 37.3,
    "minPrice": 3070,
-   "medianPrice": 16830,
+   "medianPrice": 16330,
    "reviewAvgMean": 4.53
   },
   {
@@ -78,9 +78,9 @@
    },
    "slug": "dinner--kinosaki",
    "matchCount": 81,
-   "matchRate": 51.3,
+   "matchRate": 51.9,
    "minPrice": 4300,
-   "medianPrice": 12000,
+   "medianPrice": 11725,
    "reviewAvgMean": 4.45
   },
   {

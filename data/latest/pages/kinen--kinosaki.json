@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 84,
-  "matchRate": 53.2,
+  "matchRate": 53.8,
   "denominator": {
    "type": "area_total",
-   "value": 158,
+   "value": 156,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
@@ -84,7 +84,7 @@
    "hotelNo": 178547,
    "name": "１日６組限定　ー独占、という名の贅沢ー　炭平別邸　季ト時",
    "kana": "どくせん　というなのぜいたく　すみへいべってい　ときととき",
-   "minCharge": 30300,
+   "minCharge": 27700,
    "reviewAverage": 4.89,
    "reviewCount": 491,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約５分",
@@ -220,7 +220,7 @@
    "hotelNo": 8766,
    "name": "城崎温泉　つちや旅館",
    "kana": "きのさきおんせん　つちやりょかん",
-   "minCharge": 13200,
+   "minCharge": 11000,
    "reviewAverage": 4.72,
    "reviewCount": 246,
    "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 26752,
+   "minCharge": 27185,
    "reviewAverage": 4.67,
    "reviewCount": 201,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -320,7 +320,7 @@
    "hotelNo": 182619,
    "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
    "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
-   "minCharge": 4750,
+   "minCharge": 4250,
    "reviewAverage": 3.89,
    "reviewCount": 707,
    "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",

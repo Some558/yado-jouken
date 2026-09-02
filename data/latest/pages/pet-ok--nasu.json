@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-02",
+ "dataAsOf": "2026-09-03",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 11000,
+   "minCharge": 12500,
    "reviewAverage": 4.54,
    "reviewCount": 68,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -252,7 +252,7 @@
    "hotelNo": 935,
    "name": "那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ",
    "kana": "なすおんせん　ふぉれすとひるず　なす　うぃずどっぐす",
-   "minCharge": 16500,
+   "minCharge": 19850,
    "reviewAverage": 4.39,
    "reviewCount": 897,
    "access": "安心＆安全な愛犬との旅をお約束＜全館 独立コテージタイプ・ペットと泊まる宿＞“北関東最大級”愛犬同伴の複合型リゾート♪",
@@ -354,7 +354,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 4100,
+   "minCharge": 4200,
    "reviewAverage": 4.26,
    "reviewCount": 494,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",
