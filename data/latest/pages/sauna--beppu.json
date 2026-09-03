@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 7850,
+  "medianPrice": 8400,
   "reviewAvgMean": 4.37,
   "pricedCount": 30
  },
@@ -201,7 +201,7 @@
    "hotelNo": 184774,
    "name": "ととのいの宿　春燈庵",
    "kana": "ととのいのやど　しゅんとうあん",
-   "minCharge": 13200,
+   "minCharge": 11300,
    "reviewAverage": 4.52,
    "reviewCount": 85,
    "access": "別府ICよりお車で5分 扇山町バス停より徒歩４分 自衛隊前バス停より徒歩10分 別府駅→車で13分 大分空港→車で45分",
@@ -269,7 +269,7 @@
    "hotelNo": 180427,
    "name": "別府　丘と海のドッグリゾート（旧：別府風雅）",
    "kana": "べっぷ　おかとうみのどっぐりぞーと（べっぷふうが）",
-   "minCharge": 7700,
+   "minCharge": 8800,
    "reviewAverage": 4.34,
    "reviewCount": 822,
    "access": "別府I，Cより車で約1分、別府駅よりバス堀田温泉前下車 徒歩約６分、車またはタクシーで別府駅約１５分、大分空港約４０分",
@@ -337,7 +337,7 @@
    "hotelNo": 147186,
    "name": "Ｔａｂｉｓｔ　日生や　別府鉄輪",
    "kana": "たびすと　にっせいや　べっぷかんなわ",
-   "minCharge": 4750,
+   "minCharge": 4940,
    "reviewAverage": 4.28,
    "reviewCount": 257,
    "access": "別府大学駅よりバスにて約5分。別府駅よりバスで約30分。鉄輪バス停下車徒歩5分。",

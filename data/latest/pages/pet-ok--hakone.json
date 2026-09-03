@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4800,
+  "minPrice": 5600,
   "medianPrice": 10164,
   "reviewAvgMean": 4.2,
   "pricedCount": 17
@@ -82,7 +82,7 @@
    "hotelNo": 190540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　箱根小涌谷",
    "kana": null,
-   "minCharge": 7200,
+   "minCharge": 6400,
    "reviewAverage": 4.39,
    "reviewCount": 141,
    "access": "箱根登山鉄道　小涌谷駅から徒歩で約5分",
@@ -150,7 +150,7 @@
    "hotelNo": 170212,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原",
    "kana": null,
-   "minCharge": 8400,
+   "minCharge": 9200,
    "reviewAverage": 4.33,
    "reviewCount": 259,
    "access": "御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30",
@@ -235,7 +235,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 4800,
+   "minCharge": 5600,
    "reviewAverage": 4.07,
    "reviewCount": 191,
    "access": "箱根登山バス：仙石高原 から徒歩2分",
@@ -269,7 +269,7 @@
    "hotelNo": 153552,
    "name": "リブマックスリゾート箱根仙石原",
    "kana": "りぶまっくすりぞーとはこねせんごくばら",
-   "minCharge": 9500,
+   "minCharge": 8000,
    "reviewAverage": 3.86,
    "reviewCount": 292,
    "access": "【箱根登山バス】「台ヶ岳」バス停よりホテルまで徒歩にて約１０分　",

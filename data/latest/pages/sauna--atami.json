@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -235,7 +235,7 @@
    "hotelNo": 196679,
    "name": "ラビスタ熱海テラス（共立リゾート）（２０２６年３月３１日グランドＯＰＥＮ）",
    "kana": "らびすたあたみてらす",
-   "minCharge": 14300,
+   "minCharge": 16500,
    "reviewAverage": 4.43,
    "reviewCount": 150,
    "access": "JR熱海駅より徒歩8分",
@@ -269,7 +269,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 11660,
+   "minCharge": 11000,
    "reviewAverage": 4.4,
    "reviewCount": 3103,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",

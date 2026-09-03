@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7250,
-  "medianPrice": 16050,
+  "medianPrice": 15780,
   "reviewAvgMean": 4.4,
   "pricedCount": 70
  },
@@ -65,7 +65,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 41810,
+   "minCharge": 44070,
    "reviewAverage": 4.89,
    "reviewCount": 648,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -184,7 +184,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 20800,
+   "minCharge": 23800,
    "reviewAverage": 4.74,
    "reviewCount": 38,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -201,7 +201,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 45100,
+   "minCharge": 40700,
    "reviewAverage": 4.71,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",

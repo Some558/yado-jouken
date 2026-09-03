@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 9200,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.32,
   "pricedCount": 29
  },
@@ -201,7 +201,7 @@
    "hotelNo": 32113,
    "name": "熱海温泉　お部屋食と源泉かけ流しの宿　ホテル貫一",
    "kana": "あたみおんせん　おへやしょくとげんせんかけながしのやど　ほてるかんいち",
-   "minCharge": 9000,
+   "minCharge": 10000,
    "reviewAverage": 4.46,
    "reviewCount": 1809,
    "access": "熱海駅よりタクシー（１メーター）　徒歩13分　駐車場有（1泊1,650円）",

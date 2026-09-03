@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5980,
+  "minPrice": 5916,
   "medianPrice": 11000,
   "reviewAvgMean": 4.42,
   "pricedCount": 22
@@ -235,7 +235,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 8525,
+   "minCharge": 9350,
    "reviewAverage": 4.37,
    "reviewCount": 1907,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -354,7 +354,7 @@
    "hotelNo": 31077,
    "name": "グランドメルキュール那須高原リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるなすこうげんりぞーとあんどすぱ",
-   "minCharge": 6090,
+   "minCharge": 5916,
    "reviewAverage": 4.22,
    "reviewCount": 3905,
    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",

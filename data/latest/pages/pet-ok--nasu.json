@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3380,
-  "medianPrice": 8800,
+  "medianPrice": 9030,
   "reviewAvgMean": 4.47,
   "pricedCount": 23
  },
@@ -269,7 +269,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 8525,
+   "minCharge": 9350,
    "reviewAverage": 4.37,
    "reviewCount": 1907,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -354,7 +354,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 4200,
+   "minCharge": 4300,
    "reviewAverage": 4.26,
    "reviewCount": 494,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",

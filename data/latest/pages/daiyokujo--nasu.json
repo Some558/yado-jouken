@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-03",
+ "dataAsOf": "2026-09-04",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 42,
-  "matchRate": 12.1,
+  "matchRate": 12.0,
   "denominator": {
    "type": "area_total",
-   "value": 348,
+   "value": 350,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2040,
@@ -288,7 +288,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 8525,
+   "minCharge": 9350,
    "reviewAverage": 4.37,
    "reviewCount": 1907,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
