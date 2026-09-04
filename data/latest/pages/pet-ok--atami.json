@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5244,
+  "minPrice": 4000,
   "medianPrice": 10680,
   "reviewAvgMean": 4.39,
   "pricedCount": 11
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 5333,
+   "minCharge": 4000,
    "reviewAverage": 4.45,
    "reviewCount": 437,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",

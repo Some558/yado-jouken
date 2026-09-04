@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 9350,
+  "medianPrice": 9053,
   "reviewAvgMean": 4.38,
   "pricedCount": 59
  },
@@ -320,7 +320,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7350,
+   "minCharge": 7910,
    "reviewAverage": 4.53,
    "reviewCount": 708,
    "access": "別府駅東口より徒歩約1分！",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4200,
+  "minPrice": 3700,
   "medianPrice": 12715,
   "reviewAvgMean": 4.42,
   "pricedCount": 20
@@ -320,7 +320,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 4200,
+   "minCharge": 3700,
    "reviewAverage": 3.95,
    "reviewCount": 2495,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",

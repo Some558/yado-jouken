@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4200,
+  "minPrice": 3700,
   "medianPrice": 16533,
   "reviewAvgMean": 4.45,
   "pricedCount": 19
@@ -99,7 +99,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 26555,
+   "minCharge": 27420,
    "reviewAverage": 4.67,
    "reviewCount": 201,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -286,7 +286,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.13,
    "reviewCount": 250,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -303,7 +303,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 4200,
+   "minCharge": 3700,
    "reviewAverage": 3.95,
    "reviewCount": 2495,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",

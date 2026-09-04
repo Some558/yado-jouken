@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -135,7 +135,7 @@
    "hotelNo": 151481,
    "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
    "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 61750,
+   "minCharge": 78375,
    "reviewAverage": 4.67,
    "reviewCount": 36,
    "access": "松山駅よりお車にて約３５分",
@@ -186,7 +186,7 @@
    "hotelNo": 13429,
    "name": "道後温泉　大和屋本店",
    "kana": "どうごおんせん　やまとやほんてん",
-   "minCharge": 15790,
+   "minCharge": 17968,
    "reviewAverage": 4.62,
    "reviewCount": 2268,
    "access": "ＪＲ『松山駅』より車で約20分・松山ＩＣより車で約２０分／松山空港より車で約３０分",

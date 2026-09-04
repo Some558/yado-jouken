@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6330,
-  "medianPrice": 15780,
+  "medianPrice": 15030,
   "reviewAvgMean": 4.38,
   "pricedCount": 42
  },
@@ -184,7 +184,7 @@
    "hotelNo": 50826,
    "name": "水の音（共立リゾート）",
    "kana": "みずのと（きょうりつりぞーと）",
-   "minCharge": 19250,
+   "minCharge": 18150,
    "reviewAverage": 4.54,
    "reviewCount": 2358,
    "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
@@ -218,7 +218,7 @@
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 10100,
+   "minCharge": 9600,
    "reviewAverage": 4.51,
    "reviewCount": 841,
    "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",
@@ -337,7 +337,7 @@
    "hotelNo": 19684,
    "name": "箱根湯本温泉　ホテル　おかだ",
    "kana": "はこねゆもとおんせん　おかだ",
-   "minCharge": 11600,
+   "minCharge": 11500,
    "reviewAverage": 4.41,
    "reviewCount": 1744,
    "access": "箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分",

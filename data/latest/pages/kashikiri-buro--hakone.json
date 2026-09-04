@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 18081,
+  "medianPrice": 17500,
   "reviewAvgMean": 4.44,
   "pricedCount": 24
  },
@@ -82,7 +82,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 23800,
+   "minCharge": 17400,
    "reviewAverage": 4.74,
    "reviewCount": 38,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -320,7 +320,7 @@
    "hotelNo": 9669,
    "name": "箱根湯本温泉　箱根パークス吉野",
    "kana": "はこねゆもとおんせん　はこねぱーくすよしの",
-   "minCharge": 7510,
+   "minCharge": 7130,
    "reviewAverage": 4.29,
    "reviewCount": 1488,
    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",

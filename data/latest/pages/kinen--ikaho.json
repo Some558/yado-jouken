@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -135,7 +135,7 @@
    "hotelNo": 8079,
    "name": "伊香保温泉　あかりの宿　おかべ",
    "kana": "いかほおんせん　あかりのやど　おかべ",
-   "minCharge": 15400,
+   "minCharge": 14300,
    "reviewAverage": 4.56,
    "reviewCount": 185,
    "access": "東京駅よりJR上越新幹線で約50分→高崎駅乗り換え、JR上越線で約20分→渋川駅下車、バスで約30分。",

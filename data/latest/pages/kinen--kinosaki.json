@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 10950,
+  "medianPrice": 9950,
   "reviewAvgMean": 4.45,
   "pricedCount": 66
  },
@@ -149,6 +149,23 @@
    "special": "燻製工房が手掛ける手ぶらキャンプ場"
   },
   {
+   "hotelNo": 153168,
+   "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
+   "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
+   "minCharge": 9900,
+   "reviewAverage": 4.74,
+   "reviewCount": 330,
+   "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
+   "address1": "兵庫県",
+   "address2": "豊岡市竹野町竹野3396-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153168",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153168%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153168",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153168.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153168/153168.jpg",
+   "special": "城崎１５分全室オーシャンビュー♪美と健康の女子力ＵＰの宿★時を気にしない贅沢なひと時★カニ＆但馬牛"
+  },
+  {
    "hotelNo": 108999,
    "name": "城崎温泉　喧噪の隠れ家　月のしずく",
    "kana": "きのさきおんせん　けんそうのかくれが　つきのしずく",
@@ -164,23 +181,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108999.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108999/108999.jpg",
    "special": "≪全館禁煙≫2種類の貸切温泉が無料☆お食事はお部屋食確約！温泉街の閑静な高台にある大人専用隠れ宿☆"
-  },
-  {
-   "hotelNo": 153168,
-   "name": "竹野の海辺　湯やど　海の音〜うみのね〜",
-   "kana": "たけののうみべ　ゆやど　うみのね〜うみのね〜",
-   "minCharge": 19900,
-   "reviewAverage": 4.74,
-   "reviewCount": 330,
-   "access": "ＪＲ　山陰本線　竹野駅よりお車にて約５分（送迎車あり）/城崎温泉駅よりお車にて約１５分/香住駅よりお車にて約３０分",
-   "address1": "兵庫県",
-   "address2": "豊岡市竹野町竹野3396-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153168",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153168%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153168",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153168.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153168/153168.jpg",
-   "special": "城崎１５分全室オーシャンビュー♪美と健康の女子力ＵＰの宿★時を気にしない贅沢なひと時★カニ＆但馬牛"
   },
   {
    "hotelNo": 79415,

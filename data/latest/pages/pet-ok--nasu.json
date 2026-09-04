@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3380,
+  "minPrice": 3980,
   "medianPrice": 9030,
   "reviewAvgMean": 4.47,
   "pricedCount": 23
@@ -167,7 +167,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 17300,
+   "minCharge": 17800,
    "reviewAverage": 4.62,
    "reviewCount": 13,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",
@@ -286,7 +286,7 @@
    "hotelNo": 54303,
    "name": "ペンションアニマーレ　アネックス",
    "kana": "ぺんしょんあにまーれ　あねっくす",
-   "minCharge": 7700,
+   "minCharge": 7315,
    "reviewAverage": 4.36,
    "reviewCount": 326,
    "access": "黒磯駅より「那須湯本行」バスにて「一軒茶屋」下車（送迎有り・要予約）",
@@ -303,7 +303,7 @@
    "hotelNo": 76430,
    "name": "温泉露天貸切や豪華客室露天の宿　ストリーム",
    "kana": "おんせんろてんかしきりやごうかきゃくしつろてんのやど　すとりーむ",
-   "minCharge": 3380,
+   "minCharge": 3980,
    "reviewAverage": 4.31,
    "reviewCount": 96,
    "access": "お車：東北道 那須ＩＣ－(那須街道 7km)－ファミリーマート左折400m右、バス：黒磯駅－守子坂－徒歩５分",

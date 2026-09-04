@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "areas": [
   {
    "area": {
@@ -53,8 +53,8 @@
    "slug": "breakfast--beppu",
    "matchCount": 88,
    "matchRate": 34.8,
-   "minPrice": 2500,
-   "medianPrice": 8415,
+   "minPrice": 2900,
+   "medianPrice": 8100,
    "reviewAvgMean": 4.33
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 89,
    "matchRate": 57.1,
    "minPrice": 4300,
-   "medianPrice": 11550,
+   "medianPrice": 11250,
    "reviewAvgMean": 4.45
   },
   {
@@ -118,7 +118,7 @@
    "slug": "breakfast--karuizawa",
    "matchCount": 79,
    "matchRate": 28.4,
-   "minPrice": 3900,
+   "minPrice": 3700,
    "medianPrice": 9900,
    "reviewAvgMean": 4.45
   },

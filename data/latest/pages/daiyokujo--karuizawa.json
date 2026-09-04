@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-05",
@@ -23,7 +23,7 @@
    "value": 278,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
-  "minPrice": 4200,
+  "minPrice": 3700,
   "medianPrice": 10200,
   "reviewAvgMean": 4.37,
   "pricedCount": 29
@@ -118,7 +118,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 26555,
+   "minCharge": 27420,
    "reviewAverage": 4.67,
    "reviewCount": 201,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -356,7 +356,7 @@
    "hotelNo": 2925,
    "name": "ホテルルートイン佐久南インター",
    "kana": "ほてるるーといん　さくみなみいんたー",
-   "minCharge": 7350,
+   "minCharge": 6750,
    "reviewAverage": 4.26,
    "reviewCount": 546,
    "access": "佐久南インターより車で3分、北陸新幹線佐久平駅より車で15分、軽井沢駅より車で50分",

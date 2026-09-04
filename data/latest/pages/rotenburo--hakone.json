@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7250,
-  "medianPrice": 15780,
+  "minPrice": 7130,
+  "medianPrice": 15317,
   "reviewAvgMean": 4.4,
   "pricedCount": 70
  },
@@ -184,7 +184,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 23800,
+   "minCharge": 17400,
    "reviewAverage": 4.74,
    "reviewCount": 38,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -201,7 +201,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 40700,
+   "minCharge": 40000,
    "reviewAverage": 4.71,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",
@@ -320,7 +320,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 16300,
+   "minCharge": 15300,
    "reviewAverage": 4.56,
    "reviewCount": 399,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",

@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-04",
+ "dataAsOf": "2026-09-05",
  "areas": [
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 72,
    "matchRate": 28.5,
    "minPrice": 3060,
-   "medianPrice": 9000,
+   "medianPrice": 8800,
    "reviewAvgMean": 4.36
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 81,
    "matchRate": 51.9,
    "minPrice": 4300,
-   "medianPrice": 11725,
+   "medianPrice": 11525,
    "reviewAvgMean": 4.45
   },
   {
@@ -118,7 +118,7 @@
    "slug": "dinner--karuizawa",
    "matchCount": 53,
    "matchRate": 19.1,
-   "minPrice": 3960,
+   "minPrice": 3700,
    "medianPrice": 12230,
    "reviewAvgMean": 4.48
   },
