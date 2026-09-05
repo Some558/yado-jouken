@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-09-05",
+ "dataAsOf": "2026-09-06",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 42,
    "matchRate": 46.7,
    "minPrice": 6330,
-   "medianPrice": 15030,
+   "medianPrice": 15780,
    "reviewAvgMean": 4.38
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 14,
    "matchRate": 15.6,
    "minPrice": 3825,
-   "medianPrice": 13255,
+   "medianPrice": 13530,
    "reviewAvgMean": 4.34
   },
   {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "sauna--atami",
-   "matchCount": 36,
-   "matchRate": 40.0,
-   "minPrice": 3000,
-   "medianPrice": 13275,
-   "reviewAvgMean": 4.27
+   "matchCount": 35,
+   "matchRate": 38.9,
+   "minPrice": 4840,
+   "medianPrice": 12650,
+   "reviewAvgMean": 4.26
   },
   {
    "area": {
@@ -92,7 +92,7 @@
    "slug": "sauna--ikaho",
    "matchCount": 21,
    "matchRate": 29.6,
-   "minPrice": 4100,
+   "minPrice": 4350,
    "medianPrice": 9350,
    "reviewAvgMean": 4.26
   },
@@ -105,7 +105,7 @@
    "slug": "sauna--nasu",
    "matchCount": 22,
    "matchRate": 24.4,
-   "minPrice": 5916,
+   "minPrice": 5568,
    "medianPrice": 11000,
    "reviewAvgMean": 4.42
   },
@@ -132,7 +132,7 @@
    "matchCount": 28,
    "matchRate": 31.1,
    "minPrice": 3500,
-   "medianPrice": 6507,
+   "medianPrice": 6700,
    "reviewAvgMean": 4.3
   }
  ]
