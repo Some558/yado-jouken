@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 134,
    "matchRate": 37.1,
    "minPrice": 5500,
-   "medianPrice": 13802,
-   "reviewAvgMean": 4.39
+   "medianPrice": 12980,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -29,7 +29,7 @@
    "matchRate": 33.3,
    "minPrice": 4490,
    "medianPrice": 13200,
-   "reviewAvgMean": 4.43
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -40,9 +40,9 @@
    "slug": "dinner--atami",
    "matchCount": 70,
    "matchRate": 26.0,
-   "minPrice": 4200,
-   "medianPrice": 10697,
-   "reviewAvgMean": 4.32
+   "minPrice": 3300,
+   "medianPrice": 10000,
+   "reviewAvgMean": 4.3
   },
   {
    "area": {
@@ -54,8 +54,8 @@
    "matchCount": 67,
    "matchRate": 26.5,
    "minPrice": 3060,
-   "medianPrice": 9452,
-   "reviewAvgMean": 4.38
+   "medianPrice": 9900,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -67,8 +67,8 @@
    "matchCount": 111,
    "matchRate": 35.1,
    "minPrice": 3070,
-   "medianPrice": 15050,
-   "reviewAvgMean": 4.53
+   "medianPrice": 15100,
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -80,8 +80,8 @@
    "matchCount": 77,
    "matchRate": 49.4,
    "minPrice": 4300,
-   "medianPrice": 11550,
-   "reviewAvgMean": 4.49
+   "medianPrice": 11000,
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -106,8 +106,8 @@
    "matchCount": 89,
    "matchRate": 25.4,
    "minPrice": 2040,
-   "medianPrice": 9413,
-   "reviewAvgMean": 4.43
+   "medianPrice": 9000,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -119,8 +119,8 @@
    "matchCount": 65,
    "matchRate": 23.4,
    "minPrice": 3850,
-   "medianPrice": 12230,
-   "reviewAvgMean": 4.44
+   "medianPrice": 12005,
+   "reviewAvgMean": 4.43
   },
   {
    "area": {

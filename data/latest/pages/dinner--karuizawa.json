@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,28 +24,11 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3850,
-  "medianPrice": 12230,
-  "reviewAvgMean": 4.44,
-  "pricedCount": 47
+  "medianPrice": 12005,
+  "reviewAvgMean": 4.43,
+  "pricedCount": 48
  },
  "hotels": [
-  {
-   "hotelNo": 192929,
-   "name": "ＧＬＡＭＤＡＹ　ＳＴＹＬＥ　ＨＯＴＥＬ　ＳＵＩＴＥ　山ノ麓",
-   "kana": "グランディスタイル ホテルスイート ヤマノフモト",
-   "minCharge": 22660,
-   "reviewAverage": 5.0,
-   "reviewCount": 6,
-   "access": "軽井沢駅よりお車で約２分、軽井沢ＩＣよりお車で約１５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢字矢ヶ崎山1016-135",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192929",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192929%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192929",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192929.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192929/192929.jpg",
-   "special": "自然あふれる魅力的な１日を過ごす場所　。穏やかに流れる時間。プライバシーを重視した贅沢な空間。"
-  },
   {
    "hotelNo": 187920,
    "name": "ふふ　軽井沢　ー陽光の風ー",
@@ -186,7 +169,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 13200,
+   "minCharge": 16500,
    "reviewAverage": 4.69,
    "reviewCount": 543,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -254,7 +237,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 27815,
+   "minCharge": 27106,
    "reviewAverage": 4.67,
    "reviewCount": 202,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -353,6 +336,23 @@
    "special": "【7年連続楽天アワード受賞】食数限定フレンチ好評｜貸切風呂あり♪星野エリア車3分・結婚式前後泊も◎"
   },
   {
+   "hotelNo": 135384,
+   "name": "リフレッシュエッセンシャルリゾートIN軽井沢",
+   "kana": "りふれっしゅえっせんしゃるりぞーといんかるいざわ",
+   "minCharge": 12750,
+   "reviewAverage": 4.6,
+   "reviewCount": 134,
+   "access": "軽井沢駅からお車で２０分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町追分94-25",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D135384",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D135384%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D135384",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/135384.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135384/135384.jpg",
+   "special": "全室ペットと宿泊OK！軽井沢でペットとの絆が深まる休日♪愛犬も私もリラックスできる宿。"
+  },
+  {
    "hotelNo": 50619,
    "name": "旧軽井沢　ホテル音羽ノ森",
    "kana": "きゅうかるいざわ　ほてるおとわのもり",
@@ -370,5 +370,5 @@
    "special": "軽井沢駅・旧軽井沢銀座まで徒歩約13分。自然豊かな旧軽井沢の景観と伝統を兼ね備えた隠れ家ホテル。"
   }
  ],
- "listedMatchCount": 47
+ "listedMatchCount": 48
 }

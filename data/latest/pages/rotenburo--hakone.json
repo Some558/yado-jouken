@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 70,
-  "matchRate": 77.8,
+  "matchCount": 65,
+  "matchRate": 72.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7130,
-  "medianPrice": 15780,
-  "reviewAvgMean": 4.4,
-  "pricedCount": 70
+  "medianPrice": 14300,
+  "reviewAvgMean": 4.39,
+  "pricedCount": 65
  },
  "hotels": [
   {
@@ -96,23 +96,6 @@
    "special": "全客室露天風呂付きにて、2022年9月11日リニューアルオープン。"
   },
   {
-   "hotelNo": 172961,
-   "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
-   "kana": "ばーほてる　はこねかざん",
-   "minCharge": 28475,
-   "reviewAverage": 4.79,
-   "reviewCount": 65,
-   "access": "箱根湯本駅から箱根登山バスまたは伊豆箱根バスで「蓬莱園」バス停まで約20分／蓬莱園バス停から徒歩で約5分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町小涌谷507-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172961",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172961%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172961",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172961.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172961/172961.jpg",
-   "special": "箱根小涌谷の静かな谷間にひっそり佇む、bar hotel。大切な時間を大切な方と自由に過ごせる場所。"
-  },
-  {
    "hotelNo": 28275,
    "name": "箱根芦ノ湖温泉　和心亭　豊月",
    "kana": "あしのこおんせん　わしんてい　ほうげつ",
@@ -128,23 +111,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28275.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28275/28275.jpg",
    "special": "2024年7月リニューアル！箱根神社の東隣、芦ノ湖の絶景とモダン懐石が自慢の大人宿"
-  },
-  {
-   "hotelNo": 79294,
-   "name": "強羅温泉　強羅花扇",
-   "kana": "ごうらはなおうぎ",
-   "minCharge": 47000,
-   "reviewAverage": 4.78,
-   "reviewCount": 340,
-   "access": "強羅駅もしくは早雲山駅より無料でお迎えにあがります。ご一報くださいませ。　",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1300-681",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79294",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79294%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79294",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79294.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79294/79294.jpg",
-   "special": "全館禁煙。自家源泉掛流し客室露天風呂を全室に備え、箱根西麓野や相模湾の幸を巧みに盛込む京会席に舌鼓。"
   },
   {
    "hotelNo": 165555,
@@ -179,23 +145,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70712.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70712/70712.jpg",
    "special": "須雲川沿いの温泉情趣あふれる滝通りにある朝夕部屋食が人気の旅館です。"
-  },
-  {
-   "hotelNo": 180298,
-   "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
-   "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 19800,
-   "reviewAverage": 4.74,
-   "reviewCount": 39,
-   "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町宮城野264-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D180298",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D180298%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D180298",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180298.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180298/180298.jpg",
-   "special": "８室専用露天風呂付客室！朝夕食部屋食。２０２１年６月全客室改装オープン！"
   },
   {
    "hotelNo": 158501,
@@ -286,7 +235,7 @@
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.59,
    "reviewCount": 288,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
@@ -366,7 +315,58 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29488.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29488/29488.jpg",
    "special": "渓流沿い×部屋食×露付客室｜おこもりステイの叶う宿★ベビーフレンドリー三世代旅行人気宿"
+  },
+  {
+   "hotelNo": 29435,
+   "name": "箱根仙石原プリンスホテル",
+   "kana": "はこね　せんごくはらプリンスホテル",
+   "minCharge": 9600,
+   "reviewAverage": 4.52,
+   "reviewCount": 843,
+   "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原1246",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29435",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29435%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29435",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29435.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29435/29435.jpg",
+   "special": "美しい箱根外輪山の山並みと、雄大な仙石原高原の自然に抱かれたリゾートホテル。"
+  },
+  {
+   "hotelNo": 137346,
+   "name": "箱根七瀬（旧真奈邸箱根）",
+   "kana": "はこねななせ",
+   "minCharge": 15760,
+   "reviewAverage": 4.51,
+   "reviewCount": 297,
+   "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町宮ノ下469-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137346",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137346%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137346",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137346.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137346/137346.jpg",
+   "special": "3種の源泉貸切風呂【無料】と、季節の食材を使った和食会席料理が人気！非日常を楽しめる隠れ宿！"
+  },
+  {
+   "hotelNo": 50826,
+   "name": "水の音（共立リゾート）",
+   "kana": "みずのと（きょうりつりぞーと）",
+   "minCharge": 18150,
+   "reviewAverage": 4.51,
+   "reviewCount": 2364,
+   "access": "箱根湯本駅より箱根登山鉄道小涌谷駅下車、無料送迎約5分。小田原厚木道路箱根口ICより国道1号線を芦ノ湖方面へ約30分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町小涌谷492-23",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D50826",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D50826%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D50826",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50826.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50826/50826.jpg",
+   "special": "小涌谷温泉・宮ノ下温泉の2種の湯を愉しめ、13種の湯処で温泉三昧"
   }
  ],
- "listedMatchCount": 70
+ "listedMatchCount": 65
 }

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -25,8 +25,8 @@
   },
   "minPrice": 2040,
   "medianPrice": 8694,
-  "reviewAvgMean": 4.39,
-  "pricedCount": 59
+  "reviewAvgMean": 4.38,
+  "pricedCount": 61
  },
  "hotels": [
   {
@@ -45,23 +45,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/128615.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/128615/128615.jpg",
    "special": "自慢の貸切温泉露天で温まったら落ち着きのあるダイニングでとちぎ和牛を含む和洋折衷のコース料理で。"
-  },
-  {
-   "hotelNo": 109144,
-   "name": "ペンション　あじわい",
-   "kana": "あじわい",
-   "minCharge": 9900,
-   "reviewAverage": 4.83,
-   "reviewCount": 117,
-   "access": "那須インターから3㎞・黒磯駅から東野バス～湯本方面「チーズガーデン前」バス停下車から徒歩3分「那須アウトレット」から9㎞",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久甲2888-31",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109144",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109144%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109144",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109144.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109144/109144.jpg",
-   "special": "★99％お子様とご一緒のご家族・手作り体験・和食料理・お風呂50分予約貸切制・全室和室・全館禁煙"
   },
   {
    "hotelNo": 167732,
@@ -96,23 +79,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187548.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187548/187548.jpg",
    "special": "愛犬とくつろげる那須の隠れ家"
-  },
-  {
-   "hotelNo": 193086,
-   "name": "山のリゾートホテルエイト",
-   "kana": "やまのりぞーとほてるえいと",
-   "minCharge": 13500,
-   "reviewAverage": 4.71,
-   "reviewCount": 45,
-   "access": "那須塩原駅より車で40分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久乙3375-636",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D193086",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D193086%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D193086",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/193086.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193086/193086.jpg",
-   "special": "本格中華が堪能でき、寛ぎを提供できる　唯一無二のリゾートホテル。"
   },
   {
    "hotelNo": 67191,
@@ -186,7 +152,7 @@
    "hotelNo": 181751,
    "name": "那須ハミルの森",
    "kana": "なすはみるのもり",
-   "minCharge": 18900,
+   "minCharge": 16200,
    "reviewAverage": 4.66,
    "reviewCount": 128,
    "access": "那須塩原駅よりバスで30分　友愛の森バス停から徒歩1分",
@@ -268,6 +234,40 @@
    "special": "森の中に佇むエコに優しいログコテージで愛犬と一緒にゆったりとくつろぎのひと時を。"
   },
   {
+   "hotelNo": 184807,
+   "name": "那須ユートピア美野沢アートヴィレッジ",
+   "kana": "なすゆーとぴあみのさわあーと&#12436;ぃれっじ",
+   "minCharge": 12500,
+   "reviewAverage": 4.63,
+   "reviewCount": 13,
+   "access": "JR東北新幹線　那須塩原駅よりお車にて30分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町簑沢563-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184807",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184807%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184807",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184807.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184807/184807.jpg",
+   "special": "小学校をアートでリノベーションした、大人も子供も楽しめるグランピング施設！"
+  },
+  {
+   "hotelNo": 197628,
+   "name": "リブマックスリゾート那須高原",
+   "kana": "リブマックスリゾートナスコウゲン",
+   "minCharge": 6800,
+   "reviewAverage": 4.61,
+   "reviewCount": 70,
+   "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本字新林206番地1148",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D197628",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D197628%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D197628",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197628.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197628/197628.jpg",
+   "special": "那須高原の四季と遊ぶ。 愛犬とともに楽しむ 高原のお宿"
+  },
+  {
    "hotelNo": 165066,
    "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
@@ -339,7 +339,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 32889,
+   "minCharge": 36081,
    "reviewAverage": 4.57,
    "reviewCount": 35,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
@@ -370,5 +370,5 @@
    "special": "2025年春オープン 那須パラダイスヴィレッジ施設内 宿泊施設。 自然豊かな環境で非日常を体験。"
   }
  ],
- "listedMatchCount": 59
+ "listedMatchCount": 61
 }

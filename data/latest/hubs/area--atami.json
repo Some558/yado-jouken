@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "recordCount": 269,
  "conditions": [
   {
@@ -54,31 +54,6 @@
   }
  ],
  "hotels": [
-  {
-   "hotelNo": 196361,
-   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
-   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 60000,
-   "reviewAverage": 4.94,
-   "reviewCount": 18,
-   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
-   "address1": "静岡県",
-   "address2": "熱海市網代591-38",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
-   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "sauna"
-   ]
-  },
   {
    "hotelNo": 137049,
    "name": "民宿　作五郎丸",
@@ -219,7 +194,7 @@
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
    "kana": "あたみ　ほてるなぎさかん",
-   "minCharge": 15246,
+   "minCharge": 13721,
    "reviewAverage": 4.7,
    "reviewCount": 74,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -241,7 +216,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 48400,
+   "minCharge": 49500,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -290,7 +265,7 @@
    "hotelNo": 7666,
    "name": "熱海温泉　秀花園湯の花膳",
    "kana": "あたみおんせん　しゅうかえん　ゆのはなぜん",
-   "minCharge": 7500,
+   "minCharge": 8000,
    "reviewAverage": 4.61,
    "reviewCount": 1440,
    "access": "JR熱海駅よりタクシー７分※熱海駅より玄関前にてスタッフがお出迎えする無料送迎バス有【要予約】",
@@ -735,7 +710,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 4000,
+   "minCharge": 4833,
    "reviewAverage": 4.45,
    "reviewCount": 440,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -1082,6 +1057,29 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187532/187532.jpg",
    "special": "熱海駅よりお車で約5分 伊豆山温泉 オーシャンビューの宿",
    "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
+   "hotelNo": 18976,
+   "name": "貸切露天風呂と天然食材のこだわり料理が満喫できる隠れ家　熱海温泉　ほり多",
+   "kana": "あたみおんせん　ほりた",
+   "minCharge": 19800,
+   "reviewAverage": 4.29,
+   "reviewCount": 181,
+   "access": "熱海駅より伊東線来宮駅（二分）下車、来宮神社方向に徒歩５分。",
+   "address1": "静岡県",
+   "address2": "熱海市西山町5-13",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18976",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D18976%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D18976",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18976.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18976/18976.jpg",
+   "special": "来宮神社さん側の宿で、パワースポットの大楠近くより湧き出る天然温泉楠の湯を使用しています",
+   "conditions": [
+    "onsen",
     "kinen",
     "breakfast",
     "dinner"
@@ -1543,26 +1541,6 @@
    ]
   },
   {
-   "hotelNo": 68189,
-   "name": "旅荘　天城",
-   "kana": "りょそう　あまぎ",
-   "minCharge": 6000,
-   "reviewAverage": 4.12,
-   "reviewCount": 356,
-   "access": "熱海駅より車で７分、又はバス『後楽園行』に乗車→停留所「銀座」下車、徒歩３分",
-   "address1": "静岡県",
-   "address2": "熱海市渚町19-17",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D68189",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68189%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D68189",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68189.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68189/68189.jpg",
-   "special": "海まで徒歩３０秒！貸切天然温泉風呂付き、女性も安心の素泊まり宿♪",
-   "conditions": [
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 7603,
    "name": "熱海の奥座敷　山の上ホテル",
    "kana": "あたみのおくざしき　やまのうえほてる",
@@ -1701,7 +1679,7 @@
    "hotelNo": 151543,
    "name": "和モダンオーベルジュ　熱海ＴＥＮＳＵＩ",
    "kana": "わもだんおーべるじゅ　あたみてんすい",
-   "minCharge": 11000,
+   "minCharge": 8800,
    "reviewAverage": 4.07,
    "reviewCount": 550,
    "access": "東京駅より新幹線で約50分。お車で約1時間半。熱海駅よりお車で約10分／熱海駅からバス乗車後、最寄りバス停より徒歩3分",
@@ -1726,7 +1704,7 @@
    "hotelNo": 177016,
    "name": "ザ　グラン　リゾート　エレガンテ熱海",
    "kana": "ざぐらんりぞーとえれがんてあたみ",
-   "minCharge": 5000,
+   "minCharge": 4000,
    "reviewAverage": 4.06,
    "reviewCount": 209,
    "access": "ＪＲ熱海駅より徒歩にて約２０分　タクシーでワンメーター　急な登り坂ですのでタクシー利用がおススメ",
@@ -1821,7 +1799,7 @@
    "hotelNo": 50212,
    "name": "ホテルリゾーピア　熱海",
    "kana": "りぞーぴあ　あたみ",
-   "minCharge": 4200,
+   "minCharge": 4400,
    "reviewAverage": 3.98,
    "reviewCount": 2404,
    "access": "ＪＲ熱海駅より徒歩約１０分（無料シャトルバスが定時運行）※無料シャトルバス乗り場はフォトギャラリーでご確認下さいませ。",
@@ -1949,6 +1927,29 @@
     "breakfast",
     "dinner",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 109399,
+   "name": "みやこ荘",
+   "kana": "みやこそう",
+   "minCharge": 3300,
+   "reviewAverage": 3.91,
+   "reviewCount": 179,
+   "access": "伊豆多賀駅から徒歩で５分",
+   "address1": "静岡県",
+   "address2": "熱海市下多賀1480",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109399",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109399%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109399",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109399.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109399/109399.jpg",
+   "special": "地元網代港で水揚された魚介類が人気！全室オーシャンビュー",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner"
    ]
   },
   {

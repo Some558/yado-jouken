@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,7 +24,7 @@
    "label": "草津温泉・白根エリアの掲載施設数"
   },
   "minPrice": 3825,
-  "medianPrice": 12100,
+  "medianPrice": 11657,
   "reviewAvgMean": 4.37,
   "pricedCount": 39
  },
@@ -98,6 +98,23 @@
    "special": "マクロビ料理やファスティング。草津の上質な湯で生まれ変わる、心と体。木々のなかのウェルネスリゾート。"
   },
   {
+   "hotelNo": 38493,
+   "name": "草津温泉　草津白根　マウンテンビューロッジ",
+   "kana": "くさつおんせん　くさつしらね　まうんてんびゅーろっじ",
+   "minCharge": 5500,
+   "reviewAverage": 4.71,
+   "reviewCount": 79,
+   "access": "ＪＲ　長野原草津口下車、ＪＲバス草津温泉行きにて２５分、下車後徒歩１５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-887",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38493",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38493%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38493",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38493.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38493/38493.jpg",
+   "special": "わたの湯源泉１００％・掛け流しの宿。2025年、リニューアルオープン！"
+  },
+  {
    "hotelNo": 147469,
    "name": "草津温泉　益成屋旅館",
    "kana": "えきなりやりょかん",
@@ -118,7 +135,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 14180,
+   "minCharge": 15200,
    "reviewAverage": 4.64,
    "reviewCount": 42,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -249,23 +266,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56137.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56137/56137.jpg",
    "special": "5ツ星★認定の宿　華やかな近代和風旅館で草津最大級の源泉100%かけ流し温泉を堪能　"
-  },
-  {
-   "hotelNo": 136868,
-   "name": "草津温泉　ての字屋",
-   "kana": "くさつおんせん　てのじや",
-   "minCharge": 40700,
-   "reviewAverage": 4.5,
-   "reviewCount": 7,
-   "access": "長野原草津口駅よりバスで２５分。草津温泉バスターミナル下車し徒歩５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津360",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D136868",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D136868%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D136868",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136868.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136868/136868.jpg",
-   "special": "草津温泉、「ての字屋」は、天然岩風呂と気品高い料亭の風格を秘めた日本情緒豊かな由緒正しいおもてなしの宿でございます。"
   },
   {
    "hotelNo": 5878,

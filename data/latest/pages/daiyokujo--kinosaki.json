@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,9 +24,9 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 10000,
+  "medianPrice": 9950,
   "reviewAvgMean": 4.45,
-  "pricedCount": 35
+  "pricedCount": 36
  },
  "hotels": [
   {
@@ -214,7 +214,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109048",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109048.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109048/109048.jpg",
-   "special": "一日５〜６組限定　星空と実家に帰ったような雰囲気に癒される小さな宿　コウノトリにも会えるかも"
+   "special": "静かな海と色づく紅葉に包まれる秋旅。波音.星空.焚き火と共に但馬の味覚に舌鼓。心ほどける田舎時間を"
   },
   {
    "hotelNo": 8619,
@@ -370,5 +370,5 @@
    "special": "宿前には芝生が広がる高原の宿。自然の中でおもいっきり深呼吸・・"
   }
  ],
- "listedMatchCount": 35
+ "listedMatchCount": 36
 }

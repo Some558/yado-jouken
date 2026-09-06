@@ -9,13 +9,13 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 65,
-  "matchRate": 72.2,
+  "matchCount": 64,
+  "matchRate": 71.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -23,27 +23,10 @@
   },
   "minPrice": 4840,
   "medianPrice": 11000,
-  "reviewAvgMean": 4.32,
-  "pricedCount": 65
+  "reviewAvgMean": 4.31,
+  "pricedCount": 64
  },
  "hotels": [
-  {
-   "hotelNo": 196361,
-   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
-   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 60000,
-   "reviewAverage": 4.94,
-   "reviewCount": 18,
-   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
-   "address1": "静岡県",
-   "address2": "熱海市網代591-38",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
-   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。"
-  },
   {
    "hotelNo": 137049,
    "name": "民宿　作五郎丸",
@@ -150,7 +133,7 @@
    "hotelNo": 7666,
    "name": "熱海温泉　秀花園湯の花膳",
    "kana": "あたみおんせん　しゅうかえん　ゆのはなぜん",
-   "minCharge": 7500,
+   "minCharge": 8000,
    "reviewAverage": 4.61,
    "reviewCount": 1440,
    "access": "JR熱海駅よりタクシー７分※熱海駅より玄関前にてスタッフがお出迎えする無料送迎バス有【要予約】",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7669.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7669/7669.jpg",
    "special": "日本画の巨匠横山大観ゆかりの宿　宏壮な日本庭園と京風懐石料理の味わいをご堪能下さい"
+  },
+  {
+   "hotelNo": 136112,
+   "name": "リゾナーレ熱海",
+   "kana": "りぞなーれあたみ",
+   "minCharge": 17400,
+   "reviewAverage": 4.53,
+   "reviewCount": 464,
+   "access": "熱海駅より送迎バスにて15分",
+   "address1": "静岡県",
+   "address2": "熱海市水口町2-13-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D136112",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D136112%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D136112",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136112.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136112/136112.jpg",
+   "special": "熱海の山上より、相模湾と夜景を一望できるお部屋。スタイリッシュなリゾートで多様な滞在スタイルを"
   }
  ],
- "listedMatchCount": 65
+ "listedMatchCount": 64
 }

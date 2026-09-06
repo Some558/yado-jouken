@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
@@ -23,27 +23,10 @@
   },
   "minPrice": 3500,
   "medianPrice": 7700,
-  "reviewAvgMean": 4.45,
+  "reviewAvgMean": 4.43,
   "pricedCount": 11
  },
  "hotels": [
-  {
-   "hotelNo": 52143,
-   "name": "道後温泉　湯の宿　さち家",
-   "kana": "どうごおんせん　ゆのやど　さちや",
-   "minCharge": 13200,
-   "reviewAverage": 4.74,
-   "reviewCount": 337,
-   "access": "ＪＲ　松山駅から伊予鉄道に乗車→「道後温泉駅」下車し、徒歩3分",
-   "address1": "愛媛県",
-   "address2": "松山市道後湯之町13-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D52143",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D52143%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D52143",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/52143.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52143/52143.jpg",
-   "special": "道後温泉本館より徒歩１分。100%掛け流し温泉と懐石料理が自慢の静かなお宿。朝食に「宇和島風鯛めし」"
-  },
   {
    "hotelNo": 165673,
    "name": "道後温泉　あたたかい宿　谷屋",
@@ -77,6 +60,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176808.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176808/176808.jpg",
    "special": "２０１９年１０月グランドオープン♪『人と環境に優しいホテル』をコンセプトに快適な滞在をご提供します。"
+  },
+  {
+   "hotelNo": 14270,
+   "name": "権現山荘",
+   "kana": "ごんげんさんそう",
+   "minCharge": 11450,
+   "reviewAverage": 4.55,
+   "reviewCount": 581,
+   "access": "ＪＲ堀江駅より車で７分,松山駅より車で２０分",
+   "address1": "愛媛県",
+   "address2": "松山市権現町甲820",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14270",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D14270%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D14270",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14270.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14270/14270.jpg",
+   "special": "海の見える温泉宿です。食事は瀬戸内の魚を使った会席料理で部屋食です。※当館に看板猫はいません。"
   },
   {
    "hotelNo": 183045,

@@ -9,22 +9,22 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 29,
-  "matchRate": 32.2,
+  "matchCount": 28,
+  "matchRate": 31.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 9900,
-  "reviewAvgMean": 4.32,
-  "pricedCount": 29
+  "medianPrice": 9950,
+  "reviewAvgMean": 4.33,
+  "pricedCount": 28
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！"
   }
  ],
- "listedMatchCount": 29
+ "listedMatchCount": 28
 }

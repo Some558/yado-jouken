@@ -9,41 +9,24 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 8,
-  "matchRate": 8.9,
+  "matchCount": 7,
+  "matchRate": 7.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6600,
-  "medianPrice": 9750,
-  "reviewAvgMean": 4.48,
-  "pricedCount": 8
+  "minPrice": 7800,
+  "medianPrice": 11000,
+  "reviewAvgMean": 4.41,
+  "pricedCount": 7
  },
  "hotels": [
-  {
-   "hotelNo": 165083,
-   "name": "フォレストソール　西軽井沢",
-   "kana": "ふぉれすとそーる　にしかるいざわ",
-   "minCharge": 6600,
-   "reviewAverage": 5.0,
-   "reviewCount": 21,
-   "access": "お車で御代田駅より約５分、軽井沢駅より約３０分。※カーナビでは表示されない場合は、スマホ等の地図アプリで検索ください。",
-   "address1": "長野県",
-   "address2": "北佐久郡御代田町御代田大林4108-266",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165083",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165083%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165083",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165083.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165083/165083.jpg",
-   "special": "『人にやさしい自然の恵みにいやされて』観光地から離れた静かなエリアに佇む2015年築の貸別荘。"
-  },
   {
    "hotelNo": 39497,
    "name": "軽井沢森のいえ　晴れたらいいね",
@@ -65,7 +48,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 13200,
+   "minCharge": 16500,
    "reviewAverage": 4.69,
    "reviewCount": 543,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -164,5 +147,5 @@
    "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 8
+ "listedMatchCount": 7
 }

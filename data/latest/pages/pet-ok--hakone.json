@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 17,
-  "matchRate": 18.9,
+  "matchCount": 14,
+  "matchRate": 15.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 10164,
-  "reviewAvgMean": 4.21,
-  "pricedCount": 17
+  "medianPrice": 9682,
+  "reviewAvgMean": 4.23,
+  "pricedCount": 14
  },
  "hotels": [
   {
@@ -164,23 +164,6 @@
    "special": "全室温泉＆足湯付き！最大10名宿泊可能なメゾネットヴィラ！仙石原草原へは徒歩約10分"
   },
   {
-   "hotelNo": 184193,
-   "name": "ホテル森の風箱根仙石原",
-   "kana": "ほてるもりのかぜ　はこねせんごくはら",
-   "minCharge": 18700,
-   "reviewAverage": 4.33,
-   "reviewCount": 74,
-   "access": "強羅駅よりタクシーで15分、箱根湯本駅よりバスで30分、小田原駅よりバスで45分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原817-444",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184193",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184193%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184193",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184193.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184193/184193.jpg",
-   "special": "すすき草原まで徒歩8分。自然と触れ合う趣ある庭園に高級感ある和モダンの檜造りの宿。"
-  },
-  {
    "hotelNo": 68545,
    "name": "ラフォーレ箱根強羅　湯の棲",
    "kana": "らふぉーれ　はこねごうら　ゆのすみか",
@@ -196,23 +179,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68545.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68545/68545.jpg",
    "special": "〈綾館〉国際的に権威あるデザイン賞『iF DESIGN award 2025』を受賞"
-  },
-  {
-   "hotelNo": 142874,
-   "name": "箱根強羅グアムドッグ本店",
-   "kana": "はこねごうらぐあむどっぐほんてん",
-   "minCharge": 19170,
-   "reviewAverage": 4.16,
-   "reviewCount": 97,
-   "access": "早雲山駅より徒歩にて１５分。ＪＲ　小田原駅より伊豆箱根バス「大涌谷経由湖尻行き」早雲山上バス停で下車、徒歩５分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1322-20",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D142874",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D142874%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142874",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142874.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142874/142874.jpg",
-   "special": "愛犬家専用貸切にごり湯のぐるめ温泉宿。地元食材とお酒でおもてなし。愛犬家御用達旅館"
   },
   {
    "hotelNo": 129468,
@@ -283,23 +249,6 @@
    "special": "四季の彩りが美しい仙石原で、極上の会席料理と客室露天風呂で贅沢なひとときをお過ごしください。"
   },
   {
-   "hotelNo": 192229,
-   "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
-   "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 7700,
-   "reviewAverage": 3.8,
-   "reviewCount": 83,
-   "access": "上強羅駅より徒歩約１分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1300-415",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192229",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192229%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192229",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192229.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192229/192229.jpg",
-   "special": "【本日空室あり！】小型犬専用宿／レストラン同伴ＯＫ！わんビュッフェやわんことは入れる貸切温泉あり"
-  },
-  {
    "hotelNo": 161012,
    "name": "リブマックスリゾート箱根芦ノ湖",
    "kana": "りぶまっくすりぞーとはこねあしのこ",
@@ -317,5 +266,5 @@
    "special": "和モダンがテーマの全室露天風呂付温宿。秋野菜グラタンやイクラ、熱々ステーキを楽しむ秋ビュッフェ開催。"
   }
  ],
- "listedMatchCount": 17
+ "listedMatchCount": 14
 }

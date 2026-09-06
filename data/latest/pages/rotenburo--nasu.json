@@ -9,22 +9,22 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-06",
+ "dataAsOf": "2026-09-07",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 52,
-  "matchRate": 57.8,
+  "matchCount": 53,
+  "matchRate": 58.9,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2040,
-  "medianPrice": 10750,
+  "medianPrice": 10920,
   "reviewAvgMean": 4.43,
-  "pricedCount": 52
+  "pricedCount": 53
  },
  "hotels": [
   {
@@ -128,23 +128,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189097.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189097/189097.jpg",
    "special": "那須高原の＂森のアクティビティリゾート＂大人から子どもまで、ペットも一緒に森林を楽しみ尽くせます！"
-  },
-  {
-   "hotelNo": 79272,
-   "name": "御宿　なか田",
-   "kana": "おんやど　なかた",
-   "minCharge": 32500,
-   "reviewAverage": 4.73,
-   "reviewCount": 117,
-   "access": "自家用車以外の場合は駅からの送迎がないため、公共交通機関をご利用ください。　守子坂バス停下車（予約送迎あり）　",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本713-23",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79272",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79272%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79272",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79272.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79272/79272.jpg",
-   "special": "お部屋の中で2種類のお風呂や岩盤浴を楽しみチェックアウトまでゆっくりとお過ごしくださいませ。"
   },
   {
    "hotelNo": 187548,
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32111.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32111/32111.jpg",
    "special": "楽天トラベルブロンズアワード2022を受賞！那須の源泉ととちぎ和牛の創作会席を愉しむ小さな湯宿です"
+  },
+  {
+   "hotelNo": 192854,
+   "name": "那須温泉　森旬の籠／ヒューイットリゾート",
+   "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
+   "minCharge": 36081,
+   "reviewAverage": 4.57,
+   "reviewCount": 35,
+   "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本206－730",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D192854",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D192854%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D192854",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/192854.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/192854/192854.jpg",
+   "special": "全室半露天風呂付の客室で癒しのひと時を。客室・温泉・お食事、那須の自然豊かな空間をご用意。"
   }
  ],
- "listedMatchCount": 52
+ "listedMatchCount": 53
 }
