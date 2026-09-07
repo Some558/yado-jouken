@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -271,7 +271,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 13500,
+   "minCharge": 11500,
    "reviewAverage": 4.31,
    "reviewCount": 678,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",

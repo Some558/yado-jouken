@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "recordCount": 269,
  "conditions": [
   {
@@ -276,7 +276,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】9/1(火)〜9/5(土)空室わずか！限定1000円クーポン【部屋食】",
+   "special": "【旅館甲子園優勝の宿】9/7(月)〜9/12(土)空室わずか！限定3000円クーポン【部屋食】",
    "conditions": [
     "onsen",
     "daiyokujo",
@@ -1239,7 +1239,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 16110,
+   "minCharge": 14670,
    "reviewAverage": 4.22,
    "reviewCount": 1107,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
@@ -1358,7 +1358,7 @@
    "hotelNo": 191515,
    "name": "ＴＨＥ　ＭＯＯＮ　熱海",
    "kana": "ざむーんあたみ",
-   "minCharge": 5100,
+   "minCharge": 4800,
    "reviewAverage": 4.17,
    "reviewCount": 49,
    "access": "熱海駅より伊豆東海バス（所要時間約7分）銀座バス停",
@@ -1567,30 +1567,6 @@
    ]
   },
   {
-   "hotelNo": 27985,
-   "name": "熱海温泉　旅の宿　かみむら",
-   "kana": "あたみおんせん　たびのやど　かみむら",
-   "minCharge": 5620,
-   "reviewAverage": 4.11,
-   "reviewCount": 162,
-   "access": "ＪＲ熱海駅下車タクシー８分（送迎有り・要予約）",
-   "address1": "静岡県",
-   "address2": "熱海市小嵐町5-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D27985",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D27985%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D27985",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/27985.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27985/27985.jpg",
-   "special": "クーポン発行中！伊豆の旬料理と源泉かけ流しを満喫♪6室の小宿です。",
-   "conditions": [
-    "onsen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 29878,
    "name": "熱海温泉ホテル　夢いろは",
    "kana": "あたみおんせんほてる　ゆめいろは",
@@ -1607,6 +1583,30 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29878/29878.jpg",
    "special": "青山湯の源泉蒸し体験がおすすめ！炊きたてを味わう釜飯御膳が自慢！源泉掛け流し貸切露天風呂で癒される",
    "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 27985,
+   "name": "熱海温泉　旅の宿　かみむら",
+   "kana": "あたみおんせん　たびのやど　かみむら",
+   "minCharge": 6910,
+   "reviewAverage": 4.11,
+   "reviewCount": 162,
+   "access": "ＪＲ熱海駅下車タクシー８分（送迎有り・要予約）",
+   "address1": "静岡県",
+   "address2": "熱海市小嵐町5-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D27985",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D27985%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D27985",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/27985.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/27985/27985.jpg",
+   "special": "クーポン発行中！伊豆の旬料理と源泉かけ流しを満喫♪6室の小宿です。",
+   "conditions": [
+    "onsen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1799,7 +1799,7 @@
    "hotelNo": 50212,
    "name": "ホテルリゾーピア　熱海",
    "kana": "りぞーぴあ　あたみ",
-   "minCharge": 4400,
+   "minCharge": 4900,
    "reviewAverage": 3.98,
    "reviewCount": 2404,
    "access": "ＪＲ熱海駅より徒歩約１０分（無料シャトルバスが定時運行）※無料シャトルバス乗り場はフォトギャラリーでご確認下さいませ。",
@@ -1843,7 +1843,7 @@
    "hotelNo": 136832,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　あたみ",
    "kana": "おおえどおんせんものがたりぷれみあむあたみ",
-   "minCharge": 12600,
+   "minCharge": 11500,
    "reviewAverage": 3.96,
    "reviewCount": 1304,
    "access": "熱海駅より徒歩にて約7分",

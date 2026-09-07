@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -118,7 +118,7 @@
    "hotelNo": 142928,
    "name": "大和屋別荘",
    "kana": "やまとやべっそう",
-   "minCharge": 18000,
+   "minCharge": 18700,
    "reviewAverage": 4.64,
    "reviewCount": 214,
    "access": "市電　道後温泉駅にて下車、徒歩にて５分",
@@ -135,7 +135,7 @@
    "hotelNo": 188387,
    "name": "時地人－　ＪＩＪＩＪＩＮ　Ｍａｔｓｕｙａｍａ（旧：ＴＯＢＥオーベルジュリゾート）",
    "kana": "じじじん　まつやま",
-   "minCharge": 30250,
+   "minCharge": 27225,
    "reviewAverage": 4.6,
    "reviewCount": 19,
    "access": "松山空港より車で約20分",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3060,
-  "medianPrice": 7910,
+  "medianPrice": 7700,
   "reviewAvgMean": 4.32,
   "pricedCount": 47
  },
@@ -48,8 +48,8 @@
   },
   {
    "hotelNo": 70231,
-   "name": "別府鉄輪温泉　旅館　喜楽＜大分県＞",
-   "kana": "きらく＜おおいたけん＞",
+   "name": "懐郷ノ宿　喜楽",
+   "kana": "かいきょうのやど　きらく",
    "minCharge": 9790,
    "reviewAverage": 4.64,
    "reviewCount": 422,
@@ -169,7 +169,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7910,
+   "minCharge": 7000,
    "reviewAverage": 4.54,
    "reviewCount": 724,
    "access": "別府駅東口より徒歩約1分！",
@@ -322,7 +322,7 @@
    "hotelNo": 151164,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　テラス御堂原",
    "kana": "せきや　りぞーと　てらす　みどうばる",
-   "minCharge": 15075,
+   "minCharge": 17055,
    "reviewAverage": 4.44,
    "reviewCount": 144,
    "access": "ＪＲ別府駅からタクシーで約１５分　高速別府ICから３分",
@@ -339,7 +339,7 @@
    "hotelNo": 180258,
    "name": "天然温泉　鉄輪の湯　スーパーホテル別府駅前",
    "kana": "すーぱーほてる　べっぷえきまえ　てんねんおんせん　かんなわのゆ",
-   "minCharge": 4940,
+   "minCharge": 4750,
    "reviewAverage": 4.38,
    "reviewCount": 1196,
    "access": "ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分",

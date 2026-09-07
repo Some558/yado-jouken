@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 7955,
+  "medianPrice": 7850,
   "reviewAvgMean": 4.38,
   "pricedCount": 30
  },
@@ -80,8 +80,8 @@
   },
   {
    "hotelNo": 70231,
-   "name": "別府鉄輪温泉　旅館　喜楽＜大分県＞",
-   "kana": "きらく＜おおいたけん＞",
+   "name": "懐郷ノ宿　喜楽",
+   "kana": "かいきょうのやど　きらく",
    "minCharge": 9790,
    "reviewAverage": 4.64,
    "reviewCount": 422,
@@ -201,7 +201,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7910,
+   "minCharge": 7000,
    "reviewAverage": 4.54,
    "reviewCount": 724,
    "access": "別府駅東口より徒歩約1分！",

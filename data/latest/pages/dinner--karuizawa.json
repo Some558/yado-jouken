@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -135,7 +135,7 @@
    "hotelNo": 183280,
    "name": "オーソルヴェール軽井沢倶楽部",
    "kana": "おーそるヴぇーるかるいざわくらぶ",
-   "minCharge": 9180,
+   "minCharge": 8840,
    "reviewAverage": 4.71,
    "reviewCount": 111,
    "access": "軽井沢駅から25分（軽井沢駅から無料送迎有・7日前まで要予約）。佐久平ICから20分。信濃追分駅から15分・駐車場無料",
@@ -237,7 +237,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 27106,
+   "minCharge": 27342,
    "reviewAverage": 4.67,
    "reviewCount": 202,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",

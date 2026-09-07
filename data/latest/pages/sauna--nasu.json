@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 17300,
+   "minCharge": 18000,
    "reviewAverage": 4.62,
    "reviewCount": 13,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",
@@ -286,7 +286,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 13500,
+   "minCharge": 11500,
    "reviewAverage": 4.31,
    "reviewCount": 678,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",

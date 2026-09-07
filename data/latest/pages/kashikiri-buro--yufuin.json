@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3456,
-  "medianPrice": 13800,
+  "minPrice": 4030,
+  "medianPrice": 13900,
   "reviewAvgMean": 4.47,
   "pricedCount": 35
  },

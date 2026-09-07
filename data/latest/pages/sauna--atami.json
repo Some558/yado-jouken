@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "facility"
  },
@@ -337,7 +337,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 16110,
+   "minCharge": 14670,
    "reviewAverage": 4.22,
    "reviewCount": 1107,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

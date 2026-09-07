@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -101,7 +101,7 @@
    "hotelNo": 142928,
    "name": "大和屋別荘",
    "kana": "やまとやべっそう",
-   "minCharge": 18000,
+   "minCharge": 18700,
    "reviewAverage": 4.64,
    "reviewCount": 214,
    "access": "市電　道後温泉駅にて下車、徒歩にて５分",

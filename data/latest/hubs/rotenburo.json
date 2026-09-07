@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-09-07",
+ "dataAsOf": "2026-09-08",
  "areas": [
   {
    "area": {
@@ -27,8 +27,8 @@
    "slug": "rotenburo--kusatsu",
    "matchCount": 37,
    "matchRate": 41.1,
-   "minPrice": 3825,
-   "medianPrice": 11657,
+   "minPrice": 3700,
+   "medianPrice": 11495,
    "reviewAvgMean": 4.38
   },
   {
