@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "areas": [
   {
    "area": {
@@ -104,7 +104,7 @@
    },
    "slug": "dinner--nasu",
    "matchCount": 89,
-   "matchRate": 25.4,
+   "matchRate": 25.5,
    "minPrice": 2040,
    "medianPrice": 9000,
    "reviewAvgMean": 4.41

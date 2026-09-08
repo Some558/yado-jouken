@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "recordCount": 269,
  "conditions": [
   {
@@ -216,7 +216,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 49500,
+   "minCharge": 52800,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -265,7 +265,7 @@
    "hotelNo": 7666,
    "name": "熱海温泉　秀花園湯の花膳",
    "kana": "あたみおんせん　しゅうかえん　ゆのはなぜん",
-   "minCharge": 8000,
+   "minCharge": 9000,
    "reviewAverage": 4.61,
    "reviewCount": 1440,
    "access": "JR熱海駅よりタクシー７分※熱海駅より玄関前にてスタッフがお出迎えする無料送迎バス有【要予約】",
@@ -344,7 +344,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 18281,
+   "minCharge": 19687,
    "reviewAverage": 4.58,
    "reviewCount": 323,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -1187,7 +1187,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 11000,
+   "minCharge": 8800,
    "reviewAverage": 4.23,
    "reviewCount": 468,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
@@ -1425,6 +1425,31 @@
    ]
   },
   {
+   "hotelNo": 28514,
+   "name": "貸切温泉のコンドミニアム　グランビュー熱海",
+   "kana": "かしきりおんせんのこんどみにあむ　ぐらんびゅー　あたみ",
+   "minCharge": 5000,
+   "reviewAverage": 4.14,
+   "reviewCount": 1330,
+   "access": "熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪",
+   "address1": "静岡県",
+   "address2": "熱海市咲見町8-9",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28514",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28514%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28514",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28514.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28514/28514.jpg",
+   "special": "熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 176941,
    "name": "エンゼルフォレスト熱海自然郷",
    "kana": "えんぜるふぉれすとあたみしぜんきょう",
@@ -1447,31 +1472,6 @@
     "dinner",
     "sauna",
     "pet-ok"
-   ]
-  },
-  {
-   "hotelNo": 28514,
-   "name": "貸切温泉のコンドミニアム　グランビュー熱海",
-   "kana": "かしきりおんせんのこんどみにあむ　ぐらんびゅー　あたみ",
-   "minCharge": 6000,
-   "reviewAverage": 4.14,
-   "reviewCount": 1330,
-   "access": "熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪",
-   "address1": "静岡県",
-   "address2": "熱海市咲見町8-9",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28514",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28514%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28514",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28514.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28514/28514.jpg",
-   "special": "熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
    ]
   },
   {
@@ -1908,7 +1908,7 @@
    "hotelNo": 160921,
    "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
    "kana": "たおや　あたみ",
-   "minCharge": 19100,
+   "minCharge": 17700,
    "reviewAverage": 3.93,
    "reviewCount": 1237,
    "access": "熱海駅よりシャトルバスあり",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 16500,
+   "minCharge": 15880,
    "reviewAverage": 4.69,
    "reviewCount": 543,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -235,7 +235,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 21767,
+   "minCharge": 21167,
    "reviewAverage": 4.41,
    "reviewCount": 322,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",

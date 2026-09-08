@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 27342,
+   "minCharge": 25059,
    "reviewAverage": 4.67,
    "reviewCount": 202,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -201,7 +201,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 21767,
+   "minCharge": 21167,
    "reviewAverage": 4.41,
    "reviewCount": 322,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -269,7 +269,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 5500,
+   "minCharge": 7000,
    "reviewAverage": 4.13,
    "reviewCount": 251,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",

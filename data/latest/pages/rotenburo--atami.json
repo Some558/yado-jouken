@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11000,
+  "medianPrice": 10840,
   "reviewAvgMean": 4.31,
   "pricedCount": 64
  },
@@ -133,7 +133,7 @@
    "hotelNo": 7666,
    "name": "熱海温泉　秀花園湯の花膳",
    "kana": "あたみおんせん　しゅうかえん　ゆのはなぜん",
-   "minCharge": 8000,
+   "minCharge": 9000,
    "reviewAverage": 4.61,
    "reviewCount": 1440,
    "access": "JR熱海駅よりタクシー７分※熱海駅より玄関前にてスタッフがお出迎えする無料送迎バス有【要予約】",
@@ -184,7 +184,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 18281,
+   "minCharge": 19687,
    "reviewAverage": 4.58,
    "reviewCount": 323,
    "access": "JR熱海駅よりお車・タクシーで約１０分",

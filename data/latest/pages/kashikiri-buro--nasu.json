@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "detection": {
   "type": "facility"
  },
@@ -184,7 +184,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 6800,
+   "minCharge": 5950,
    "reviewAverage": 4.61,
    "reviewCount": 70,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -218,7 +218,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 18700,
+   "minCharge": 17350,
    "reviewAverage": 4.61,
    "reviewCount": 239,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",

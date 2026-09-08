@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3300,
-  "medianPrice": 10395,
+  "medianPrice": 10000,
   "reviewAvgMean": 4.31,
   "pricedCount": 59
  },
@@ -84,7 +84,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 49500,
+   "minCharge": 52800,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -118,7 +118,7 @@
    "hotelNo": 7666,
    "name": "熱海温泉　秀花園湯の花膳",
    "kana": "あたみおんせん　しゅうかえん　ゆのはなぜん",
-   "minCharge": 8000,
+   "minCharge": 9000,
    "reviewAverage": 4.61,
    "reviewCount": 1440,
    "access": "JR熱海駅よりタクシー７分※熱海駅より玄関前にてスタッフがお出迎えする無料送迎バス有【要予約】",
@@ -169,7 +169,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 18281,
+   "minCharge": 19687,
    "reviewAverage": 4.58,
    "reviewCount": 323,
    "access": "JR熱海駅よりお車・タクシーで約１０分",

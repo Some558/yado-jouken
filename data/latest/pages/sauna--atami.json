@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-08",
+ "dataAsOf": "2026-09-09",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 49500,
+   "minCharge": 52800,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -303,7 +303,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 11000,
+   "minCharge": 8800,
    "reviewAverage": 4.23,
    "reviewCount": 468,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
