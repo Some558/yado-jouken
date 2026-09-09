@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-09",
+ "dataAsOf": "2026-09-10",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 9053,
+  "medianPrice": 9790,
   "reviewAvgMean": 4.37,
   "pricedCount": 59
  },
@@ -201,7 +201,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 22264,
+   "minCharge": 22770,
    "reviewAverage": 4.61,
    "reviewCount": 686,
    "access": "別府大学駅より徒歩１０分",
@@ -235,7 +235,7 @@
    "hotelNo": 166919,
    "name": "日本旅館　器　別府鉄輪",
    "kana": "にほんりょかん　うつわ　べっぷかんなわ",
-   "minCharge": 9053,
+   "minCharge": 9350,
    "reviewAverage": 4.59,
    "reviewCount": 329,
    "access": "鉄輪バスターミナルより徒歩5分・別府ICより車で10分・別府駅より車で15分・大分空港より車で50分",
@@ -252,7 +252,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 31000,
+   "minCharge": 32000,
    "reviewAverage": 4.59,
    "reviewCount": 107,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -303,7 +303,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 7350,
+   "minCharge": 7910,
    "reviewAverage": 4.54,
    "reviewCount": 724,
    "access": "別府駅東口より徒歩約1分！",

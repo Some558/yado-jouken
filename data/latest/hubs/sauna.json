@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-09-09",
+ "dataAsOf": "2026-09-10",
  "areas": [
   {
    "area": {
@@ -28,7 +28,7 @@
    "matchCount": 14,
    "matchRate": 15.6,
    "minPrice": 3700,
-   "medianPrice": 12980,
+   "medianPrice": 13750,
    "reviewAvgMean": 4.34
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 34,
    "matchRate": 37.8,
    "minPrice": 4000,
-   "medianPrice": 11833,
+   "medianPrice": 12155,
    "reviewAvgMean": 4.24
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 30,
    "matchRate": 33.3,
    "minPrice": 2700,
-   "medianPrice": 7850,
+   "medianPrice": 8400,
    "reviewAvgMean": 4.38
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 12,
    "matchRate": 13.3,
    "minPrice": 7488,
-   "medianPrice": 9315,
+   "medianPrice": 10200,
    "reviewAvgMean": 4.5
   },
   {

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-09",
+ "dataAsOf": "2026-09-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7400,
-  "medianPrice": 13105,
+  "medianPrice": 13600,
   "reviewAvgMean": 4.46,
   "pricedCount": 32
  },
@@ -305,7 +305,7 @@
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 8800,
+   "minCharge": 10200,
    "reviewAverage": 4.46,
    "reviewCount": 312,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",

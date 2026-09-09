@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-09",
+ "dataAsOf": "2026-09-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 12995,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.38,
   "pricedCount": 75
  },
@@ -67,7 +67,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 20900,
+   "minCharge": 19800,
    "reviewAverage": 4.86,
    "reviewCount": 678,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -220,7 +220,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 42250,
+   "minCharge": 49950,
    "reviewAverage": 4.68,
    "reviewCount": 65,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
