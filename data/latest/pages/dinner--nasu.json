@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -23,7 +23,7 @@
    "value": 349,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
-  "minPrice": 2040,
+  "minPrice": 1690,
   "medianPrice": 9000,
   "reviewAvgMean": 4.41,
   "pricedCount": 53
@@ -220,7 +220,7 @@
    "hotelNo": 128499,
    "name": "森のコテージ　くるみの木",
    "kana": "もりのこてーじ　くるみのき",
-   "minCharge": 6400,
+   "minCharge": 1690,
    "reviewAverage": 4.63,
    "reviewCount": 226,
    "access": "黒磯駅又は那須塩原駅よりお車で50分",
@@ -316,7 +316,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
-   "special": "心ほっこり口コミ高評価★栃木和牛プランが好評★健康と美容を磨くきらり秋那須旅行"
+   "special": "19〜22日空室出ました★心ほっこり口コミ料理高評価★栃木和牛プランが好評"
   },
   {
    "hotelNo": 28443,

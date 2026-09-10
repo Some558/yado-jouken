@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3280,
+  "minPrice": 1690,
   "medianPrice": 10135,
   "reviewAvgMean": 4.46,
   "pricedCount": 26
@@ -150,7 +150,7 @@
    "hotelNo": 128499,
    "name": "森のコテージ　くるみの木",
    "kana": "もりのこてーじ　くるみのき",
-   "minCharge": 6400,
+   "minCharge": 1690,
    "reviewAverage": 4.63,
    "reviewCount": 226,
    "access": "黒磯駅又は那須塩原駅よりお車で50分",

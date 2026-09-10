@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 188,
-  "matchRate": 52.1,
+  "matchRate": 51.8,
   "denominator": {
    "type": "area_total",
-   "value": 361,
+   "value": 363,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
@@ -152,7 +152,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 11150,
+   "minCharge": 12250,
    "reviewAverage": 4.75,
    "reviewCount": 399,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -169,7 +169,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 38500,
+   "minCharge": 55000,
    "reviewAverage": 4.75,
    "reviewCount": 147,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -203,7 +203,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 41800,
+   "minCharge": 45100,
    "reviewAverage": 4.7,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",
@@ -220,7 +220,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 49950,
+   "minCharge": 46100,
    "reviewAverage": 4.68,
    "reviewCount": 65,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -336,23 +336,6 @@
    "special": "◆全室禁煙、女性に優しい美肌の湯が自慢の縁結びの宿"
   },
   {
-   "hotelNo": 29435,
-   "name": "箱根仙石原プリンスホテル",
-   "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 9600,
-   "reviewAverage": 4.52,
-   "reviewCount": 843,
-   "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原1246",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29435",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29435%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29435",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29435.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29435/29435.jpg",
-   "special": "美しい箱根外輪山の山並みと、雄大な仙石原高原の自然に抱かれたリゾートホテル。"
-  },
-  {
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
@@ -368,6 +351,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189383.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189383/189383.jpg",
    "special": "★2024年3月グランドオープン★芦ノ湖、富士山が一望できる好立地！ゆったり流れる贅沢な時間を堪能"
+  },
+  {
+   "hotelNo": 29435,
+   "name": "箱根仙石原プリンスホテル",
+   "kana": "はこね　せんごくはらプリンスホテル",
+   "minCharge": 10500,
+   "reviewAverage": 4.52,
+   "reviewCount": 843,
+   "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原1246",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29435",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29435%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29435",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29435.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29435/29435.jpg",
+   "special": "美しい箱根外輪山の山並みと、雄大な仙石原高原の自然に抱かれたリゾートホテル。"
   }
  ],
  "listedMatchCount": 73

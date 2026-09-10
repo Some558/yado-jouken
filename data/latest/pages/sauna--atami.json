@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4000,
-  "medianPrice": 12155,
+  "medianPrice": 11833,
   "reviewAvgMean": 4.24,
   "pricedCount": 34
  },
@@ -31,7 +31,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 7866,
+   "minCharge": 7590,
    "reviewAverage": 4.82,
    "reviewCount": 66,
    "access": "熱海駅よりお車で約20分",
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 50600,
+   "minCharge": 52800,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -201,7 +201,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 21780,
+   "minCharge": 20570,
    "reviewAverage": 4.42,
    "reviewCount": 2607,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -218,7 +218,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 11660,
+   "minCharge": 11000,
    "reviewAverage": 4.4,
    "reviewCount": 3127,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",

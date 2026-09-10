@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 117,
-  "matchRate": 32.4,
+  "matchRate": 32.2,
   "denominator": {
    "type": "area_total",
-   "value": 361,
+   "value": 363,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
@@ -118,7 +118,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 11150,
+   "minCharge": 12250,
    "reviewAverage": 4.75,
    "reviewCount": 399,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -135,7 +135,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 41800,
+   "minCharge": 45100,
    "reviewAverage": 4.7,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",
@@ -152,7 +152,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 49950,
+   "minCharge": 46100,
    "reviewAverage": 4.68,
    "reviewCount": 65,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -271,7 +271,7 @@
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 9600,
+   "minCharge": 10500,
    "reviewAverage": 4.52,
    "reviewCount": 843,
    "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -23,7 +23,7 @@
    "value": 269,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 3300,
+  "minPrice": 2700,
   "medianPrice": 10700,
   "reviewAvgMean": 4.31,
   "pricedCount": 59
@@ -33,7 +33,7 @@
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
    "kana": "えんぜるふぉれすとあたみ",
-   "minCharge": 7866,
+   "minCharge": 7590,
    "reviewAverage": 4.82,
    "reviewCount": 66,
    "access": "熱海駅よりお車で約20分",
@@ -84,7 +84,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 50600,
+   "minCharge": 52800,
    "reviewAverage": 4.65,
    "reviewCount": 78,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -118,7 +118,7 @@
    "hotelNo": 7666,
    "name": "熱海温泉　秀花園湯の花膳",
    "kana": "あたみおんせん　しゅうかえん　ゆのはなぜん",
-   "minCharge": 9000,
+   "minCharge": 8000,
    "reviewAverage": 4.61,
    "reviewCount": 1440,
    "access": "JR熱海駅よりタクシー７分※熱海駅より玄関前にてスタッフがお出迎えする無料送迎バス有【要予約】",
@@ -129,7 +129,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】9/7(月)〜9/12(土)空室わずか！限定3000円クーポン【部屋食】"
+   "special": "【旅館甲子園優勝の宿】本日9/10(木)空室わずか！限定3000円クーポン【部屋食】"
   },
   {
    "hotelNo": 7616,
@@ -220,7 +220,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10700,
+   "minCharge": 13200,
    "reviewAverage": 4.56,
    "reviewCount": 1087,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -288,7 +288,7 @@
    "hotelNo": 28013,
    "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
    "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 13900,
+   "minCharge": 10700,
    "reviewAverage": 4.54,
    "reviewCount": 698,
    "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",

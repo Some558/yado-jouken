@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6300,
-  "medianPrice": 18700,
+  "minPrice": 5600,
+  "medianPrice": 17600,
   "reviewAvgMean": 4.43,
   "pricedCount": 21
  },
@@ -201,7 +201,7 @@
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 14300,
+   "minCharge": 17600,
    "reviewAverage": 4.41,
    "reviewCount": 688,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
@@ -252,7 +252,7 @@
    "hotelNo": 184829,
    "name": "箱根ホテル小涌園（藤田観光リゾート）",
    "kana": "はこねほてるこわきえん（ふじたかんこうりぞーと）",
-   "minCharge": 21312,
+   "minCharge": 18562,
    "reviewAverage": 4.37,
    "reviewCount": 678,
    "access": "「小涌園」バス停徒歩すぐ／箱根登山鉄道「強羅」からシャトルバス有",
@@ -354,7 +354,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 6300,
+   "minCharge": 5600,
    "reviewAverage": 4.07,
    "reviewCount": 197,
    "access": "箱根登山バス：仙石高原 から徒歩2分",

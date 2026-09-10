@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "areas": [
   {
    "area": {
@@ -13,7 +13,7 @@
    },
    "slug": "dinner--hakone",
    "matchCount": 134,
-   "matchRate": 37.1,
+   "matchRate": 36.9,
    "minPrice": 5500,
    "medianPrice": 13200,
    "reviewAvgMean": 4.38
@@ -26,9 +26,9 @@
    },
    "slug": "dinner--kusatsu",
    "matchCount": 52,
-   "matchRate": 33.1,
+   "matchRate": 32.9,
    "minPrice": 4490,
-   "medianPrice": 12900,
+   "medianPrice": 13104,
    "reviewAvgMean": 4.44
   },
   {
@@ -40,7 +40,7 @@
    "slug": "dinner--atami",
    "matchCount": 70,
    "matchRate": 26.0,
-   "minPrice": 3300,
+   "minPrice": 2700,
    "medianPrice": 10000,
    "reviewAvgMean": 4.3
   },
@@ -67,7 +67,7 @@
    "matchCount": 111,
    "matchRate": 35.1,
    "minPrice": 3070,
-   "medianPrice": 16500,
+   "medianPrice": 16900,
    "reviewAvgMean": 4.5
   },
   {
@@ -105,7 +105,7 @@
    "slug": "dinner--nasu",
    "matchCount": 89,
    "matchRate": 25.5,
-   "minPrice": 2040,
+   "minPrice": 1690,
    "medianPrice": 9000,
    "reviewAvgMean": 4.41
   },

@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-10",
+ "dataAsOf": "2026-09-11",
  "recordCount": 278,
  "conditions": [
   {
@@ -871,28 +871,6 @@
    ]
   },
   {
-   "hotelNo": 172066,
-   "name": "ＭＯＲＩＨＡＫＵ",
-   "kana": "もりはく",
-   "minCharge": 8415,
-   "reviewAverage": 4.5,
-   "reviewCount": 16,
-   "access": "軽井沢駅よりお車にて約9分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉2516-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172066",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172066%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172066",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172066.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
-   "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 191661,
    "name": "フォレストリゾート　北八ヶ岳　天空の森　やちほ",
    "kana": "ふぉれすとりぞーときたやつがたけてんくうのもりやちほ",
@@ -932,6 +910,28 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11192/11192.jpg",
    "special": "1棟貸切り和風タイプで平屋建ての貸別荘。グループ・家族・カップルにもおススメ♪",
    "conditions": []
+  },
+  {
+   "hotelNo": 172066,
+   "name": "ＭＯＲＩＨＡＫＵ",
+   "kana": "もりはく",
+   "minCharge": 9350,
+   "reviewAverage": 4.5,
+   "reviewCount": 16,
+   "access": "軽井沢駅よりお車にて約9分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町長倉2516-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172066",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172066%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172066",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172066.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
+   "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "pet-ok"
+   ]
   },
   {
    "hotelNo": 196294,
@@ -981,7 +981,7 @@
    "hotelNo": 2010,
    "name": "天狗温泉　浅間山荘",
    "kana": "てんぐおんせん　あさまさんそう",
-   "minCharge": 5890,
+   "minCharge": 6982,
    "reviewAverage": 4.45,
    "reviewCount": 141,
    "access": "上信越自動車道、小諸ＩＣより車で２５分。軽井沢より車で４０分。",
@@ -1338,7 +1338,7 @@
    "hotelNo": 181343,
    "name": "軽井沢プリンスホテル　イースト",
    "kana": "かるいざわぷりんすほてるいーすと",
-   "minCharge": 13396,
+   "minCharge": 14294,
    "reviewAverage": 4.33,
    "reviewCount": 213,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行☆",
