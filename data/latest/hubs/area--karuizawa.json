@@ -4,8 +4,8 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-11",
- "recordCount": 278,
+ "dataAsOf": "2026-09-12",
+ "recordCount": 279,
  "conditions": [
   {
    "condition": "onsen",
@@ -407,7 +407,7 @@
    "hotelNo": 168201,
    "name": "ホテル　ベルリネッタ軽井沢",
    "kana": "べるりねったかるいざわ",
-   "minCharge": 9700,
+   "minCharge": 8620,
    "reviewAverage": 4.69,
    "reviewCount": 309,
    "access": "軽井沢駅よりお車にて約10分、中軽井沢駅よりお車にて約5分。バス停『塩沢』より徒歩5分。",
@@ -1538,7 +1538,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.13,
    "reviewCount": 251,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",

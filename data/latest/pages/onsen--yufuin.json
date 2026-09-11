@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -23,7 +23,7 @@
    "value": 316,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
-  "minPrice": 3070,
+  "minPrice": 2750,
   "medianPrice": 13900,
   "reviewAvgMean": 4.49,
   "pricedCount": 69
@@ -33,7 +33,7 @@
    "hotelNo": 181856,
    "name": "由布院温泉　旅館　はちすの糸",
    "kana": "ゆふいんおんせん　りょかん　はちすのいと",
-   "minCharge": 7400,
+   "minCharge": 4900,
    "reviewAverage": 5.0,
    "reviewCount": 36,
    "access": "湯布院I.Cから車で約5分、JR「由布院駅」より徒歩12分、「由布院駅前バスセンター」より徒歩12分",
@@ -305,7 +305,7 @@
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 12870,
+   "minCharge": 13860,
    "reviewAverage": 4.72,
    "reviewCount": 1024,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",

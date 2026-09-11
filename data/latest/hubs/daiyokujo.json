@@ -3,7 +3,7 @@
   "slug": "daiyokujo",
   "label": "大浴場"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "areas": [
   {
    "area": {
@@ -66,7 +66,7 @@
    "slug": "daiyokujo--yufuin",
    "matchCount": 51,
    "matchRate": 16.1,
-   "minPrice": 7400,
+   "minPrice": 4900,
    "medianPrice": 14650,
    "reviewAvgMean": 4.46
   },
@@ -130,7 +130,7 @@
    },
    "slug": "daiyokujo--dogo",
    "matchCount": 35,
-   "matchRate": 19.4,
+   "matchRate": 19.3,
    "minPrice": 2900,
    "medianPrice": 7000,
    "reviewAvgMean": 4.31

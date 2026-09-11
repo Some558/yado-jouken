@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6330,
-  "medianPrice": 16150,
+  "medianPrice": 15780,
   "reviewAvgMean": 4.37,
   "pricedCount": 40
  },
@@ -48,7 +48,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 50850,
+   "minCharge": 62150,
    "reviewAverage": 4.86,
    "reviewCount": 649,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -337,7 +337,7 @@
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 17600,
+   "minCharge": 14300,
    "reviewAverage": 4.41,
    "reviewCount": 688,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
@@ -354,7 +354,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 10400,
+   "minCharge": 9600,
    "reviewAverage": 4.4,
    "reviewCount": 87,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",

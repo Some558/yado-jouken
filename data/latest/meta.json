@@ -1,5 +1,5 @@
 {
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "generatedPages": 90,
  "skippedThin": [],
  "areaTotals": {
@@ -10,9 +10,9 @@
   "yufuin": 316,
   "kinosaki": 156,
   "ikaho": 71,
-  "nasu": 349,
-  "karuizawa": 278,
-  "dogo": 180
+  "nasu": 351,
+  "karuizawa": 279,
+  "dogo": 181
  },
  "facilityCacheCount": 966
 }

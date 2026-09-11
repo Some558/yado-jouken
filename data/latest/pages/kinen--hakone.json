@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 13200,
+  "medianPrice": 13350,
   "reviewAvgMean": 4.38,
   "pricedCount": 73
  },
@@ -84,7 +84,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 50850,
+   "minCharge": 62150,
    "reviewAverage": 4.86,
    "reviewCount": 649,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -152,7 +152,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 12250,
+   "minCharge": 13350,
    "reviewAverage": 4.75,
    "reviewCount": 399,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -203,7 +203,7 @@
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 45100,
+   "minCharge": 41800,
    "reviewAverage": 4.7,
    "reviewCount": 143,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",
@@ -305,7 +305,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 16300,
+   "minCharge": 15300,
    "reviewAverage": 4.57,
    "reviewCount": 400,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",

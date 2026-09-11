@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 134,
    "matchRate": 36.9,
    "minPrice": 5500,
-   "medianPrice": 13200,
+   "medianPrice": 13350,
    "reviewAvgMean": 4.38
   },
   {
@@ -104,7 +104,7 @@
    },
    "slug": "dinner--nasu",
    "matchCount": 89,
-   "matchRate": 25.5,
+   "matchRate": 25.4,
    "minPrice": 1690,
    "medianPrice": 9000,
    "reviewAvgMean": 4.41
@@ -117,7 +117,7 @@
    },
    "slug": "dinner--karuizawa",
    "matchCount": 65,
-   "matchRate": 23.4,
+   "matchRate": 23.3,
    "minPrice": 3850,
    "medianPrice": 12005,
    "reviewAvgMean": 4.43
@@ -130,7 +130,7 @@
    },
    "slug": "dinner--dogo",
    "matchCount": 31,
-   "matchRate": 17.2,
+   "matchRate": 17.1,
    "minPrice": 2700,
    "medianPrice": 9900,
    "reviewAvgMean": 4.37

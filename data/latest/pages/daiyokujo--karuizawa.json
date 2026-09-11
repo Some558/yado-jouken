@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -20,7 +20,7 @@
   "matchRate": 14.7,
   "denominator": {
    "type": "area_total",
-   "value": 278,
+   "value": 279,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4500,

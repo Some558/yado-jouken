@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -271,7 +271,7 @@
    "hotelNo": 8223,
    "name": "熱海温泉　熱海の癒（ゆ）　新かどや",
    "kana": "あたみおんせん　あたみのゆ　しんかどや",
-   "minCharge": 18900,
+   "minCharge": 16750,
    "reviewAverage": 4.49,
    "reviewCount": 232,
    "access": "★交通手段をお知らせください　車：小田原厚木道路より国道135号線にて約30分　電車：熱海駅よりタクシーで8分",

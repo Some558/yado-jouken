@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -64,23 +64,6 @@
    "special": "気づいたら帰りたい宿、草明庵。ゆっくり、たっぷりと草津の旅をお愉しみいただけます。"
   },
   {
-   "hotelNo": 188147,
-   "name": "民宿　ひょうたん",
-   "kana": "　ひょうたん",
-   "minCharge": 15700,
-   "reviewAverage": 4.85,
-   "reviewCount": 29,
-   "access": "草津温泉バスターミナルから徒歩約７分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津462-18",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188147",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188147%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188147",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188147.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188147/188147.jpg",
-   "special": "24時間万代鉱源泉泉掛け流し家族風呂、１２品以上の会席料理と湯畑へのアクセスの良い木造宿"
-  },
-  {
    "hotelNo": 162719,
    "name": "尻焼温泉　星ヶ岡山荘",
    "kana": "ほしがおかさんそう",
@@ -96,6 +79,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/162719.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162719/162719.jpg",
    "special": "日本の小宿 10選に選ばれました"
+  },
+  {
+   "hotelNo": 188147,
+   "name": "民宿　ひょうたん",
+   "kana": "　ひょうたん",
+   "minCharge": 22700,
+   "reviewAverage": 4.85,
+   "reviewCount": 29,
+   "access": "草津温泉バスターミナルから徒歩約７分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津462-18",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188147",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188147%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188147",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188147.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188147/188147.jpg",
+   "special": "24時間万代鉱源泉泉掛け流し家族風呂、１２品以上の会席料理と湯畑へのアクセスの良い木造宿"
   },
   {
    "hotelNo": 2396,

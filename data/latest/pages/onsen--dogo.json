@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-11",
+ "dataAsOf": "2026-09-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-12",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 33,
-  "matchRate": 18.3,
+  "matchRate": 18.2,
   "denominator": {
    "type": "area_total",
-   "value": 180,
+   "value": 181,
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 3000,
