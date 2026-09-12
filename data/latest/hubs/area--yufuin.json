@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-12",
+ "dataAsOf": "2026-09-13",
  "recordCount": 316,
  "conditions": [
   {
@@ -71,9 +71,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181856/181856.jpg",
    "special": "由布岳を眺めながら日常を忘れさせる。静かで穏やかな時間と自慢のおもてなし料理が楽しめる数寄屋造りの宿",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
     "rotenburo"
    ]
   },
@@ -94,10 +91,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109136/109136.jpg",
    "special": "湯布院の街並みを見下ろす高台に佇む離れ宿。朝、夕共にお食事はお部屋でごゆっくりお過ごし頂けます。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
    ]
   },
@@ -186,10 +179,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158659/158659.jpg",
    "special": "１日３組限定の贅沢な離れ宿。絶景ロケーションと２名様専用の温泉露天風呂付きスイートルームをご用意",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
    ]
   },
@@ -210,6 +199,10 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76917/76917.jpg",
    "special": "■約２万３千坪という広大な敷地の和モダン宿。おおいた和牛を中心に山里ならではの夕食をお楽しみ下さい。",
    "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -251,17 +244,16 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/104780/104780.jpg",
    "special": "由布院駅や湯の坪街道にも徒歩約５分の位置にある母屋と離れ全１０室のおもてなし宿。",
    "conditions": [
-    "onsen",
-    "daiyokujo"
+    "rotenburo"
    ]
   },
   {
    "hotelNo": 158617,
    "name": "由布院温泉　ゆふいん宿　清孔苑",
    "kana": "ゆふいんやど　せいこうえん",
-   "minCharge": 15000,
+   "minCharge": 16000,
    "reviewAverage": 4.88,
-   "reviewCount": 246,
+   "reviewCount": 247,
    "access": "由布院駅よりお車にて約５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上鳥越1208-1",
@@ -272,11 +264,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158617/158617.jpg",
    "special": "とろっとろの温泉を楽しめる★源泉100％かけ流しの温泉自慢の宿！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -336,7 +323,7 @@
    "kana": "いやしのやど　たかしょう",
    "minCharge": 25000,
    "reviewAverage": 4.86,
-   "reviewCount": 668,
+   "reviewCount": 669,
    "access": "湯布院ICよりお車で30分＜ＪＲ湯平駅への送迎サービス有り。※5日前までのご予約を＞",
    "address1": "大分県",
    "address2": "由布市湯布院町湯平791",
@@ -347,11 +334,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144993/144993.jpg",
    "special": "2022アワード受賞。福岡市内・銀座に生け簀料理店と会員制寿司店を構える鷹勝の「和風旅館」。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "sauna",
     "kashikiri-buro",
@@ -364,7 +346,7 @@
    "kana": "おやど　ゆふのしょう",
    "minCharge": 21780,
    "reviewAverage": 4.84,
-   "reviewCount": 638,
+   "reviewCount": 644,
    "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
    "address1": "大分県",
    "address2": "由布市湯布院町塚原1009",
@@ -380,12 +362,32 @@
    ]
   },
   {
+   "hotelNo": 189041,
+   "name": "月洸樹　由布院",
+   "kana": "げっこうじゅ　ゆふいん",
+   "minCharge": null,
+   "reviewAverage": 4.83,
+   "reviewCount": 7,
+   "access": "由布院駅よりお車で約５分、大分自動車道湯布院ＩＣよりお車で約１０分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上2106-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189041",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D189041%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D189041",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189041.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189041/189041.jpg",
+   "special": "由布院の豊かな自然に包まれる全室130㎡以上のオールスイートヴィラで至福のひとときを・・・",
+   "conditions": [
+    "sauna"
+   ]
+  },
+  {
    "hotelNo": 78074,
    "name": "由布院温泉　由布の彩YADOYAおおはし",
    "kana": "ゆふのいろどり　やどや　おおはし",
    "minCharge": 9610,
    "reviewAverage": 4.82,
-   "reviewCount": 672,
+   "reviewCount": 673,
    "access": "◆JR 由布院駅より徒歩約25分（送迎有・15:00から17:00まで。17:00以降は夕食開始の為、対応出来ません）",
    "address1": "大分県",
    "address2": "由布市湯布院町川北1235",
@@ -403,30 +405,10 @@
    ]
   },
   {
-   "hotelNo": 189041,
-   "name": "月洸樹　由布院",
-   "kana": "げっこうじゅ　ゆふいん",
-   "minCharge": null,
-   "reviewAverage": 4.8,
-   "reviewCount": 6,
-   "access": "由布院駅よりお車で約５分、大分自動車道湯布院ＩＣよりお車で約１０分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2106-8",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189041",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D189041%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D189041",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189041.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189041/189041.jpg",
-   "special": "由布院の豊かな自然に包まれる全室130㎡以上のオールスイートヴィラで至福のひとときを・・・",
-   "conditions": [
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 38277,
    "name": "由布院温泉　旅亭　田乃倉",
    "kana": "たのくら",
-   "minCharge": 31410,
+   "minCharge": 29610,
    "reviewAverage": 4.79,
    "reviewCount": 108,
    "access": "駅よりタクシーで5分  金鱗湖徒歩２分",
@@ -448,36 +430,12 @@
    ]
   },
   {
-   "hotelNo": 56821,
-   "name": "由布院温泉　癒しの里　観布亭",
-   "kana": "ゆふいんおんせん　いやしのさと　かんぷてい",
-   "minCharge": 23500,
-   "reviewAverage": 4.77,
-   "reviewCount": 267,
-   "access": "由布院駅より車で５分／湯布院ＩＣより車で１０分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1065-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D56821",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D56821%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D56821",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56821.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56821/56821.jpg",
-   "special": "全室、半露天風呂付の客室。雄大な由布山を眺めながら温泉でお寛ぎ下さい。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
    "hotelNo": 44815,
    "name": "由布院温泉　山のホテル　夢想園",
    "kana": "やまのほてる　むそうえん",
    "minCharge": 18700,
-   "reviewAverage": 4.76,
-   "reviewCount": 177,
+   "reviewAverage": 4.77,
+   "reviewCount": 178,
    "access": "ＪＲ　由布院駅より車で約５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川南1243",
@@ -501,8 +459,8 @@
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
    "minCharge": 20322,
-   "reviewAverage": 4.76,
-   "reviewCount": 211,
+   "reviewAverage": 4.77,
+   "reviewCount": 213,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",
    "address1": "大分県",
    "address2": "由布市湯布院町川上1500",
@@ -513,13 +471,28 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139452/139452.jpg",
    "special": "「旅館が生み出す旅の出会い」をテーマに、水戸岡氏のトータルデザインで生まれ変わりました。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 56821,
+   "name": "由布院温泉　癒しの里　観布亭",
+   "kana": "ゆふいんおんせん　いやしのさと　かんぷてい",
+   "minCharge": 23500,
+   "reviewAverage": 4.77,
+   "reviewCount": 267,
+   "access": "由布院駅より車で５分／湯布院ＩＣより車で１０分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1065-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D56821",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D56821%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D56821",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56821.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56821/56821.jpg",
+   "special": "全室、半露天風呂付の客室。雄大な由布山を眺めながら温泉でお寛ぎ下さい。",
+   "conditions": [
+    "rotenburo"
    ]
   },
   {
@@ -541,7 +514,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen",
     "breakfast",
     "dinner",
     "rotenburo",
@@ -550,11 +522,56 @@
    ]
   },
   {
+   "hotelNo": 20590,
+   "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
+   "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
+   "minCharge": 13860,
+   "reviewAverage": 4.75,
+   "reviewCount": 1026,
+   "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上2717-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20590",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20590%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20590",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20590.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20590/20590.jpg",
+   "special": "お客様の声☆5つ　人に優しいお宿です",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 70800,
+   "name": "由布院温泉　御宿　なか屋",
+   "kana": "ゆふういんおんせん　おんやど　なかや",
+   "minCharge": 9900,
+   "reviewAverage": 4.71,
+   "reviewCount": 309,
+   "access": "ＪＲ　由布院駅から徒歩１５分  大分道湯布院ＩＣ下車車で７分。湯の坪通りの中ほど川に面した所にございます。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1530-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70800",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70800%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70800",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70800.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70800/70800.jpg",
+   "special": "■□全部屋から豊後富士『由布岳』を眺望！□■故郷の我が家に戻ってきたように気兼ねなく寛げる宿。",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 30752,
    "name": "由布院温泉　別荘　ふるさと",
    "kana": "ふるさと",
    "minCharge": 15100,
-   "reviewAverage": 4.73,
+   "reviewAverage": 4.71,
    "reviewCount": 343,
    "access": "駅近徒歩7分。（JR由布院駅　由布院バスセンタ－）アクセスに観光に便利です。",
    "address1": "大分県",
@@ -566,38 +583,30 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30752/30752.jpg",
    "special": "離れで過ごす。大人の旅に選ばれる隠れ宿。Ａ５ランクの豊後牛とかけ流しの源泉。駅近でおもてなしの旅館",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
   },
   {
-   "hotelNo": 20590,
-   "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
-   "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 13860,
-   "reviewAverage": 4.72,
-   "reviewCount": 1024,
-   "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
+   "hotelNo": 31261,
+   "name": "由布院温泉　吉祥開運亭　無尽蔵",
+   "kana": "ゆふいんおんせん　きっしょうかいうんてい　むじんぞう",
+   "minCharge": 7700,
+   "reviewAverage": 4.7,
+   "reviewCount": 209,
+   "access": "■JR久大本線由布院駅より徒歩15分■車で５分■湯布院ICより15分程■湯の坪街道まで徒歩30秒",
    "address1": "大分県",
-   "address2": "由布市湯布院町川上2717-5",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20590",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20590%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20590",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20590.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20590/20590.jpg",
-   "special": "お客様の声☆5つ　人に優しいお宿です",
+   "address2": "由布市湯布院町川上1536番地1　湯の坪街道沿い",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31261",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31261%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31261",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31261.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31261/31261.jpg",
+   "special": "■隠れ家のような空間と華のある料理。これぞ１日限定４組様だけの最上級のおもてなし。",
    "conditions": [
     "onsen",
-    "daiyokujo",
-    "kinen",
     "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
+    "dinner"
    ]
   },
   {
@@ -606,7 +615,7 @@
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
    "minCharge": 12000,
    "reviewAverage": 4.7,
-   "reviewCount": 784,
+   "reviewCount": 787,
    "access": "ＪＲ　由布院駅より徒歩１0分／湯布院ＩＣより車で１０分/由布院駅までの送迎ご希望の方は由布院駅よりお電話下さい。",
    "address1": "大分県",
    "address2": "由布市湯布院町川上3015-1",
@@ -617,11 +626,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43826/43826.jpg",
    "special": "女性が喜ぶ宿を目指しています。湯の坪街道最大の宿。観光・ショッピングの中心まで徒歩1分",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -632,7 +636,7 @@
    "kana": "ゆふいんおんせん　すみか",
    "minCharge": 23100,
    "reviewAverage": 4.7,
-   "reviewCount": 948,
+   "reviewCount": 950,
    "access": "ＪＲ由布院駅よりお車で５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上2059-3",
@@ -643,10 +647,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130594/130594.jpg",
    "special": "由布岳を望む　全室源泉かけ流し露天風呂付き離れ （全面禁煙・非喫煙者専用の宿）",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
    ]
   },
@@ -667,11 +667,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg",
    "special": "【湯布院随一の絶景＆眺望★★★★★】お客様評価5つ星！由布岳を望む眺望とPH9.2の温泉自慢の宿",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
    ]
   },
@@ -692,18 +687,36 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137975/137975.jpg",
    "special": "露天風呂がついた、８畳と７畳の２間の離れで、至福の時をお過ごしください。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 28502,
+   "name": "由布院温泉　榎屋旅館",
+   "kana": "ゆふいんおんせん　えのきやりょかん",
+   "minCharge": 12936,
+   "reviewAverage": 4.67,
+   "reviewCount": 262,
+   "access": "ＪＲ由布院駅より徒歩１３分／大分空港より高速バスで５５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1086-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28502",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28502%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28502",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28502.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28502/28502.jpg",
+   "special": "2023年春リニューアルOPEN！湯の坪街道にほど近い湯布院の街中で、静かにペットと泊まれる温泉宿",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro",
+    "pet-ok"
    ]
   },
   {
    "hotelNo": 108574,
    "name": "由布院温泉　湯らり　六妙",
    "kana": "ゆらり　ろくみょう",
-   "minCharge": 17000,
+   "minCharge": 18000,
    "reviewAverage": 4.67,
    "reviewCount": 31,
    "access": "ＪＲ　由布院駅より徒歩にて１０分",
@@ -716,60 +729,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108574/108574.jpg",
    "special": "湯布院の中心に有る。静かで落ち着いたノスタルジックな異空間。お風呂は１００％天然温泉でかけ流し。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 28502,
-   "name": "由布院温泉　榎屋旅館",
-   "kana": "ゆふいんおんせん　えのきやりょかん",
-   "minCharge": 12936,
-   "reviewAverage": 4.65,
-   "reviewCount": 256,
-   "access": "ＪＲ由布院駅より徒歩１３分／大分空港より高速バスで５５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1086-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28502",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28502%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28502",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28502.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28502/28502.jpg",
-   "special": "2023年春リニューアルOPEN！湯の坪街道にほど近い湯布院の街中で、静かにペットと泊まれる温泉宿",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro",
-    "pet-ok"
-   ]
-  },
-  {
-   "hotelNo": 70800,
-   "name": "由布院温泉　御宿　なか屋",
-   "kana": "ゆふういんおんせん　おんやど　なかや",
-   "minCharge": 9900,
-   "reviewAverage": 4.64,
-   "reviewCount": 308,
-   "access": "ＪＲ　由布院駅から徒歩１５分  大分道湯布院ＩＣ下車車で７分。湯の坪通りの中ほど川に面した所にございます。",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1530-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70800",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70800%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70800",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70800.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70800/70800.jpg",
-   "special": "■□全部屋から豊後富士『由布岳』を眺望！□■故郷の我が家に戻ってきたように気兼ねなく寛げる宿。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -779,8 +738,8 @@
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
    "minCharge": 7488,
-   "reviewAverage": 4.63,
-   "reviewCount": 157,
+   "reviewAverage": 4.64,
+   "reviewCount": 162,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川北899-35",
@@ -800,123 +759,12 @@
    ]
   },
   {
-   "hotelNo": 31261,
-   "name": "由布院温泉　吉祥開運亭　無尽蔵",
-   "kana": "ゆふいんおんせん　きっしょうかいうんてい　むじんぞう",
-   "minCharge": 7700,
-   "reviewAverage": 4.63,
-   "reviewCount": 207,
-   "access": "■JR久大本線由布院駅より徒歩15分■車で５分■湯布院ICより15分程■湯の坪街道まで徒歩30秒",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1536番地1　湯の坪街道沿い",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31261",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31261%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31261",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31261.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31261/31261.jpg",
-   "special": "■隠れ家のような空間と華のある料理。これぞ１日限定４組様だけの最上級のおもてなし。",
-   "conditions": []
-  },
-  {
-   "hotelNo": 41833,
-   "name": "由布院温泉　山荘　四季庵",
-   "kana": "ゆふいんおんせん　さんそう　しきあん",
-   "minCharge": 11900,
-   "reviewAverage": 4.62,
-   "reviewCount": 703,
-   "access": "湯布院駅より車で１５分／湯布院ＩＣより車で２５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町塚原字黒笠木135-7",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D41833",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D41833%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D41833",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/41833.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41833/41833.jpg",
-   "special": "世界遺産の合掌造りでおおいた和牛や地鶏をご堪能ください！全棟、部屋風呂付の離れで料金も格安",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 145315,
-   "name": "由布院温泉　全室露天付き離れ宿　御宿　さくら亭",
-   "kana": "ゆふいんおんせん　ぜんしつろてんつきはなれやど　おやど　さくらてい",
-   "minCharge": 20900,
-   "reviewAverage": 4.62,
-   "reviewCount": 451,
-   "access": "由布院駅より徒歩にて約２０分、お車にて約５分です。",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上宮ノ脇2172",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D145315",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D145315%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D145315",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/145315.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145315/145315.jpg",
-   "special": "源泉掛け流し半露天風呂付の離れ。旬の旨味を閉じ込めた会席料理。日常を忘れ贅沢で優雅な時を大切な方と…",
-   "conditions": [
-    "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 80781,
-   "name": "湯布院温泉　ｆｏｒｅｓｔ　ｉｎｎ　ＢＯＲＮ",
-   "kana": "ゆふいんおんせん　ふぉれすと　いん　ぼん",
-   "minCharge": 27900,
-   "reviewAverage": 4.62,
-   "reviewCount": 199,
-   "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町塚原1203-6",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80781",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80781%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80781",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80781.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80781/80781.jpg",
-   "special": "湯布院　塚原高原の森にたたずむ上質空間―forest inn BORN",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 70905,
-   "name": "ゆふいん　湯平温泉　山荘松屋",
-   "kana": "ゆふいん　ゆのひらおんせん　さんそうまつや",
-   "minCharge": 11000,
-   "reviewAverage": 4.61,
-   "reviewCount": 198,
-   "access": "ＪＲ湯平駅より車で10分　 湯平駅より無料送迎あり（要予約）",
-   "address1": "大分県",
-   "address2": "由布市湯布院町湯平803-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70905",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70905%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70905",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70905.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70905/70905.jpg",
-   "special": "■温泉は全て無料貸切OK■全室禁煙・湯布院の奥座敷・湯平温泉に佇む全9室の湯宿。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 187187,
    "name": "由布院グランピング　天の庭",
    "kana": "ゆふいんぐらんぴんぐ　てんのにわ",
    "minCharge": 10400,
-   "reviewAverage": 4.6,
-   "reviewCount": 17,
+   "reviewAverage": 4.64,
+   "reviewCount": 18,
    "access": "湯布院ＩＣよりお車にて約１０分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上186-1",
@@ -940,8 +788,8 @@
    "name": "エンゼルグランヴィラ由布院（旧ときリゾート由布院別邸）",
    "kana": "えんぜるぐらんヴぃらゆふいん",
    "minCharge": 10642,
-   "reviewAverage": 4.59,
-   "reviewCount": 22,
+   "reviewAverage": 4.63,
+   "reviewCount": 24,
    "access": "大分空港より車にて約５０分　JR由布院駅から車にて1０分　大分自動車道湯布院ＩＣより３分",
    "address1": "大分県",
    "address2": "由布市湯布院町川北桃木1615-1",
@@ -952,11 +800,92 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198983/198983.jpg",
    "special": "2026年4月OPEN！由布岳を望む別邸ヴィラ、源泉かけ流し温泉風呂付",
    "conditions": [
+    "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 41833,
+   "name": "由布院温泉　山荘　四季庵",
+   "kana": "ゆふいんおんせん　さんそう　しきあん",
+   "minCharge": 11900,
+   "reviewAverage": 4.63,
+   "reviewCount": 707,
+   "access": "湯布院駅より車で１５分／湯布院ＩＣより車で２５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町塚原字黒笠木135-7",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D41833",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D41833%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D41833",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/41833.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/41833/41833.jpg",
+   "special": "世界遺産の合掌造りでおおいた和牛や地鶏をご堪能ください！全棟、部屋風呂付の離れで料金も格安",
+   "conditions": [
     "onsen",
     "kinen",
     "breakfast",
     "dinner",
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 145315,
+   "name": "由布院温泉　全室露天付き離れ宿　御宿　さくら亭",
+   "kana": "ゆふいんおんせん　ぜんしつろてんつきはなれやど　おやど　さくらてい",
+   "minCharge": 20900,
+   "reviewAverage": 4.63,
+   "reviewCount": 453,
+   "access": "由布院駅より徒歩にて約２０分、お車にて約５分です。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上宮ノ脇2172",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D145315",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D145315%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D145315",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/145315.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145315/145315.jpg",
+   "special": "源泉掛け流し半露天風呂付の離れ。旬の旨味を閉じ込めた会席料理。日常を忘れ贅沢で優雅な時を大切な方と…",
+   "conditions": [
+    "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 80781,
+   "name": "湯布院温泉　ｆｏｒｅｓｔ　ｉｎｎ　ＢＯＲＮ",
+   "kana": "ゆふいんおんせん　ふぉれすと　いん　ぼん",
+   "minCharge": 27900,
+   "reviewAverage": 4.62,
+   "reviewCount": 200,
+   "access": "大分自動車道（由布岳スマートＩＣの場合）５分※ＥＴＣ搭載車のみ（湯布院ＩＣの場合）湯布院交差点から塚原高原方面へ約１５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町塚原1203-6",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80781",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80781%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80781",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80781.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80781/80781.jpg",
+   "special": "湯布院　塚原高原の森にたたずむ上質空間―forest inn BORN",
+   "conditions": [
+    "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 70905,
+   "name": "ゆふいん　湯平温泉　山荘松屋",
+   "kana": "ゆふいん　ゆのひらおんせん　さんそうまつや",
+   "minCharge": 11000,
+   "reviewAverage": 4.6,
+   "reviewCount": 202,
+   "access": "ＪＲ湯平駅より車で10分　 湯平駅より無料送迎あり（要予約）",
+   "address1": "大分県",
+   "address2": "由布市湯布院町湯平803-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70905",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70905%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70905",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70905.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70905/70905.jpg",
+   "special": "■温泉は全て無料貸切OK■全室禁煙・湯布院の奥座敷・湯平温泉に佇む全9室の湯宿。",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -976,9 +905,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139405/139405.jpg",
    "special": "湯平温泉の情緒ある石畳の坂道に立つ明治創業の老舗旅館。お食事は部屋食（離れは専用個室食事処）",
    "conditions": [
-    "onsen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -987,7 +913,7 @@
    "hotelNo": 180797,
    "name": "Ｔｈｅ　Ｖｉｌｌａｇｅ由布院　温泉グランピング",
    "kana": "ざ　びれっじ　ゆふいん　おんせぐらんぴんぐ",
-   "minCharge": 17725,
+   "minCharge": 18500,
    "reviewAverage": 4.58,
    "reviewCount": 85,
    "access": "JR由布院駅から車で6分。湯布院インターチェンジから車で12分。金鱗湖まで車で8分。",
@@ -1011,7 +937,7 @@
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 7875,
+   "minCharge": 8750,
    "reviewAverage": 4.57,
    "reviewCount": 64,
    "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",
@@ -1024,34 +950,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153349/153349.jpg",
    "special": "【全室温泉風呂付・素泊まり】口コミ高評価の和モダン貸切サウナ「天照」「月読」でととのう贅沢な温泉旅",
    "conditions": [
-    "onsen",
-    "kinen",
     "rotenburo",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 44895,
-   "name": "由布院温泉　御宿　八遇來",
-   "kana": "ゆふいんおんせん　おんじゅく　やぐら　",
-   "minCharge": 17600,
-   "reviewAverage": 4.57,
-   "reviewCount": 153,
-   "access": "大分自動車道湯布院ICより車で10分。由布院駅より車で５分。",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1270-81",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D44895",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D44895%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D44895",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/44895.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44895/44895.jpg",
-   "special": "全室露天風呂付。由布岳の山懐の高台に建つ、民芸調純和風造りの宿。",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
-    "dinner",
-    "rotenburo"
    ]
   },
   {
@@ -1101,6 +1001,26 @@
    ]
   },
   {
+   "hotelNo": 76447,
+   "name": "由布院温泉　由布の癒　友里",
+   "kana": "ゆふいんおんせん　ゆふのい　ゆうり",
+   "minCharge": 15750,
+   "reviewAverage": 4.54,
+   "reviewCount": 260,
+   "access": "由布院駅よりお車で５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上上新町783-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76447",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76447%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76447",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76447.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76447/76447.jpg",
+   "special": "◆全室内湯・露天付き離れ◆チェックアウト12：00、一部屋二名限定の大人のための寛ぎ宿",
+   "conditions": [
+    "rotenburo"
+   ]
+  },
+  {
    "hotelNo": 40557,
    "name": "由布院温泉　ペンション金鱗湖　豊の国",
    "kana": "ゆふいんおんせん　ぺんしょん　きんりんこ　とよのくに",
@@ -1117,11 +1037,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40557/40557.jpg",
    "special": "客室温泉レストラン全てから金鱗湖を望めます。ホームページ刷新！p-toyonokuniで検索！",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
    ]
   },
@@ -1142,12 +1057,46 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76812/76812.jpg",
    "special": "家族の一員である愛犬と過ごす大切な時間をご提供致します。お部屋は自然にこだわったエコ建材を使用。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "pet-ok"
+   ]
+  },
+  {
+   "hotelNo": 144474,
+   "name": "由布院別邸　樹",
+   "kana": "ゆふいんべってい　いつき",
+   "minCharge": 39600,
+   "reviewAverage": 4.53,
+   "reviewCount": 344,
+   "access": "由布院駅より徒歩にて２０分、お車にて５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上2652-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D144474",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D144474%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D144474",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144474.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144474/144474.jpg",
+   "special": "全室離れの隠れ家的旅館。田園や樹木に囲まれた閑静な環境。金鱗湖や湯の坪街道へも徒歩圏内。",
+   "conditions": []
+  },
+  {
+   "hotelNo": 44895,
+   "name": "由布院温泉　御宿　八遇來",
+   "kana": "ゆふいんおんせん　おんじゅく　やぐら　",
+   "minCharge": 17600,
+   "reviewAverage": 4.52,
+   "reviewCount": 155,
+   "access": "大分自動車道湯布院ICより車で10分。由布院駅より車で５分。",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1270-81",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D44895",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D44895%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D44895",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/44895.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/44895/44895.jpg",
+   "special": "全室露天風呂付。由布岳の山懐の高台に建つ、民芸調純和風造りの宿。",
+   "conditions": [
+    "rotenburo"
    ]
   },
   {
@@ -1156,7 +1105,7 @@
    "kana": "ゆふいんおんせん　おやど　ゆふいんてい",
    "minCharge": 17000,
    "reviewAverage": 4.51,
-   "reviewCount": 803,
+   "reviewCount": 809,
    "access": "由布院駅よりタクシーで５分／由布院ＩＣより車で１０分　",
    "address1": "大分県",
    "address2": "由布市湯布院町川上山畔1027-3",
@@ -1203,7 +1152,7 @@
    "hotelNo": 38971,
    "name": "由布院温泉　ペンション　ゆふいん",
    "kana": "ゆふいんおんせん　ゆふいん",
-   "minCharge": 2750,
+   "minCharge": 3850,
    "reviewAverage": 4.5,
    "reviewCount": 95,
    "access": "JR久大本線　由布院駅より徒歩７分／大分自動車道湯布院ICより１０分ほどです。",
@@ -1217,7 +1166,9 @@
    "special": "九州第一号のペンション。暖かい雰囲気のメルヘンチックな北欧建築、露天風呂、貸切家族風呂２ヶ所あり。",
    "conditions": [
     "onsen",
-    "kinen"
+    "kinen",
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -1237,54 +1188,28 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14835/14835.jpg",
    "special": "由布岳の麓通りにある小さな湯宿 -盆地の傍 静かな暮らしを‐ 古道具屋、古着屋、図書室、茶室を備える",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
     "rotenburo"
    ]
   },
   {
-   "hotelNo": 76447,
-   "name": "由布院温泉　由布の癒　友里",
-   "kana": "ゆふいんおんせん　ゆふのい　ゆうり",
-   "minCharge": 15750,
-   "reviewAverage": 4.5,
-   "reviewCount": 255,
-   "access": "由布院駅よりお車で５分",
+   "hotelNo": 80661,
+   "name": "由布院温泉　由布岳一望の宿　美星〜きらら〜",
+   "kana": "ゆふだけいちぼうのやど　きらら",
+   "minCharge": 16100,
+   "reviewAverage": 4.48,
+   "reviewCount": 187,
+   "access": "JR湯布院駅よりお車にて10分　",
    "address1": "大分県",
-   "address2": "由布市湯布院町川上上新町783-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76447",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76447%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76447",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76447.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76447/76447.jpg",
-   "special": "◆全室内湯・露天付き離れ◆チェックアウト12：00、一部屋二名限定の大人のための寛ぎ宿",
+   "address2": "由布市湯布院町川南547-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80661",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80661%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80661",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80661.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80661/80661.jpg",
+   "special": "「郷土の味覚×天然物」素材そのものだけではなく器やあしらいを含めて料理を演出。",
    "conditions": [
-    "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 144474,
-   "name": "由布院別邸　樹",
-   "kana": "ゆふいんべってい　いつき",
-   "minCharge": 39600,
-   "reviewAverage": 4.5,
-   "reviewCount": 342,
-   "access": "由布院駅より徒歩にて２０分、お車にて５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2652-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D144474",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D144474%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D144474",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144474.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144474/144474.jpg",
-   "special": "全室離れの隠れ家的旅館。田園や樹木に囲まれた閑静な環境。金鱗湖や湯の坪街道へも徒歩圏内。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner"
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -1311,7 +1236,7 @@
    "hotelNo": 191814,
    "name": "湯布院　樂涌",
    "kana": "ゆふいんらくゆう",
-   "minCharge": 25200,
+   "minCharge": 21600,
    "reviewAverage": 4.48,
    "reviewCount": 28,
    "access": "JR由布院駅よりお車で約6分、大分自動車道湯布院ICよりお車で約15分。由布院駅までの無料送迎あり※要事前予約",
@@ -1331,12 +1256,34 @@
    ]
   },
   {
+   "hotelNo": 137895,
+   "name": "湯布院ガーデンホテル　ドッグラン＆リゾート",
+   "kana": "ゆふいんがーでんほてる　どっぐらんあんどりぞーと",
+   "minCharge": 11450,
+   "reviewAverage": 4.47,
+   "reviewCount": 835,
+   "access": "大分道　湯布院ＩＣより車で５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町中川1120",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137895",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137895%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137895",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137895.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137895/137895.jpg",
+   "special": "九州で最大級のドッグランを備えたホテル。ワンちゃんと一緒に利用できる家族風呂もあります。",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
    "minCharge": 11600,
-   "reviewAverage": 4.46,
-   "reviewCount": 312,
+   "reviewAverage": 4.44,
+   "reviewCount": 315,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",
    "address1": "大分県",
    "address2": "由布市挾間町時松105",
@@ -1347,34 +1294,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177044/177044.jpg",
    "special": "新感覚の贅沢キャンプ！まるでリゾートホテル♪　キャンプなのに道具は不要！九州最大のグランピング体験を",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 80661,
-   "name": "由布院温泉　由布岳一望の宿　美星〜きらら〜",
-   "kana": "ゆふだけいちぼうのやど　きらら",
-   "minCharge": 13800,
-   "reviewAverage": 4.46,
-   "reviewCount": 186,
-   "access": "JR湯布院駅よりお車にて10分　",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川南547-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80661",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80661%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80661",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80661.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80661/80661.jpg",
-   "special": "「郷土の味覚×天然物」素材そのものだけではなく器やあしらいを含めて料理を演出。",
-   "conditions": [
-    "rotenburo",
-    "kashikiri-buro"
    ]
   },
   {
@@ -1394,11 +1315,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20453/20453.jpg",
    "special": "【シルバーアワード2025】受賞　由布岳望む半露天風呂付客室誕生　ドリンクサービス付でごゆっくり滞在",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1425,39 +1341,12 @@
    ]
   },
   {
-   "hotelNo": 137895,
-   "name": "湯布院ガーデンホテル　ドッグラン＆リゾート",
-   "kana": "ゆふいんがーでんほてる　どっぐらんあんどりぞーと",
-   "minCharge": 11450,
-   "reviewAverage": 4.43,
-   "reviewCount": 831,
-   "access": "大分道　湯布院ＩＣより車で５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町中川1120",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137895",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137895%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137895",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137895.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137895/137895.jpg",
-   "special": "九州で最大級のドッグランを備えたホテル。ワンちゃんと一緒に利用できる家族風呂もあります。",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 108997,
    "name": "由布院温泉　杜の湯　ゆふいん泰葉",
    "kana": "もりのゆ　ゆふいんやすは",
    "minCharge": 11800,
    "reviewAverage": 4.43,
-   "reviewCount": 214,
+   "reviewCount": 215,
    "access": "◆JR由布院駅より車で5分、徒歩40分。送迎有り（15：00～17：00)◆湯布院ＩＣより車で１５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上1270-48",
@@ -1470,7 +1359,6 @@
    "conditions": [
     "onsen",
     "daiyokujo",
-    "kinen",
     "breakfast",
     "dinner",
     "rotenburo",
@@ -1494,10 +1382,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43844/43844.jpg",
    "special": "◆◇「大人の隠れ家」◆◇完全離れの客室でゆったりとした時間をお過ごしください",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
    ]
   },
@@ -1505,7 +1389,7 @@
    "hotelNo": 32476,
    "name": "由布院温泉　湯布院　山灯館",
    "kana": "ゆふいんおんせん　ゆふいん　さんとうかん",
-   "minCharge": 21510,
+   "minCharge": 11300,
    "reviewAverage": 4.42,
    "reviewCount": 55,
    "access": "JR　由布院駅より車で５分　徒歩で１５分　金鱗湖に近く　ショッピング湯の坪街道に便利な立地",
@@ -1518,37 +1402,7 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32476/32476.jpg",
    "special": "総檜づくりの純和風旅館でございます。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 68226,
-   "name": "湯布院温泉　御宿　由府両築",
-   "kana": "おんやど　ゆふりょうちく",
-   "minCharge": 8190,
-   "reviewAverage": 4.4,
-   "reviewCount": 215,
-   "access": "■JR由布院駅から徒歩10分程、お車で3分■湯布院 ICより車で7分■湯布院の中心・湯の坪街道まで徒歩30秒",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1097-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D68226",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68226%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D68226",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68226.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68226/68226.jpg",
-   "special": "◆大正14年創業◆湯の坪街道沿いに佇む、全7室の癒しの湯宿。4つの家族湯と大分の美食が楽しめる",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
    ]
   },
   {
@@ -1556,8 +1410,8 @@
    "name": "由布院温泉　ゆふいん山水館",
    "kana": "ゆふいんおんせん　ゆふいんさんすいかん",
    "minCharge": 8800,
-   "reviewAverage": 4.4,
-   "reviewCount": 885,
+   "reviewAverage": 4.41,
+   "reviewCount": 890,
    "access": "ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。",
    "address1": "大分県",
    "address2": "由布市湯布院町大字川南108-1",
@@ -1578,12 +1432,55 @@
    ]
   },
   {
+   "hotelNo": 31202,
+   "name": "由布院温泉　御宿　一禅",
+   "kana": "ゆふいんおんせん　おやど　いちぜん",
+   "minCharge": 27800,
+   "reviewAverage": 4.35,
+   "reviewCount": 304,
+   "access": "JR由布院駅より車で５分／湯布院ICより車で１０分／大分空港より車で50分／別府より40分／福岡より1時間30分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1209-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31202",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31202%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31202",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31202.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31202/31202.jpg",
+   "special": "由布岳の麓に佇む数奇屋の宿。薄藍に変化する湯はスベスベした神秘の泉",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro",
+    "pet-ok"
+   ]
+  },
+  {
+   "hotelNo": 68226,
+   "name": "湯布院温泉　御宿　由府両築",
+   "kana": "おんやど　ゆふりょうちく",
+   "minCharge": 8190,
+   "reviewAverage": 4.33,
+   "reviewCount": 215,
+   "access": "■JR由布院駅から徒歩10分程、お車で3分■湯布院 ICより車で7分■湯布院の中心・湯の坪街道まで徒歩30秒",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1097-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D68226",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68226%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D68226",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68226.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68226/68226.jpg",
+   "special": "◆大正14年創業◆湯の坪街道沿いに佇む、全7室の癒しの湯宿。4つの家族湯と大分の美食が楽しめる",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 177815,
    "name": "インターヒル　翼　湯布院",
    "kana": "いんたーひる　つばさ　ゆふいん",
    "minCharge": 12000,
-   "reviewAverage": 4.34,
-   "reviewCount": 179,
+   "reviewAverage": 4.33,
+   "reviewCount": 180,
    "access": "ＪＲ　由布院駅よりお車にて約７分",
    "address1": "大分県",
    "address2": "由布市湯布院町川北899-21",
@@ -1599,30 +1496,26 @@
    ]
   },
   {
-   "hotelNo": 31202,
-   "name": "由布院温泉　御宿　一禅",
-   "kana": "ゆふいんおんせん　おやど　いちぜん",
-   "minCharge": 24500,
+   "hotelNo": 69384,
+   "name": "由布院温泉　山荘　無量塔",
+   "kana": "さんそう　むらた",
+   "minCharge": 77000,
    "reviewAverage": 4.33,
-   "reviewCount": 304,
-   "access": "JR由布院駅より車で５分／湯布院ICより車で１０分／大分空港より車で50分／別府より40分／福岡より1時間30分",
+   "reviewCount": 128,
+   "access": "ＪＲ　由布院駅より車で１０分／大分自動車道路　湯布院ＩＣより車で約１５分",
    "address1": "大分県",
-   "address2": "由布市湯布院町川上1209-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31202",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31202%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31202",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31202.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31202/31202.jpg",
-   "special": "由布岳の麓に佇む数奇屋の宿。薄藍に変化する湯はスベスベした神秘の泉",
+   "address2": "由布市湯布院町川上1264-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D69384",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D69384%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D69384",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/69384.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69384/69384.jpg",
+   "special": "彼処ではすべてが静寧で、秩序と美しさのバランスが　確信をもって　しかも控え目に語られる　其処にいるだけで充ちたりた満足。",
    "conditions": [
     "onsen",
-    "daiyokujo",
     "kinen",
     "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro",
-    "pet-ok"
+    "dinner"
    ]
   },
   {
@@ -1630,8 +1523,8 @@
    "name": "由布院温泉　旅館　ほたるの宿　仙洞",
    "kana": "ゆふいんおんせん　りょかん　ほたるのやど　せんどう",
    "minCharge": 8000,
-   "reviewAverage": 4.27,
-   "reviewCount": 883,
+   "reviewAverage": 4.28,
+   "reviewCount": 886,
    "access": "由布院駅より車で５分／湯布院ＩＣより車で１０分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上2634-1",
@@ -1655,8 +1548,8 @@
    "name": "由布院温泉　和の宿　狭霧亭",
    "kana": "ゆふいんおんせん　わのやど　さぎりてい",
    "minCharge": 13400,
-   "reviewAverage": 4.25,
-   "reviewCount": 463,
+   "reviewAverage": 4.27,
+   "reviewCount": 467,
    "access": "湯布院駅より車で５分／湯布院ＩＣより車で１５分",
    "address1": "大分県",
    "address2": "由布市湯布院町川上811-1",
@@ -1691,43 +1584,16 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76428/76428.jpg",
    "special": "湯布院観光の中心部に在りながら静かな隠れ宿　露天付きメゾネット客室で寛ぎのひとときを",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 69384,
-   "name": "由布院温泉　山荘　無量塔",
-   "kana": "さんそう　むらた",
-   "minCharge": 77000,
-   "reviewAverage": 4.25,
-   "reviewCount": 127,
-   "access": "ＪＲ　由布院駅より車で１０分／大分自動車道路　湯布院ＩＣより車で約１５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1264-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D69384",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D69384%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D69384",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/69384.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69384/69384.jpg",
-   "special": "彼処ではすべてが静寧で、秩序と美しさのバランスが　確信をもって　しかも控え目に語られる　其処にいるだけで充ちたりた満足。",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner"
    ]
   },
   {
    "hotelNo": 39494,
    "name": "由布院　梅園　ＧＡＲＤＥＮ　ＲＥＳＯＲＴ",
    "kana": "ゆふいん　ばいえん　がーでん　りぞーと",
-   "minCharge": 16940,
-   "reviewAverage": 4.2,
-   "reviewCount": 528,
+   "minCharge": 13310,
+   "reviewAverage": 4.23,
+   "reviewCount": 530,
    "access": "ＪＲ九州久大本線　由布院駅から車で５分、徒歩３０分　＊金鱗湖まで自転車で3分（徒歩15分）観光にも好立地",
    "address1": "大分県",
    "address2": "由布市湯布院町川上馬場2106-2",
@@ -1738,13 +1604,29 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39494/39494.jpg",
    "special": "2021年リニューアルオープン★由布岳眺望の絶景露天風呂とエリア随一の大きさがある貸切家族風呂も人気",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 28141,
+   "name": "由布院温泉　ゆふいんホテル秀峰館",
+   "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
+   "minCharge": 9315,
+   "reviewAverage": 4.2,
+   "reviewCount": 289,
+   "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上2415-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28141",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28141%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28141",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28141.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28141/28141.jpg",
+   "special": "由布院駅より車で３分。湯布院インターより車で１０分とアクセス良好。由布院盆地の中央部にあります。",
+   "conditions": [
+    "rotenburo",
+    "sauna"
    ]
   },
   {
@@ -1764,37 +1646,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129463/129463.jpg",
    "special": "由布岳の麓に佇む、源泉かけ流し100％温泉の隠れ家。大分の絶景と豊後牛で至福のひとときを。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
-   "hotelNo": 28141,
-   "name": "由布院温泉　ゆふいんホテル秀峰館",
-   "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 9315,
-   "reviewAverage": 4.16,
-   "reviewCount": 284,
-   "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2415-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28141",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28141%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28141",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28141.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28141/28141.jpg",
-   "special": "由布院駅より車で３分。湯布院インターより車で１０分とアクセス良好。由布院盆地の中央部にあります。",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "sauna"
    ]
@@ -1826,6 +1677,27 @@
    ]
   },
   {
+   "hotelNo": 184560,
+   "name": "由布院倶楽部",
+   "kana": "ゆふいんくらぶ",
+   "minCharge": 9000,
+   "reviewAverage": 4.08,
+   "reviewCount": 310,
+   "access": "由布院駅より徒歩5分／湯布院ICより車で10分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上2952-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184560",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184560%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184560",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184560.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184560/184560.jpg",
+   "special": "由布岳一望の露天風呂♪　由布院駅から徒歩5分！人気観光地“湯の坪通り”までも徒歩5分と最適な立地♪",
+   "conditions": [
+    "rotenburo",
+    "sauna"
+   ]
+  },
+  {
    "hotelNo": 27922,
    "name": "由布院いよとみ",
    "kana": "ゆふいんいよとみ",
@@ -1851,32 +1723,6 @@
    ]
   },
   {
-   "hotelNo": 184560,
-   "name": "由布院倶楽部",
-   "kana": "ゆふいんくらぶ",
-   "minCharge": 9000,
-   "reviewAverage": 4.06,
-   "reviewCount": 306,
-   "access": "由布院駅より徒歩5分／湯布院ICより車で10分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2952-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184560",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184560%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184560",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184560.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184560/184560.jpg",
-   "special": "由布岳一望の露天風呂♪　由布院駅から徒歩5分！人気観光地“湯の坪通り”までも徒歩5分と最適な立地♪",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 147790,
    "name": "和モダンな温泉旅館　湯布院旅の蔵",
    "kana": "わもだんなおんせんりょかん　ゆふいんたびのくら",
@@ -1893,8 +1739,8 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147790/147790.jpg",
    "special": "あなた好みの湯布院＆旅プランをリーズナブルに実現！",
    "conditions": [
-    "onsen",
-    "kinen"
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -1940,10 +1786,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32186/32186.jpg",
    "special": "３棟ある離れには、内風呂と露天風呂付。その他に５つの貸切風呂がございます。",
    "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -1976,7 +1818,7 @@
    "hotelNo": 183101,
    "name": "リゾート湯布院　〜Ｇｒａｎｄｐｉａ　Ｒｅｓｏｒｔ　ＹＵＦＵＩＮ〜",
    "kana": "りぞーとゆふいん　〜ぐらんどぴあ　りぞーと　ゆふいん〜",
-   "minCharge": 3070,
+   "minCharge": 3290,
    "reviewAverage": 3.95,
    "reviewCount": 34,
    "access": "由布院駅より車で5分",
@@ -1988,12 +1830,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183101.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183101/183101.jpg",
    "special": "由布院駅より車で5分",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner"
-   ]
+   "conditions": []
   },
   {
    "hotelNo": 184593,
@@ -2037,26 +1874,6 @@
    ]
   },
   {
-   "hotelNo": 69247,
-   "name": "由布院温泉　ゆふいん　旅庵　和山豊",
-   "kana": "ゆふいんおんせん　ゆふいん　りょあん　わざんほう",
-   "minCharge": 17600,
-   "reviewAverage": 3.9,
-   "reviewCount": 557,
-   "access": "ＪＲ　由布院駅より車にて７分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上388-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D69247",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D69247%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D69247",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/69247.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69247/69247.jpg",
-   "special": "全客室渓流沿い露天と内風呂が付いた離れ宿。非日常の世界へいざなう！気品溢れる静寂で優雅なひとときを。",
-   "conditions": [
-    "rotenburo"
-   ]
-  },
-  {
    "hotelNo": 54519,
    "name": "由布院温泉　ゆふいん月燈庵",
    "kana": "ゆふいん　げっとうあん",
@@ -2073,11 +1890,26 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54519/54519.jpg",
    "special": "【『ももクロさん』出演 楽天トラベルCM ２０２３年秋冬編 撮影宿】全18棟の露天風呂付客室",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
+    "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 69247,
+   "name": "由布院温泉　ゆふいん　旅庵　和山豊",
+   "kana": "ゆふいんおんせん　ゆふいん　りょあん　わざんほう",
+   "minCharge": 17600,
+   "reviewAverage": 3.87,
+   "reviewCount": 562,
+   "access": "ＪＲ　由布院駅より車にて７分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上388-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D69247",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D69247%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D69247",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/69247.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/69247/69247.jpg",
+   "special": "全客室渓流沿い露天と内風呂が付いた離れ宿。非日常の世界へいざなう！気品溢れる静寂で優雅なひとときを。",
+   "conditions": [
     "rotenburo"
    ]
   },
@@ -2098,8 +1930,27 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172859/172859.jpg",
    "special": "2022年4月リニューアルOpen！大自然の中にある源泉かけ流しの温泉宿♪観光通り沿い！金鱗湖すぐ！",
    "conditions": [
-    "onsen",
-    "kinen",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 172663,
+   "name": "ＥＴＡＶＩＡ　湯布院駅前",
+   "kana": "えたびあ　ゆふいんえきまえ",
+   "minCharge": 4895,
+   "reviewAverage": 3.79,
+   "reviewCount": 40,
+   "access": "由布院駅より徒歩にて約１分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川北6-6",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172663",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172663%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172663",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172663.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172663/172663.jpg",
+   "special": "由布院駅の目の前、最大6名様までOK★展望露天風呂あり◆由布院駅スグで観光拠点にピッタリ！",
+   "conditions": [
+    "rotenburo",
     "kashikiri-buro"
    ]
   },
@@ -2120,10 +1971,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30058/30058.jpg",
    "special": "豊富な湯量と露天、貸切風呂など湯巡りが楽しめる全10室の隠れ宿◆料理は全て手作り。日帰り入浴可。",
    "conditions": [
-    "onsen",
-    "daiyokujo",
-    "breakfast",
-    "dinner",
     "rotenburo",
     "kashikiri-buro"
    ]
@@ -2133,7 +1980,7 @@
    "name": "由布院温泉　由布院ことぶき　花の庄",
    "kana": "ゆふいんおんせん　ゆふいん　ことぶき　はなのしょう",
    "minCharge": 11330,
-   "reviewAverage": 3.72,
+   "reviewAverage": 3.71,
    "reviewCount": 459,
    "access": "ＪＲ由布院駅からは歩いて５分、車でお越しの場合は大分道由布院ＩＣより８分です。福岡、大分各空港よりは高速バスもあります。",
    "address1": "大分県",
@@ -2151,28 +1998,6 @@
     "breakfast",
     "dinner",
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 172663,
-   "name": "ＥＴＡＶＩＡ　湯布院駅前",
-   "kana": "えたびあ　ゆふいんえきまえ",
-   "minCharge": 4030,
-   "reviewAverage": 3.69,
-   "reviewCount": 39,
-   "access": "由布院駅より徒歩にて約１分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川北6-6",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172663",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172663%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172663",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172663.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172663/172663.jpg",
-   "special": "由布院駅の目の前、最大6名様までOK★展望露天風呂あり◆由布院駅スグで観光拠点にピッタリ！",
-   "conditions": [
-    "kinen",
-    "rotenburo",
-    "kashikiri-buro"
    ]
   },
   {

@@ -9,31 +9,48 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-12",
+ "dataAsOf": "2026-09-13",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 4,
-  "matchRate": 4.4,
+  "matchCount": 5,
+  "matchRate": 5.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1500,
-  "medianPrice": 6630,
-  "reviewAvgMean": 4.07,
-  "pricedCount": 4
+  "medianPrice": 7700,
+  "reviewAvgMean": 4.21,
+  "pricedCount": 5
  },
  "hotels": [
+  {
+   "hotelNo": 184378,
+   "name": "グランヴェルデリゾート",
+   "kana": "ぐらんヴぇるでりぞーと",
+   "minCharge": 11400,
+   "reviewAverage": 4.75,
+   "reviewCount": 18,
+   "access": "由布岳スマートICよりお車にて約5分、JR由布院駅よりお車にて約15分",
+   "address1": "大分県",
+   "address2": "別府市天間字松塚2-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184378",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184378%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184378",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184378.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184378/184378.jpg",
+   "special": "まるで天と地の間の別世界。 大自然に浸るかつてないプライベートグランピングへようこそ"
+  },
   {
    "hotelNo": 196407,
    "name": "グランシア別府鉄輪",
    "kana": "ぐらんしあべっぷかんなわ",
    "minCharge": 8400,
    "reviewAverage": 4.59,
-   "reviewCount": 46,
+   "reviewCount": 48,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",
    "address1": "大分県",
    "address2": "別府市鶴見照湯1409-1",
@@ -48,9 +65,9 @@
    "hotelNo": 180427,
    "name": "別府　丘と海のドッグリゾート（旧：別府風雅）",
    "kana": "べっぷ　おかとうみのどっぐりぞーと（べっぷふうが）",
-   "minCharge": 8800,
-   "reviewAverage": 4.34,
-   "reviewCount": 826,
+   "minCharge": 7700,
+   "reviewAverage": 4.36,
+   "reviewCount": 831,
    "access": "別府I，Cより車で約1分、別府駅よりバス堀田温泉前下車 徒歩約６分、車またはタクシーで別府駅約１５分、大分空港約４０分",
    "address1": "大分県",
    "address2": "別府市堀田町11-69",
@@ -67,7 +84,7 @@
    "kana": "べっぷおんせん　こうらく",
    "minCharge": 4860,
    "reviewAverage": 3.88,
-   "reviewCount": 715,
+   "reviewCount": 719,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",
    "address1": "大分県",
    "address2": "別府市北浜3-13-21",
@@ -83,8 +100,8 @@
    "name": "別府駅前　ホテルはやし",
    "kana": "べっぷえきまえ　はやし",
    "minCharge": 1500,
-   "reviewAverage": 3.47,
-   "reviewCount": 1451,
+   "reviewAverage": 3.48,
+   "reviewCount": 1462,
    "access": "別府駅前すぐ",
    "address1": "大分県",
    "address2": "別府市駅前本町3-5",
@@ -96,5 +113,5 @@
    "special": "展望風呂有り。ビジネス・観光に便利。"
   }
  ],
- "listedMatchCount": 4
+ "listedMatchCount": 5
 }

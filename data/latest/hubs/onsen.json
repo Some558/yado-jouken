@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-09-12",
+ "dataAsOf": "2026-09-13",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "onsen--hakone",
-   "matchCount": 145,
-   "matchRate": 39.9,
+   "matchCount": 48,
+   "matchRate": 13.2,
    "minPrice": 5500,
-   "medianPrice": 13425,
-   "reviewAvgMean": 4.38
+   "medianPrice": 13825,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "onsen--kusatsu",
-   "matchCount": 75,
-   "matchRate": 47.5,
+   "matchCount": 15,
+   "matchRate": 9.5,
    "minPrice": 3700,
-   "medianPrice": 12100,
-   "reviewAvgMean": 4.43
+   "medianPrice": 11495,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "onsen--atami",
-   "matchCount": 75,
-   "matchRate": 27.9,
+   "matchCount": 36,
+   "matchRate": 13.4,
    "minPrice": 2700,
-   "medianPrice": 10850,
-   "reviewAvgMean": 4.29
+   "medianPrice": 13200,
+   "reviewAvgMean": 4.28
   },
   {
    "area": {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "onsen--beppu",
-   "matchCount": 86,
-   "matchRate": 34.0,
-   "minPrice": 3060,
-   "medianPrice": 8926,
-   "reviewAvgMean": 4.39
+   "matchCount": 42,
+   "matchRate": 16.6,
+   "minPrice": 1500,
+   "medianPrice": 7700,
+   "reviewAvgMean": 4.28
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "onsen--yufuin",
-   "matchCount": 125,
-   "matchRate": 39.6,
-   "minPrice": 2750,
-   "medianPrice": 13900,
-   "reviewAvgMean": 4.49
+   "matchCount": 54,
+   "matchRate": 17.1,
+   "minPrice": 3850,
+   "medianPrice": 12000,
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "onsen--kinosaki",
-   "matchCount": 61,
-   "matchRate": 39.1,
+   "matchCount": 10,
+   "matchRate": 6.4,
    "minPrice": 4800,
-   "medianPrice": 11550,
-   "reviewAvgMean": 4.48
+   "medianPrice": 13000,
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -90,11 +90,11 @@
     "officialName": "伊香保温泉・渋川"
    },
    "slug": "onsen--ikaho",
-   "matchCount": 29,
-   "matchRate": 40.8,
+   "matchCount": 6,
+   "matchRate": 8.5,
    "minPrice": 3500,
-   "medianPrice": 9350,
-   "reviewAvgMean": 4.27
+   "medianPrice": 9375,
+   "reviewAvgMean": 4.03
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "onsen--nasu",
-   "matchCount": 50,
-   "matchRate": 14.2,
-   "minPrice": 2040,
-   "medianPrice": 10025,
-   "reviewAvgMean": 4.39
+   "matchCount": 13,
+   "matchRate": 3.7,
+   "minPrice": 5568,
+   "medianPrice": 9022,
+   "reviewAvgMean": 4.27
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "onsen--karuizawa",
-   "matchCount": 26,
-   "matchRate": 9.3,
-   "minPrice": 5500,
-   "medianPrice": 15880,
-   "reviewAvgMean": 4.45
+   "matchCount": 11,
+   "matchRate": 3.9,
+   "minPrice": 6982,
+   "medianPrice": 17837,
+   "reviewAvgMean": 4.51
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "onsen--dogo",
-   "matchCount": 33,
-   "matchRate": 18.2,
+   "matchCount": 3,
+   "matchRate": 1.7,
    "minPrice": 3000,
-   "medianPrice": 9075,
-   "reviewAvgMean": 4.39
+   "medianPrice": 5300,
+   "reviewAvgMean": 4.42
   }
  ]
 }
