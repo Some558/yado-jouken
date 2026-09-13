@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,9 +24,9 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 11500,
-  "reviewAvgMean": 4.31,
-  "pricedCount": 31
+  "medianPrice": 12900,
+  "reviewAvgMean": 4.32,
+  "pricedCount": 30
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "熱海のメインストリート【熱海銀座商店街】【熱海サンビーチ】花火絶景スポット徒歩1分の超好立地！"
   }
  ],
- "listedMatchCount": 31
+ "listedMatchCount": 30
 }

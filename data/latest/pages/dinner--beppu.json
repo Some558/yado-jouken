@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -50,7 +50,7 @@
    "hotelNo": 184378,
    "name": "グランヴェルデリゾート",
    "kana": "ぐらんヴぇるでりぞーと",
-   "minCharge": 11400,
+   "minCharge": 13400,
    "reviewAverage": 4.75,
    "reviewCount": 18,
    "access": "由布岳スマートICよりお車にて約5分、JR由布院駅よりお車にて約15分",
@@ -356,7 +356,7 @@
    "hotelNo": 16101,
    "name": "海乃ホテル　はじめ",
    "kana": "うみのほてる　はじめ",
-   "minCharge": 8000,
+   "minCharge": 7500,
    "reviewAverage": 4.22,
    "reviewCount": 242,
    "access": "ＪＲ別府駅下車徒歩１0分、九州道別府Ｉ・Ｃより車で15分、別府北浜バスより徒歩3分。",

@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 69,
-  "matchRate": 76.7,
+  "matchCount": 66,
+  "matchRate": 73.3,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7130,
-  "medianPrice": 14300,
+  "medianPrice": 13825,
   "reviewAvgMean": 4.38,
-  "pricedCount": 69
+  "pricedCount": 66
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 62150,
+   "minCharge": 63280,
    "reviewAverage": 4.88,
    "reviewCount": 655,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -82,7 +82,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 19800,
+   "minCharge": 20900,
    "reviewAverage": 4.86,
    "reviewCount": 678,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -150,7 +150,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 41800,
+   "minCharge": 44000,
    "reviewAverage": 4.7,
    "reviewCount": 893,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -167,7 +167,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 7650,
+   "minCharge": 10700,
    "reviewAverage": 4.67,
    "reviewCount": 504,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",
@@ -215,27 +215,10 @@
    "special": "日本庭園露天と貸切温泉を満喫。季節替りの和食膳はお部屋食で。2018年より全室禁煙。"
   },
   {
-   "hotelNo": 79469,
-   "name": "箱根翡翠",
-   "kana": "はこねひすい",
-   "minCharge": 32680,
-   "reviewAverage": 4.62,
-   "reviewCount": 277,
-   "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原837",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79469",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79469%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79469",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79469.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79469/79469.jpg",
-   "special": "翡翠のように色鮮やかな四季の庭園とせせらぎの清流に包まれて過ごす、自然と静寂が調和する大人のリゾート"
-  },
-  {
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 13200,
+   "minCharge": 12100,
    "reviewAverage": 4.59,
    "reviewCount": 290,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
@@ -354,7 +337,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 47241,
+   "minCharge": 66600,
    "reviewAverage": 4.53,
    "reviewCount": 119,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/179644.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179644/179644.jpg",
    "special": "【全室温泉露天風呂付◆ミシュランキー獲得】山海の絶景や六感で味わう美食を堪能するラグジュアリー旅館"
+  },
+  {
+   "hotelNo": 29488,
+   "name": "箱根温泉　鶴井の宿　紫雲荘",
+   "kana": "はこねおんせん　かくいのやど　しうんそう",
+   "minCharge": 18830,
+   "reviewAverage": 4.52,
+   "reviewCount": 1157,
+   "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町塔之沢92",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29488",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29488%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29488",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29488.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29488/29488.jpg",
+   "special": "渓流沿い×部屋食×露付客室｜おこもりステイの叶う宿★ベビーフレンドリー三世代旅行人気宿"
   }
  ],
- "listedMatchCount": 69
+ "listedMatchCount": 66
 }

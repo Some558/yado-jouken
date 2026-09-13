@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 184378,
    "name": "グランヴェルデリゾート",
    "kana": "ぐらんヴぇるでりぞーと",
-   "minCharge": 11400,
+   "minCharge": 13400,
    "reviewAverage": 4.75,
    "reviewCount": 18,
    "access": "由布岳スマートICよりお車にて約5分、JR由布院駅よりお車にて約15分",

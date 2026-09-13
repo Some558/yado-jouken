@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,9 +24,9 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 11250,
-  "reviewAvgMean": 4.28,
-  "pricedCount": 30
+  "medianPrice": 12600,
+  "reviewAvgMean": 4.29,
+  "pricedCount": 29
  },
  "hotels": [
   {
@@ -336,23 +336,6 @@
    "special": "【ペットと泊まれる】源泉かけ流し温泉付き貸切別荘（自炊OK）全別荘内装リフォーム済み♪"
   },
   {
-   "hotelNo": 147565,
-   "name": "レクトーレ熱海小嵐（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
-   "kana": "れくとーれあたみこあらし　てぃーけーぴーほてるあんどりぞーと",
-   "minCharge": 4840,
-   "reviewAverage": 4.12,
-   "reviewCount": 171,
-   "access": "JR東海道線・熱海駅よりお車にて約15分/JR東海道線来宮駅よりお車にて約8分。",
-   "address1": "静岡県",
-   "address2": "熱海市小嵐町15-9",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147565",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147565%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147565",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147565.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147565/147565.jpg",
-   "special": "湧き出る天然温泉で癒しのひとときを愉しむ大人のリゾート♪"
-  },
-  {
    "hotelNo": 7603,
    "name": "熱海の奥座敷　山の上ホテル",
    "kana": "あたみのおくざしき　やまのうえほてる",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7603.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7603/7603.jpg",
    "special": "眺望熱海随一。全室から夜景の見える料理自慢の宿。"
+  },
+  {
+   "hotelNo": 151543,
+   "name": "和モダンオーベルジュ　熱海ＴＥＮＳＵＩ",
+   "kana": "わもだんおーべるじゅ　あたみてんすい",
+   "minCharge": 8800,
+   "reviewAverage": 4.08,
+   "reviewCount": 551,
+   "access": "東京駅より新幹線で約50分。お車で約1時間半。熱海駅よりお車で約10分／熱海駅からバス乗車後、最寄りバス停より徒歩3分",
+   "address1": "静岡県",
+   "address2": "熱海市小嵐町2-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151543",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151543%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151543",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151543.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151543/151543.jpg",
+   "special": "★貸切岩盤浴が無料★料理長こだわりの創作和食会席を堪能／19室の小宿で過ごす大人のおこもり旅"
   }
  ],
- "listedMatchCount": 30
+ "listedMatchCount": 29
 }

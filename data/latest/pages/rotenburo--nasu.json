@@ -9,13 +9,13 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 53,
-  "matchRate": 58.9,
+  "matchCount": 51,
+  "matchRate": 56.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -23,8 +23,8 @@
   },
   "minPrice": 2040,
   "medianPrice": 11000,
-  "reviewAvgMean": 4.44,
-  "pricedCount": 53
+  "reviewAvgMean": 4.43,
+  "pricedCount": 51
  },
  "hotels": [
   {
@@ -94,23 +94,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167732.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167732/167732.jpg",
    "special": "森の中に佇む隠れ家のような離れ宿。源泉かけ流しの湯、旬の食材を活かした本格フレンチをご堪能ください。"
-  },
-  {
-   "hotelNo": 2489,
-   "name": "那須温泉　ペンション散歩道",
-   "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 15490,
-   "reviewAverage": 4.82,
-   "reviewCount": 180,
-   "access": "東北自動車道那須ＩＣより車で１２分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本456-27",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2489",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2489%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2489",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2489.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2489/2489.jpg",
-   "special": "☆彡24H貸切り入浴可能な天然温泉と栃木和牛&手作りデザートが魅力☆彡"
   },
   {
    "hotelNo": 108973,
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183550.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183550/183550.jpg",
    "special": "那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。"
+  },
+  {
+   "hotelNo": 142918,
+   "name": "那須いちやホテル",
+   "kana": "なすいちやほてる",
+   "minCharge": 9900,
+   "reviewAverage": 4.54,
+   "reviewCount": 514,
+   "access": "JR那須塩原駅より路線バス、お車にて約４０分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本204-14",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D142918",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D142918%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142918",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142918.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142918/142918.jpg",
+   "special": "貸切露天風呂と天然温泉の大浴場。お食事は半個室でゆっくり、那須高原ならではの旬と味を堪能。"
   }
  ],
- "listedMatchCount": 53
+ "listedMatchCount": 51
 }

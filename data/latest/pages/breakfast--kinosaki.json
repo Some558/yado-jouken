@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -26,7 +26,7 @@
   "minPrice": 4800,
   "medianPrice": 9900,
   "reviewAvgMean": 4.48,
-  "pricedCount": 13
+  "pricedCount": 14
  },
  "hotels": [
   {
@@ -183,6 +183,23 @@
    "special": "天体観測、アウトドア体験が楽しめるホテル"
   },
   {
+   "hotelNo": 8559,
+   "name": "神鍋亭",
+   "kana": "かんなべてい",
+   "minCharge": 13750,
+   "reviewAverage": 4.37,
+   "reviewCount": 76,
+   "access": "電車：JR山陰線江原駅下車、全但バスで神鍋診療所前下車１０分。車： 日高神鍋高原ＩＣより国道482号線経由",
+   "address1": "兵庫県",
+   "address2": "豊岡市日高町太田5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8559",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8559%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8559",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8559.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8559/8559.jpg",
+   "special": "当館自慢の神鍋温泉大浴場♪直営園でのリンゴ狩りも好評！城崎温泉まで40分、竹田城まで１時間！"
+  },
+  {
    "hotelNo": 8470,
    "name": "ペンシオーネ　キタムラ",
    "kana": "ぺんしおーね　きたむら",
@@ -251,5 +268,5 @@
    "special": "夕食時飲み物持込OK　四季折々の自然と食の魅力をお楽しみ下さい。"
   }
  ],
- "listedMatchCount": 13
+ "listedMatchCount": 14
 }

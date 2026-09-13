@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,9 +24,9 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 13721,
-  "reviewAvgMean": 4.28,
-  "pricedCount": 25
+  "medianPrice": 14185,
+  "reviewAvgMean": 4.29,
+  "pricedCount": 24
  },
  "hotels": [
   {
@@ -268,23 +268,6 @@
    "special": "相模灘の絶景と新鮮な海の幸を満喫！源泉2本の天然温泉など魅力満載♪"
   },
   {
-   "hotelNo": 147565,
-   "name": "レクトーレ熱海小嵐（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
-   "kana": "れくとーれあたみこあらし　てぃーけーぴーほてるあんどりぞーと",
-   "minCharge": 4840,
-   "reviewAverage": 4.12,
-   "reviewCount": 171,
-   "access": "JR東海道線・熱海駅よりお車にて約15分/JR東海道線来宮駅よりお車にて約8分。",
-   "address1": "静岡県",
-   "address2": "熱海市小嵐町15-9",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147565",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147565%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147565",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147565.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147565/147565.jpg",
-   "special": "湧き出る天然温泉で癒しのひとときを愉しむ大人のリゾート♪"
-  },
-  {
    "hotelNo": 7603,
    "name": "熱海の奥座敷　山の上ホテル",
    "kana": "あたみのおくざしき　やまのうえほてる",
@@ -356,7 +339,7 @@
    "hotelNo": 136832,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　あたみ",
    "kana": "おおえどおんせんものがたりぷれみあむあたみ",
-   "minCharge": 11500,
+   "minCharge": 12600,
    "reviewAverage": 3.95,
    "reviewCount": 1304,
    "access": "熱海駅より徒歩にて約7分",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/136832.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/136832/136832.jpg",
    "special": "３つのプレミアムラウンジとオーシャンビュー客室、海を望むレストランで味わう海の幸でリゾートを満喫！"
+  },
+  {
+   "hotelNo": 160921,
+   "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
+   "kana": "たおや　あたみ",
+   "minCharge": 19100,
+   "reviewAverage": 3.93,
+   "reviewCount": 1252,
+   "access": "熱海駅よりシャトルバスあり",
+   "address1": "静岡県",
+   "address2": "熱海市伊豆山190-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D160921",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D160921%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D160921",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/160921.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160921/160921.jpg",
+   "special": "相模灘を望む露天風呂とオールインクルーシブを楽しむ温泉リゾートホテル"
   }
  ],
- "listedMatchCount": 25
+ "listedMatchCount": 24
 }

@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "pet-ok--hakone",
-   "matchCount": 14,
-   "matchRate": 15.6,
+   "matchCount": 15,
+   "matchRate": 16.7,
    "minPrice": 5600,
-   "medianPrice": 9300,
-   "reviewAvgMean": 4.23
+   "medianPrice": 9600,
+   "reviewAvgMean": 4.2
   },
   {
    "area": {

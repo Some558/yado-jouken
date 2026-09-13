@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -67,7 +67,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 25300,
+   "minCharge": 26986,
    "reviewAverage": 4.72,
    "reviewCount": 490,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",
@@ -152,7 +152,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 16533,
+   "minCharge": 15711,
    "reviewAverage": 4.63,
    "reviewCount": 428,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",

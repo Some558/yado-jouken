@@ -9,29 +9,29 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 23,
-  "matchRate": 25.6,
+  "matchCount": 22,
+  "matchRate": 24.4,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 15760,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 23
+  "medianPrice": 16130,
+  "reviewAvgMean": 4.41,
+  "pricedCount": 22
  },
  "hotels": [
   {
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 62150,
+   "minCharge": 63280,
    "reviewAverage": 4.88,
    "reviewCount": 655,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -111,23 +111,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31681.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31681/31681.jpg",
    "special": "日本庭園露天と貸切温泉を満喫。季節替りの和食膳はお部屋食で。2018年より全室禁煙。"
-  },
-  {
-   "hotelNo": 79469,
-   "name": "箱根翡翠",
-   "kana": "はこねひすい",
-   "minCharge": 32680,
-   "reviewAverage": 4.62,
-   "reviewCount": 277,
-   "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原837",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79469",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79469%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79469",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79469.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79469/79469.jpg",
-   "special": "翡翠のように色鮮やかな四季の庭園とせせらぎの清流に包まれて過ごす、自然と静寂が調和する大人のリゾート"
   },
   {
    "hotelNo": 137346,
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/193942.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193942/193942.jpg",
    "special": "2025年7月グランドオープン｜全室に客室天然温泉付き｜すすき草原徒歩３分"
+  },
+  {
+   "hotelNo": 158542,
+   "name": "天翠茶寮",
+   "kana": "てんすいさりょう",
+   "minCharge": 16500,
+   "reviewAverage": 4.07,
+   "reviewCount": 536,
+   "access": "強羅駅より徒歩約3分／箱根湯本駅よりお車で約25分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町強羅1320-276",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158542",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158542%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158542",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158542.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158542/158542.jpg",
+   "special": "【強羅駅徒歩3分】足湯BARや貸切露天風呂など館内コンテンツ充実／温泉と美食を愉しむ宿"
   }
  ],
- "listedMatchCount": 23
+ "listedMatchCount": 22
 }

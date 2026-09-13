@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-13",
+ "dataAsOf": "2026-09-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,9 +24,9 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 14866,
-  "reviewAvgMean": 4.44,
-  "pricedCount": 23
+  "medianPrice": 15683,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 22
  },
  "hotels": [
   {
@@ -50,7 +50,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 62150,
+   "minCharge": 63280,
    "reviewAverage": 4.88,
    "reviewCount": 655,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -169,7 +169,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 47241,
+   "minCharge": 66600,
    "reviewAverage": 4.53,
    "reviewCount": 119,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -339,7 +339,7 @@
    "hotelNo": 158542,
    "name": "天翠茶寮",
    "kana": "てんすいさりょう",
-   "minCharge": 14300,
+   "minCharge": 16500,
    "reviewAverage": 4.07,
    "reviewCount": 536,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりお車で約25分",
@@ -353,22 +353,22 @@
    "special": "【強羅駅徒歩3分】足湯BARや貸切露天風呂など館内コンテンツ充実／温泉と美食を愉しむ宿"
   },
   {
-   "hotelNo": 177836,
-   "name": "ホテルインディゴ箱根強羅　ｂｙ　ＩＨＧ",
-   "kana": "ほてるいんでぃご　はこねごうら　",
-   "minCharge": 18834,
-   "reviewAverage": 4.07,
-   "reviewCount": 270,
-   "access": "東京駅から小田原駅まで新幹線で35分。小田原駅西口⇔ホテル間でシャトルバス運行。",
+   "hotelNo": 196856,
+   "name": "ＴＡＯＹＡ箱根",
+   "kana": "たおやはこね",
+   "minCharge": 21900,
+   "reviewAverage": 4.02,
+   "reviewCount": 293,
+   "access": "箱根登山電車 箱根湯本駅より車で約30分（カーナビはマップコード「50 599 899*78」をご入力ください）",
    "address1": "神奈川県",
-   "address2": "足柄下郡箱根町木賀新田924-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D177836",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D177836%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177836",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177836.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177836/177836.jpg",
-   "special": "宿泊、食事、温泉と、ホテルのすべてで第六感をも刺激する、ワクワクが詰まった旅がここから始まります。"
+   "address2": "足柄下郡箱根町仙石原1246",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196856",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196856%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196856",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196856.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196856/196856.jpg",
+   "special": "箱根の伝統美とモダンが融和する緑に包まれた大人の温泉リゾートホテル"
   }
  ],
- "listedMatchCount": 23
+ "listedMatchCount": 22
 }
