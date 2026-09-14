@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-14",
+ "dataAsOf": "2026-09-15",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7130,
+  "minPrice": 6000,
   "medianPrice": 13825,
   "reviewAvgMean": 4.38,
   "pricedCount": 66
@@ -31,7 +31,7 @@
    "hotelNo": 151465,
    "name": "箱根・翠松園",
    "kana": "はこね・すいしょうえん",
-   "minCharge": 34100,
+   "minCharge": 45650,
    "reviewAverage": 4.93,
    "reviewCount": 88,
    "access": "箱根登山鉄道「小涌谷駅」より送迎（要予約）",
@@ -167,7 +167,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 10700,
+   "minCharge": 6000,
    "reviewAverage": 4.67,
    "reviewCount": 504,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分",
@@ -303,7 +303,7 @@
    "hotelNo": 176633,
    "name": "全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸",
    "kana": "ぜんしつろてんぶろつききゃくしつ　せんごくばらおんせん　せんちゅりおんはこねべってい",
-   "minCharge": 18000,
+   "minCharge": 24000,
    "reviewAverage": 4.54,
    "reviewCount": 172,
    "access": "箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。",
@@ -337,7 +337,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 66600,
+   "minCharge": 47241,
    "reviewAverage": 4.53,
    "reviewCount": 119,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",

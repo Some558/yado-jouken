@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-09-14",
+ "dataAsOf": "2026-09-15",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "breakfast--hakone",
    "matchCount": 48,
    "matchRate": 13.2,
-   "minPrice": 5500,
+   "minPrice": 4800,
    "medianPrice": 13825,
    "reviewAvgMean": 4.45
   },
@@ -26,7 +26,7 @@
    },
    "slug": "breakfast--kusatsu",
    "matchCount": 12,
-   "matchRate": 7.6,
+   "matchRate": 7.5,
    "minPrice": 3700,
    "medianPrice": 9900,
    "reviewAvgMean": 4.31
@@ -52,7 +52,7 @@
    },
    "slug": "breakfast--beppu",
    "matchCount": 44,
-   "matchRate": 17.4,
+   "matchRate": 17.3,
    "minPrice": 1500,
    "medianPrice": 7500,
    "reviewAvgMean": 4.27

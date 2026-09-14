@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-14",
+ "dataAsOf": "2026-09-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 10650,
+  "medianPrice": 11650,
   "reviewAvgMean": 4.0,
   "pricedCount": 6
  },
@@ -84,7 +84,7 @@
    "hotelNo": 197087,
    "name": "いかほの森　キッズパラダイス",
    "kana": "いかほのもり　きっずぱらだいす",
-   "minCharge": 10800,
+   "minCharge": 12800,
    "reviewAverage": 3.47,
    "reviewCount": 15,
    "access": "渋川駅より車で17分",

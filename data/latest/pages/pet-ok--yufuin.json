@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-14",
+ "dataAsOf": "2026-09-15",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7488,
-  "medianPrice": 12468,
+  "medianPrice": 12968,
   "reviewAvgMean": 4.54,
   "pricedCount": 10
  },
@@ -116,7 +116,7 @@
    "hotelNo": 76812,
    "name": "由布院温泉　湯布院山荘　吾亦紅",
    "kana": "ゆふいんおんせん　ゆふいんさんそう　われもこう",
-   "minCharge": 12000,
+   "minCharge": 13000,
    "reviewAverage": 4.53,
    "reviewCount": 149,
    "access": "ＪＲ　湯布院駅よりお車にて５分",
@@ -167,7 +167,7 @@
    "hotelNo": 31202,
    "name": "由布院温泉　御宿　一禅",
    "kana": "ゆふいんおんせん　おやど　いちぜん",
-   "minCharge": 27800,
+   "minCharge": 30000,
    "reviewAverage": 4.35,
    "reviewCount": 304,
    "access": "JR由布院駅より車で５分／湯布院ICより車で１０分／大分空港より車で50分／別府より40分／福岡より1時間30分",

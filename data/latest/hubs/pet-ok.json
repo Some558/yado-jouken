@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-09-14",
+ "dataAsOf": "2026-09-15",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "pet-ok--hakone",
    "matchCount": 15,
    "matchRate": 16.7,
-   "minPrice": 5600,
-   "medianPrice": 9600,
+   "minPrice": 4800,
+   "medianPrice": 9200,
    "reviewAvgMean": 4.2
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 7,
    "matchRate": 7.8,
    "minPrice": 3700,
-   "medianPrice": 7520,
+   "medianPrice": 7200,
    "reviewAvgMean": 4.13
   },
   {
@@ -40,7 +40,7 @@
    "slug": "pet-ok--atami",
    "matchCount": 11,
    "matchRate": 12.2,
-   "minPrice": 4833,
+   "minPrice": 4333,
    "medianPrice": 10680,
    "reviewAvgMean": 4.39
   },
@@ -67,7 +67,7 @@
    "matchCount": 10,
    "matchRate": 11.1,
    "minPrice": 7488,
-   "medianPrice": 12468,
+   "medianPrice": 12968,
    "reviewAvgMean": 4.54
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 4,
    "matchRate": 4.4,
    "minPrice": 11450,
-   "medianPrice": 12740,
+   "medianPrice": 13130,
    "reviewAvgMean": 4.37
   }
  ]

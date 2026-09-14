@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-14",
+ "dataAsOf": "2026-09-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -356,7 +356,7 @@
    "hotelNo": 160921,
    "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
    "kana": "たおや　あたみ",
-   "minCharge": 19100,
+   "minCharge": 17700,
    "reviewAverage": 3.93,
    "reviewCount": 1252,
    "access": "熱海駅よりシャトルバスあり",
