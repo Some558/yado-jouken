@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "recordCount": 351,
  "conditions": [
   {
@@ -636,7 +636,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 6300,
+   "minCharge": 5950,
    "reviewAverage": 4.6,
    "reviewCount": 73,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -1329,7 +1329,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 12500,
+   "minCharge": 13500,
    "reviewAverage": 4.33,
    "reviewCount": 683,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",

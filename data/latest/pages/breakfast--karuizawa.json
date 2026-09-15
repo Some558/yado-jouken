@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -101,7 +101,7 @@
    "hotelNo": 168201,
    "name": "ホテル　ベルリネッタ軽井沢",
    "kana": "べるりねったかるいざわ",
-   "minCharge": 8620,
+   "minCharge": 7470,
    "reviewAverage": 4.69,
    "reviewCount": 317,
    "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 約3分・塩沢湖軽井沢タリアセン 約5分",
@@ -356,7 +356,7 @@
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 21000,
+   "minCharge": 20000,
    "reviewAverage": 4.37,
    "reviewCount": 168,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",

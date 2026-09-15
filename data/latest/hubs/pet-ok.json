@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 15,
    "matchRate": 16.7,
    "minPrice": 4800,
-   "medianPrice": 9200,
+   "medianPrice": 9000,
    "reviewAvgMean": 4.2
   },
   {
@@ -66,7 +66,7 @@
    "slug": "pet-ok--yufuin",
    "matchCount": 10,
    "matchRate": 11.1,
-   "minPrice": 7488,
+   "minPrice": 7056,
    "medianPrice": 12968,
    "reviewAvgMean": 4.54
   },

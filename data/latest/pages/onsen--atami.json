@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -288,7 +288,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 11000,
+   "minCharge": 9900,
    "reviewAverage": 4.22,
    "reviewCount": 469,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
@@ -356,7 +356,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 14650,
+   "minCharge": 15150,
    "reviewAverage": 4.04,
    "reviewCount": 503,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",

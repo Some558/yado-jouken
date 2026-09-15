@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "areas": [
   {
    "area": {
@@ -66,7 +66,7 @@
    "slug": "dinner--yufuin",
    "matchCount": 47,
    "matchRate": 14.9,
-   "minPrice": 7488,
+   "minPrice": 7056,
    "medianPrice": 16500,
    "reviewAvgMean": 4.53
   },
@@ -80,7 +80,7 @@
    "matchCount": 21,
    "matchRate": 13.5,
    "minPrice": 4800,
-   "medianPrice": 9900,
+   "medianPrice": 10450,
    "reviewAvgMean": 4.48
   },
   {

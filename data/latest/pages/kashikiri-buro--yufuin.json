@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3456,
+  "minPrice": 3850,
   "medianPrice": 13900,
   "reviewAvgMean": 4.46,
   "pricedCount": 37
@@ -218,7 +218,7 @@
    "hotelNo": 30752,
    "name": "由布院温泉　別荘　ふるさと",
    "kana": "ふるさと",
-   "minCharge": 15100,
+   "minCharge": 17300,
    "reviewAverage": 4.71,
    "reviewCount": 343,
    "access": "駅近徒歩7分。（JR由布院駅　由布院バスセンタ－）アクセスに観光に便利です。",

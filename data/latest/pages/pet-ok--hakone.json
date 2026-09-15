@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 9200,
+  "medianPrice": 9000,
   "reviewAvgMean": 4.2,
   "pricedCount": 15
  },
@@ -65,7 +65,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 9600,
+   "minCharge": 10400,
    "reviewAverage": 4.42,
    "reviewCount": 91,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -82,7 +82,7 @@
    "hotelNo": 170212,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原",
    "kana": null,
-   "minCharge": 9200,
+   "minCharge": 8400,
    "reviewAverage": 4.39,
    "reviewCount": 263,
    "access": "御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30",
@@ -99,7 +99,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 16800,
+   "minCharge": 17300,
    "reviewAverage": 4.39,
    "reviewCount": 47,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -218,7 +218,7 @@
    "hotelNo": 80580,
    "name": "仙石高原大箱根一の湯",
    "kana": "せんごくこうげんだいはこねいちのゆ",
-   "minCharge": 10769,
+   "minCharge": 11374,
    "reviewAverage": 3.9,
    "reviewCount": 361,
    "access": "箱根湯本駅から箱根登山バスに乗車、仙石高原下車徒歩１０分",

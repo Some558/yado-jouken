@@ -3,7 +3,7 @@
   "slug": "daiyokujo",
   "label": "大浴場"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "areas": [
   {
    "area": {
@@ -41,7 +41,7 @@
    "matchCount": 27,
    "matchRate": 10.0,
    "minPrice": 2700,
-   "medianPrice": 14185,
+   "medianPrice": 14195,
    "reviewAvgMean": 4.29
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 30,
    "matchRate": 11.8,
    "minPrice": 3700,
-   "medianPrice": 7500,
+   "medianPrice": 7700,
    "reviewAvgMean": 4.25
   },
   {

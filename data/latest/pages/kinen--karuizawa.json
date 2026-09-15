@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-15",
+ "dataAsOf": "2026-09-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3700,
-  "medianPrice": 8560,
+  "medianPrice": 8250,
   "reviewAvgMean": 4.37,
   "pricedCount": 34
  },
@@ -101,7 +101,7 @@
    "hotelNo": 168201,
    "name": "ホテル　ベルリネッタ軽井沢",
    "kana": "べるりねったかるいざわ",
-   "minCharge": 8620,
+   "minCharge": 7470,
    "reviewAverage": 4.69,
    "reviewCount": 317,
    "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 約3分・塩沢湖軽井沢タリアセン 約5分",
