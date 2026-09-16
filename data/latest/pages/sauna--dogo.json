@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-16",
+ "dataAsOf": "2026-09-17",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 6400,
+  "medianPrice": 6000,
   "reviewAvgMean": 4.31,
   "pricedCount": 29
  },
@@ -31,7 +31,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 17325,
+   "minCharge": 18480,
    "reviewAverage": 4.75,
    "reviewCount": 2025,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -48,7 +48,7 @@
    "hotelNo": 151481,
    "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
    "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 61750,
+   "minCharge": 70110,
    "reviewAverage": 4.71,
    "reviewCount": 37,
    "access": "松山駅よりお車にて約３５分",
@@ -116,7 +116,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6400,
+   "minCharge": 5800,
    "reviewAverage": 4.48,
    "reviewCount": 1100,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -167,7 +167,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 15300,
+   "minCharge": 16300,
    "reviewAverage": 4.46,
    "reviewCount": 706,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",
@@ -218,7 +218,7 @@
    "hotelNo": 184071,
    "name": "ＨＯＴＥＬ　ＬＥＰＯ　ＣＨＡＨＡＬ",
    "kana": "ほてる　れぽ　ちゃはる",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.44,
    "reviewCount": 64,
    "access": "大街道駅より徒歩1分、松山空港より車で約20分",

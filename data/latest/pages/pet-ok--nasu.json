@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-16",
+ "dataAsOf": "2026-09-17",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1690,
-  "medianPrice": 9625,
+  "medianPrice": 9297,
   "reviewAvgMean": 4.47,
   "pricedCount": 26
  },
@@ -201,7 +201,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 5950,
+   "minCharge": 6300,
    "reviewAverage": 4.6,
    "reviewCount": 73,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -235,7 +235,7 @@
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
-   "minCharge": 12500,
+   "minCharge": 11000,
    "reviewAverage": 4.55,
    "reviewCount": 73,
    "access": "ＪＲ東北新幹線　那須塩原よりバス約４０分",
@@ -303,7 +303,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 9350,
+   "minCharge": 8250,
    "reviewAverage": 4.37,
    "reviewCount": 1916,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",

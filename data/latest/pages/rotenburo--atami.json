@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-16",
+ "dataAsOf": "2026-09-17",
  "detection": {
   "type": "facility"
  },
@@ -167,7 +167,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 19687,
+   "minCharge": 20312,
    "reviewAverage": 4.6,
    "reviewCount": 327,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -184,7 +184,7 @@
    "hotelNo": 181405,
    "name": "熱海パールスターホテル",
    "kana": "あたみぱーるすたーほてる",
-   "minCharge": 25219,
+   "minCharge": 26825,
    "reviewAverage": 4.6,
    "reviewCount": 122,
    "access": "熱海駅より徒歩10分　タクシーで約5分　バスで約10分（お宮の松前下車/徒歩1分）",

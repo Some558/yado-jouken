@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-16",
+ "dataAsOf": "2026-09-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -20,7 +20,7 @@
   "matchRate": 10.0,
   "denominator": {
    "type": "area_total",
-   "value": 269,
+   "value": 270,
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
@@ -67,7 +67,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 52800,
+   "minCharge": 59040,
    "reviewAverage": 4.67,
    "reviewCount": 79,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -84,7 +84,7 @@
    "hotelNo": 181405,
    "name": "熱海パールスターホテル",
    "kana": "あたみぱーるすたーほてる",
-   "minCharge": 25219,
+   "minCharge": 26825,
    "reviewAverage": 4.6,
    "reviewCount": 122,
    "access": "熱海駅より徒歩10分　タクシーで約5分　バスで約10分（お宮の松前下車/徒歩1分）",
@@ -305,7 +305,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 15150,
+   "minCharge": 16150,
    "reviewAverage": 4.04,
    "reviewCount": 503,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",
@@ -356,7 +356,7 @@
    "hotelNo": 160921,
    "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
    "kana": "たおや　あたみ",
-   "minCharge": 17700,
+   "minCharge": 18300,
    "reviewAverage": 3.93,
    "reviewCount": 1252,
    "access": "熱海駅よりシャトルバスあり",
