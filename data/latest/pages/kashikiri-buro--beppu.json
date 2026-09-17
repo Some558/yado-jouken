@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-17",
+ "dataAsOf": "2026-09-18",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 9150,
+  "medianPrice": 9500,
   "reviewAvgMean": 4.36,
   "pricedCount": 34
  },
@@ -184,7 +184,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 8475,
+   "minCharge": 10170,
    "reviewAverage": 4.54,
    "reviewCount": 747,
    "access": "別府駅東口より徒歩約1分！",
@@ -269,7 +269,7 @@
    "hotelNo": 72876,
    "name": "別府観海寺温泉　旅亭　松葉屋",
    "kana": "べっぷかんかいじおんせん　りょてい　まつばや",
-   "minCharge": 12650,
+   "minCharge": 17710,
    "reviewAverage": 4.48,
    "reviewCount": 371,
    "access": "別府駅よりお車にて７分",
@@ -286,7 +286,7 @@
    "hotelNo": 74798,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　別邸はる樹",
    "kana": "せきや　りぞーと　べっていはるき",
-   "minCharge": 14859,
+   "minCharge": 16839,
    "reviewAverage": 4.4,
    "reviewCount": 177,
    "access": "ＪＲ　別府駅よりお車で１２分",

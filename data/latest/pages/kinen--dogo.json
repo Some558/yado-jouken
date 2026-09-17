@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-17",
+ "dataAsOf": "2026-09-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 4011,
+  "medianPrice": 4259,
   "reviewAvgMean": 4.2,
   "pricedCount": 16
  },
@@ -118,7 +118,7 @@
    "hotelNo": 168297,
    "name": "ホテルたいよう農園　二番町",
    "kana": "たいようのうえん　にばんちょう",
-   "minCharge": 5200,
+   "minCharge": 6000,
    "reviewAverage": 4.25,
    "reviewCount": 908,
    "access": "大街道駅から徒歩６分／松山ICから車で１５分／JR松山駅から車で１３分／コンビニ飲食店すぐ",
@@ -152,7 +152,7 @@
    "hotelNo": 220,
    "name": "ＡＮＡクラウンプラザホテル松山　ｂｙ　ＩＨＧ",
    "kana": "えーえぬえーくらうんぷらざほてるまつやま",
-   "minCharge": 6350,
+   "minCharge": 6593,
    "reviewAverage": 4.21,
    "reviewCount": 4943,
    "access": "松山空港よりバスで20分。ＪＲ松山駅より路面電車で8分。松山インターより車で15分。道後温泉まで路面電車で10分。",
@@ -203,7 +203,7 @@
    "hotelNo": 144531,
    "name": "アパホテル〈松山城西〉",
    "kana": "あぱほてる　まつやまじょうにし",
-   "minCharge": 3762,
+   "minCharge": 4018,
    "reviewAverage": 4.15,
    "reviewCount": 961,
    "access": "ＪＲ松山駅・伊予鉄道「松山市駅」各所から車で５分圏内",
@@ -220,7 +220,7 @@
    "hotelNo": 198319,
    "name": "日和ホテル松山",
    "kana": "ひよりほてるまつやま",
-   "minCharge": 4260,
+   "minCharge": 4500,
    "reviewAverage": 4.1,
    "reviewCount": 221,
    "access": "松山駅より路面電車で15分（大街道駅下車）／松山空港よりリムジンバスで約30分／松山ICより車で約25分",

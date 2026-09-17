@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-17",
+ "dataAsOf": "2026-09-18",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3300,
-  "medianPrice": 9950,
+  "medianPrice": 10000,
   "reviewAvgMean": 4.31,
   "pricedCount": 30
  },
@@ -235,7 +235,7 @@
    "hotelNo": 73924,
    "name": "熱海温泉　海辺の宿　長濱苑",
    "kana": "あたみおんせん　うみべのやど　ながはまえん",
-   "minCharge": 7700,
+   "minCharge": 8800,
    "reviewAverage": 4.43,
    "reviewCount": 563,
    "access": "■ＪＲ伊東線　伊豆多賀駅より＜徒歩5分＞急坂あり　■熱海駅～バス２５分　バス停「長浜」目の前",
@@ -303,7 +303,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 9900,
+   "minCharge": 11000,
    "reviewAverage": 4.22,
    "reviewCount": 469,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
@@ -337,7 +337,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 7125,
+   "minCharge": 7600,
    "reviewAverage": 4.18,
    "reviewCount": 914,
    "access": "熱海駅より徒歩20分。車５分。",

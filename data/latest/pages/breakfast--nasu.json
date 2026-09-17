@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-17",
+ "dataAsOf": "2026-09-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 4000,
-  "medianPrice": 8694,
+  "medianPrice": 9500,
   "reviewAvgMean": 4.34,
   "pricedCount": 15
  },
@@ -135,7 +135,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 8250,
+   "minCharge": 9900,
    "reviewAverage": 4.37,
    "reviewCount": 1916,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -237,7 +237,7 @@
    "hotelNo": 17519,
    "name": "ペーパームーン＜栃木県＞",
    "kana": "ぺーぱーむーん",
-   "minCharge": 9000,
+   "minCharge": 9500,
    "reviewAverage": 4.2,
    "reviewCount": 757,
    "access": "ＪＲ黒磯駅前より那須温泉行き、バス停「一軒茶屋」より徒歩７分／那須ＩＣより一軒茶屋方面へ１５分",

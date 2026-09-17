@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-09-17",
+ "dataAsOf": "2026-09-18",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 48,
    "matchRate": 13.2,
    "minPrice": 5500,
-   "medianPrice": 13825,
+   "medianPrice": 15408,
    "reviewAvgMean": 4.45
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 38,
    "matchRate": 14.1,
    "minPrice": 2700,
-   "medianPrice": 12600,
+   "medianPrice": 12000,
    "reviewAvgMean": 4.29
   },
   {
@@ -66,8 +66,8 @@
    "slug": "breakfast--yufuin",
    "matchCount": 48,
    "matchRate": 15.2,
-   "minPrice": 7056,
-   "medianPrice": 16000,
+   "minPrice": 8784,
+   "medianPrice": 18500,
    "reviewAvgMean": 4.53
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 26,
    "matchRate": 7.4,
    "minPrice": 4000,
-   "medianPrice": 8694,
+   "medianPrice": 9500,
    "reviewAvgMean": 4.34
   },
   {
