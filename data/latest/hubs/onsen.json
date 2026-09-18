@@ -3,7 +3,7 @@
   "slug": "onsen",
   "label": "温泉"
  },
- "dataAsOf": "2026-09-18",
+ "dataAsOf": "2026-09-19",
  "areas": [
   {
    "area": {
@@ -27,7 +27,7 @@
    "slug": "onsen--kusatsu",
    "matchCount": 15,
    "matchRate": 9.4,
-   "minPrice": 3425,
+   "minPrice": 3400,
    "medianPrice": 12100,
    "reviewAvgMean": 4.37
   },
@@ -41,7 +41,7 @@
    "matchCount": 36,
    "matchRate": 13.3,
    "minPrice": 2700,
-   "medianPrice": 13460,
+   "medianPrice": 12960,
    "reviewAvgMean": 4.29
   },
   {

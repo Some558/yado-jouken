@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-09-18",
+ "dataAsOf": "2026-09-19",
  "areas": [
   {
    "area": {
@@ -27,7 +27,7 @@
    "slug": "sauna--kusatsu",
    "matchCount": 14,
    "matchRate": 15.6,
-   "minPrice": 3425,
+   "minPrice": 3400,
    "medianPrice": 13450,
    "reviewAvgMean": 4.34
   },
@@ -54,7 +54,7 @@
    "matchCount": 30,
    "matchRate": 33.3,
    "minPrice": 2700,
-   "medianPrice": 8400,
+   "medianPrice": 8505,
    "reviewAvgMean": 4.38
   },
   {

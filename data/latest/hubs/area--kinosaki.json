@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-18",
+ "dataAsOf": "2026-09-19",
  "recordCount": 156,
  "conditions": [
   {
@@ -452,7 +452,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 27170,
+   "minCharge": 19800,
    "reviewAverage": 4.7,
    "reviewCount": 464,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -635,7 +635,7 @@
    "hotelNo": 8619,
    "name": "城崎温泉　きのさき　夢こやど　天望苑",
    "kana": "きのさきおんせん　こやど　てんぼうえん",
-   "minCharge": 12000,
+   "minCharge": 11550,
    "reviewAverage": 4.63,
    "reviewCount": 466,
    "access": "JR城崎温泉駅から無料バス5分/徒歩15分。無料Pあり。北近畿豊岡道・豊岡出石ICから約20分",
@@ -868,7 +868,7 @@
    "hotelNo": 29554,
    "name": "城崎温泉　お宿　芹",
    "kana": "おやど　せり",
-   "minCharge": 10000,
+   "minCharge": 9000,
    "reviewAverage": 4.56,
    "reviewCount": 430,
    "access": "JR城崎温泉駅(15：00～22：30送迎有。お電話ください)／お車：北近畿豊岡自動車道「但馬空港IC」 より30分",
@@ -1650,7 +1650,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8778",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8778.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8778/8778.jpg",
-   "special": "アワビや国産牛の夏バイキング！安心の屋内プールや庭遊び、星空露天と源泉１００％の湯で至福の休息を。",
+   "special": "松茸やボイル蟹の秋バイキング！秋夜の星空露天と源泉１０0％美肌の湯、広大な自然で至福の休息を。",
    "conditions": [
     "onsen",
     "daiyokujo",

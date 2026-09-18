@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-18",
+ "dataAsOf": "2026-09-19",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 13200,
+   "minCharge": 12200,
    "reviewAverage": 4.55,
    "reviewCount": 1093,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -252,7 +252,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 20570,
+   "minCharge": 18150,
    "reviewAverage": 4.42,
    "reviewCount": 2612,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -286,7 +286,7 @@
    "hotelNo": 18976,
    "name": "熱海温泉　ほり多",
    "kana": "あたみおんせん　ほりた",
-   "minCharge": 19800,
+   "minCharge": 13200,
    "reviewAverage": 4.3,
    "reviewCount": 183,
    "access": "熱海駅より伊東線来宮駅（二分）下車、来宮神社方向に徒歩５分。",

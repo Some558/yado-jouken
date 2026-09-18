@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-18",
+ "dataAsOf": "2026-09-19",
  "recordCount": 316,
  "conditions": [
   {
@@ -1435,7 +1435,7 @@
    "hotelNo": 31202,
    "name": "由布院温泉　御宿　一禅",
    "kana": "ゆふいんおんせん　おやど　いちぜん",
-   "minCharge": 30000,
+   "minCharge": 27800,
    "reviewAverage": 4.35,
    "reviewCount": 304,
    "access": "JR由布院駅より車で５分／湯布院ICより車で１０分／大分空港より車で50分／別府より40分／福岡より1時間30分",
@@ -1633,7 +1633,7 @@
    "hotelNo": 129463,
    "name": "湯布院温泉　由布院ユウベルホテル",
    "kana": "ゆふいんゆうべる",
-   "minCharge": 12700,
+   "minCharge": 13700,
    "reviewAverage": 4.19,
    "reviewCount": 558,
    "access": "■金鱗湖まで徒歩で５分■由布院駅からお車で１０分■由布院駅からの無料送迎もございます（要予約）",

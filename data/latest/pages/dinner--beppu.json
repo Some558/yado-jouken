@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-18",
+ "dataAsOf": "2026-09-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-19",
@@ -288,7 +288,7 @@
    "hotelNo": 180258,
    "name": "天然温泉　鉄輪の湯　スーパーホテル別府駅前",
    "kana": "すーぱーほてる　べっぷえきまえ　てんねんおんせん　かんなわのゆ",
-   "minCharge": 4750,
+   "minCharge": 4890,
    "reviewAverage": 4.38,
    "reviewCount": 1209,
    "access": "ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分",
