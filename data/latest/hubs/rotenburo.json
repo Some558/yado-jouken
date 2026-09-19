@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-09-19",
+ "dataAsOf": "2026-09-20",
  "areas": [
   {
    "area": {
@@ -12,10 +12,10 @@
     "officialName": "箱根"
    },
    "slug": "rotenburo--hakone",
-   "matchCount": 66,
-   "matchRate": 73.3,
-   "minPrice": 6756,
-   "medianPrice": 15875,
+   "matchCount": 68,
+   "matchRate": 75.6,
+   "minPrice": 5050,
+   "medianPrice": 14308,
    "reviewAvgMean": 4.38
   },
   {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "rotenburo--nasu",
-   "matchCount": 51,
-   "matchRate": 56.7,
+   "matchCount": 52,
+   "matchRate": 57.8,
    "minPrice": 2040,
    "medianPrice": 11000,
-   "reviewAvgMean": 4.43
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -120,7 +120,7 @@
    "matchRate": 22.2,
    "minPrice": 3700,
    "medianPrice": 12685,
-   "reviewAvgMean": 4.42
+   "reviewAvgMean": 4.43
   },
   {
    "area": {
