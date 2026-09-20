@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -25,7 +25,7 @@
   },
   "minPrice": 3438,
   "medianPrice": 8840,
-  "reviewAvgMean": 4.41,
+  "reviewAvgMean": 4.42,
   "pricedCount": 67
  },
  "hotels": [
@@ -217,6 +217,23 @@
    "special": "光と風のグランピング。　グランピング×スパで欲張りな休日を"
   },
   {
+   "hotelNo": 139840,
+   "name": "ペンション＆コテージ　ピエロ",
+   "kana": "ぺんしょんあんどこてーじ　ぴえろ",
+   "minCharge": 9000,
+   "reviewAverage": 4.7,
+   "reviewCount": 25,
+   "access": "軽井沢駅北口からお車で約５分、徒歩で約２５分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町軽井沢1148-35",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D139840",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D139840%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D139840",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/139840.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139840/139840.jpg",
+   "special": "肉料理と魚料理の両方付くコース料理でグルメに人気の宿アウトレットや駅まで車で約５分の好立地。"
+  },
+  {
    "hotelNo": 136825,
    "name": "軽井沢　ホテル鹿島ノ森（オークラホテルズ＆リゾーツ）",
    "kana": "かじまのもりおーくらほてるずあんどりぞーつ",
@@ -308,7 +325,7 @@
    "minCharge": 7470,
    "reviewAverage": 4.68,
    "reviewCount": 322,
-   "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 約3分・塩沢湖軽井沢タリアセン 約5分",
+   "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 3分・軽井沢タリアセン（塩沢湖）10分",
    "address1": "長野県",
    "address2": "北佐久郡軽井沢町長倉531-1",
    "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168201",
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/164623.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/164623/164623.jpg",
    "special": "旬の海鮮や新鮮野菜、信州のブランド牛を会席料理で堪能する、軽井沢のお料理宿"
-  },
-  {
-   "hotelNo": 67270,
-   "name": "軽井沢浅間プリンスホテル",
-   "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 15711,
-   "reviewAverage": 4.64,
-   "reviewCount": 429,
-   "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町発地南軽井沢",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D67270",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D67270%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D67270",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67270.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67270/67270.jpg",
-   "special": "奥軽井沢での静寂の時間、浅間山を望みながら至福の時を"
   }
  ],
  "listedMatchCount": 67

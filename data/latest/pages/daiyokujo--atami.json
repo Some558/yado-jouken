@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,9 +24,9 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 9950,
-  "reviewAvgMean": 4.27,
-  "pricedCount": 54
+  "medianPrice": 9900,
+  "reviewAvgMean": 4.26,
+  "pricedCount": 55
  },
  "hotels": [
   {
@@ -135,7 +135,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20500,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 329,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -186,7 +186,7 @@
    "hotelNo": 197470,
    "name": "熱海・伊豆山　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "あたみ・いずさん・からく（おりっくすほてるずあんどりぞーつ）",
-   "minCharge": 55640,
+   "minCharge": 25280,
    "reviewAverage": 4.57,
    "reviewCount": 21,
    "access": "JR東海道新幹線・東海道本線「熱海駅」より車で約7分　※JR熱海駅との送迎（先着順要予約・乗り合い）",
@@ -370,5 +370,5 @@
    "special": "2026年3月31日グランドオープン！！熱海の特等席にラビスタ熱海テラス誕生★JR熱海駅より徒歩8分"
   }
  ],
- "listedMatchCount": 54
+ "listedMatchCount": 55
 }

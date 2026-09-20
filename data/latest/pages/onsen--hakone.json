@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,9 +24,9 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5050,
-  "medianPrice": 12980,
-  "reviewAvgMean": 4.37,
-  "pricedCount": 67
+  "medianPrice": 13097,
+  "reviewAvgMean": 4.36,
+  "pricedCount": 68
  },
  "hotels": [
   {
@@ -84,7 +84,7 @@
    "hotelNo": 182450,
    "name": "玄　箱根強羅",
    "kana": "げん　はこねごうら",
-   "minCharge": 58300,
+   "minCharge": 55000,
    "reviewAverage": 4.77,
    "reviewCount": 150,
    "access": "箱根登山鉄道強羅駅より送迎車で約５分",
@@ -166,23 +166,6 @@
    "special": "楽天トラベルCM撮影地になりました！箱根の絶景を眺めるインフィニティ温泉や全客室温泉露天風呂客室"
   },
   {
-   "hotelNo": 182186,
-   "name": "自家源泉かけ流しの宿　箱根翠泉",
-   "kana": "じかげんせんかけながしのやど　はこねすいせん",
-   "minCharge": 10300,
-   "reviewAverage": 4.69,
-   "reviewCount": 178,
-   "access": "大平台駅（箱根登山鉄道）徒歩３分※大平台駅から箱根湯本方面に道を下ってお進みください。",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町大平台254",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182186",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182186%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182186",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182186.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182186/182186.jpg",
-   "special": "「自由」という新しいステイ・スタイルの提案　自家源泉かけ流しの宿 箱根翠泉"
-  },
-  {
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
@@ -215,6 +198,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19985.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19985/19985.jpg",
    "special": "2024〜2025年続々リニューアル！露付き客室・専用玄関のある「離れ　燈(akari)」誕生！"
+  },
+  {
+   "hotelNo": 79469,
+   "name": "箱根翡翠",
+   "kana": "はこねひすい",
+   "minCharge": 32680,
+   "reviewAverage": 4.61,
+   "reviewCount": 277,
+   "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原837",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79469",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79469%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79469",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79469.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79469/79469.jpg",
+   "special": "翡翠のように色鮮やかな四季の庭園とせせらぎの清流に包まれて過ごす、自然と静寂が調和する大人のリゾート"
   },
   {
    "hotelNo": 188402,
@@ -370,5 +370,5 @@
    "special": "箱根芦ノ湖畔に佇む随一の眺望と庭園からの富士。とっておきのリゾートステイを。"
   }
  ],
- "listedMatchCount": 67
+ "listedMatchCount": 68
 }

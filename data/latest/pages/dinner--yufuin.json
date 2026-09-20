@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,9 +24,9 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3510,
-  "medianPrice": 17600,
+  "medianPrice": 18050,
   "reviewAvgMean": 4.49,
-  "pricedCount": 53
+  "pricedCount": 54
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "幼児無料！3組限定の広々グランピングでお肉自慢のバーベキューとプライベートサウナをお楽しみください"
   }
  ],
- "listedMatchCount": 53
+ "listedMatchCount": 54
 }

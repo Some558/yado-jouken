@@ -9,22 +9,22 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 78,
-  "matchRate": 86.7,
+  "matchCount": 77,
+  "matchRate": 85.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4400,
-  "medianPrice": 16920,
-  "reviewAvgMean": 4.5,
-  "pricedCount": 78
+  "medianPrice": 16940,
+  "reviewAvgMean": 4.51,
+  "pricedCount": 77
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "一壷天では、古(骨董品）、新、和、洋のしつらいが見事にとけ合った大人の空間と時間をご堪能下さい"
   }
  ],
- "listedMatchCount": 78
+ "listedMatchCount": 77
 }

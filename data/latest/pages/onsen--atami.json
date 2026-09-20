@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -152,7 +152,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20500,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 329,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -322,7 +322,7 @@
    "hotelNo": 75291,
    "name": "熱海倶楽部　迎賓館",
    "kana": "あたみくらぶ　げいひんかん",
-   "minCharge": 30800,
+   "minCharge": 33000,
    "reviewAverage": 4.54,
    "reviewCount": 4434,
    "access": "熱海駅より車で約８分。タクシーでお越しの場合は「熱海ゴルフ倶楽部」とお伝え下さい。",

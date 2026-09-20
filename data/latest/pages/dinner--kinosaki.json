@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -25,27 +25,10 @@
   },
   "minPrice": 4300,
   "medianPrice": 11525,
-  "reviewAvgMean": 4.51,
+  "reviewAvgMean": 4.5,
   "pricedCount": 50
  },
  "hotels": [
-  {
-   "hotelNo": 8021,
-   "name": "ペンション　スノーランド",
-   "kana": "ペンション　すのーらんど",
-   "minCharge": 9900,
-   "reviewAverage": 5.0,
-   "reviewCount": 42,
-   "access": "中国自動車道吉川ＩＣ・若狭自動車道春日ＩＣ、近畿豊岡自動車道日高神鍋高原ＩＣより車で20分。",
-   "address1": "兵庫県",
-   "address2": "豊岡市日高町山田113-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8021",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8021%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8021",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8021.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8021/8021.jpg",
-   "special": "星降る神鍋高原☆澄んだ空気と新鮮な自家米&野菜が自慢！ママシェフ特製フルコースが美味しいペンション♪"
-  },
   {
    "hotelNo": 183271,
    "name": "港町のお宿　八塩",
@@ -113,6 +96,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79381.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79381/79381.jpg",
    "special": "楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン浴衣もあり"
+  },
+  {
+   "hotelNo": 43770,
+   "name": "ペンション　くるみの木＜兵庫県＞",
+   "kana": "ぺんしょん　くるみのき　ひょうごけん",
+   "minCharge": 11500,
+   "reviewAverage": 4.8,
+   "reviewCount": 41,
+   "access": "ＪＲ　山陰線江原駅より車で２０分",
+   "address1": "兵庫県",
+   "address2": "豊岡市日高町太田145-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D43770",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D43770%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D43770",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/43770.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43770/43770.jpg",
+   "special": "のんびり過ごせます一戸建てのお部屋。お食事は、カニや但馬牛を囲炉裏を囲んで楽しめます。"
   },
   {
    "hotelNo": 106245,

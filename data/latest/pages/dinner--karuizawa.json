@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3438,
-  "medianPrice": 10380,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 44
+  "medianPrice": 10200,
+  "reviewAvgMean": 4.43,
+  "pricedCount": 45
  },
  "hotels": [
   {
@@ -166,6 +166,23 @@
    "special": "光と風のグランピング。　グランピング×スパで欲張りな休日を"
   },
   {
+   "hotelNo": 139840,
+   "name": "ペンション＆コテージ　ピエロ",
+   "kana": "ぺんしょんあんどこてーじ　ぴえろ",
+   "minCharge": 9000,
+   "reviewAverage": 4.7,
+   "reviewCount": 25,
+   "access": "軽井沢駅北口からお車で約５分、徒歩で約２５分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町軽井沢1148-35",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D139840",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D139840%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D139840",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/139840.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/139840/139840.jpg",
+   "special": "肉料理と魚料理の両方付くコース料理でグルメに人気の宿アウトレットや駅まで車で約５分の好立地。"
+  },
+  {
    "hotelNo": 136825,
    "name": "軽井沢　ホテル鹿島ノ森（オークラホテルズ＆リゾーツ）",
    "kana": "かじまのもりおーくらほてるずあんどりぞーつ",
@@ -240,7 +257,7 @@
    "minCharge": 7470,
    "reviewAverage": 4.68,
    "reviewCount": 322,
-   "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 約3分・塩沢湖軽井沢タリアセン 約5分",
+   "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 3分・軽井沢タリアセン（塩沢湖）10分",
    "address1": "長野県",
    "address2": "北佐久郡軽井沢町長倉531-1",
    "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168201",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50468.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50468/50468.jpg",
    "special": "【7年連続楽天アワード受賞】食数限定フレンチ好評｜貸切風呂あり♪星野エリア車3分・結婚式前後泊も◎"
-  },
-  {
-   "hotelNo": 162641,
-   "name": "トレーラーハウスホテル・ジェニー",
-   "kana": "とれーらーはうすほてる・じぇにー",
-   "minCharge": 3438,
-   "reviewAverage": 4.57,
-   "reviewCount": 80,
-   "access": "しなの鉄道　御代田駅よりお車にて約5分　事前予約7日前まで送迎可",
-   "address1": "長野県",
-   "address2": "北佐久郡御代田町馬瀬口清万1581-33",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D162641",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D162641%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D162641",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/162641.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162641/162641.jpg",
-   "special": "家族・グループ旅行にピッタリ。ペットと泊まれる全室独立型トレーラーハウスホテル！"
   }
  ],
- "listedMatchCount": 44
+ "listedMatchCount": 45
 }

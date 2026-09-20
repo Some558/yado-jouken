@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "sauna--hakone",
-   "matchCount": 40,
-   "matchRate": 44.4,
+   "matchCount": 41,
+   "matchRate": 45.6,
    "minPrice": 6330,
-   "medianPrice": 15875,
-   "reviewAvgMean": 4.37
+   "medianPrice": 16500,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {

@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "kashikiri-buro--hakone",
-   "matchCount": 22,
-   "matchRate": 24.4,
+   "matchCount": 24,
+   "matchRate": 26.7,
    "minPrice": 5600,
-   "medianPrice": 17531,
-   "reviewAvgMean": 4.41
+   "medianPrice": 18631,
+   "reviewAvgMean": 4.43
   },
   {
    "area": {
@@ -40,9 +40,9 @@
    "slug": "kashikiri-buro--atami",
    "matchCount": 30,
    "matchRate": 33.3,
-   "minPrice": 3300,
+   "minPrice": 4840,
    "medianPrice": 10000,
-   "reviewAvgMean": 4.32
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kashikiri-buro--yufuin",
-   "matchCount": 37,
-   "matchRate": 41.1,
+   "matchCount": 36,
+   "matchRate": 40.0,
    "minPrice": 4400,
-   "medianPrice": 15950,
-   "reviewAvgMean": 4.46
+   "medianPrice": 15525,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kashikiri-buro--nasu",
-   "matchCount": 29,
-   "matchRate": 32.2,
+   "matchCount": 30,
+   "matchRate": 33.3,
    "minPrice": 1690,
-   "medianPrice": 9900,
-   "reviewAvgMean": 4.5
+   "medianPrice": 10050,
+   "reviewAvgMean": 4.51
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kashikiri-buro--karuizawa",
-   "matchCount": 8,
-   "matchRate": 8.9,
+   "matchCount": 9,
+   "matchRate": 10.0,
    "minPrice": 7000,
-   "medianPrice": 9900,
-   "reviewAvgMean": 4.45
+   "medianPrice": 9000,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {

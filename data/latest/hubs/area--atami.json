@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "recordCount": 270,
  "conditions": [
   {
@@ -297,7 +297,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20500,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 329,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -401,7 +401,7 @@
    "hotelNo": 197470,
    "name": "熱海・伊豆山　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "あたみ・いずさん・からく（おりっくすほてるずあんどりぞーつ）",
-   "minCharge": 55640,
+   "minCharge": 25280,
    "reviewAverage": 4.57,
    "reviewCount": 21,
    "access": "JR東海道新幹線・東海道本線「熱海駅」より車で約7分　※JR熱海駅との送迎（先着順要予約・乗り合い）",
@@ -579,7 +579,7 @@
    "hotelNo": 75291,
    "name": "熱海倶楽部　迎賓館",
    "kana": "あたみくらぶ　げいひんかん",
-   "minCharge": 30800,
+   "minCharge": 33000,
    "reviewAverage": 4.54,
    "reviewCount": 4434,
    "access": "熱海駅より車で約８分。タクシーでお越しの場合は「熱海ゴルフ倶楽部」とお伝え下さい。",
@@ -1543,6 +1543,30 @@
    ]
   },
   {
+   "hotelNo": 147565,
+   "name": "レクトーレ熱海小嵐（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
+   "kana": "れくとーれあたみこあらし　てぃーけーぴーほてるあんどりぞーと",
+   "minCharge": 4840,
+   "reviewAverage": 4.12,
+   "reviewCount": 171,
+   "access": "JR東海道線・熱海駅よりお車にて約15分/JR東海道線来宮駅よりお車にて約8分。",
+   "address1": "静岡県",
+   "address2": "熱海市小嵐町15-9",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147565",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147565%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147565",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147565.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147565/147565.jpg",
+   "special": "湧き出る天然温泉で癒しのひとときを愉しむ大人のリゾート♪",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 68189,
    "name": "旅荘　天城",
    "kana": "りょそう　あまぎ",
@@ -1566,7 +1590,7 @@
    "hotelNo": 28514,
    "name": "貸切温泉のコンドミニアム　グランビュー熱海",
    "kana": "かしきりおんせんのこんどみにあむ　ぐらんびゅー　あたみ",
-   "minCharge": 5500,
+   "minCharge": 5000,
    "reviewAverage": 4.11,
    "reviewCount": 1335,
    "access": "熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪",
@@ -1613,7 +1637,7 @@
    "hotelNo": 29878,
    "name": "熱海温泉ホテル　夢いろは",
    "kana": "あたみおんせんほてる　ゆめいろは",
-   "minCharge": 5969,
+   "minCharge": 5029,
    "reviewAverage": 4.1,
    "reviewCount": 2801,
    "access": "ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分",
@@ -1962,30 +1986,6 @@
     "breakfast",
     "dinner",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 109399,
-   "name": "みやこ荘",
-   "kana": "みやこそう",
-   "minCharge": 3300,
-   "reviewAverage": 3.89,
-   "reviewCount": 182,
-   "access": "伊豆多賀駅から徒歩で５分",
-   "address1": "静岡県",
-   "address2": "熱海市下多賀1480",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D109399",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D109399%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D109399",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/109399.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109399/109399.jpg",
-   "special": "地元網代港で水揚された魚介類が人気！全室オーシャンビュー",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "kashikiri-buro"
    ]
   },
   {

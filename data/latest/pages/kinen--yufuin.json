@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,8 +24,8 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3510,
-  "medianPrice": 15725,
-  "reviewAvgMean": 4.44,
+  "medianPrice": 16445,
+  "reviewAvgMean": 4.46,
   "pricedCount": 56
  },
  "hotels": [
@@ -319,6 +319,23 @@
    "special": "幼児無料！3組限定の広々グランピングでお肉自慢のバーベキューとプライベートサウナをお楽しみください"
   },
   {
+   "hotelNo": 54134,
+   "name": "源泉掛け流しの離れ宿　由布院別邸　風の森",
+   "kana": "げんせんかけながしのはなれやど　ゆふいんべってい　かぜのもり",
+   "minCharge": 22000,
+   "reviewAverage": 4.67,
+   "reviewCount": 128,
+   "access": "◆ 由布院駅より徒歩15分　",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川南371-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D54134",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D54134%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D54134",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/54134.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/54134/54134.jpg",
+   "special": "【大人の隠れ家を体験したいアナタへ】絶品料理・全室離れ・トロりとした露天内湯付き"
+  },
+  {
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198983.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198983/198983.jpg",
    "special": "2026年4月OPEN！由布岳を望む別邸ヴィラ、源泉かけ流し温泉風呂付"
-  },
-  {
-   "hotelNo": 70905,
-   "name": "ゆふいん　湯平温泉　山荘松屋",
-   "kana": "ゆふいん　ゆのひらおんせん　さんそうまつや",
-   "minCharge": 11000,
-   "reviewAverage": 4.63,
-   "reviewCount": 205,
-   "access": "ＪＲ湯平駅より車で10分　 湯平駅より無料送迎あり（要予約）",
-   "address1": "大分県",
-   "address2": "由布市湯布院町湯平803-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70905",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70905%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70905",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70905.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70905/70905.jpg",
-   "special": "■温泉は全て無料貸切OK■全室禁煙・湯布院の奥座敷・湯平温泉に佇む全9室の湯宿。"
   }
  ],
  "listedMatchCount": 56

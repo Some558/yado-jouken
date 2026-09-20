@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 68,
    "matchRate": 75.6,
    "minPrice": 5050,
-   "medianPrice": 14308,
+   "medianPrice": 15875,
    "reviewAvgMean": 4.38
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 38,
    "matchRate": 42.2,
    "minPrice": 3400,
-   "medianPrice": 12550,
+   "medianPrice": 12265,
    "reviewAvgMean": 4.39
   },
   {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "rotenburo--yufuin",
-   "matchCount": 78,
-   "matchRate": 86.7,
+   "matchCount": 77,
+   "matchRate": 85.6,
    "minPrice": 4400,
-   "medianPrice": 16920,
-   "reviewAvgMean": 4.5
+   "medianPrice": 16940,
+   "reviewAvgMean": 4.51
   },
   {
    "area": {
@@ -103,8 +103,8 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "rotenburo--nasu",
-   "matchCount": 52,
-   "matchRate": 57.8,
+   "matchCount": 53,
+   "matchRate": 58.9,
    "minPrice": 2040,
    "medianPrice": 11000,
    "reviewAvgMean": 4.44

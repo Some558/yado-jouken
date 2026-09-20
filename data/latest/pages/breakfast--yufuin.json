@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-20",
+ "dataAsOf": "2026-09-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,9 +24,9 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 3510,
-  "medianPrice": 16940,
+  "medianPrice": 17270,
   "reviewAvgMean": 4.49,
-  "pricedCount": 55
+  "pricedCount": 56
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "女性が喜ぶ宿を目指しています。湯の坪街道最大の宿。観光・ショッピングの中心まで徒歩1分"
   }
  ],
- "listedMatchCount": 55
+ "listedMatchCount": 56
 }
