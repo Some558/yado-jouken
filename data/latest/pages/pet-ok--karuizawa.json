@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-21",
+ "dataAsOf": "2026-09-22",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 12555,
+   "minCharge": 10980,
    "reviewAverage": 4.75,
    "reviewCount": 133,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -99,7 +99,7 @@
    "hotelNo": 184094,
    "name": "のぞみグランピング＆スパ佐久×軽井沢",
    "kana": "のぞみぐらんぴんぐあんどすぱさくかるいざわ",
-   "minCharge": 22570,
+   "minCharge": 20680,
    "reviewAverage": 4.71,
    "reviewCount": 88,
    "access": "上信越道小諸ジャンクションから中部横断道を経由して、佐久南ＩＣからお車で約３分",

@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-09-21",
+ "dataAsOf": "2026-09-22",
  "areas": [
   {
    "area": {
@@ -66,7 +66,7 @@
    "slug": "kashikiri-buro--yufuin",
    "matchCount": 36,
    "matchRate": 40.0,
-   "minPrice": 4400,
+   "minPrice": 4032,
    "medianPrice": 15525,
    "reviewAvgMean": 4.48
   },
@@ -106,7 +106,7 @@
    "matchCount": 30,
    "matchRate": 33.3,
    "minPrice": 1690,
-   "medianPrice": 10050,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.51
   },
   {

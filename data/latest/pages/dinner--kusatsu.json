@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-09-21",
+ "dataAsOf": "2026-09-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,7 +24,7 @@
    "label": "草津温泉・白根エリアの掲載施設数"
   },
   "minPrice": 5880,
-  "medianPrice": 12600,
+  "medianPrice": 12400,
   "reviewAvgMean": 4.4,
   "pricedCount": 41
  },
@@ -101,7 +101,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 14680,
+   "minCharge": 13180,
    "reviewAverage": 4.67,
    "reviewCount": 44,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -113,6 +113,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183529.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183529/183529.jpg",
    "special": "【個室食事処｜貸切風呂無料】2000坪に全8室借景庭園付 川原湯温泉最古の宿"
+  },
+  {
+   "hotelNo": 189254,
+   "name": "草津温泉　湯畑泉水",
+   "kana": "くさつおんせん　ゆばたけせんすい",
+   "minCharge": 15250,
+   "reviewAverage": 4.67,
+   "reviewCount": 307,
+   "access": "長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津392ー1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189254",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D189254%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D189254",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189254.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189254/189254.jpg",
+   "special": "「湯畑」から徒歩１分、温泉街のドまん中　全室露天風呂付の素泊まりの宿"
   },
   {
    "hotelNo": 4904,
@@ -130,23 +147,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4904.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4904/4904.jpg",
    "special": "創業慶長4年。６つのお風呂と2つの源泉が楽しめる、数々の文人に愛された、落ち着いた佇まいの旅館。"
-  },
-  {
-   "hotelNo": 189254,
-   "name": "草津温泉　湯畑泉水",
-   "kana": "くさつおんせん　ゆばたけせんすい",
-   "minCharge": 23250,
-   "reviewAverage": 4.67,
-   "reviewCount": 307,
-   "access": "長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津392ー1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D189254",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D189254%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D189254",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/189254.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/189254/189254.jpg",
-   "special": "「湯畑」から徒歩１分、温泉街のドまん中　全室露天風呂付の素泊まりの宿"
   },
   {
    "hotelNo": 70807,
@@ -339,7 +339,7 @@
    "hotelNo": 139908,
    "name": "草津温泉　湯畑草菴（そうあん）",
    "kana": "くさつおんせん　ゆばたけそうあん",
-   "minCharge": 12600,
+   "minCharge": 7200,
    "reviewAverage": 4.47,
    "reviewCount": 440,
    "access": "ＪＲ吾妻線　長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし",

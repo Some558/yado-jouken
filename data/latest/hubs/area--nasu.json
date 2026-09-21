@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-21",
+ "dataAsOf": "2026-09-22",
  "recordCount": 352,
  "conditions": [
   {
@@ -1759,7 +1759,7 @@
    "hotelNo": 183740,
    "name": "フォレストリゾート　ホテルグリーンパール那須",
    "kana": "ふぉれすとりぞーと　ほてるぐりーんぱーるなす",
-   "minCharge": 13283,
+   "minCharge": 10500,
    "reviewAverage": 4.22,
    "reviewCount": 293,
    "access": "東北新幹線　那須塩原駅よりバスで45分　新那須バス亭下車　徒歩7分",
@@ -1805,7 +1805,7 @@
    "hotelNo": 17519,
    "name": "ペーパームーン＜栃木県＞",
    "kana": "ぺーぱーむーん",
-   "minCharge": 9500,
+   "minCharge": 8500,
    "reviewAverage": 4.2,
    "reviewCount": 757,
    "access": "ＪＲ黒磯駅前より那須温泉行き、バス停「一軒茶屋」より徒歩７分／那須ＩＣより一軒茶屋方面へ１５分",
@@ -1877,7 +1877,7 @@
    "hotelNo": 79376,
    "name": "アニマーレ　プレミアム　ｉｎ　那須",
    "kana": "あにまーれ　ぷれみあむ　いん　なす",
-   "minCharge": 10920,
+   "minCharge": 8621,
    "reviewAverage": 4.12,
    "reviewCount": 420,
    "access": "JR黒磯駅より「那須湯本行」バスにて「友愛の森」下車（送迎有り・要予約）",

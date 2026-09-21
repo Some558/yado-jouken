@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-21",
+ "dataAsOf": "2026-09-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -84,7 +84,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 24000,
+   "minCharge": 22000,
    "reviewAverage": 4.92,
    "reviewCount": 379,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",
@@ -254,7 +254,7 @@
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 22000,
+   "minCharge": 16500,
    "reviewAverage": 4.76,
    "reviewCount": 1027,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
