@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3400,
-  "medianPrice": 12265,
+  "medianPrice": 12540,
   "reviewAvgMean": 4.39,
   "pricedCount": 38
  },

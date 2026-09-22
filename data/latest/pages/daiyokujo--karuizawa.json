@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -33,7 +33,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 13500,
+   "minCharge": 14400,
    "reviewAverage": 4.73,
    "reviewCount": 441,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -186,7 +186,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 5060,
+   "minCharge": 5050,
    "reviewAverage": 4.62,
    "reviewCount": 938,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -220,7 +220,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 20900,
+   "minCharge": 20350,
    "reviewAverage": 4.57,
    "reviewCount": 359,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -350,7 +350,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177441",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177441.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177441/177441.jpg",
-   "special": "目の前に浅間山、「軽井沢タリアセン」隣接。塩沢エリアを一新する、5ヘクタール超、新たなる軽井沢へ。"
+   "special": "5ヘクタールの広大な敷地。浅間山を望み豊かな緑に包まれた美しく上質な東急グループのリゾート。"
   },
   {
    "hotelNo": 27892,

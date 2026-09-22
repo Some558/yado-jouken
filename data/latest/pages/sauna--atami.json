@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 197470,
    "name": "熱海・伊豆山　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "あたみ・いずさん・からく（おりっくすほてるずあんどりぞーつ）",
-   "minCharge": 25280,
+   "minCharge": 55640,
    "reviewAverage": 4.57,
    "reviewCount": 21,
    "access": "JR東海道新幹線・東海道本線「熱海駅」より車で約7分　※JR熱海駅との送迎（先着順要予約・乗り合い）",
@@ -283,6 +283,23 @@
    "special": "全352室がオーシャンビュー 海上リゾートで唯一無二の絶景体験を"
   },
   {
+   "hotelNo": 108981,
+   "name": "熱海伊豆山温泉　ハートピア熱海",
+   "kana": "あたみいずさんおんせん　はーとぴああたみ",
+   "minCharge": 8800,
+   "reviewAverage": 4.24,
+   "reviewCount": 470,
+   "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
+   "address1": "静岡県",
+   "address2": "熱海市伊豆山717-18",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108981",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108981%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108981",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108981.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108981/108981.jpg",
+   "special": "相模灘の絶景と新鮮な海の幸を満喫！源泉2本の天然温泉など魅力満載♪"
+  },
+  {
    "hotelNo": 147782,
    "name": "ソラトニワ熱海伊豆山",
    "kana": "そらとにわあたみいずさん",
@@ -298,23 +315,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147782.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147782/147782.jpg",
    "special": "【全室サウナ・露天風呂付きの別邸OPEN】絶景足湯が自慢のオールインクルーシブ温泉宿"
-  },
-  {
-   "hotelNo": 108981,
-   "name": "熱海伊豆山温泉　ハートピア熱海",
-   "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 11000,
-   "reviewAverage": 4.24,
-   "reviewCount": 470,
-   "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
-   "address1": "静岡県",
-   "address2": "熱海市伊豆山717-18",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108981",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108981%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108981",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108981.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108981/108981.jpg",
-   "special": "相模灘の絶景と新鮮な海の幸を満喫！源泉2本の天然温泉など魅力満載♪"
   },
   {
    "hotelNo": 182519,

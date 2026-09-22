@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5050,
-  "medianPrice": 15875,
+  "medianPrice": 15333,
   "reviewAvgMean": 4.38,
   "pricedCount": 68
  },
@@ -116,7 +116,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 27280,
+   "minCharge": 26400,
    "reviewAverage": 4.77,
    "reviewCount": 910,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -266,27 +266,10 @@
    "special": "日本庭園露天と貸切温泉を満喫。季節替りの和食膳はお部屋食で。2018年より全室禁煙。"
   },
   {
-   "hotelNo": 176633,
-   "name": "全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸",
-   "kana": "ぜんしつろてんぶろつききゃくしつ　せんごくばらおんせん　せんちゅりおんはこねべってい",
-   "minCharge": 28000,
-   "reviewAverage": 4.57,
-   "reviewCount": 173,
-   "access": "箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原1285-389",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176633",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D176633%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D176633",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176633.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176633/176633.jpg",
-   "special": "◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備  オーナーこだわりの世界をお愉しみ下さい。"
-  },
-  {
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 30300,
+   "minCharge": 28300,
    "reviewAverage": 4.57,
    "reviewCount": 402,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",
@@ -300,10 +283,27 @@
    "special": "★客室専用温泉露天風呂で免疫力を高めましょう★当館はわずか9室"
   },
   {
+   "hotelNo": 176633,
+   "name": "全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸",
+   "kana": "ぜんしつろてんぶろつききゃくしつ　せんごくばらおんせん　せんちゅりおんはこねべってい",
+   "minCharge": 33000,
+   "reviewAverage": 4.57,
+   "reviewCount": 173,
+   "access": "箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原1285-389",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176633",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D176633%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D176633",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176633.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176633/176633.jpg",
+   "special": "◆自然に囲まれた13室の隠れ温泉宿◆全室客室露天風呂完備  オーナーこだわりの世界をお愉しみ下さい。"
+  },
+  {
    "hotelNo": 153496,
    "name": "箱根強羅　白檀",
    "kana": "はこねごうら　びゃくだん",
-   "minCharge": 51700,
+   "minCharge": 53900,
    "reviewAverage": 4.57,
    "reviewCount": 144,
    "access": "箱根登山鉄道　小涌谷駅よりご送迎承ります（車で約5分：事前にご連絡ください）　箱根バス「緑の村入り口」下車 徒歩2分",
@@ -337,7 +337,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 15750,
+   "minCharge": 8500,
    "reviewAverage": 4.55,
    "reviewCount": 6648,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -354,7 +354,7 @@
    "hotelNo": 29488,
    "name": "箱根温泉　鶴井の宿　紫雲荘",
    "kana": "はこねおんせん　かくいのやど　しうんそう",
-   "minCharge": 18830,
+   "minCharge": 17600,
    "reviewAverage": 4.53,
    "reviewCount": 1161,
    "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",

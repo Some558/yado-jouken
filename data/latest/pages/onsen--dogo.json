@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -23,7 +23,7 @@
    "value": 181,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 3000,
+  "minPrice": 3200,
   "medianPrice": 9350,
   "reviewAvgMean": 4.37,
   "pricedCount": 27
@@ -305,7 +305,7 @@
    "hotelNo": 184526,
    "name": "天然温泉「旅人の湯」ホテルルートイン松山中央－勝山通り－",
    "kana": "てんねんおんせんたびびとのゆ　ほてるるーといんまつやまちゅうおう　かつやまどおり",
-   "minCharge": 5300,
+   "minCharge": 5550,
    "reviewAverage": 4.3,
    "reviewCount": 760,
    "access": "市電「勝山町」駅より徒歩5分・松山ICより車で約15分・松山空港より車で約25分・松山商業高校正門前",
@@ -322,7 +322,7 @@
    "hotelNo": 19414,
    "name": "天然温泉　松山ニューグランドホテル",
    "kana": "てんねんおんせん　まつやま　にゅーぐらんどほてる",
-   "minCharge": 3000,
+   "minCharge": 3200,
    "reviewAverage": 4.25,
    "reviewCount": 5728,
    "access": "◆提携駐車場複数有！　◆松山ＩＣからお車で約２０分　◆松山空港からバスで約３０分　◆路面電車【大街道】下車⇒徒歩約４分",

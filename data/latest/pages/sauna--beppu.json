@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8400,
+  "medianPrice": 8505,
   "reviewAvgMean": 4.38,
   "pricedCount": 30
  },
@@ -252,7 +252,7 @@
    "hotelNo": 182800,
    "name": "アマネク別府ゆらり",
    "kana": "あまねくべっぷ　ゆらり",
-   "minCharge": 6532,
+   "minCharge": 8210,
    "reviewAverage": 4.43,
    "reviewCount": 476,
    "access": "JR線「別府駅」東口から徒歩3分",

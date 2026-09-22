@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8784,
-  "medianPrice": 10400,
+  "medianPrice": 10200,
   "reviewAvgMean": 4.51,
   "pricedCount": 11
  },
@@ -167,7 +167,7 @@
    "hotelNo": 1678,
    "name": "由布院温泉　ゆふいん山水館",
    "kana": "ゆふいんおんせん　ゆふいんさんすいかん",
-   "minCharge": 11000,
+   "minCharge": 8800,
    "reviewAverage": 4.41,
    "reviewCount": 892,
    "access": "ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。",

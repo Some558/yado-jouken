@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "facility"
  },
@@ -337,7 +337,7 @@
    "hotelNo": 73955,
    "name": "伊香保温泉　金太夫（伊東園ホテルズ）",
    "kana": "いかほおんせん　きんだゆう",
-   "minCharge": 7348,
+   "minCharge": 6798,
    "reviewAverage": 3.71,
    "reviewCount": 918,
    "access": "ＪＲ　渋川駅から車で約２５分",

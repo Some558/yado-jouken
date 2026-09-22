@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-22",
+ "dataAsOf": "2026-09-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -23,7 +23,7 @@
    "value": 181,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 2700,
+  "minPrice": 2890,
   "medianPrice": 8525,
   "reviewAvgMean": 4.32,
   "pricedCount": 26
@@ -322,7 +322,7 @@
    "hotelNo": 6276,
    "name": "ホテルマイステイズ松山",
    "kana": "まいすていずまつやま",
-   "minCharge": 2700,
+   "minCharge": 2890,
    "reviewAverage": 4.17,
    "reviewCount": 3135,
    "access": "JR松山駅・松山市駅から徒歩8分／松山空港からバス約20分(愛媛新聞社前下車)／松山観光港～バス24分／松山IC～15分",
