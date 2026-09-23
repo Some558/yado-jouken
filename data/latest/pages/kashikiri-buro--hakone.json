@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 17380,
+  "medianPrice": 17450,
   "reviewAvgMean": 4.43,
   "pricedCount": 24
  },
@@ -167,7 +167,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 16500,
+   "minCharge": 17300,
    "reviewAverage": 4.52,
    "reviewCount": 303,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -184,7 +184,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 22440,
+   "minCharge": 21450,
    "reviewAverage": 4.46,
    "reviewCount": 1054,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",

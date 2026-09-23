@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 71,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4350,
+  "minPrice": 4250,
   "medianPrice": 9493,
   "reviewAvgMean": 4.26,
   "pricedCount": 20
@@ -269,7 +269,7 @@
    "hotelNo": 7105,
    "name": "伊香保温泉　ホテル天坊",
    "kana": "いかほおんせん　てんぼう",
-   "minCharge": 10450,
+   "minCharge": 9900,
    "reviewAverage": 4.03,
    "reviewCount": 3225,
    "access": "関越自動車道渋川伊香保ＩＣより車約２０分 / 渋川駅より路線バス２５分見晴下下車（送迎はなし）",
@@ -303,7 +303,7 @@
    "hotelNo": 31082,
    "name": "備長炭の湯　ホテル渋川ヒルズ（ＢＢＨホテルグループ）",
    "kana": "びんちょうたんのゆ　ほてるしぶかわひるず（びーびーえいちほてるぐるーぷ）",
-   "minCharge": 4350,
+   "minCharge": 4250,
    "reviewAverage": 3.96,
    "reviewCount": 1266,
    "access": "渋川駅より徒歩３分／渋川インターより１ｋｍ",

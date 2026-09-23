@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -23,7 +23,7 @@
    "value": 71,
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
-  "minPrice": 4350,
+  "minPrice": 4250,
   "medianPrice": 8470,
   "reviewAvgMean": 4.19,
   "pricedCount": 27

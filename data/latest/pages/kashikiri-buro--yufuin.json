@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4032,
-  "medianPrice": 15525,
+  "medianPrice": 14810,
   "reviewAvgMean": 4.48,
   "pricedCount": 36
  },
@@ -167,7 +167,7 @@
    "hotelNo": 139452,
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
-   "minCharge": 20322,
+   "minCharge": 22089,
    "reviewAverage": 4.78,
    "reviewCount": 215,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",
@@ -184,7 +184,7 @@
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 16500,
+   "minCharge": 22000,
    "reviewAverage": 4.76,
    "reviewCount": 1027,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
@@ -269,7 +269,7 @@
    "hotelNo": 28502,
    "name": "由布院温泉　榎屋旅館",
    "kana": "ゆふいんおんせん　えのきやりょかん",
-   "minCharge": 18480,
+   "minCharge": 19354,
    "reviewAverage": 4.64,
    "reviewCount": 266,
    "access": "ＪＲ由布院駅より徒歩１３分／大分空港より高速バスで５５分",

@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 4300,
-  "medianPrice": 11525,
+  "medianPrice": 11550,
   "reviewAvgMean": 4.5,
   "pricedCount": 50
  },
@@ -251,23 +251,6 @@
    "special": "プライベート重視が嬉しい♪貸切温泉×個室レストラン／城崎温泉おとな専用湯宿"
   },
   {
-   "hotelNo": 50571,
-   "name": "城崎温泉　富士見屋",
-   "kana": "きのさきおんせん　ふじみや",
-   "minCharge": 11000,
-   "reviewAverage": 4.66,
-   "reviewCount": 92,
-   "access": "ＪＲ城崎駅より徒歩8分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島730",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D50571",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D50571%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D50571",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50571.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50571/50571.jpg",
-   "special": "いつでも「ただいま」と帰れるもうひとつの場所に。温泉街の路地奥、夫婦で営む小さな湯宿です。"
-  },
-  {
    "hotelNo": 8766,
    "name": "城崎温泉　つちや旅館",
    "kana": "きのさきおんせん　つちやりょかん",
@@ -300,6 +283,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144559.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144559/144559.jpg",
    "special": "日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿"
+  },
+  {
+   "hotelNo": 50571,
+   "name": "城崎温泉　富士見屋",
+   "kana": "きのさきおんせん　ふじみや",
+   "minCharge": 15400,
+   "reviewAverage": 4.66,
+   "reviewCount": 92,
+   "access": "ＪＲ城崎駅より徒歩8分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島730",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D50571",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D50571%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D50571",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50571.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50571/50571.jpg",
+   "special": "いつでも「ただいま」と帰れるもうひとつの場所に。温泉街の路地奥、夫婦で営む小さな湯宿です。"
   },
   {
    "hotelNo": 28142,

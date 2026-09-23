@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -33,7 +33,7 @@
    "hotelNo": 165194,
    "name": "道後御湯",
    "kana": "どうごみゆ",
-   "minCharge": 30000,
+   "minCharge": 26410,
    "reviewAverage": 4.94,
    "reviewCount": 314,
    "access": "伊予鉄道　道後温泉駅より徒歩にて約５分",

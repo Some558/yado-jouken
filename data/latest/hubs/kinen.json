@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 149,
    "matchRate": 41.0,
    "minPrice": 5050,
-   "medianPrice": 12995,
+   "medianPrice": 13200,
    "reviewAvgMean": 4.39
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 70,
    "matchRate": 44.0,
    "minPrice": 3000,
-   "medianPrice": 11150,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.39
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 148,
    "matchRate": 57.8,
    "minPrice": 3000,
-   "medianPrice": 8305,
+   "medianPrice": 8155,
    "reviewAvgMean": 4.34
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 157,
    "matchRate": 49.7,
    "minPrice": 3510,
-   "medianPrice": 16225,
+   "medianPrice": 15725,
    "reviewAvgMean": 4.46
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 65,
    "matchRate": 41.7,
    "minPrice": 3000,
-   "medianPrice": 11000,
+   "medianPrice": 11250,
    "reviewAvgMean": 4.51
   },
   {

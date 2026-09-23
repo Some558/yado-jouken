@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "recordCount": 71,
  "conditions": [
   {
@@ -126,7 +126,7 @@
    "hotelNo": 188003,
    "name": "伊香保温泉　Ｄｏｇｇｙスイート　ペロ",
    "kana": "イカホオンセンドギースイートペロ",
-   "minCharge": 27300,
+   "minCharge": 28350,
    "reviewAverage": 4.73,
    "reviewCount": 66,
    "access": "関越自動車道渋川ＩＣよりお車で約３０分",
@@ -912,7 +912,7 @@
    "hotelNo": 7105,
    "name": "伊香保温泉　ホテル天坊",
    "kana": "いかほおんせん　てんぼう",
-   "minCharge": 10450,
+   "minCharge": 9900,
    "reviewAverage": 4.03,
    "reviewCount": 3225,
    "access": "関越自動車道渋川伊香保ＩＣより車約２０分 / 渋川駅より路線バス２５分見晴下下車（送迎はなし）",
@@ -1007,7 +1007,7 @@
    "hotelNo": 31082,
    "name": "備長炭の湯　ホテル渋川ヒルズ（ＢＢＨホテルグループ）",
    "kana": "びんちょうたんのゆ　ほてるしぶかわひるず（びーびーえいちほてるぐるーぷ）",
-   "minCharge": 4350,
+   "minCharge": 4250,
    "reviewAverage": 3.96,
    "reviewCount": 1266,
    "access": "渋川駅より徒歩３分／渋川インターより１ｋｍ",

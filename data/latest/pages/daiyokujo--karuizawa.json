@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -23,7 +23,7 @@
    "value": 279,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
-  "minPrice": 4500,
+  "minPrice": 4250,
   "medianPrice": 10200,
   "reviewAvgMean": 4.35,
   "pricedCount": 31
@@ -186,7 +186,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 5050,
+   "minCharge": 5310,
    "reviewAverage": 4.62,
    "reviewCount": 938,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",

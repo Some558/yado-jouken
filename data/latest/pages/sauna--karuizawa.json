@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3700,
+  "minPrice": 4200,
   "medianPrice": 12275,
   "reviewAvgMean": 4.42,
   "pricedCount": 18
@@ -133,7 +133,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 5050,
+   "minCharge": 5310,
    "reviewAverage": 4.62,
    "reviewCount": 938,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -286,7 +286,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 3700,
+   "minCharge": 4200,
    "reviewAverage": 3.95,
    "reviewCount": 2547,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",
@@ -303,7 +303,7 @@
    "hotelNo": 182619,
    "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
    "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
-   "minCharge": 5100,
+   "minCharge": 4250,
    "reviewAverage": 3.93,
    "reviewCount": 737,
    "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",

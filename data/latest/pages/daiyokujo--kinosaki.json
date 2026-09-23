@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-23",
+ "dataAsOf": "2026-09-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 9950,
+  "medianPrice": 10000,
   "reviewAvgMean": 4.44,
   "pricedCount": 32
  },
@@ -220,7 +220,7 @@
    "hotelNo": 29554,
    "name": "城崎温泉　お宿　芹",
    "kana": "おやど　せり",
-   "minCharge": 9000,
+   "minCharge": 10000,
    "reviewAverage": 4.59,
    "reviewCount": 433,
    "access": "JR城崎温泉駅(15：00～22：30送迎有。お電話ください)／お車：北近畿豊岡自動車道「但馬空港IC」 より30分",
