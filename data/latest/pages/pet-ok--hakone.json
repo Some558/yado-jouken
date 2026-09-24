@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 173084,
    "name": "レジーナリゾート箱根仙石原",
    "kana": "れじーなりぞーとはこねせんごくはら",
-   "minCharge": 35700,
+   "minCharge": 34100,
    "reviewAverage": 4.7,
    "reviewCount": 155,
    "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
@@ -82,7 +82,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 9600,
+   "minCharge": 8800,
    "reviewAverage": 4.42,
    "reviewCount": 91,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -218,7 +218,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 5600,
+   "minCharge": 6400,
    "reviewAverage": 4.06,
    "reviewCount": 206,
    "access": "箱根登山バス：仙石高原 から徒歩2分",

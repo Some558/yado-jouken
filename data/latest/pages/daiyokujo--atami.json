@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 9790,
+  "medianPrice": 10000,
   "reviewAvgMean": 4.26,
   "pricedCount": 55
  },
@@ -288,7 +288,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 9440,
+   "minCharge": 12390,
    "reviewAverage": 4.46,
    "reviewCount": 616,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",

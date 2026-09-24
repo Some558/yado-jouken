@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1500,
-  "medianPrice": 8400,
+  "medianPrice": 7700,
   "reviewAvgMean": 4.2,
   "pricedCount": 5
  },
@@ -65,7 +65,7 @@
    "hotelNo": 180427,
    "name": "別府　丘と海のドッグリゾート（旧：別府風雅）",
    "kana": "べっぷ　おかとうみのどっぐりぞーと（べっぷふうが）",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.34,
    "reviewCount": 835,
    "access": "別府ICより車で約1分、別府駅よりバス堀田温泉前下車 徒歩約６分、車またはタクシーで別府駅約１５分、大分空港約４０分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 9950,
+  "medianPrice": 10000,
   "reviewAvgMean": 4.33,
   "pricedCount": 30
  },
@@ -286,7 +286,7 @@
    "hotelNo": 18976,
    "name": "熱海温泉　ほり多",
    "kana": "あたみおんせん　ほりた",
-   "minCharge": 16500,
+   "minCharge": 13200,
    "reviewAverage": 4.32,
    "reviewCount": 187,
    "access": "熱海駅より伊東線来宮駅（二分）下車、来宮神社方向に徒歩５分。",
@@ -303,7 +303,7 @@
    "hotelNo": 108981,
    "name": "熱海伊豆山温泉　ハートピア熱海",
    "kana": "あたみいずさんおんせん　はーとぴああたみ",
-   "minCharge": 8800,
+   "minCharge": 11000,
    "reviewAverage": 4.24,
    "reviewCount": 470,
    "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",

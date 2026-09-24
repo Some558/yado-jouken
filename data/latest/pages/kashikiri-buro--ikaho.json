@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 10500,
+  "medianPrice": 10450,
   "reviewAvgMean": 4.34,
   "pricedCount": 19
  },
@@ -133,7 +133,7 @@
    "hotelNo": 19362,
    "name": "伊香保温泉　松本楼　洋風旅館ぴのん",
    "kana": "いかほおんせん　ようふうりょかん　びのん",
-   "minCharge": 11000,
+   "minCharge": 10450,
    "reviewAverage": 4.52,
    "reviewCount": 1687,
    "access": "ＪＲ上越線渋川駅よりバスで約２０分、見晴下 下車／関越道渋川・伊香保ＩＣより約１０ｋｍ",

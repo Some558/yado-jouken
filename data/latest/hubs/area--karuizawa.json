@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "recordCount": 279,
  "conditions": [
   {
@@ -738,7 +738,7 @@
    "hotelNo": 50619,
    "name": "旧軽井沢　ホテル音羽ノ森",
    "kana": "きゅうかるいざわ　ほてるおとわのもり",
-   "minCharge": 11781,
+   "minCharge": 17226,
    "reviewAverage": 4.58,
    "reviewCount": 389,
    "access": "鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。車：東京方面、碓氷軽井沢ＩＣ約２０分。長野・愛知方面、小諸ＩＣ約３０分",
@@ -1139,7 +1139,7 @@
    "hotelNo": 181343,
    "name": "軽井沢プリンスホテル　イースト",
    "kana": "かるいざわぷりんすほてるいーすと",
-   "minCharge": 13396,
+   "minCharge": 14095,
    "reviewAverage": 4.44,
    "reviewCount": 217,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行☆",
@@ -1452,7 +1452,7 @@
    "hotelNo": 16784,
    "name": "ホテル軽井沢エレガンス",
    "kana": "かるいざわ　えれがんす",
-   "minCharge": 5600,
+   "minCharge": 5400,
    "reviewAverage": 4.21,
    "reviewCount": 247,
    "access": "JR軽井沢駅より徒歩１０分、上信越自動車道碓井・軽井沢I.C.より約１５分",

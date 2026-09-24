@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 7000,
+  "medianPrice": 6500,
   "reviewAvgMean": 4.31,
   "pricedCount": 29
  },
@@ -184,7 +184,7 @@
    "hotelNo": 20469,
    "name": "道後温泉　オールドイングランド　道後山の手ホテル",
    "kana": "どうごおんせん　おーるどいんぐらんど　どうご　やまのてほてる",
-   "minCharge": 7000,
+   "minCharge": 6500,
    "reviewAverage": 4.45,
    "reviewCount": 4142,
    "access": "道後温泉駅より徒歩約5分／空港からリムジンバスで３５分／ＪＲ松山駅より電車又はバスで２０分／松山観光港よりバスで５０分",
@@ -286,7 +286,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7119,
+   "minCharge": 7684,
    "reviewAverage": 4.38,
    "reviewCount": 1473,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -303,7 +303,7 @@
    "hotelNo": 130460,
    "name": "南道後温泉　ホテルていれぎ館",
    "kana": "みなみどうごおんせん　ほてるていれぎかん",
-   "minCharge": 4220,
+   "minCharge": 4070,
    "reviewAverage": 4.28,
    "reviewCount": 599,
    "access": "松山ＩＣより砥部方面へ１０分砥部町拾町交差点より１００m伊予市方面へ。バスはＪＲ四国で２０分 伊予鉄で３０分、高尾田下車",

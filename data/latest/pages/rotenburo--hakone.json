@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5050,
-  "medianPrice": 15875,
+  "medianPrice": 15333,
   "reviewAvgMean": 4.38,
   "pricedCount": 68
  },
@@ -116,7 +116,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 26400,
+   "minCharge": 27280,
    "reviewAverage": 4.77,
    "reviewCount": 910,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -150,7 +150,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 45100,
+   "minCharge": 46200,
    "reviewAverage": 4.7,
    "reviewCount": 895,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -201,7 +201,7 @@
    "hotelNo": 180298,
    "name": "源泉かけ流しの宿　櫻休庵＜ＯＵＫＹＵＡＮ＞",
    "kana": "げんせんかけながしのやど　おうきゅうあん",
-   "minCharge": 20800,
+   "minCharge": 19800,
    "reviewAverage": 4.63,
    "reviewCount": 40,
    "access": "強羅駅よりお車にて約７分　宮城野橋バス停から徒歩10分",
@@ -218,7 +218,7 @@
    "hotelNo": 79469,
    "name": "箱根翡翠",
    "kana": "はこねひすい",
-   "minCharge": 32680,
+   "minCharge": 33630,
    "reviewAverage": 4.61,
    "reviewCount": 277,
    "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",

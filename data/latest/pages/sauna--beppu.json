@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8505,
+  "medianPrice": 8210,
   "reviewAvgMean": 4.38,
-  "pricedCount": 30
+  "pricedCount": 29
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 30969,
    "name": "別府鉄輪温泉　旅館　みゆき屋",
    "kana": "みゆきや",
-   "minCharge": 7700,
+   "minCharge": null,
    "reviewAverage": 4.75,
    "reviewCount": 192,
    "access": "別府駅よりタクシーで約１５分／別府ＩＣから約７分※ナビは正確でない場合があります。お電話でお尋ねください。",
@@ -201,7 +201,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 30750,
+   "minCharge": 32000,
    "reviewAverage": 4.56,
    "reviewCount": 108,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -286,7 +286,7 @@
    "hotelNo": 180427,
    "name": "別府　丘と海のドッグリゾート（旧：別府風雅）",
    "kana": "べっぷ　おかとうみのどっぐりぞーと（べっぷふうが）",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.34,
    "reviewCount": 835,
    "access": "別府ICより車で約1分、別府駅よりバス堀田温泉前下車 徒歩約６分、車またはタクシーで別府駅約１５分、大分空港約４０分",
@@ -303,7 +303,7 @@
    "hotelNo": 674,
    "name": "ホテルアーサー　ＫＩＴＡＨＡＭＡ　ＢＡＳＥ",
    "kana": "ほてるあーさー　きたはまべーす",
-   "minCharge": 4208,
+   "minCharge": 3995,
    "reviewAverage": 4.31,
    "reviewCount": 1735,
    "access": "ＪＲ「別府駅」より徒歩３分 　大分空港より「北浜停留所」徒歩５分　大分自動車道別府I.Cより15分",
@@ -337,7 +337,7 @@
    "hotelNo": 147186,
    "name": "Ｔａｂｉｓｔ　日生や　別府鉄輪",
    "kana": "たびすと　にっせいや　べっぷかんなわ",
-   "minCharge": 5130,
+   "minCharge": 4940,
    "reviewAverage": 4.28,
    "reviewCount": 260,
    "access": "別府大学駅よりバスにて約5分。別府駅よりバスで約30分。鉄輪バス停下車徒歩5分。",

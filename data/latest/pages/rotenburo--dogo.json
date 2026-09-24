@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 8330,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.35,
   "pricedCount": 35
  },
@@ -303,7 +303,7 @@
    "hotelNo": 20469,
    "name": "道後温泉　オールドイングランド　道後山の手ホテル",
    "kana": "どうごおんせん　おーるどいんぐらんど　どうご　やまのてほてる",
-   "minCharge": 7000,
+   "minCharge": 6500,
    "reviewAverage": 4.45,
    "reviewCount": 4142,
    "access": "道後温泉駅より徒歩約5分／空港からリムジンバスで３５分／ＪＲ松山駅より電車又はバスで２０分／松山観光港よりバスで５０分",

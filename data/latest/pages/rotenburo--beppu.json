@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-24",
+ "dataAsOf": "2026-09-25",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 9845,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.37,
-  "pricedCount": 60
+  "pricedCount": 59
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 30969,
    "name": "別府鉄輪温泉　旅館　みゆき屋",
    "kana": "みゆきや",
-   "minCharge": 7700,
+   "minCharge": null,
    "reviewAverage": 4.75,
    "reviewCount": 192,
    "access": "別府駅よりタクシーで約１５分／別府ＩＣから約７分※ナビは正確でない場合があります。お電話でお尋ねください。",
@@ -82,7 +82,7 @@
    "hotelNo": 184851,
    "name": "ＭＵＲＥ　Ｂｅｐｐｕ",
    "kana": "むれ　べっぷ",
-   "minCharge": 9500,
+   "minCharge": 8500,
    "reviewAverage": 4.7,
    "reviewCount": 65,
    "access": "別府駅より徒歩にて約１１分、別府ICよりお車にて約１６分",
@@ -286,7 +286,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 30750,
+   "minCharge": 32000,
    "reviewAverage": 4.56,
    "reviewCount": 108,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
