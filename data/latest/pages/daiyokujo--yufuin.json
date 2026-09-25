@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-25",
+ "dataAsOf": "2026-09-26",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-09-26",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,
-  "medianPrice": 17050,
+  "medianPrice": 17270,
   "reviewAvgMean": 4.41,
   "pricedCount": 26
  },
@@ -101,7 +101,7 @@
    "hotelNo": 139452,
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
-   "minCharge": 21205,
+   "minCharge": 20322,
    "reviewAverage": 4.78,
    "reviewCount": 215,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",
@@ -322,7 +322,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 9415,
+   "minCharge": 10800,
    "reviewAverage": 4.18,
    "reviewCount": 293,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",
@@ -339,7 +339,7 @@
    "hotelNo": 39494,
    "name": "由布院　梅園　ＧＡＲＤＥＮ　ＲＥＳＯＲＴ",
    "kana": "ゆふいん　ばいえん　がーでん　りぞーと",
-   "minCharge": 14520,
+   "minCharge": 16940,
    "reviewAverage": 4.16,
    "reviewCount": 532,
    "access": "ＪＲ九州久大本線　由布院駅から車で５分、徒歩３０分　＊金鱗湖まで自転車で3分（徒歩15分）観光にも好立地",

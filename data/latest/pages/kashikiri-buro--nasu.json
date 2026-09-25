@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-25",
+ "dataAsOf": "2026-09-26",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 2489,
    "name": "那須温泉　ペンション散歩道",
    "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 15490,
+   "minCharge": 14990,
    "reviewAverage": 4.83,
    "reviewCount": 181,
    "access": "東北自動車道那須ＩＣより車で１２分",

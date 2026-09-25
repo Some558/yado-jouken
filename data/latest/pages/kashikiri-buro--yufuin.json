@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-25",
+ "dataAsOf": "2026-09-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4032,
-  "medianPrice": 14810,
+  "medianPrice": 15525,
   "reviewAvgMean": 4.48,
   "pricedCount": 36
  },
@@ -48,7 +48,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 20000,
+   "minCharge": 24000,
    "reviewAverage": 4.92,
    "reviewCount": 379,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",
@@ -167,7 +167,7 @@
    "hotelNo": 139452,
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
-   "minCharge": 21205,
+   "minCharge": 20322,
    "reviewAverage": 4.78,
    "reviewCount": 215,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",
@@ -337,7 +337,7 @@
    "hotelNo": 38971,
    "name": "由布院温泉　ペンション　ゆふいん",
    "kana": "ゆふいんおんせん　ゆふいん",
-   "minCharge": 4400,
+   "minCharge": 8250,
    "reviewAverage": 4.5,
    "reviewCount": 95,
    "access": "JR久大本線　由布院駅より徒歩７分／大分自動車道湯布院ICより１０分ほどです。",

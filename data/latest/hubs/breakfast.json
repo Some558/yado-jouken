@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-09-25",
+ "dataAsOf": "2026-09-26",
  "areas": [
   {
    "area": {
@@ -41,7 +41,7 @@
    "matchCount": 91,
    "matchRate": 33.7,
    "minPrice": 2700,
-   "medianPrice": 10200,
+   "medianPrice": 10098,
    "reviewAvgMean": 4.3
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 97,
    "matchRate": 30.7,
    "minPrice": 2520,
-   "medianPrice": 16700,
+   "medianPrice": 16920,
    "reviewAvgMean": 4.49
   },
   {

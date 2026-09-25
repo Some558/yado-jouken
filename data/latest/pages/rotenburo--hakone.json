@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-25",
+ "dataAsOf": "2026-09-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5050,
-  "medianPrice": 15333,
+  "medianPrice": 15490,
   "reviewAvgMean": 4.38,
   "pricedCount": 68
  },
@@ -48,7 +48,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 71190,
+   "minCharge": 67800,
    "reviewAverage": 4.89,
    "reviewCount": 657,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -269,7 +269,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 28300,
+   "minCharge": 27300,
    "reviewAverage": 4.57,
    "reviewCount": 402,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",

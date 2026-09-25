@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-25",
+ "dataAsOf": "2026-09-26",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 32000,
+   "minCharge": 30500,
    "reviewAverage": 4.56,
    "reviewCount": 108,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -218,7 +218,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 12705,
+   "minCharge": 11165,
    "reviewAverage": 4.52,
    "reviewCount": 201,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -351,21 +351,21 @@
    "special": "全６室の大人の隠れ宿。内４室は専用露天風呂付の客室。３ヶ所の貸切露天風呂がある、すべて源泉かけ流し"
   },
   {
-   "hotelNo": 167075,
-   "name": "コスタ・デル・ソル　ひじ",
-   "kana": "こすた　でる　そる　ひじ",
-   "minCharge": 7000,
+   "hotelNo": 28628,
+   "name": "別府温泉　天空湯房　清海荘",
+   "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
+   "minCharge": 6050,
    "reviewAverage": 4.36,
-   "reviewCount": 187,
-   "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",
+   "reviewCount": 625,
+   "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",
    "address1": "大分県",
-   "address2": "速見郡日出町川崎4144-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167075",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167075%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167075",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167075.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167075/167075.jpg",
-   "special": "別府湾を一望できる南国風リゾート施設。全室オーシャンビューコテージで＆源泉かけ流し温泉内湯を満喫！"
+   "address2": "別府市北浜3丁目14-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28628",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28628%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28628",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28628.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28628/28628.jpg",
+   "special": "別府で唯一の別府湾の絶景をお楽しみいただける展望貸切露天風呂を十分ご堪能下さい。"
   }
  ],
  "listedMatchCount": 34
