@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 7500,
+  "medianPrice": 6500,
   "reviewAvgMean": 4.31,
   "pricedCount": 29
  },
@@ -65,7 +65,7 @@
    "hotelNo": 10788,
    "name": "道後温泉　道後舘",
    "kana": "どうごおんせん　どうごかん",
-   "minCharge": 15950,
+   "minCharge": 17050,
    "reviewAverage": 4.66,
    "reviewCount": 2077,
    "access": "◆道後温泉本館まで徒歩５分◆飛鳥乃湯泉は坂道降りてすぐ徒歩３分◆道後温泉駅徒歩７分◆",
@@ -337,7 +337,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 7500,
+   "minCharge": 6400,
    "reviewAverage": 4.21,
    "reviewCount": 2400,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",

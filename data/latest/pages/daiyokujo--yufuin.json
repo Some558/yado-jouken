@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 7700,
-  "medianPrice": 14630,
-  "reviewAvgMean": 4.47,
-  "pricedCount": 20
+  "medianPrice": 17600,
+  "reviewAvgMean": 4.48,
+  "pricedCount": 19
  },
  "hotels": [
   {
@@ -220,7 +220,7 @@
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
-   "minCharge": 20570,
+   "minCharge": 22440,
    "reviewAverage": 4.43,
    "reviewCount": 359,
    "access": "ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分",
@@ -237,7 +237,7 @@
    "hotelNo": 32476,
    "name": "由布院温泉　湯布院　山灯館",
    "kana": "ゆふいんおんせん　ゆふいん　さんとうかん",
-   "minCharge": 21510,
+   "minCharge": 23310,
    "reviewAverage": 4.42,
    "reviewCount": 55,
    "access": "JR　由布院駅より車で５分　徒歩で１５分　金鱗湖に近く　ショッピング湯の坪街道に便利な立地",
@@ -302,23 +302,6 @@
    "special": "由布岳の麓に佇む、源泉かけ流し100％温泉の隠れ家。大分の絶景と豊後牛で至福のひとときを。"
   },
   {
-   "hotelNo": 70870,
-   "name": "由布のお宿　ほたる",
-   "kana": "ゆふのおやど　ほたる",
-   "minCharge": 15950,
-   "reviewAverage": 4.22,
-   "reviewCount": 69,
-   "access": "ＪＲ九大本線由布院駅　車８分／湯布院ＩＣ　車２分／【送迎可　１５時～１７時半】要電話。当日は１０分程お待ちいただきます",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川北1791-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70870",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70870%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70870",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70870.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70870/70870.jpg",
-   "special": "浸かって納得！２４時間掛け流しのとろとろ温泉！由布岳一望の露天風呂で、寛ぎの時間をお楽しみ下さい。"
-  },
-  {
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
@@ -339,7 +322,7 @@
    "hotelNo": 39494,
    "name": "由布院　梅園　ＧＡＲＤＥＮ　ＲＥＳＯＲＴ",
    "kana": "ゆふいん　ばいえん　がーでん　りぞーと",
-   "minCharge": 13310,
+   "minCharge": 18150,
    "reviewAverage": 4.06,
    "reviewCount": 535,
    "access": "ＪＲ九州久大本線　由布院駅から車で５分、徒歩３０分　＊金鱗湖まで自転車で3分（徒歩15分）観光にも好立地",
@@ -370,5 +353,5 @@
    "special": "【『ももクロさん』出演 楽天トラベルCM ２０２３年秋冬編 撮影宿】全18棟の露天風呂付客室"
   }
  ],
- "listedMatchCount": 20
+ "listedMatchCount": 19
 }

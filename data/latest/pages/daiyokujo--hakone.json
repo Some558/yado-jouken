@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 13200,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.32,
   "pricedCount": 51
  },
@@ -84,7 +84,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 13350,
+   "minCharge": 11150,
    "reviewAverage": 4.66,
    "reviewCount": 403,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -322,7 +322,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 21450,
+   "minCharge": 20350,
    "reviewAverage": 4.45,
    "reviewCount": 1058,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",

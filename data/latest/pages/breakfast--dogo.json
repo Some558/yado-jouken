@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 1850,
-  "medianPrice": 5550,
-  "reviewAvgMean": 4.26,
-  "pricedCount": 51
+  "medianPrice": 5650,
+  "reviewAvgMean": 4.25,
+  "pricedCount": 52
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 10788,
    "name": "道後温泉　道後舘",
    "kana": "どうごおんせん　どうごかん",
-   "minCharge": 15950,
+   "minCharge": 17050,
    "reviewAverage": 4.66,
    "reviewCount": 2077,
    "access": "◆道後温泉本館まで徒歩５分◆飛鳥乃湯泉は坂道降りてすぐ徒歩３分◆道後温泉駅徒歩７分◆",
@@ -322,7 +322,7 @@
    "hotelNo": 179221,
    "name": "ホテルビスタ松山",
    "kana": "ほてるびすたまつやま",
-   "minCharge": 5300,
+   "minCharge": 5600,
    "reviewAverage": 4.38,
    "reviewCount": 730,
    "access": "■松山空港→リムジンバス約３０分→大街道電停徒歩１分　／　■ＪＲ松山駅→伊予電鉄 約１５分→大街道駅徒歩２分",
@@ -370,5 +370,5 @@
    "special": "道後で唯一ドッグラン♪ペットと泊まれる宿♪Wi-Fi完備★全室禁煙"
   }
  ],
- "listedMatchCount": 51
+ "listedMatchCount": 52
 }

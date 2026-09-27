@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "recordCount": 156,
  "conditions": [
   {
@@ -166,7 +166,7 @@
    "hotelNo": 178547,
    "name": "１日６組限定　ー独占、という名の贅沢ー　炭平別邸　季ト時",
    "kana": "どくせん　というなのぜいたく　すみへいべってい　ときととき",
-   "minCharge": 27700,
+   "minCharge": 33000,
    "reviewAverage": 4.87,
    "reviewCount": 498,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約５分",
@@ -813,7 +813,7 @@
    "hotelNo": 56951,
    "name": "城崎温泉　但馬屋（たじまや）",
    "kana": "きのさきおんせん　たじまや",
-   "minCharge": 18700,
+   "minCharge": 24200,
    "reviewAverage": 4.6,
    "reviewCount": 343,
    "access": "ＪＲ　城崎温泉駅より徒歩１３分, 車　大阪より　中国道→吉川JCT→舞鶴若狭自動車道→春日JCT→北近畿豊岡自動車道",
@@ -834,7 +834,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 10980,
+   "minCharge": 15980,
    "reviewAverage": 4.59,
    "reviewCount": 1054,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",
@@ -857,31 +857,10 @@
    ]
   },
   {
-   "hotelNo": 18412,
-   "name": "城崎温泉　かがり火の宿　大西屋水翔苑",
-   "kana": "きのさきおんせん　かがりびのやど　おおにしやすいしょうえん",
-   "minCharge": 9230,
-   "reviewAverage": 4.57,
-   "reviewCount": 638,
-   "access": "お車：北近畿豊岡自動車道(但馬空港IC最終)より25分、JR城崎温泉駅より組合無料バス（チェックインバス）で約5分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町桃島1256番地",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18412",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D18412%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D18412",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18412.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18412/18412.jpg",
-   "special": "中庭にはかがり火の演出、廊下は畳敷き、ロビーで無料のコーヒー、サウナと水風呂あり。",
-   "conditions": [
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 29554,
    "name": "城崎温泉　お宿　芹",
    "kana": "おやど　せり",
-   "minCharge": 10000,
+   "minCharge": 9000,
    "reviewAverage": 4.57,
    "reviewCount": 435,
    "access": "JR城崎温泉駅(15：00～22：30送迎有。お電話ください)／お車：北近畿豊岡自動車道「但馬空港IC」 より30分",
@@ -900,6 +879,27 @@
     "breakfast",
     "dinner",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 18412,
+   "name": "城崎温泉　かがり火の宿　大西屋水翔苑",
+   "kana": "きのさきおんせん　かがりびのやど　おおにしやすいしょうえん",
+   "minCharge": 9230,
+   "reviewAverage": 4.57,
+   "reviewCount": 638,
+   "access": "お車：北近畿豊岡自動車道(但馬空港IC最終)より25分、JR城崎温泉駅より組合無料バス（チェックインバス）で約5分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町桃島1256番地",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18412",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D18412%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D18412",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18412.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18412/18412.jpg",
+   "special": "中庭にはかがり火の演出、廊下は畳敷き、ロビーで無料のコーヒー、サウナと水風呂あり。",
+   "conditions": [
+    "rotenburo",
+    "sauna"
    ]
   },
   {
@@ -1025,7 +1025,7 @@
    "hotelNo": 56184,
    "name": "城崎温泉　つるや旅館",
    "kana": "きのさきおんせん　つるや",
-   "minCharge": 7700,
+   "minCharge": 8800,
    "reviewAverage": 4.53,
    "reviewCount": 163,
    "access": "ＪＲ城崎温泉駅より、徒歩１２分。",
@@ -1380,7 +1380,7 @@
    "hotelNo": 7835,
    "name": "城崎温泉　美術と歴史の宿　つたや旅館",
    "kana": "きのさきおんせん　びじゅつとれきしのやど　つたやりょかん",
-   "minCharge": 8300,
+   "minCharge": 10900,
    "reviewAverage": 4.34,
    "reviewCount": 150,
    "access": "JR城崎温泉駅より送迎バス５分　または　豊岡自動車　豊岡出石I.Cよりお車で30分",
@@ -1687,7 +1687,7 @@
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
-   "minCharge": 16200,
+   "minCharge": 16700,
    "reviewAverage": 4.13,
    "reviewCount": 2591,
    "access": "城崎温泉駅⇒当館　旅館組合の送迎バス（詳しい出発時間は駅舎の係員にお尋ね下さい）",

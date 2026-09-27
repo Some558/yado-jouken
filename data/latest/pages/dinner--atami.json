@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -25,7 +25,7 @@
   },
   "minPrice": 2700,
   "medianPrice": 10700,
-  "reviewAvgMean": 4.29,
+  "reviewAvgMean": 4.28,
   "pricedCount": 67
  },
  "hotels": [
@@ -33,7 +33,7 @@
    "hotelNo": 142946,
    "name": "潮騒の宿　ふじま",
    "kana": "しおさいのやど　ふじま",
-   "minCharge": 12000,
+   "minCharge": 14500,
    "reviewAverage": 4.88,
    "reviewCount": 379,
    "access": "ＪＲ伊東線　伊豆多賀駅より徒歩にて１０分、もしくは送迎有",
@@ -285,6 +285,23 @@
    "special": "23年4月サウナ付客室オープン♪屋上テラスから海と海上花火大会が楽しめるホテル。"
   },
   {
+   "hotelNo": 1854,
+   "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
+   "kana": "あたみおんせん　ゆのやど　ひらつる　",
+   "minCharge": 8200,
+   "reviewAverage": 4.55,
+   "reviewCount": 1099,
+   "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
+   "address1": "静岡県",
+   "address2": "熱海市下多賀493",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1854",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1854%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1854",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1854.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1854/1854.jpg",
+   "special": "熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気"
+  },
+  {
    "hotelNo": 130641,
    "name": "ペンション　プリンス",
    "kana": "ぺんしょん　ぷりんす",
@@ -300,23 +317,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130641.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130641/130641.jpg",
    "special": "熱海は海あり、山あり、温泉ありと四季を通じて楽しむ宿"
-  },
-  {
-   "hotelNo": 1854,
-   "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
-   "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10200,
-   "reviewAverage": 4.55,
-   "reviewCount": 1099,
-   "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
-   "address1": "静岡県",
-   "address2": "熱海市下多賀493",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1854",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1854%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1854",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1854.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1854/1854.jpg",
-   "special": "熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気"
   },
   {
    "hotelNo": 75291,

@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "areas": [
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 60,
    "matchRate": 66.7,
    "minPrice": 3000,
-   "medianPrice": 9645,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.37
   },
   {
@@ -67,8 +67,8 @@
    "matchCount": 77,
    "matchRate": 85.6,
    "minPrice": 4895,
-   "medianPrice": 16900,
-   "reviewAvgMean": 4.5
+   "medianPrice": 17600,
+   "reviewAvgMean": 4.51
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "rotenburo--nasu",
-   "matchCount": 53,
-   "matchRate": 58.9,
+   "matchCount": 52,
+   "matchRate": 57.8,
    "minPrice": 2040,
    "medianPrice": 11000,
-   "reviewAvgMean": 4.43
+   "reviewAvgMean": 4.42
   },
   {
    "area": {

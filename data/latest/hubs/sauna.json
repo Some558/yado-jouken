@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "areas": [
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 21,
    "matchRate": 29.6,
    "minPrice": 4350,
-   "medianPrice": 9493,
+   "medianPrice": 9768,
    "reviewAvgMean": 4.26
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "sauna--karuizawa",
-   "matchCount": 18,
-   "matchRate": 20.0,
+   "matchCount": 19,
+   "matchRate": 21.1,
    "minPrice": 4200,
-   "medianPrice": 12275,
-   "reviewAvgMean": 4.42
+   "medianPrice": 8840,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -132,7 +132,7 @@
    "matchCount": 29,
    "matchRate": 32.2,
    "minPrice": 3500,
-   "medianPrice": 7500,
+   "medianPrice": 6500,
    "reviewAvgMean": 4.31
   }
  ]

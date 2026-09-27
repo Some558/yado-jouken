@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "pet-ok--hakone",
    "matchCount": 16,
    "matchRate": 17.8,
-   "minPrice": 5050,
+   "minPrice": 4800,
    "medianPrice": 9725,
    "reviewAvgMean": 4.24
   },
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 26,
-   "matchRate": 28.9,
+   "matchCount": 25,
+   "matchRate": 27.8,
    "minPrice": 1690,
-   "medianPrice": 9297,
-   "reviewAvgMean": 4.44
+   "medianPrice": 8694,
+   "reviewAvgMean": 4.42
   },
   {
    "area": {

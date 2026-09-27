@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 70231,
    "name": "懐郷ノ宿　喜楽",
    "kana": "かいきょうのやど　きらく",
-   "minCharge": 9790,
+   "minCharge": 17476,
    "reviewAverage": 4.65,
    "reviewCount": 422,
    "access": "日豊本線　別府駅より車にて１５分",
@@ -320,7 +320,7 @@
    "hotelNo": 15144,
    "name": "別府温泉　割烹旅館　ゆめさき",
    "kana": "かっぽうりょかん　ゆめさき",
-   "minCharge": 9500,
+   "minCharge": 12800,
    "reviewAverage": 4.38,
    "reviewCount": 55,
    "access": "別府駅下車西口よりタクシーで約10分。 大分自動車道の別府IC出口より約10分。大分空港より車で約1時間。 駐車場無料。",

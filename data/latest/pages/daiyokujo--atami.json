@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2700,
-  "medianPrice": 10049,
+  "medianPrice": 10000,
   "reviewAvgMean": 4.24,
-  "pricedCount": 56
+  "pricedCount": 55
  },
  "hotels": [
   {
@@ -237,7 +237,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10200,
+   "minCharge": 8200,
    "reviewAverage": 4.55,
    "reviewCount": 1099,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -305,7 +305,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 12390,
+   "minCharge": 12600,
    "reviewAverage": 4.46,
    "reviewCount": 618,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -370,5 +370,5 @@
    "special": "全室オーシャンビュー！ルーフトップテラス、温泉大浴場、ドリンクフリーフローサービスでおもてなし"
   }
  ],
- "listedMatchCount": 56
+ "listedMatchCount": 55
 }

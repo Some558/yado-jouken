@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -23,8 +23,8 @@
    "value": 363,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5500,
-  "medianPrice": 12650,
+  "minPrice": 4800,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.35,
   "pricedCount": 62
  },
@@ -135,7 +135,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 13350,
+   "minCharge": 11150,
    "reviewAverage": 4.66,
    "reviewCount": 403,
    "access": "箱根湯本駅より徒歩にて１０分",

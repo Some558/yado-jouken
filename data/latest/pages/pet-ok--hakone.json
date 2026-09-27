@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-27",
+ "dataAsOf": "2026-09-28",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5050,
+  "minPrice": 4800,
   "medianPrice": 9725,
   "reviewAvgMean": 4.24,
   "pricedCount": 16
@@ -218,7 +218,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 5760,
+   "minCharge": 4800,
    "reviewAverage": 4.08,
    "reviewCount": 212,
    "access": "箱根登山バス：仙石高原 から徒歩2分",
