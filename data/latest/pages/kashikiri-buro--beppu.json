@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-28",
+ "dataAsOf": "2026-09-29",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 9095,
+  "medianPrice": 8635,
   "reviewAvgMean": 4.37,
   "pricedCount": 34
  },
@@ -235,7 +235,7 @@
    "hotelNo": 135400,
    "name": "別府鉄輪温泉　和の宿　夢月（なごみのやど　むつき）",
    "kana": "べっぷかんなわおんせん　なごみのやど　むつき",
-   "minCharge": 9500,
+   "minCharge": 8400,
    "reviewAverage": 4.52,
    "reviewCount": 737,
    "access": "大分空港からバスで約１時間　別府インターから車で３分　別府駅から車で１５分",

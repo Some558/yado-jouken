@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-09-28",
+ "dataAsOf": "2026-09-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -169,7 +169,7 @@
    "hotelNo": 79469,
    "name": "箱根翡翠",
    "kana": "はこねひすい",
-   "minCharge": 33630,
+   "minCharge": 27500,
    "reviewAverage": 4.62,
    "reviewCount": 279,
    "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-09-28",
+ "dataAsOf": "2026-09-29",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 11115,
+   "minCharge": 12160,
    "reviewAverage": 4.39,
    "reviewCount": 2714,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",
@@ -337,7 +337,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 6400,
+   "minCharge": 6300,
    "reviewAverage": 4.21,
    "reviewCount": 2400,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",

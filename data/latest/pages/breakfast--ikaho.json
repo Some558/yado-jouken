@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-28",
+ "dataAsOf": "2026-09-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -67,7 +67,7 @@
    "hotelNo": 193092,
    "name": "楓と樹",
    "kana": "ふうとき",
-   "minCharge": 14300,
+   "minCharge": 13200,
    "reviewAverage": 4.61,
    "reviewCount": 54,
    "access": "渋川駅よりお車で20分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-28",
+ "dataAsOf": "2026-09-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4598,
-  "medianPrice": 15250,
+  "medianPrice": 15711,
   "reviewAvgMean": 4.43,
   "pricedCount": 23
  },
@@ -67,7 +67,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 15250,
+   "minCharge": 17750,
    "reviewAverage": 4.71,
    "reviewCount": 546,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -254,7 +254,7 @@
    "hotelNo": 129421,
    "name": "布引温泉　こもろ",
    "kana": "ぬのびきおんせん　こもろ",
-   "minCharge": 6200,
+   "minCharge": 6400,
    "reviewAverage": 4.46,
    "reviewCount": 195,
    "access": "小諸駅よりお車で７分",
@@ -288,7 +288,7 @@
    "hotelNo": 181343,
    "name": "軽井沢プリンスホテル　イースト",
    "kana": "かるいざわぷりんすほてるいーすと",
-   "minCharge": 14095,
+   "minCharge": 15082,
    "reviewAverage": 4.41,
    "reviewCount": 219,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行☆",
@@ -356,7 +356,7 @@
    "hotelNo": 139851,
    "name": "菱野温泉　上の湯　薬師館",
    "kana": "ひしのおんせん　かみのゆ　やくしかん",
-   "minCharge": 12900,
+   "minCharge": 9900,
    "reviewAverage": 3.86,
    "reviewCount": 176,
    "access": "小諸駅よりお車にて約２０分／小諸ＩＣより約１５分",
