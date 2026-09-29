@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4598,
-  "medianPrice": 15711,
+  "medianPrice": 15949,
   "reviewAvgMean": 4.43,
   "pricedCount": 23
  },
@@ -237,7 +237,7 @@
    "hotelNo": 67500,
    "name": "ザ・プリンス軽井沢",
    "kana": "ざ・ぷりんすかるいざわ",
-   "minCharge": 13141,
+   "minCharge": 15949,
    "reviewAverage": 4.48,
    "reviewCount": 325,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",

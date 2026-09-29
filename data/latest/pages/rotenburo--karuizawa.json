@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4200,
-  "medianPrice": 12685,
+  "medianPrice": 12865,
   "reviewAvgMean": 4.42,
   "pricedCount": 20
  },
@@ -184,7 +184,7 @@
    "hotelNo": 67500,
    "name": "ザ・プリンス軽井沢",
    "kana": "ざ・ぷりんすかるいざわ",
-   "minCharge": 13141,
+   "minCharge": 15949,
    "reviewAverage": 4.48,
    "reviewCount": 325,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",
@@ -201,7 +201,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 18467,
+   "minCharge": 17534,
    "reviewAverage": 4.47,
    "reviewCount": 348,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",

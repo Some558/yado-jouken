@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 2040,
-  "medianPrice": 11000,
+  "minPrice": 2650,
+  "medianPrice": 11027,
   "reviewAvgMean": 4.42,
   "pricedCount": 52
  },
@@ -184,7 +184,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 27600,
+   "minCharge": 35880,
    "reviewAverage": 4.67,
    "reviewCount": 388,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -286,7 +286,7 @@
    "hotelNo": 16139,
    "name": "カントリーハウス　パディントン＜栃木県＞",
    "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
-   "minCharge": 6000,
+   "minCharge": 8800,
    "reviewAverage": 4.59,
    "reviewCount": 1319,
    "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
@@ -320,7 +320,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 30837,
+   "minCharge": 36081,
    "reviewAverage": 4.57,
    "reviewCount": 35,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",

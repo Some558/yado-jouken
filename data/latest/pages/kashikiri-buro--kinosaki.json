@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 12000,
+  "medianPrice": 12650,
   "reviewAvgMean": 4.51,
   "pricedCount": 41
  },
@@ -65,7 +65,7 @@
    "hotelNo": 8509,
    "name": "城崎温泉　小林屋",
    "kana": "きのさきおんせん　こばやしや",
-   "minCharge": 22600,
+   "minCharge": 28600,
    "reviewAverage": 4.91,
    "reviewCount": 144,
    "access": "車：北近畿豊岡自動車道　但馬空港ICより約30分／電車・バス：城崎温泉駅より徒歩約7分",
@@ -181,6 +181,23 @@
    "special": "かに・但馬牛など四季折々の味覚と充実したお風呂。五万坪の森林に囲まれ寛ぎのひとときを。無料駐車場有"
   },
   {
+   "hotelNo": 144559,
+   "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
+   "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
+   "minCharge": 12650,
+   "reviewAverage": 4.67,
+   "reviewCount": 294,
+   "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島219",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D144559",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D144559%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D144559",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144559.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144559/144559.jpg",
+   "special": "日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿"
+  },
+  {
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
@@ -215,23 +232,6 @@
    "special": "2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館"
   },
   {
-   "hotelNo": 144559,
-   "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
-   "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
-   "minCharge": 14850,
-   "reviewAverage": 4.67,
-   "reviewCount": 294,
-   "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島219",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D144559",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D144559%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D144559",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144559.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144559/144559.jpg",
-   "special": "日本で唯一の但馬玄一頭買い肉専門の宿。貸切風呂はじめ湯上りラウンジはビールやワインが楽しめる大人の宿"
-  },
-  {
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
@@ -252,7 +252,7 @@
    "hotelNo": 138019,
    "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
    "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 12000,
+   "minCharge": 13200,
    "reviewAverage": 4.65,
    "reviewCount": 138,
    "access": "城崎温泉駅から徒歩７分",
@@ -337,7 +337,7 @@
    "hotelNo": 56951,
    "name": "城崎温泉　但馬屋（たじまや）",
    "kana": "きのさきおんせん　たじまや",
-   "minCharge": 18700,
+   "minCharge": 13200,
    "reviewAverage": 4.6,
    "reviewCount": 343,
    "access": "ＪＲ　城崎温泉駅より徒歩１３分, 車　大阪より　中国道→吉川JCT→舞鶴若狭自動車道→春日JCT→北近畿豊岡自動車道",
@@ -354,7 +354,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 24980,
+   "minCharge": 21980,
    "reviewAverage": 4.59,
    "reviewCount": 1054,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",

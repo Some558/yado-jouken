@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8784,
-  "medianPrice": 10400,
+  "medianPrice": 11375,
   "reviewAvgMean": 4.51,
   "pricedCount": 11
  },
@@ -65,7 +65,7 @@
    "hotelNo": 43826,
    "name": "由布院温泉　かほりの郷　はな村",
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
-   "minCharge": 12000,
+   "minCharge": 26000,
    "reviewAverage": 4.7,
    "reviewCount": 805,
    "access": "ＪＲ　由布院駅より徒歩１0分／湯布院ＩＣより車で１０分/由布院駅までの送迎ご希望の方は由布院駅よりお電話下さい。",
@@ -99,7 +99,7 @@
    "hotelNo": 153349,
    "name": "由布院温泉　湯布院旅館のぎく",
    "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 9625,
+   "minCharge": 11375,
    "reviewAverage": 4.63,
    "reviewCount": 65,
    "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",
@@ -150,7 +150,7 @@
    "hotelNo": 1678,
    "name": "由布院温泉　ゆふいん山水館",
    "kana": "ゆふいんおんせん　ゆふいんさんすいかん",
-   "minCharge": 8800,
+   "minCharge": 11000,
    "reviewAverage": 4.43,
    "reviewCount": 896,
    "access": "ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。",
@@ -167,7 +167,7 @@
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 10200,
+   "minCharge": 11600,
    "reviewAverage": 4.43,
    "reviewCount": 316,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",

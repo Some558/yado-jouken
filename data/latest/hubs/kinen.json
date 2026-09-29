@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 137,
    "matchRate": 37.7,
    "minPrice": 4800,
-   "medianPrice": 12100,
+   "medianPrice": 13600,
    "reviewAvgMean": 4.35
   },
   {
@@ -26,9 +26,9 @@
    },
    "slug": "kinen--kusatsu",
    "matchCount": 75,
-   "matchRate": 47.2,
+   "matchRate": 47.5,
    "minPrice": 2950,
-   "medianPrice": 11550,
+   "medianPrice": 11825,
    "reviewAvgMean": 4.42
   },
   {
@@ -40,8 +40,8 @@
    "slug": "kinen--atami",
    "matchCount": 126,
    "matchRate": 46.7,
-   "minPrice": 2700,
-   "medianPrice": 9845,
+   "minPrice": 3300,
+   "medianPrice": 10049,
    "reviewAvgMean": 4.28
   },
   {
@@ -53,8 +53,8 @@
    "slug": "kinen--beppu",
    "matchCount": 122,
    "matchRate": 47.5,
-   "minPrice": 3060,
-   "medianPrice": 8200,
+   "minPrice": 3150,
+   "medianPrice": 9315,
    "reviewAvgMean": 4.35
   },
   {
@@ -66,8 +66,8 @@
    "slug": "kinen--yufuin",
    "matchCount": 154,
    "matchRate": 48.6,
-   "minPrice": 3510,
-   "medianPrice": 16300,
+   "minPrice": 3730,
+   "medianPrice": 18700,
    "reviewAvgMean": 4.47
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 36,
    "matchRate": 50.7,
    "minPrice": 3500,
-   "medianPrice": 9768,
+   "medianPrice": 10225,
    "reviewAvgMean": 4.27
   },
   {
@@ -105,8 +105,8 @@
    "slug": "kinen--nasu",
    "matchCount": 144,
    "matchRate": 40.8,
-   "minPrice": 2040,
-   "medianPrice": 9900,
+   "minPrice": 2650,
+   "medianPrice": 10400,
    "reviewAvgMean": 4.42
   },
   {
@@ -118,7 +118,7 @@
    "slug": "kinen--karuizawa",
    "matchCount": 138,
    "matchRate": 49.5,
-   "minPrice": 3438,
+   "minPrice": 1080,
    "medianPrice": 8800,
    "reviewAvgMean": 4.36
   },
@@ -131,8 +131,8 @@
    "slug": "kinen--dogo",
    "matchCount": 79,
    "matchRate": 43.6,
-   "minPrice": 1850,
-   "medianPrice": 5550,
+   "minPrice": 1950,
+   "medianPrice": 5600,
    "reviewAvgMean": 4.24
   }
  ]

@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 16,
    "matchRate": 17.8,
    "minPrice": 4800,
-   "medianPrice": 10525,
+   "medianPrice": 10700,
    "reviewAvgMean": 4.24
   },
   {
@@ -40,7 +40,7 @@
    "slug": "pet-ok--atami",
    "matchCount": 11,
    "matchRate": 12.2,
-   "minPrice": 4833,
+   "minPrice": 3666,
    "medianPrice": 11780,
    "reviewAvgMean": 4.39
   },
@@ -54,7 +54,7 @@
    "matchCount": 5,
    "matchRate": 5.6,
    "minPrice": 1500,
-   "medianPrice": 7700,
+   "medianPrice": 8800,
    "reviewAvgMean": 4.21
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 6,
    "matchRate": 8.5,
    "minPrice": 4980,
-   "medianPrice": 8825,
+   "medianPrice": 9375,
    "reviewAvgMean": 4.0
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 25,
    "matchRate": 27.8,
    "minPrice": 1690,
-   "medianPrice": 8694,
+   "medianPrice": 10666,
    "reviewAvgMean": 4.42
   },
   {
@@ -118,7 +118,7 @@
    "slug": "pet-ok--karuizawa",
    "matchCount": 18,
    "matchRate": 20.0,
-   "minPrice": 3438,
+   "minPrice": 1080,
    "medianPrice": 9625,
    "reviewAvgMean": 4.54
   },
@@ -131,8 +131,8 @@
    "slug": "pet-ok--dogo",
    "matchCount": 4,
    "matchRate": 4.4,
-   "minPrice": 10940,
-   "medianPrice": 12600,
+   "minPrice": 11450,
+   "medianPrice": 13752,
    "reviewAvgMean": 4.34
   }
  ]

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -84,7 +84,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 29260,
+   "minCharge": 32395,
    "reviewAverage": 4.73,
    "reviewCount": 123,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -231,7 +231,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D168201",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168201.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168201/168201.jpg",
-   "special": "ウィリアム・モリスの美に包まれて。アンティーク調度品が彩る、軽井沢の大人の隠れ家"
+   "special": "ウィリアム・モリスの美に包まれて。アンティーク×ワインを愉しむ、軽井沢の大人の隠れ家。"
   },
   {
    "hotelNo": 164648,

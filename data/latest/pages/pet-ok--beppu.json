@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1500,
-  "medianPrice": 7700,
+  "medianPrice": 8800,
   "reviewAvgMean": 4.21,
   "pricedCount": 5
  },
@@ -65,7 +65,7 @@
    "hotelNo": 180427,
    "name": "別府　丘と海のドッグリゾート（旧：別府風雅）",
    "kana": "べっぷ　おかとうみのどっぐりぞーと（べっぷふうが）",
-   "minCharge": 7700,
+   "minCharge": 8800,
    "reviewAverage": 4.36,
    "reviewCount": 839,
    "access": "別府ICより車で約1分、別府駅よりバス堀田温泉前下車 徒歩約６分、車またはタクシーで別府駅約１５分、大分空港約４０分",
@@ -82,7 +82,7 @@
    "hotelNo": 4765,
    "name": "別府温泉　ホテル好楽",
    "kana": "べっぷおんせん　こうらく",
-   "minCharge": 4860,
+   "minCharge": 5900,
    "reviewAverage": 3.85,
    "reviewCount": 730,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",

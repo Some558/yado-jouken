@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 11833,
+  "medianPrice": 11950,
   "reviewAvgMean": 4.24,
   "pricedCount": 34
  },
@@ -320,7 +320,7 @@
    "hotelNo": 198719,
    "name": "ヴィラージュ熱海",
    "kana": "ヴぃらーじゅあたみ",
-   "minCharge": 11016,
+   "minCharge": 11250,
    "reviewAverage": 4.23,
    "reviewCount": 105,
    "access": "【JR】東海道線「熱海駅」徒歩14分、【JR】伊東線「来宮駅」徒歩12分",
@@ -337,7 +337,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14220,
+   "minCharge": 12780,
    "reviewAverage": 4.23,
    "reviewCount": 1140,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

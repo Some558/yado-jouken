@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1690,
-  "medianPrice": 8694,
+  "medianPrice": 10666,
   "reviewAvgMean": 4.42,
   "pricedCount": 25
  },
@@ -167,7 +167,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 8000,
+   "minCharge": 10666,
    "reviewAverage": 4.61,
    "reviewCount": 75,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -201,7 +201,7 @@
    "hotelNo": 165066,
    "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
-   "minCharge": 9900,
+   "minCharge": 13090,
    "reviewAverage": 4.56,
    "reviewCount": 266,
    "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
@@ -269,7 +269,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 9900,
+   "minCharge": 11055,
    "reviewAverage": 4.36,
    "reviewCount": 1923,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",

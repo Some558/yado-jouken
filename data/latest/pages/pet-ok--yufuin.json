@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-29",
+ "dataAsOf": "2026-09-30",
  "detection": {
   "type": "facility"
  },
@@ -116,7 +116,7 @@
    "hotelNo": 72793,
    "name": "由布院温泉　楓の小舎",
    "kana": "かえでのしょうじゃ",
-   "minCharge": 24200,
+   "minCharge": 35530,
    "reviewAverage": 4.55,
    "reviewCount": 288,
    "access": "湯布院ＩＣより車で８分。由布院駅よりタクシーで５分",
