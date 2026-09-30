@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 36,
-  "matchRate": 11.4,
+  "matchRate": 11.3,
   "denominator": {
    "type": "area_total",
-   "value": 317,
+   "value": 318,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9580,
@@ -237,7 +237,7 @@
    "hotelNo": 32476,
    "name": "由布院温泉　湯布院　山灯館",
    "kana": "ゆふいんおんせん　ゆふいん　さんとうかん",
-   "minCharge": 25110,
+   "minCharge": 31900,
    "reviewAverage": 4.42,
    "reviewCount": 55,
    "access": "JR　由布院駅より車で５分　徒歩で１５分　金鱗湖に近く　ショッピング湯の坪街道に便利な立地",
@@ -305,7 +305,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 10800,
+   "minCharge": 10900,
    "reviewAverage": 4.2,
    "reviewCount": 301,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 11950,
+  "medianPrice": 13275,
   "reviewAvgMean": 4.24,
   "pricedCount": 34
  },
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 52800,
+   "minCharge": 57200,
    "reviewAverage": 4.67,
    "reviewCount": 79,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -167,7 +167,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 16830,
+   "minCharge": 17820,
    "reviewAverage": 4.56,
    "reviewCount": 331,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -201,7 +201,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 20570,
+   "minCharge": 21780,
    "reviewAverage": 4.43,
    "reviewCount": 2624,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -317,27 +317,10 @@
    "special": "相模灘の絶景と新鮮な海の幸を満喫！源泉2本の天然温泉など魅力満載♪"
   },
   {
-   "hotelNo": 198719,
-   "name": "ヴィラージュ熱海",
-   "kana": "ヴぃらーじゅあたみ",
-   "minCharge": 11250,
-   "reviewAverage": 4.23,
-   "reviewCount": 105,
-   "access": "【JR】東海道線「熱海駅」徒歩14分、【JR】伊東線「来宮駅」徒歩12分",
-   "address1": "静岡県",
-   "address2": "熱海市中央町11-10",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198719",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198719%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198719",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198719.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198719/198719.jpg",
-   "special": "忙しい日常から離れて、ゆったりとした時間を。"
-  },
-  {
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 12780,
+   "minCharge": 14220,
    "reviewAverage": 4.23,
    "reviewCount": 1140,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
@@ -349,6 +332,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182519.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182519/182519.jpg",
    "special": "目前に広がる圧巻の大パノラマオーシャンビュー　全客室オーシャンビュー・天然温泉露天風呂付"
+  },
+  {
+   "hotelNo": 198719,
+   "name": "ヴィラージュ熱海",
+   "kana": "ヴぃらーじゅあたみ",
+   "minCharge": 15770,
+   "reviewAverage": 4.23,
+   "reviewCount": 105,
+   "access": "【JR】東海道線「熱海駅」徒歩14分、【JR】伊東線「来宮駅」徒歩12分",
+   "address1": "静岡県",
+   "address2": "熱海市中央町11-10",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198719",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198719%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198719",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198719.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198719/198719.jpg",
+   "special": "忙しい日常から離れて、ゆったりとした時間を。"
   },
   {
    "hotelNo": 158527,

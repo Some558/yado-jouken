@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4350,
-  "medianPrice": 9900,
+  "medianPrice": 9625,
   "reviewAvgMean": 4.26,
   "pricedCount": 20
  },
@@ -133,7 +133,7 @@
    "hotelNo": 80625,
    "name": "奥伊香保　旅邸　諧暢楼（かいちょうろう）",
    "kana": "おくいかほ　りょてい　かいちょうろう",
-   "minCharge": 60000,
+   "minCharge": 60500,
    "reviewAverage": 4.36,
    "reviewCount": 119,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",
@@ -235,7 +235,7 @@
    "hotelNo": 80783,
    "name": "伊香保温泉　いかほ秀水園",
    "kana": "いかほおんせん　いかほしゅうすいえん",
-   "minCharge": 10450,
+   "minCharge": 9350,
    "reviewAverage": 4.27,
    "reviewCount": 581,
    "access": "ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★",
@@ -286,7 +286,7 @@
    "hotelNo": 68663,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
-   "minCharge": 11800,
+   "minCharge": 14100,
    "reviewAverage": 4.02,
    "reviewCount": 961,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",
@@ -337,7 +337,7 @@
    "hotelNo": 40805,
    "name": "伊香保温泉　伊香保グランドホテル（伊東園ホテルズ）",
    "kana": "いかほおんせん　いかほぐらんどほてる",
-   "minCharge": 7348,
+   "minCharge": 7898,
    "reviewAverage": 3.81,
    "reviewCount": 1472,
    "access": "車：関越自動車道　渋川伊香保I.Cより20分　公共交通機関：ＪＲ渋川駅よりバスで２０分",

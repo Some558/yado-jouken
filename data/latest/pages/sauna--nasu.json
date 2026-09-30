@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5394,
-  "medianPrice": 11727,
+  "minPrice": 5463,
+  "medianPrice": 12450,
   "reviewAvgMean": 4.45,
   "pricedCount": 22
  },
@@ -99,7 +99,7 @@
    "hotelNo": 189097,
    "name": "Ｍｉｍｏｚａ　Ｒｅｔｒｅａｔ　ＮＡＳＵ（ミモザ・リトリート那須）",
    "kana": "みもざ　りとりーと　なす",
-   "minCharge": 11000,
+   "minCharge": 14800,
    "reviewAverage": 4.68,
    "reviewCount": 31,
    "access": "那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）",
@@ -286,7 +286,7 @@
    "hotelNo": 192958,
    "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
    "kana": "フォレストグランピングリゾートイツ「イツ」",
-   "minCharge": 18533,
+   "minCharge": 17605,
    "reviewAverage": 4.33,
    "reviewCount": 10,
    "access": "那須塩原駅よりお車で約３０分。フォレストリゾート『ホテルグリーンパール那須』がすぐ近く！",
@@ -337,7 +337,7 @@
    "hotelNo": 31077,
    "name": "グランドメルキュール那須高原リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるなすこうげんりぞーとあんどすぱ",
-   "minCharge": 5394,
+   "minCharge": 5463,
    "reviewAverage": 4.22,
    "reviewCount": 4027,
    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",
@@ -354,7 +354,7 @@
    "hotelNo": 184489,
    "name": "那須温泉グランピング　Ｎｅｎｎ（ネン）",
    "kana": "なすおんせんぐらんぴんぐ　ねん",
-   "minCharge": 9600,
+   "minCharge": 10200,
    "reviewAverage": 4.22,
    "reviewCount": 234,
    "access": "JR那須塩原駅より車で30分",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 10817,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.37,
-  "pricedCount": 34
+  "pricedCount": 33
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 41836,
    "name": "鉄輪温泉　湯けむりの里　東屋",
    "kana": "かんなわおんせん　ゆけむりのさと　あずまや",
-   "minCharge": 15500,
+   "minCharge": 16500,
    "reviewAverage": 4.76,
    "reviewCount": 543,
    "access": "別府駅より車で１５分／別府ＩＣより車で７分",
@@ -167,7 +167,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 30500,
+   "minCharge": 30750,
    "reviewAverage": 4.56,
    "reviewCount": 108,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -184,7 +184,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 12565,
+   "minCharge": 13335,
    "reviewAverage": 4.55,
    "reviewCount": 205,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -218,7 +218,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 3190,
+   "minCharge": 4158,
    "reviewAverage": 4.53,
    "reviewCount": 1371,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",
@@ -235,7 +235,7 @@
    "hotelNo": 135400,
    "name": "別府鉄輪温泉　和の宿　夢月（なごみのやど　むつき）",
    "kana": "べっぷかんなわおんせん　なごみのやど　むつき",
-   "minCharge": 8400,
+   "minCharge": 10500,
    "reviewAverage": 4.52,
    "reviewCount": 737,
    "access": "大分空港からバスで約１時間　別府インターから車で３分　別府駅から車で１５分",
@@ -252,7 +252,7 @@
    "hotelNo": 30691,
    "name": "別府温泉　竹と椿のお宿　花べっぷ",
    "kana": "たけとつばきのおやど　なはべっぷ",
-   "minCharge": 16632,
+   "minCharge": 19052,
    "reviewAverage": 4.5,
    "reviewCount": 1241,
    "access": "ＪＲ別府駅より徒歩６分／高速道路別府ＩＣより５．３ｋｍ",
@@ -269,7 +269,7 @@
    "hotelNo": 72876,
    "name": "別府観海寺温泉　旅亭　松葉屋",
    "kana": "べっぷかんかいじおんせん　りょてい　まつばや",
-   "minCharge": 19730,
+   "minCharge": 20740,
    "reviewAverage": 4.5,
    "reviewCount": 378,
    "access": "別府駅よりお車にて７分",
@@ -337,7 +337,7 @@
    "hotelNo": 74798,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　別邸はる樹",
    "kana": "せきや　りぞーと　べっていはるき",
-   "minCharge": 16839,
+   "minCharge": 18710,
    "reviewAverage": 4.38,
    "reviewCount": 177,
    "access": "ＪＲ　別府駅よりお車で１２分",

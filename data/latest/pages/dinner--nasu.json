@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2650,
-  "medianPrice": 9975,
+  "medianPrice": 10400,
   "reviewAvgMean": 4.43,
   "pricedCount": 59
  },
@@ -67,7 +67,7 @@
    "hotelNo": 167732,
    "name": "ホテル四季の館那須",
    "kana": "ほてるしきのやかたなす",
-   "minCharge": 23500,
+   "minCharge": 21500,
    "reviewAverage": 4.79,
    "reviewCount": 81,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より無料送迎バスにて30分（要予約）",
@@ -169,7 +169,7 @@
    "hotelNo": 189097,
    "name": "Ｍｉｍｏｚａ　Ｒｅｔｒｅａｔ　ＮＡＳＵ（ミモザ・リトリート那須）",
    "kana": "みもざ　りとりーと　なす",
-   "minCharge": 11000,
+   "minCharge": 14800,
    "reviewAverage": 4.68,
    "reviewCount": 31,
    "access": "那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）",
@@ -186,7 +186,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 35880,
+   "minCharge": 42435,
    "reviewAverage": 4.67,
    "reviewCount": 388,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",

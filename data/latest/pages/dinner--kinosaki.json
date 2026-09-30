@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 4300,
-  "medianPrice": 10900,
+  "medianPrice": 10100,
   "reviewAvgMean": 4.45,
   "pricedCount": 59
  },
@@ -237,7 +237,7 @@
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 12870,
+   "minCharge": 14300,
    "reviewAverage": 4.67,
    "reviewCount": 229,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-09-30",
+ "dataAsOf": "2026-10-01",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3666,
+  "minPrice": 5760,
   "medianPrice": 11780,
   "reviewAvgMean": 4.39,
   "pricedCount": 11
@@ -31,7 +31,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 39380,
+   "minCharge": 39930,
    "reviewAverage": 4.86,
    "reviewCount": 572,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 3666,
+   "minCharge": 6375,
    "reviewAverage": 4.43,
    "reviewCount": 458,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -99,7 +99,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 20570,
+   "minCharge": 21780,
    "reviewAverage": 4.43,
    "reviewCount": 2624,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -167,7 +167,7 @@
    "hotelNo": 176941,
    "name": "エンゼルフォレスト熱海自然郷",
    "kana": "えんぜるふぉれすとあたみしぜんきょう",
-   "minCharge": 5472,
+   "minCharge": 5760,
    "reviewAverage": 4.18,
    "reviewCount": 266,
    "access": "ＪＲ　熱海駅よりお車にて約２５分",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 13950,
+   "minCharge": 17560,
    "reviewAverage": 4.04,
    "reviewCount": 511,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",
