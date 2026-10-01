@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 8800,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.29,
   "pricedCount": 44
  },
@@ -152,7 +152,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 10735,
+   "minCharge": 11865,
    "reviewAverage": 4.54,
    "reviewCount": 783,
    "access": "別府駅東口より徒歩約1分！",
@@ -237,7 +237,7 @@
    "hotelNo": 196409,
    "name": "別府温泉　ホテル三泉閣",
    "kana": "べっぷおんせん ほてるさんせんかく",
-   "minCharge": 8800,
+   "minCharge": 7150,
    "reviewAverage": 4.51,
    "reviewCount": 233,
    "access": "JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分",
@@ -322,7 +322,7 @@
    "hotelNo": 180258,
    "name": "天然温泉　鉄輪の湯　スーパーホテル別府駅前",
    "kana": "すーぱーほてる　べっぷえきまえ　てんねんおんせん　かんなわのゆ",
-   "minCharge": 6110,
+   "minCharge": 6280,
    "reviewAverage": 4.38,
    "reviewCount": 1253,
    "access": "ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分",
@@ -339,7 +339,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 6050,
+   "minCharge": 7700,
    "reviewAverage": 4.36,
    "reviewCount": 626,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",

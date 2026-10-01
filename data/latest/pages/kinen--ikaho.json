@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 3500,
-  "medianPrice": 10225,
+  "medianPrice": 10475,
   "reviewAvgMean": 4.27,
   "pricedCount": 36
  },
@@ -50,7 +50,7 @@
    "hotelNo": 111190,
    "name": "伊香保　明野屋",
    "kana": "いかほ　あけのや",
-   "minCharge": 7000,
+   "minCharge": 10800,
    "reviewAverage": 4.73,
    "reviewCount": 130,
    "access": "関越道渋川伊香保ICより約３０分。渋川駅から伊香保温泉行バスで「見晴下」下車、徒歩５分.。新宿から高速バス。",

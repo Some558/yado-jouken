@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 2489,
    "name": "那須温泉　ペンション散歩道",
    "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 15490,
+   "minCharge": 14990,
    "reviewAverage": 4.83,
    "reviewCount": 181,
    "access": "東北自動車道那須ＩＣより車で１２分",
@@ -99,7 +99,7 @@
    "hotelNo": 189097,
    "name": "Ｍｉｍｏｚａ　Ｒｅｔｒｅａｔ　ＮＡＳＵ（ミモザ・リトリート那須）",
    "kana": "みもざ　りとりーと　なす",
-   "minCharge": 14800,
+   "minCharge": 16500,
    "reviewAverage": 4.68,
    "reviewCount": 31,
    "access": "那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）",
@@ -167,7 +167,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 15700,
+   "minCharge": 17900,
    "reviewAverage": 4.6,
    "reviewCount": 483,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -351,21 +351,21 @@
    "special": "楽天トラベルブロンズアワード2022を受賞！那須の源泉ととちぎ和牛の創作会席を愉しむ小さな湯宿です"
   },
   {
-   "hotelNo": 52722,
-   "name": "那須高原ペンションローレル　赤ちゃん子連れ歓迎の宿",
-   "kana": "なすこうげんぺんしょんろーれるあかちゃんこづれかんげいのやど",
-   "minCharge": 6000,
+   "hotelNo": 29770,
+   "name": "那須高原の貸し切り温泉　ペンション　タム！（TAM！）",
+   "kana": "なすこうげんのかしきりおんせん　ぺんしょん　たむ！",
+   "minCharge": 6210,
    "reviewAverage": 4.46,
-   "reviewCount": 126,
-   "access": "東北自動車道那須ＩＣまたは黒磯板室ＩＣより車20分",
+   "reviewCount": 379,
+   "access": "東北自動車道・那須ＩＣよりお車で２０分。那須湯本方面へ、一軒茶屋前交差点左折約３ｋｍ先右折。",
    "address1": "栃木県",
-   "address2": "那須郡那須町高久乙1863-52",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D52722",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D52722%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D52722",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/52722.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52722/52722.jpg",
-   "special": "赤ちゃんちびっこ連れ大歓迎。宿泊者は皆様小さなお子様連れです♪"
+   "address2": "那須郡那須町湯本213-1428",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29770",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29770%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29770",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29770.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29770/29770.jpg",
+   "special": "ペンションタムは楽しさいっぱいの宿です！"
   }
  ],
  "listedMatchCount": 30

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 10735,
+  "medianPrice": 10560,
   "reviewAvgMean": 4.37,
   "pricedCount": 59
  },
@@ -286,7 +286,7 @@
    "hotelNo": 184774,
    "name": "ととのいの宿　春燈庵",
    "kana": "ととのいのやど　しゅんとうあん",
-   "minCharge": 11300,
+   "minCharge": 9000,
    "reviewAverage": 4.56,
    "reviewCount": 88,
    "access": "別府ICよりお車で5分 扇山町バス停より徒歩４分 自衛隊前バス停より徒歩10分 別府駅→車で13分 大分空港→車で45分",
@@ -320,7 +320,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 10735,
+   "minCharge": 11865,
    "reviewAverage": 4.54,
    "reviewCount": 783,
    "access": "別府駅東口より徒歩約1分！",

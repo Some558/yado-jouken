@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5050,
-  "medianPrice": 10700,
+  "minPrice": 4800,
+  "medianPrice": 10800,
   "reviewAvgMean": 4.24,
   "pricedCount": 16
  },
@@ -116,7 +116,7 @@
    "hotelNo": 170212,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原",
    "kana": null,
-   "minCharge": 10000,
+   "minCharge": 10400,
    "reviewAverage": 4.39,
    "reviewCount": 266,
    "access": "御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30",
@@ -184,7 +184,7 @@
    "hotelNo": 68545,
    "name": "ラフォーレ箱根強羅　湯の棲",
    "kana": "らふぉーれ　はこねごうら　ゆのすみか",
-   "minCharge": 13200,
+   "minCharge": 14300,
    "reviewAverage": 4.24,
    "reviewCount": 681,
    "access": "【車】①箱根口－25分②御殿場（アウトレット）－30分　【電車】中強羅駅－徒歩5分　【バス】ひめしゃら林道入口－徒歩4分",
@@ -218,7 +218,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 6400,
+   "minCharge": 4800,
    "reviewAverage": 4.08,
    "reviewCount": 212,
    "access": "箱根登山バス：仙石高原 から徒歩2分",

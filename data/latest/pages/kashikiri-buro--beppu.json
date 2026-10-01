@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 11000,
+  "medianPrice": 11200,
   "reviewAvgMean": 4.37,
   "pricedCount": 33
  },
@@ -184,7 +184,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 13335,
+   "minCharge": 12565,
    "reviewAverage": 4.55,
    "reviewCount": 205,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -201,7 +201,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 10735,
+   "minCharge": 11865,
    "reviewAverage": 4.54,
    "reviewCount": 783,
    "access": "別府駅東口より徒歩約1分！",
@@ -354,7 +354,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 6050,
+   "minCharge": 7700,
    "reviewAverage": 4.36,
    "reviewCount": 626,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",

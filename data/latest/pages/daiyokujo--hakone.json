@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 88,
-  "matchRate": 24.2,
+  "matchRate": 24.1,
   "denominator": {
    "type": "area_total",
-   "value": 364,
+   "value": 365,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 14300,
+  "medianPrice": 15400,
   "reviewAvgMean": 4.32,
   "pricedCount": 51
  },
@@ -84,7 +84,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 13350,
+   "minCharge": 16650,
    "reviewAverage": 4.66,
    "reviewCount": 403,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -118,7 +118,7 @@
    "hotelNo": 79469,
    "name": "箱根翡翠",
    "kana": "はこねひすい",
-   "minCharge": 35530,
+   "minCharge": 30500,
    "reviewAverage": 4.62,
    "reviewCount": 279,
    "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",
@@ -305,7 +305,7 @@
    "hotelNo": 1817,
    "name": "強羅温泉　ホテルマロウド箱根",
    "kana": "ごうらおんせん　まろうど　はこね",
-   "minCharge": 12100,
+   "minCharge": 9900,
    "reviewAverage": 4.45,
    "reviewCount": 1068,
    "access": "箱根登山鉄道強羅駅より車で５分(無料送迎バス有　9：00～18：00迄)",

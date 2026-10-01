@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "facility"
  },
@@ -116,7 +116,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.4,
    "reviewCount": 193,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 17560,
+   "minCharge": 16650,
    "reviewAverage": 4.04,
    "reviewCount": 511,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",
@@ -201,7 +201,7 @@
    "hotelNo": 15680,
    "name": "熱海温泉　ホテル　サンミ倶楽部",
    "kana": "あたみおんせん　さんみくらぶ",
-   "minCharge": 8085,
+   "minCharge": 6352,
    "reviewAverage": 3.89,
    "reviewCount": 984,
    "access": "JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分",

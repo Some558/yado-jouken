@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3438,
-  "medianPrice": 9900,
+  "medianPrice": 9850,
   "reviewAvgMean": 4.38,
-  "pricedCount": 71
+  "pricedCount": 70
  },
  "hotels": [
   {
@@ -220,7 +220,7 @@
    "hotelNo": 187919,
    "name": "ふふ　旧軽井沢　ー静養の森ー",
    "kana": "ふふ かるいざわ せいようのもり",
-   "minCharge": 66550,
+   "minCharge": 62700,
    "reviewAverage": 4.7,
    "reviewCount": 18,
    "access": "軽井沢駅よりお車にて約5分",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6430,
+  "minPrice": 6830,
   "medianPrice": 19800,
   "reviewAvgMean": 4.38,
   "pricedCount": 41
@@ -65,7 +65,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 31900,
+   "minCharge": 35200,
    "reviewAverage": 4.78,
    "reviewCount": 915,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -133,7 +133,7 @@
    "hotelNo": 79469,
    "name": "箱根翡翠",
    "kana": "はこねひすい",
-   "minCharge": 35530,
+   "minCharge": 30500,
    "reviewAverage": 4.62,
    "reviewCount": 279,
    "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",
@@ -167,7 +167,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 77790,
+   "minCharge": 67670,
    "reviewAverage": 4.56,
    "reviewCount": 120,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -269,7 +269,7 @@
    "hotelNo": 1817,
    "name": "強羅温泉　ホテルマロウド箱根",
    "kana": "ごうらおんせん　まろうど　はこね",
-   "minCharge": 12100,
+   "minCharge": 9900,
    "reviewAverage": 4.45,
    "reviewCount": 1068,
    "access": "箱根登山鉄道強羅駅より車で５分(無料送迎バス有　9：00～18：00迄)",

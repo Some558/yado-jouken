@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3438,
-  "medianPrice": 12000,
+  "medianPrice": 11890,
   "reviewAvgMean": 4.4,
-  "pricedCount": 51
+  "pricedCount": 50
  },
  "hotels": [
   {
@@ -186,7 +186,7 @@
    "hotelNo": 187919,
    "name": "ふふ　旧軽井沢　ー静養の森ー",
    "kana": "ふふ かるいざわ せいようのもり",
-   "minCharge": 66550,
+   "minCharge": 62700,
    "reviewAverage": 4.7,
    "reviewCount": 18,
    "access": "軽井沢駅よりお車にて約5分",
@@ -322,7 +322,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 15711,
+   "minCharge": 16533,
    "reviewAverage": 4.61,
    "reviewCount": 431,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-01",
+ "dataAsOf": "2026-10-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9580,
-  "medianPrice": 20600,
+  "medianPrice": 20900,
   "reviewAvgMean": 4.48,
   "pricedCount": 19
  },
@@ -101,7 +101,7 @@
    "hotelNo": 76377,
    "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
    "kana": "あさぎりのみえるやど　ゆふいんはなよし",
-   "minCharge": 31680,
+   "minCharge": 23760,
    "reviewAverage": 4.69,
    "reviewCount": 1097,
    "access": "■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）",
@@ -254,7 +254,7 @@
    "hotelNo": 108997,
    "name": "由布院温泉　杜の湯　ゆふいん泰葉",
    "kana": "もりのゆ　ゆふいんやすは",
-   "minCharge": 20600,
+   "minCharge": 21700,
    "reviewAverage": 4.34,
    "reviewCount": 219,
    "access": "◆JR由布院駅より車で5分、徒歩40分。送迎有り（15：00～17：00)◆湯布院ＩＣより車で１５分",
