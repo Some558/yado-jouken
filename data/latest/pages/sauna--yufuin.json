@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 9500,
+  "minPrice": 8784,
   "medianPrice": 11375,
   "reviewAvgMean": 4.51,
   "pricedCount": 11
@@ -116,7 +116,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 9648,
+   "minCharge": 8784,
    "reviewAverage": 4.62,
    "reviewCount": 175,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -178,7 +178,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177044",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177044.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177044/177044.jpg",
-   "special": "新感覚の贅沢キャンプ！まるでリゾートホテル♪　キャンプなのに道具は不要！九州最大のグランピング体験を"
+   "special": "手ぶらで満喫する森の温泉グランピング。客室露天風呂や季節のBBQ、愛犬と泊まれるお部屋もご用意。"
   },
   {
    "hotelNo": 129463,

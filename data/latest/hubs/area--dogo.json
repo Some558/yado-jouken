@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "recordCount": 181,
  "conditions": [
   {
@@ -145,7 +145,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 29458,
+   "minCharge": 29172,
    "reviewAverage": 4.73,
    "reviewCount": 2040,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -551,31 +551,10 @@
    ]
   },
   {
-   "hotelNo": 15313,
-   "name": "松山・道後温泉　ＫＫＲ道後ゆづき（国家公務員共済組合連合会道後保養所）",
-   "kana": "けーけーあーる　どうご　ゆづき",
-   "minCharge": 7650,
-   "reviewAverage": 4.46,
-   "reviewCount": 451,
-   "access": "市電 道後温泉方面 公園前停留所／松山ICより道後方面へ 車で約20分",
-   "address1": "愛媛県",
-   "address2": "松山市岩崎町1-7-37",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15313",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15313%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15313",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15313.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15313/15313.jpg",
-   "special": "【道後温泉本館】まで徒歩１０分。【清潔快適】全室禁煙室と【美肌効果】のある温泉寛ぎの宿。",
-   "conditions": [
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 20469,
    "name": "道後温泉　オールドイングランド　道後山の手ホテル",
    "kana": "どうごおんせん　おーるどいんぐらんど　どうご　やまのてほてる",
-   "minCharge": 8000,
+   "minCharge": 7000,
    "reviewAverage": 4.46,
    "reviewCount": 4163,
    "access": "道後温泉駅より徒歩約5分／空港からリムジンバスで３５分／ＪＲ松山駅より電車又はバスで２０分／松山観光港よりバスで５０分",
@@ -593,6 +572,27 @@
     "kinen",
     "breakfast",
     "dinner",
+    "rotenburo",
+    "sauna"
+   ]
+  },
+  {
+   "hotelNo": 15313,
+   "name": "松山・道後温泉　ＫＫＲ道後ゆづき（国家公務員共済組合連合会道後保養所）",
+   "kana": "けーけーあーる　どうご　ゆづき",
+   "minCharge": 7650,
+   "reviewAverage": 4.46,
+   "reviewCount": 451,
+   "access": "市電 道後温泉方面 公園前停留所／松山ICより道後方面へ 車で約20分",
+   "address1": "愛媛県",
+   "address2": "松山市岩崎町1-7-37",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15313",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15313%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15313",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15313.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15313/15313.jpg",
+   "special": "【道後温泉本館】まで徒歩１０分。【清潔快適】全室禁煙室と【美肌効果】のある温泉寛ぎの宿。",
+   "conditions": [
     "rotenburo",
     "sauna"
    ]
@@ -626,7 +626,7 @@
    "hotelNo": 108156,
    "name": "ホテル道後やや",
    "kana": "ほてるどうごやや",
-   "minCharge": 8000,
+   "minCharge": 10500,
    "reviewAverage": 4.45,
    "reviewCount": 2454,
    "access": "松山空港よりリムジンバスで約35分、終点道後温泉駅より徒歩5分／松山ＩＣ下車Ｒ３３を市内方面に35分！",
@@ -800,7 +800,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7684,
+   "minCharge": 7119,
    "reviewAverage": 4.37,
    "reviewCount": 1489,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -1042,7 +1042,7 @@
    "hotelNo": 168297,
    "name": "ホテルたいよう農園　二番町",
    "kana": "たいようのうえん　にばんちょう",
-   "minCharge": 5500,
+   "minCharge": 5600,
    "reviewAverage": 4.24,
    "reviewCount": 928,
    "access": "大街道駅から徒歩６分／松山ICから車で１５分／JR松山駅から車で１３分／コンビニ飲食店すぐ",
@@ -1083,7 +1083,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 6800,
+   "minCharge": 6600,
    "reviewAverage": 4.21,
    "reviewCount": 2400,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",
@@ -1367,7 +1367,7 @@
    "hotelNo": 198319,
    "name": "日和ホテル松山",
    "kana": "ひよりほてるまつやま",
-   "minCharge": 5300,
+   "minCharge": 5700,
    "reviewAverage": 4.14,
    "reviewCount": 250,
    "access": "松山駅より路面電車で15分（大街道駅下車）／松山空港よりリムジンバスで約30分／松山ICより車で約25分",
@@ -1525,7 +1525,7 @@
    "hotelNo": 17668,
    "name": "道後温泉　茶玻瑠",
    "kana": "どうごおんせん　ちゃはる",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.08,
    "reviewCount": 2839,
    "access": "私鉄伊予鉄道線道後温泉下車徒歩５分／ＪＲ予讃線松山駅下車タクシー１５分／松山空港から車で３０分",
@@ -1890,6 +1890,29 @@
    ]
   },
   {
+   "hotelNo": 932,
+   "name": "備長炭の湯　ホテルクラウンヒルズ松山（ＢＢＨホテルグループ）",
+   "kana": "びんちょうたんのゆ　ほてるくらうんひるずまつやま（びーびーえっちほてるぐるーぷ）",
+   "minCharge": 2900,
+   "reviewAverage": 3.84,
+   "reviewCount": 3203,
+   "access": "ＪＲ松山駅近く徒歩5分！空港・港：バス約20分 ！",
+   "address1": "愛媛県",
+   "address2": "松山市宮西1-3-40",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D932",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D932%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D932",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/932.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/932/932.jpg",
+   "special": "大浴場完備！ウェルカムドリンク！平日限定夕食カレー！JR松山駅：徒歩5分空港・港：バス約20分 ！",
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
    "hotelNo": 56687,
    "name": "ホテル松山ヒルズ　ＪＲ松山駅前（ＢＢＨホテルグループ）",
    "kana": "ほてるまつやまひるず　じぇいあーるまつやまえきまえ",
@@ -1908,29 +1931,6 @@
    "conditions": [
     "kinen",
     "breakfast"
-   ]
-  },
-  {
-   "hotelNo": 932,
-   "name": "備長炭の湯　ホテルクラウンヒルズ松山（ＢＢＨホテルグループ）",
-   "kana": "びんちょうたんのゆ　ほてるくらうんひるずまつやま（びーびーえっちほてるぐるーぷ）",
-   "minCharge": 3000,
-   "reviewAverage": 3.84,
-   "reviewCount": 3203,
-   "access": "ＪＲ松山駅近く徒歩5分！空港・港：バス約20分 ！",
-   "address1": "愛媛県",
-   "address2": "松山市宮西1-3-40",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D932",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D932%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D932",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/932.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/932/932.jpg",
-   "special": "大浴場完備！ウェルカムドリンク！平日限定夕食カレー！JR松山駅：徒歩5分空港・港：バス約20分 ！",
-   "conditions": [
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner"
    ]
   },
   {

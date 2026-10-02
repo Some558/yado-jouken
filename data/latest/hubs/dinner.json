@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "areas": [
   {
    "area": {
@@ -28,7 +28,7 @@
    "matchCount": 50,
    "matchRate": 31.8,
    "minPrice": 6000,
-   "medianPrice": 14300,
+   "medianPrice": 13330,
    "reviewAvgMean": 4.43
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 90,
    "matchRate": 28.3,
    "minPrice": 3730,
-   "medianPrice": 19130,
+   "medianPrice": 19030,
    "reviewAvgMean": 4.49
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 28,
    "matchRate": 39.4,
    "minPrice": 4980,
-   "medianPrice": 10475,
+   "medianPrice": 10175,
    "reviewAvgMean": 4.23
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 71,
    "matchRate": 25.4,
    "minPrice": 3438,
-   "medianPrice": 11890,
+   "medianPrice": 12200,
    "reviewAvgMean": 4.4
   },
   {
@@ -131,7 +131,7 @@
    "slug": "dinner--dogo",
    "matchCount": 30,
    "matchRate": 16.6,
-   "minPrice": 3000,
+   "minPrice": 2900,
    "medianPrice": 10450,
    "reviewAvgMean": 4.35
   }

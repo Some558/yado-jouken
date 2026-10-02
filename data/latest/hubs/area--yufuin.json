@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "recordCount": 318,
  "conditions": [
   {
@@ -212,34 +212,10 @@
    ]
   },
   {
-   "hotelNo": 187285,
-   "name": "由布院温泉グランピング　風の響き",
-   "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 18900,
-   "reviewAverage": 4.86,
-   "reviewCount": 47,
-   "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1314-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187285",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187285%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187285",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187285.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187285/187285.jpg",
-   "special": "全棟温泉付のドームテント×手ぶらで本格グランピング×由布院の人気スポットまで車で５分",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo"
-   ]
-  },
-  {
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 20000,
+   "minCharge": 16000,
    "reviewAverage": 4.86,
    "reviewCount": 383,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",
@@ -258,6 +234,30 @@
     "dinner",
     "rotenburo",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 187285,
+   "name": "由布院温泉グランピング　風の響き",
+   "kana": "ユフインオンセングランピング　カゼノヒビキ",
+   "minCharge": 23460,
+   "reviewAverage": 4.86,
+   "reviewCount": 47,
+   "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1314-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187285",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187285%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187285",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187285.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187285/187285.jpg",
+   "special": "全棟温泉付のドームテント×手ぶらで本格グランピング×由布院の人気スポットまで車で５分",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo"
    ]
   },
   {
@@ -894,7 +894,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 9648,
+   "minCharge": 8784,
    "reviewAverage": 4.62,
    "reviewCount": 175,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -1345,7 +1345,7 @@
    "hotelNo": 38971,
    "name": "由布院温泉　ペンション　ゆふいん",
    "kana": "ゆふいんおんせん　ゆふいん",
-   "minCharge": 6600,
+   "minCharge": 6050,
    "reviewAverage": 4.47,
    "reviewCount": 96,
    "access": "JR久大本線　由布院駅より徒歩７分／大分自動車道湯布院ICより１０分ほどです。",
@@ -1389,7 +1389,7 @@
    "hotelNo": 41838,
    "name": "由布院温泉　御宿　ゆふいん亭",
    "kana": "ゆふいんおんせん　おやど　ゆふいんてい",
-   "minCharge": 23400,
+   "minCharge": 21500,
    "reviewAverage": 4.46,
    "reviewCount": 820,
    "access": "由布院駅よりタクシーで５分／由布院ＩＣより車で１０分　",
@@ -1450,7 +1450,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D177044",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177044.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177044/177044.jpg",
-   "special": "新感覚の贅沢キャンプ！まるでリゾートホテル♪　キャンプなのに道具は不要！九州最大のグランピング体験を",
+   "special": "手ぶらで満喫する森の温泉グランピング。客室露天風呂や季節のBBQ、愛犬と泊まれるお部屋もご用意。",
    "conditions": [
     "rotenburo",
     "sauna"
@@ -1657,7 +1657,7 @@
    "hotelNo": 41835,
    "name": "由布院温泉　和の宿　狭霧亭",
    "kana": "ゆふいんおんせん　わのやど　さぎりてい",
-   "minCharge": 18500,
+   "minCharge": 17500,
    "reviewAverage": 4.26,
    "reviewCount": 473,
    "access": "湯布院駅より車で５分／湯布院ＩＣより車で１５分",
@@ -1871,7 +1871,7 @@
    "hotelNo": 32186,
    "name": "由布院温泉　旅館　冨季の舎",
    "kana": "ゆふいんおんせん　りょかん　ふきのや",
-   "minCharge": 17400,
+   "minCharge": 16300,
    "reviewAverage": 4.0,
    "reviewCount": 127,
    "access": "ＪＲ久大線　由布院駅より車で５分　徒歩１５分",

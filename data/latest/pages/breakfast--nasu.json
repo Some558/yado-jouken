@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -33,7 +33,7 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11800,
+   "minCharge": 11750,
    "reviewAverage": 4.87,
    "reviewCount": 175,
    "access": "黒磯駅よりお車で約２５分",
@@ -118,7 +118,7 @@
    "hotelNo": 184807,
    "name": "那須ユートピア美野沢アートヴィレッジ",
    "kana": "なすゆーとぴあみのさわあーと&#12436;ぃれっじ",
-   "minCharge": 12500,
+   "minCharge": 10500,
    "reviewAverage": 4.71,
    "reviewCount": 13,
    "access": "JR東北新幹線　那須塩原駅よりお車にて30分",

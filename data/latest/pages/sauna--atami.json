@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 13275,
+  "medianPrice": 12450,
   "reviewAvgMean": 4.24,
   "pricedCount": 34
  },
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 54400,
+   "minCharge": 56000,
    "reviewAverage": 4.67,
    "reviewCount": 79,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -167,7 +167,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 17820,
+   "minCharge": 20900,
    "reviewAverage": 4.56,
    "reviewCount": 331,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -337,7 +337,7 @@
    "hotelNo": 198719,
    "name": "ヴィラージュ熱海",
    "kana": "ヴぃらーじゅあたみ",
-   "minCharge": 16690,
+   "minCharge": 16230,
    "reviewAverage": 4.23,
    "reviewCount": 105,
    "access": "【JR】東海道線「熱海駅」徒歩14分、【JR】伊東線「来宮駅」徒歩12分",

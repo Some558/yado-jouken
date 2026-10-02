@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -23,7 +23,7 @@
    "value": 157,
    "label": "草津温泉・白根エリアの掲載施設数"
   },
-  "minPrice": 2725,
+  "minPrice": 2800,
   "medianPrice": 13200,
   "reviewAvgMean": 4.36,
   "pricedCount": 39
@@ -220,7 +220,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 14440,
+   "minCharge": 13984,
    "reviewAverage": 4.58,
    "reviewCount": 48,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -254,7 +254,7 @@
    "hotelNo": 56137,
    "name": "草津温泉　ホテル櫻井",
    "kana": "さくらい",
-   "minCharge": 16500,
+   "minCharge": 14300,
    "reviewAverage": 4.52,
    "reviewCount": 5104,
    "access": "ＪＲ吾妻線長野原草津口駅からバスで約28分／関越道渋川伊香保ＩＣ又は上信越道碓井軽井沢IC経由／ＪＲ高速バスゆめぐり号",
@@ -271,7 +271,7 @@
    "hotelNo": 139908,
    "name": "草津温泉　湯畑草菴（そうあん）",
    "kana": "くさつおんせん　ゆばたけそうあん",
-   "minCharge": 11000,
+   "minCharge": 9000,
    "reviewAverage": 4.48,
    "reviewCount": 443,
    "access": "ＪＲ吾妻線　長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし",
@@ -339,7 +339,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 18300,
+   "minCharge": 15800,
    "reviewAverage": 4.43,
    "reviewCount": 3285,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3438,
-  "medianPrice": 9850,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.38,
-  "pricedCount": 70
+  "pricedCount": 71
  },
  "hotels": [
   {
@@ -169,7 +169,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 26986,
+   "minCharge": 28673,
    "reviewAverage": 4.71,
    "reviewCount": 504,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",
@@ -339,7 +339,7 @@
    "hotelNo": 165025,
    "name": "レジーナリゾート軽井沢御影用水",
    "kana": "れじーなりぞーとかるいざわみかげようすい",
-   "minCharge": 22990,
+   "minCharge": 24200,
    "reviewAverage": 4.63,
    "reviewCount": 158,
    "access": "御代田駅より送迎車にて約５分※要予約",
@@ -356,7 +356,7 @@
    "hotelNo": 50619,
    "name": "旧軽井沢　ホテル音羽ノ森",
    "kana": "きゅうかるいざわ　ほてるおとわのもり",
-   "minCharge": 11781,
+   "minCharge": 10681,
    "reviewAverage": 4.62,
    "reviewCount": 395,
    "access": "鉄道：軽井沢駅北口タクシー約3分、徒歩約１２分。車：東京方面、碓氷軽井沢ＩＣ約２０分。長野・愛知方面、小諸ＩＣ約３０分",

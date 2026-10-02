@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-03",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 750,
-  "medianPrice": 9075,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.36,
-  "pricedCount": 76
+  "pricedCount": 77
  },
  "hotels": [
   {
@@ -186,7 +186,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 26986,
+   "minCharge": 28673,
    "reviewAverage": 4.71,
    "reviewCount": 504,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",
@@ -356,7 +356,7 @@
    "hotelNo": 165025,
    "name": "レジーナリゾート軽井沢御影用水",
    "kana": "れじーなりぞーとかるいざわみかげようすい",
-   "minCharge": 22990,
+   "minCharge": 24200,
    "reviewAverage": 4.63,
    "reviewCount": 158,
    "access": "御代田駅より送迎車にて約５分※要予約",

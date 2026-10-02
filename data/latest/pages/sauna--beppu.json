@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 70231,
    "name": "懐郷ノ宿　喜楽",
    "kana": "かいきょうのやど　きらく",
-   "minCharge": 17476,
+   "minCharge": 11000,
    "reviewAverage": 4.65,
    "reviewCount": 422,
    "access": "日豊本線　別府駅より車にて１５分",
@@ -150,7 +150,7 @@
    "hotelNo": 183018,
    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
    "kana": "ぐらんヴぃりおほてるべっぷわん　わくら　るーといんほてるず",
-   "minCharge": 6500,
+   "minCharge": 7500,
    "reviewAverage": 4.59,
    "reviewCount": 1146,
    "access": "■別府駅より無料送迎バスあり（要予約）■別府湾スマートICより車で約10分　■大分空港より車で約35分　■駐車場無料",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-02",
+ "dataAsOf": "2026-10-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 6800,
+  "medianPrice": 6650,
   "reviewAvgMean": 4.31,
   "pricedCount": 29
  },
@@ -48,7 +48,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 29458,
+   "minCharge": 29172,
    "reviewAverage": 4.73,
    "reviewCount": 2040,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -164,6 +164,23 @@
    "special": "サウナ付大浴場有！伊予鉄「松山市駅」横。道後温泉へ約20分、松山市内の観光やビジネス利用に便利。"
   },
   {
+   "hotelNo": 20469,
+   "name": "道後温泉　オールドイングランド　道後山の手ホテル",
+   "kana": "どうごおんせん　おーるどいんぐらんど　どうご　やまのてほてる",
+   "minCharge": 7000,
+   "reviewAverage": 4.46,
+   "reviewCount": 4163,
+   "access": "道後温泉駅より徒歩約5分／空港からリムジンバスで３５分／ＪＲ松山駅より電車又はバスで２０分／松山観光港よりバスで５０分",
+   "address1": "愛媛県",
+   "address2": "松山市道後鷺谷町1-13",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20469",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20469%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20469",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20469.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20469/20469.jpg",
+   "special": "2023年2月大浴場リニューアル！露天風呂・ロウリュサウナ・水風呂完成！"
+  },
+  {
    "hotelNo": 15313,
    "name": "松山・道後温泉　ＫＫＲ道後ゆづき（国家公務員共済組合連合会道後保養所）",
    "kana": "けーけーあーる　どうご　ゆづき",
@@ -179,23 +196,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15313.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15313/15313.jpg",
    "special": "【道後温泉本館】まで徒歩１０分。【清潔快適】全室禁煙室と【美肌効果】のある温泉寛ぎの宿。"
-  },
-  {
-   "hotelNo": 20469,
-   "name": "道後温泉　オールドイングランド　道後山の手ホテル",
-   "kana": "どうごおんせん　おーるどいんぐらんど　どうご　やまのてほてる",
-   "minCharge": 8000,
-   "reviewAverage": 4.46,
-   "reviewCount": 4163,
-   "access": "道後温泉駅より徒歩約5分／空港からリムジンバスで３５分／ＪＲ松山駅より電車又はバスで２０分／松山観光港よりバスで５０分",
-   "address1": "愛媛県",
-   "address2": "松山市道後鷺谷町1-13",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20469",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20469%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20469",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20469.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20469/20469.jpg",
-   "special": "2023年2月大浴場リニューアル！露天風呂・ロウリュサウナ・水風呂完成！"
   },
   {
    "hotelNo": 140784,
@@ -286,7 +286,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7684,
+   "minCharge": 7119,
    "reviewAverage": 4.37,
    "reviewCount": 1489,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -337,7 +337,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 6800,
+   "minCharge": 6600,
    "reviewAverage": 4.21,
    "reviewCount": 2400,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",
