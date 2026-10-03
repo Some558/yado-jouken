@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-10-03",
+ "dataAsOf": "2026-10-04",
  "areas": [
   {
    "area": {
@@ -29,7 +29,7 @@
    "matchRate": 7.8,
    "minPrice": 2800,
    "medianPrice": 7200,
-   "reviewAvgMean": 4.14
+   "reviewAvgMean": 4.15
   },
   {
    "area": {
@@ -42,7 +42,7 @@
    "matchRate": 12.2,
    "minPrice": 5525,
    "medianPrice": 11780,
-   "reviewAvgMean": 4.39
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -55,7 +55,7 @@
    "matchRate": 5.6,
    "minPrice": 1500,
    "medianPrice": 8800,
-   "reviewAvgMean": 4.21
+   "reviewAvgMean": 4.19
   },
   {
    "area": {
@@ -68,7 +68,7 @@
    "matchRate": 11.1,
    "minPrice": 8784,
    "medianPrice": 17120,
-   "reviewAvgMean": 4.56
+   "reviewAvgMean": 4.57
   },
   {
    "area": {
@@ -81,7 +81,7 @@
    "matchRate": 5.6,
    "minPrice": 3500,
    "medianPrice": 6000,
-   "reviewAvgMean": 4.42
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -106,7 +106,7 @@
    "matchCount": 25,
    "matchRate": 27.8,
    "minPrice": 1690,
-   "medianPrice": 10666,
+   "medianPrice": 10450,
    "reviewAvgMean": 4.42
   },
   {
@@ -133,7 +133,7 @@
    "matchRate": 4.4,
    "minPrice": 11450,
    "medianPrice": 13770,
-   "reviewAvgMean": 4.34
+   "reviewAvgMean": 4.36
   }
  ]
 }

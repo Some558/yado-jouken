@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-10-03",
+ "dataAsOf": "2026-10-04",
  "areas": [
   {
    "area": {
@@ -14,9 +14,9 @@
    "slug": "sauna--hakone",
    "matchCount": 41,
    "matchRate": 45.6,
-   "minPrice": 6830,
-   "medianPrice": 20020,
-   "reviewAvgMean": 4.38
+   "minPrice": 6330,
+   "medianPrice": 21300,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -29,7 +29,7 @@
    "matchRate": 15.6,
    "minPrice": 2800,
    "medianPrice": 15800,
-   "reviewAvgMean": 4.35
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "sauna--atami",
    "matchCount": 34,
    "matchRate": 37.8,
-   "minPrice": 3500,
+   "minPrice": 3200,
    "medianPrice": 12450,
    "reviewAvgMean": 4.24
   },
@@ -67,7 +67,7 @@
    "matchCount": 12,
    "matchRate": 13.3,
    "minPrice": 8784,
-   "medianPrice": 11375,
+   "medianPrice": 11395,
    "reviewAvgMean": 4.51
   },
   {
@@ -81,7 +81,7 @@
    "matchRate": 18.9,
    "minPrice": 3000,
    "medianPrice": 9900,
-   "reviewAvgMean": 4.41
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -93,8 +93,8 @@
    "matchCount": 21,
    "matchRate": 29.6,
    "minPrice": 4350,
-   "medianPrice": 9625,
-   "reviewAvgMean": 4.26
+   "medianPrice": 9350,
+   "reviewAvgMean": 4.25
   },
   {
    "area": {
@@ -106,7 +106,7 @@
    "matchCount": 22,
    "matchRate": 24.4,
    "minPrice": 5568,
-   "medianPrice": 11527,
+   "medianPrice": 11500,
    "reviewAvgMean": 4.45
   },
   {
@@ -120,7 +120,7 @@
    "matchRate": 21.1,
    "minPrice": 3700,
    "medianPrice": 9800,
-   "reviewAvgMean": 4.44
+   "reviewAvgMean": 4.43
   },
   {
    "area": {
