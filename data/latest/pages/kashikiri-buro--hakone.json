@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 23,
-  "matchRate": 25.6,
+  "matchCount": 24,
+  "matchRate": 26.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4800,
-  "medianPrice": 21060,
-  "reviewAvgMean": 4.4,
-  "pricedCount": 23
+  "minPrice": 6400,
+  "medianPrice": 21255,
+  "reviewAvgMean": 4.42,
+  "pricedCount": 24
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 35200,
+   "minCharge": 36300,
    "reviewAverage": 4.79,
    "reviewCount": 916,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -94,6 +94,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19985.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19985/19985.jpg",
    "special": "2024〜2025年続々リニューアル！露付き客室・専用玄関のある「離れ　燈(akari)」誕生！"
+  },
+  {
+   "hotelNo": 130716,
+   "name": "箱根湯本温泉　喜仙荘",
+   "kana": "はこねゆもとおんせん　きせんそう",
+   "minCharge": 11550,
+   "reviewAverage": 4.58,
+   "reviewCount": 290,
+   "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町湯本509",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D130716",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D130716%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D130716",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130716.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130716/130716.jpg",
+   "special": "家族でも広々【貸切露天風呂♪】で箱根湯本温泉★満喫！"
   },
   {
    "hotelNo": 31681,
@@ -201,7 +218,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 18700,
+   "minCharge": 19910,
    "reviewAverage": 4.41,
    "reviewCount": 541,
    "access": "箱根湯本駅から徒歩で７分",
@@ -349,24 +366,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/84721.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84721/84721.jpg",
    "special": "瀧の流れる庭園と、大自然に抱かれた天空大露天風呂が魅力な箱根湯本温泉の人気宿。"
-  },
-  {
-   "hotelNo": 158542,
-   "name": "天翠茶寮",
-   "kana": "てんすいさりょう",
-   "minCharge": 23100,
-   "reviewAverage": 4.1,
-   "reviewCount": 539,
-   "access": "強羅駅より徒歩約3分／箱根湯本駅よりお車で約25分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1320-276",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158542",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158542%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158542",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158542.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158542/158542.jpg",
-   "special": "【強羅駅徒歩3分】足湯BARや貸切露天風呂など館内コンテンツ充実／温泉と美食を愉しむ宿"
   }
  ],
- "listedMatchCount": 23
+ "listedMatchCount": 24
 }

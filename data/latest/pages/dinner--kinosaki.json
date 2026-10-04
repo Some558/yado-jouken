@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -23,12 +23,29 @@
    "value": 156,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
-  "minPrice": 4300,
+  "minPrice": 4180,
   "medianPrice": 9900,
-  "reviewAvgMean": 4.45,
+  "reviewAvgMean": 4.49,
   "pricedCount": 27
  },
  "hotels": [
+  {
+   "hotelNo": 8021,
+   "name": "ペンション　スノーランド",
+   "kana": "ペンション　すのーらんど",
+   "minCharge": 9900,
+   "reviewAverage": 5.0,
+   "reviewCount": 42,
+   "access": "中国自動車道吉川ＩＣ・若狭自動車道春日ＩＣ、近畿豊岡自動車道日高神鍋高原ＩＣより車で20分。",
+   "address1": "兵庫県",
+   "address2": "豊岡市日高町山田113-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8021",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8021%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8021",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8021.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8021/8021.jpg",
+   "special": "星降る神鍋高原☆澄んだ空気と新鮮な自家米&野菜が自慢！ママシェフ特製フルコースが美味しいペンション♪"
+  },
   {
    "hotelNo": 50907,
    "name": "ファームハウス　のの花",
@@ -81,6 +98,23 @@
    "special": "城崎１５分全室オーシャンビュー♪美と健康の女子力ＵＰの宿★時を気にしない贅沢なひと時★カニ＆但馬牛"
   },
   {
+   "hotelNo": 129635,
+   "name": "神鍋高原　名色荘",
+   "kana": "なしきそう",
+   "minCharge": 4180,
+   "reviewAverage": 4.73,
+   "reviewCount": 33,
+   "access": "アクセス　：播但連絡道路・北近畿豊岡自動車道　日高神鍋高原ＩＣより左折して１５分",
+   "address1": "兵庫県",
+   "address2": "豊岡市日高町名色102",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129635",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129635%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129635",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129635.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129635/129635.jpg",
+   "special": "神鍋高原の自然豊かな環境の中にたたずむ民宿で、お客様がほっとくつろげる宿でありたいと思っています。"
+  },
+  {
    "hotelNo": 14007,
    "name": "城崎温泉　西村屋ホテル招月庭",
    "kana": "きのさきおんせん　にしむらやほてる　しょうげつてい",
@@ -118,7 +152,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 14850,
+   "minCharge": 16500,
    "reviewAverage": 4.68,
    "reviewCount": 464,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -152,7 +186,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 5760,
+   "minCharge": 6400,
    "reviewAverage": 4.65,
    "reviewCount": 54,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -234,23 +268,6 @@
    "special": "大正モダンの伝統的な美しさと現代の快適さが融合した新しい「深山」をお楽しみください。"
   },
   {
-   "hotelNo": 147610,
-   "name": "潮騒と木もれびの宿　ふじわら",
-   "kana": "しおさいとこもれびのやど　ふじわら",
-   "minCharge": 8900,
-   "reviewAverage": 4.5,
-   "reviewCount": 5,
-   "access": "竹野駅よりお車にて約５分（送迎有り、要予約）",
-   "address1": "兵庫県",
-   "address2": "豊岡市竹野町切浜968",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147610",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147610%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147610",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147610.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147610/147610.jpg",
-   "special": "高台に位置しているのですべてのお部屋から絶景★日本海を一望♪旬の新鮮な魚介のお料理が味わえます。"
-  },
-  {
    "hotelNo": 19214,
    "name": "旅館ふるばやし",
    "kana": "ふるばやし",
@@ -305,7 +322,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 7590,
+   "minCharge": 8990,
    "reviewAverage": 4.37,
    "reviewCount": 434,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67969.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67969/67969.jpg",
    "special": "城崎温泉開湯の宿。情緒深い町並みに映える純日本建築。「古木良木宿〜ふるきよきやど〜」"
-  },
-  {
-   "hotelNo": 147534,
-   "name": "城崎温泉　医食同源の宿　かに庵",
-   "kana": "きのさきおんせん　いしょくどうげんのやど　かにあん",
-   "minCharge": 9900,
-   "reviewAverage": 4.32,
-   "reviewCount": 117,
-   "access": "ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車　約30分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島690",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147534",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147534%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147534",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147534.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534.jpg",
-   "special": "但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。"
   }
  ],
  "listedMatchCount": 27

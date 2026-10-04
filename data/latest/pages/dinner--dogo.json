@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,28 +24,11 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 14250,
-  "reviewAvgMean": 4.3,
-  "pricedCount": 6
+  "medianPrice": 12200,
+  "reviewAvgMean": 4.21,
+  "pricedCount": 5
  },
  "hotels": [
-  {
-   "hotelNo": 151481,
-   "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
-   "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 65000,
-   "reviewAverage": 4.75,
-   "reviewCount": 38,
-   "access": "松山駅よりお車にて約３５分",
-   "address1": "愛媛県",
-   "address2": "松山市柳谷町794-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151481",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151481%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151481",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151481.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151481/151481.jpg",
-   "special": "【5と0のつく日】毎月5・10・15・20・25・30日はクーポン利用で最大20％OFF"
-  },
   {
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
@@ -84,7 +67,7 @@
    "hotelNo": 166482,
    "name": "ホテルたいよう農園　松山古三津",
    "kana": "たいようのうえん　まつやまふるみつ",
-   "minCharge": 3000,
+   "minCharge": 4000,
    "reviewAverage": 4.18,
    "reviewCount": 589,
    "access": "松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分",
@@ -132,5 +115,5 @@
    "special": "大浴場完備！ウェルカムドリンク！平日限定夕食カレー！JR松山駅：徒歩5分空港・港：バス約20分 ！"
   }
  ],
- "listedMatchCount": 6
+ "listedMatchCount": 5
 }

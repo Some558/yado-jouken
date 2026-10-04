@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,9 +24,9 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2790,
-  "medianPrice": 8747,
-  "reviewAvgMean": 4.39,
-  "pricedCount": 38
+  "medianPrice": 9200,
+  "reviewAvgMean": 4.41,
+  "pricedCount": 37
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 189097,
    "name": "Ｍｉｍｏｚａ　Ｒｅｔｒｅａｔ　ＮＡＳＵ（ミモザ・リトリート那須）",
    "kana": "みもざ　りとりーと　なす",
-   "minCharge": 16500,
+   "minCharge": 12500,
    "reviewAverage": 4.68,
    "reviewCount": 31,
    "access": "那須塩原駅より車で約25分（30分圏内であれば、送迎無料※要電話予約）",
@@ -166,6 +166,23 @@
    "special": "2024、2025年年　1ミシュランキー獲得"
   },
   {
+   "hotelNo": 193086,
+   "name": "山のリゾートホテルエイト",
+   "kana": "やまのりぞーとほてるえいと",
+   "minCharge": 13500,
+   "reviewAverage": 4.65,
+   "reviewCount": 49,
+   "access": "那須塩原駅より車で40分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久乙3375-636",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D193086",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D193086%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D193086",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/193086.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193086/193086.jpg",
+   "special": "本格中華が堪能でき、寛ぎを提供できる　唯一無二のリゾートホテル。"
+  },
+  {
    "hotelNo": 187342,
    "name": "ＷＨＩＴＥ　ＬＡＭＰ",
    "kana": "ほわいと らんぷ",
@@ -186,7 +203,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 17900,
+   "minCharge": 19000,
    "reviewAverage": 4.61,
    "reviewCount": 485,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -285,23 +302,6 @@
    "special": "ペットと泊まれる♪レストランでお食事も一緒に！ワンコMENUもご用意しております。"
   },
   {
-   "hotelNo": 28443,
-   "name": "ペンション　アンティーク",
-   "kana": "あんてぃーく",
-   "minCharge": 6400,
-   "reviewAverage": 4.54,
-   "reviewCount": 312,
-   "access": "東北自動車道・那須ＩＣよりお車で２０分。那須湯本方面へ、一軒茶屋前交差点左折約３ｋｍ先右折。",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本213",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28443",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28443%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28443",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28443.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28443/28443.jpg",
-   "special": "森の中の小さなお城。　欧米仕込みの家庭料理も好評。"
-  },
-  {
    "hotelNo": 184640,
    "name": "那須高原　山小屋",
    "kana": "なすこうげん　やまごや",
@@ -370,5 +370,5 @@
    "special": "エアコン完備で夏でも快適！ゲルで過ごす特別な時間★馬頭琴が彩る感動のひとときを♪"
   }
  ],
- "listedMatchCount": 38
+ "listedMatchCount": 37
 }

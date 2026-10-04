@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -23,12 +23,29 @@
    "value": 275,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 3200,
-  "medianPrice": 11000,
-  "reviewAvgMean": 4.3,
-  "pricedCount": 37
+  "minPrice": 3500,
+  "medianPrice": 11200,
+  "reviewAvgMean": 4.31,
+  "pricedCount": 40
  },
  "hotels": [
+  {
+   "hotelNo": 196361,
+   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
+   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
+   "minCharge": 74000,
+   "reviewAverage": 4.94,
+   "reviewCount": 18,
+   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
+   "address1": "静岡県",
+   "address2": "熱海市網代591-38",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
+   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。"
+  },
   {
    "hotelNo": 137049,
    "name": "民宿　作五郎丸",
@@ -220,7 +237,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 9000,
+   "minCharge": 6600,
    "reviewAverage": 4.47,
    "reviewCount": 620,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -302,6 +319,23 @@
    "special": "熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。"
   },
   {
+   "hotelNo": 15488,
+   "name": "料亭旅館　熱海　小嵐亭（旧　迎賓館　熱海小嵐亭）",
+   "kana": "料亭旅館　あたみ　こあらしてい",
+   "minCharge": 39600,
+   "reviewAverage": 4.38,
+   "reviewCount": 121,
+   "access": "車／東名厚木ICより小田原厚木道路経由（約60分）　電車／東京より東海道新幹線で熱海下車（約45分）",
+   "address1": "静岡県",
+   "address2": "熱海市小嵐町1-16",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15488",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15488%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15488",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15488.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15488/15488.jpg",
+   "special": "■全館禁煙（喫煙所あり）■　熱海の老舗旅館で心休まる寛ぎの時間をごゆっくりお過ごしください。"
+  },
+  {
    "hotelNo": 187532,
    "name": "ホテルブリーズベイ熱海ＡＮＮＥＸ",
    "kana": "ほてるぶりーずべいあたみあねっくす",
@@ -334,41 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/149439.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149439/149439.jpg",
    "special": "6年獲得！楽天ゴールドアワード＆日本の宿アワードW受賞★新鮮な海の幸懐石！クチコミNo.1！"
-  },
-  {
-   "hotelNo": 18976,
-   "name": "熱海温泉　ほり多",
-   "kana": "あたみおんせん　ほりた",
-   "minCharge": 16500,
-   "reviewAverage": 4.34,
-   "reviewCount": 203,
-   "access": "熱海駅より伊東線来宮駅（二分）下車、来宮神社方向に徒歩５分。",
-   "address1": "静岡県",
-   "address2": "熱海市西山町5-13",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D18976",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D18976%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D18976",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/18976.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18976/18976.jpg",
-   "special": "来宮神社さん側の宿で、パワースポットの大楠近くより湧き出る天然温泉楠の湯を使用しています"
-  },
-  {
-   "hotelNo": 5417,
-   "name": "ホテルニューアカオ",
-   "kana": "ほてるにゅーあかお",
-   "minCharge": 13900,
-   "reviewAverage": 4.28,
-   "reviewCount": 3542,
-   "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",
-   "address1": "静岡県",
-   "address2": "熱海市熱海1993-250",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D5417",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D5417%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D5417",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/5417.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5417/5417.jpg",
-   "special": "全352室がオーシャンビュー 海上リゾートで唯一無二の絶景体験を"
   }
  ],
- "listedMatchCount": 37
+ "listedMatchCount": 40
 }

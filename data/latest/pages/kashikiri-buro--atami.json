@@ -9,22 +9,22 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 30,
-  "matchRate": 33.3,
+  "matchCount": 29,
+  "matchRate": 32.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4400,
-  "medianPrice": 10500,
-  "reviewAvgMean": 4.31,
-  "pricedCount": 30
+  "minPrice": 4840,
+  "medianPrice": 11000,
+  "reviewAvgMean": 4.33,
+  "pricedCount": 29
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "2013年全室リニューアル完了！更に快適になった客室は全室オーシャンビュー！貸切風呂のご利用は無料！"
   }
  ],
- "listedMatchCount": 30
+ "listedMatchCount": 29
 }

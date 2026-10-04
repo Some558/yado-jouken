@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -23,9 +23,9 @@
    "value": 365,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 4800,
-  "medianPrice": 17600,
-  "reviewAvgMean": 4.41,
+  "minPrice": 6400,
+  "medianPrice": 16262,
+  "reviewAvgMean": 4.42,
   "pricedCount": 34
  },
  "hotels": [
@@ -67,7 +67,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 35200,
+   "minCharge": 36300,
    "reviewAverage": 4.79,
    "reviewCount": 916,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -152,7 +152,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 13500,
+   "minCharge": 12300,
    "reviewAverage": 4.59,
    "reviewCount": 1415,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",
@@ -181,6 +181,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188402.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188402/188402.jpg",
    "special": "《コンドミニアム型ホテル》全室50㎡以上の広々客室で優雅な時間を"
+  },
+  {
+   "hotelNo": 129428,
+   "name": "萬翠楼福住",
+   "kana": "ばんすいろうふくずみ",
+   "minCharge": 27500,
+   "reviewAverage": 4.58,
+   "reviewCount": 213,
+   "access": "箱根湯本駅から徒歩で７分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町湯本643",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129428",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129428%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129428",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129428.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129428/129428.jpg",
+   "special": "創業寛永２年（１６２５）箱根屈指の老舗旅館。旧館は旅館第一号の国指定重要文化財。"
   },
   {
    "hotelNo": 139885,
@@ -234,6 +251,23 @@
    "special": "★お食事高評価★仙石原の別荘地に佇む全24室の大人限定宿／別館は温泉半露天風呂付き"
   },
   {
+   "hotelNo": 32024,
+   "name": "箱根湯の花プリンスホテル",
+   "kana": "はこね　ゆのはな　おんせんほてる",
+   "minCharge": 9630,
+   "reviewAverage": 4.5,
+   "reviewCount": 614,
+   "access": "東名高速道路厚木I.C.からお車で60分 東海道線 小田原駅より路線バスで50分 小田急線箱根湯本駅より路線バスで35分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町芦之湯93",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D32024",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D32024%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D32024",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32024.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32024/32024.jpg",
+   "special": "湯けむり立ち上る天空温泉宿"
+  },
+  {
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
@@ -249,23 +283,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29435.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29435/29435.jpg",
    "special": "美しい箱根外輪山の山並みと、雄大な仙石原高原の自然に抱かれたリゾートホテル。"
-  },
-  {
-   "hotelNo": 1728,
-   "name": "箱根ホテル",
-   "kana": "はこねほてる",
-   "minCharge": 26000,
-   "reviewAverage": 4.48,
-   "reviewCount": 687,
-   "access": "東名厚木ＩＣから箱根新道を経て芦ノ湖大観ＩＣよりわずか５分／小田急線・箱根湯本駅〜バス、またはタクシーで３５分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町箱根65",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D1728",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D1728%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D1728",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1728.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1728/1728.jpg",
-   "special": "＼全室レイクビュー／美しい景色を楽しむ湖畔リゾート"
   },
   {
    "hotelNo": 1817,
@@ -339,7 +356,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 18700,
+   "minCharge": 19910,
    "reviewAverage": 4.41,
    "reviewCount": 541,
    "access": "箱根湯本駅から徒歩で７分",
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108157.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108157/108157.jpg",
    "special": "６本の自家源泉と広大な日本庭園「山月園」が魅力の宿。源泉かけ流し温泉と季節の和会席で心ほどける滞在を"
-  },
-  {
-   "hotelNo": 196312,
-   "name": "ＲＥＴＯＮＡ　ＨＡＫＯＮＥ　／　リトナ箱根（２０２５年１２月１５日ＯＰＥＮ）",
-   "kana": "りとなはこね",
-   "minCharge": 60500,
-   "reviewAverage": 4.41,
-   "reviewCount": 17,
-   "access": "箱根湯本駅より路線バス桃源台行きにて約６０分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町元箱根164",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196312",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196312%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196312",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196312.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196312/196312.jpg",
-   "special": "愛犬との宿泊に特化した宿で全１５室の客室はすべて温泉付きです。"
   }
  ],
  "listedMatchCount": 34

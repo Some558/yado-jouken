@@ -9,41 +9,24 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 7,
-  "matchRate": 7.8,
+  "matchCount": 5,
+  "matchRate": 5.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2800,
-  "medianPrice": 7200,
-  "reviewAvgMean": 4.15,
-  "pricedCount": 7
+  "medianPrice": 7040,
+  "reviewAvgMean": 3.96,
+  "pricedCount": 5
  },
  "hotels": [
-  {
-   "hotelNo": 184691,
-   "name": "ＹＡＭＡＩＲＯコテージ",
-   "kana": "やまいろこてーじ",
-   "minCharge": 7200,
-   "reviewAverage": 5.0,
-   "reviewCount": 6,
-   "access": "草津温泉バスターミナルより徒歩約１５分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津２７２－１１４",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184691",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184691%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184691",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184691.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184691/184691.jpg",
-   "special": "大家族やグループに最適。広々一棟貸切宿。温泉入浴補助500円キャッシュバック！ペットもＯＫ"
-  },
   {
    "hotelNo": 195645,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
@@ -60,23 +43,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
    "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。"
-  },
-  {
-   "hotelNo": 25817,
-   "name": "ペットと泊まれる宿　コンドミニアム　フラットレット草津",
-   "kana": "ぺっとととまれるやど　こんどみにあむ　ふらっとれっと　くさつ",
-   "minCharge": 7605,
-   "reviewAverage": 4.25,
-   "reviewCount": 108,
-   "access": "関越道渋川伊香保ＩＣよりＲ353、145、292経由で草津へ60ｋｍ/ＪＲ吾妻線長野原草津口駅～バス25分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-1211",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25817",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25817%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25817",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25817.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
-   "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。"
   },
   {
    "hotelNo": 199396,
@@ -116,7 +82,7 @@
    "hotelNo": 172893,
    "name": "リブマックスリゾート草津温泉",
    "kana": "りぶまっくすりぞーとくさつおんせん",
-   "minCharge": 15800,
+   "minCharge": 13000,
    "reviewAverage": 3.81,
    "reviewCount": 599,
    "access": "湯畑から徒歩約10分",
@@ -147,5 +113,5 @@
    "special": "草津でペットと泊まれるお部屋のある温泉宿。露天風呂の他、４００坪のドッグランなどわんちゃんも大喜び！"
   }
  ],
- "listedMatchCount": 7
+ "listedMatchCount": 5
 }

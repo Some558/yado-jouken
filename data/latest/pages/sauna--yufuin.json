@@ -9,22 +9,22 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 12,
-  "matchRate": 13.3,
+  "matchCount": 11,
+  "matchRate": 12.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 8784,
-  "medianPrice": 11395,
-  "reviewAvgMean": 4.51,
-  "pricedCount": 11
+  "minPrice": 9500,
+  "medianPrice": 12000,
+  "reviewAvgMean": 4.5,
+  "pricedCount": 10
  },
  "hotels": [
   {
@@ -96,27 +96,10 @@
    "special": "女性が喜ぶ宿を目指しています。湯の坪街道最大の宿。観光・ショッピングの中心まで徒歩1分"
   },
   {
-   "hotelNo": 153349,
-   "name": "由布院温泉　湯布院旅館のぎく",
-   "kana": "ゆふいんりょかんのぎく",
-   "minCharge": 11375,
-   "reviewAverage": 4.63,
-   "reviewCount": 65,
-   "access": "由布院駅より徒歩にて約１０分、またはお車にて約５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2879-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153349",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153349%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153349",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153349.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153349/153349.jpg",
-   "special": "【全室温泉風呂付・素泊まり】口コミ高評価の和モダン貸切サウナ「天照」「月読」でととのう贅沢な温泉旅"
-  },
-  {
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 8784,
+   "minCharge": 9648,
    "reviewAverage": 4.61,
    "reviewCount": 179,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -201,7 +184,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 11395,
+   "minCharge": 10900,
    "reviewAverage": 4.2,
    "reviewCount": 302,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",
@@ -232,5 +215,5 @@
    "special": "由布岳一望の露天風呂♪　由布院駅から徒歩5分！人気観光地“湯の坪通り”までも徒歩5分と最適な立地♪"
   }
  ],
- "listedMatchCount": 12
+ "listedMatchCount": 11
 }

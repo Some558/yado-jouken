@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "kashikiri-buro--hakone",
-   "matchCount": 23,
-   "matchRate": 25.6,
-   "minPrice": 4800,
-   "medianPrice": 21060,
-   "reviewAvgMean": 4.4
+   "matchCount": 24,
+   "matchRate": 26.7,
+   "minPrice": 6400,
+   "medianPrice": 21255,
+   "reviewAvgMean": 4.42
   },
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "kashikiri-buro--kusatsu",
-   "matchCount": 40,
-   "matchRate": 44.4,
-   "minPrice": 4890,
-   "medianPrice": 12375,
-   "reviewAvgMean": 4.46
+   "matchCount": 38,
+   "matchRate": 42.2,
+   "minPrice": 5000,
+   "medianPrice": 12225,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "kashikiri-buro--atami",
-   "matchCount": 30,
-   "matchRate": 33.3,
-   "minPrice": 4400,
-   "medianPrice": 10500,
-   "reviewAvgMean": 4.31
+   "matchCount": 29,
+   "matchRate": 32.2,
+   "minPrice": 4840,
+   "medianPrice": 11000,
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -54,8 +54,8 @@
    "matchCount": 34,
    "matchRate": 37.8,
    "minPrice": 2700,
-   "medianPrice": 11000,
-   "reviewAvgMean": 4.37
+   "medianPrice": 10500,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kashikiri-buro--yufuin",
-   "matchCount": 36,
-   "matchRate": 40.0,
-   "minPrice": 4895,
-   "medianPrice": 16500,
-   "reviewAvgMean": 4.49
+   "matchCount": 34,
+   "matchRate": 37.8,
+   "minPrice": 4896,
+   "medianPrice": 17900,
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "kashikiri-buro--kinosaki",
-   "matchCount": 41,
-   "matchRate": 45.6,
+   "matchCount": 40,
+   "matchRate": 44.4,
    "minPrice": 6000,
-   "medianPrice": 11550,
-   "reviewAvgMean": 4.51
+   "medianPrice": 12375,
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 20,
    "matchRate": 28.2,
    "minPrice": 5600,
-   "medianPrice": 10450,
+   "medianPrice": 9900,
    "reviewAvgMean": 4.33
   },
   {
@@ -103,10 +103,10 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kashikiri-buro--nasu",
-   "matchCount": 30,
-   "matchRate": 33.3,
+   "matchCount": 28,
+   "matchRate": 31.1,
    "minPrice": 1690,
-   "medianPrice": 10433,
+   "medianPrice": 10833,
    "reviewAvgMean": 4.5
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kashikiri-buro--karuizawa",
-   "matchCount": 9,
-   "matchRate": 10.0,
-   "minPrice": 5225,
-   "medianPrice": 11000,
-   "reviewAvgMean": 4.48
+   "matchCount": 6,
+   "matchRate": 6.7,
+   "minPrice": 8250,
+   "medianPrice": 16000,
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -133,7 +133,7 @@
    "matchRate": 12.2,
    "minPrice": 3500,
    "medianPrice": 7700,
-   "reviewAvgMean": 4.43
+   "reviewAvgMean": 4.45
   }
  ]
 }

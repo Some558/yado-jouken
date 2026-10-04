@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "areas": [
   {
    "area": {
@@ -14,9 +14,9 @@
    "slug": "pet-ok--hakone",
    "matchCount": 16,
    "matchRate": 17.8,
-   "minPrice": 4800,
-   "medianPrice": 10700,
-   "reviewAvgMean": 4.24
+   "minPrice": 6400,
+   "medianPrice": 11637,
+   "reviewAvgMean": 4.22
   },
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "pet-ok--kusatsu",
-   "matchCount": 7,
-   "matchRate": 7.8,
+   "matchCount": 5,
+   "matchRate": 5.6,
    "minPrice": 2800,
-   "medianPrice": 7200,
-   "reviewAvgMean": 4.15
+   "medianPrice": 7040,
+   "reviewAvgMean": 3.96
   },
   {
    "area": {
@@ -66,7 +66,7 @@
    "slug": "pet-ok--yufuin",
    "matchCount": 10,
    "matchRate": 11.1,
-   "minPrice": 8784,
+   "minPrice": 9648,
    "medianPrice": 17120,
    "reviewAvgMean": 4.57
   },
@@ -80,7 +80,7 @@
    "matchCount": 5,
    "matchRate": 5.6,
    "minPrice": 3500,
-   "medianPrice": 6000,
+   "medianPrice": 6400,
    "reviewAvgMean": 4.44
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 6,
    "matchRate": 8.5,
    "minPrice": 4980,
-   "medianPrice": 9375,
+   "medianPrice": 8825,
    "reviewAvgMean": 4.0
   },
   {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 25,
-   "matchRate": 27.8,
+   "matchCount": 26,
+   "matchRate": 28.9,
    "minPrice": 1690,
-   "medianPrice": 10450,
-   "reviewAvgMean": 4.42
+   "medianPrice": 10558,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -119,8 +119,8 @@
    "matchCount": 18,
    "matchRate": 20.0,
    "minPrice": 750,
-   "medianPrice": 9850,
-   "reviewAvgMean": 4.54
+   "medianPrice": 10440,
+   "reviewAvgMean": 4.57
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "pet-ok--dogo",
-   "matchCount": 4,
-   "matchRate": 4.4,
-   "minPrice": 11450,
-   "medianPrice": 13770,
-   "reviewAvgMean": 4.36
+   "matchCount": 3,
+   "matchRate": 3.3,
+   "minPrice": 13750,
+   "medianPrice": 13790,
+   "reviewAvgMean": 4.31
   }
  ]
 }

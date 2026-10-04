@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -26,7 +26,7 @@
   "minPrice": 3000,
   "medianPrice": 9900,
   "reviewAvgMean": 4.36,
-  "pricedCount": 19
+  "pricedCount": 18
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 14850,
+   "minCharge": 16500,
    "reviewAverage": 4.68,
    "reviewCount": 464,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -149,23 +149,6 @@
    "special": "大正モダンの伝統的な美しさと現代の快適さが融合した新しい「深山」をお楽しみください。"
   },
   {
-   "hotelNo": 147610,
-   "name": "潮騒と木もれびの宿　ふじわら",
-   "kana": "しおさいとこもれびのやど　ふじわら",
-   "minCharge": 8900,
-   "reviewAverage": 4.5,
-   "reviewCount": 5,
-   "access": "竹野駅よりお車にて約５分（送迎有り、要予約）",
-   "address1": "兵庫県",
-   "address2": "豊岡市竹野町切浜968",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147610",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147610%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147610",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147610.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147610/147610.jpg",
-   "special": "高台に位置しているのですべてのお部屋から絶景★日本海を一望♪旬の新鮮な魚介のお料理が味わえます。"
-  },
-  {
    "hotelNo": 19746,
    "name": "心やすらぐ海辺の実家　よどや",
    "kana": "こころやすらぐうみべのじっか　よどや",
@@ -203,7 +186,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 7590,
+   "minCharge": 8990,
    "reviewAverage": 4.37,
    "reviewCount": 434,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",
@@ -271,7 +254,7 @@
    "hotelNo": 177593,
    "name": "ザ　グラン　リゾート城崎",
    "kana": "ざ　ぐらん　りぞーときのさき",
-   "minCharge": 4300,
+   "minCharge": 5200,
    "reviewAverage": 4.09,
    "reviewCount": 89,
    "access": "ＪＲ　城崎温泉駅よりお車にて約１０分",
@@ -353,5 +336,5 @@
    "special": "川畔を望む貸切り露天風呂が新設◎日本海の海の幸・但馬の山の幸が楽しめるやすらぎの宿◎"
   }
  ],
- "listedMatchCount": 19
+ "listedMatchCount": 18
 }

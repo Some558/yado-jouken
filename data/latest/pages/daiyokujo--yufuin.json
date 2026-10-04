@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -25,8 +25,8 @@
   },
   "minPrice": 9500,
   "medianPrice": 23900,
-  "reviewAvgMean": 4.48,
-  "pricedCount": 9
+  "reviewAvgMean": 4.47,
+  "pricedCount": 11
  },
  "hotels": [
   {
@@ -115,6 +115,23 @@
    "special": "女性が喜ぶ宿を目指しています。湯の坪街道最大の宿。観光・ショッピングの中心まで徒歩1分"
   },
   {
+   "hotelNo": 129936,
+   "name": "旅籠Ｈａｔａｇｏ　香乃蔵　（旧名：湯亭　香乃蔵）",
+   "kana": "はたご　こうのくら",
+   "minCharge": 26000,
+   "reviewAverage": 4.63,
+   "reviewCount": 79,
+   "access": "由布院駅からお車で１０分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川西243-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D129936",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D129936%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D129936",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/129936.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/129936/129936.jpg",
+   "special": "四季折々の御料理と露天風呂付のゆったりとした離れで心和む時間をお過し下さい"
+  },
+  {
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
@@ -147,6 +164,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108997.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108997/108997.jpg",
    "special": "全国的に珍しい『青湯』。とろりとした肌触りの美肌の湯が貴方の心と身体を癒します・・・"
+  },
+  {
+   "hotelNo": 70870,
+   "name": "由布のお宿　ほたる",
+   "kana": "ゆふのおやど　ほたる",
+   "minCharge": 18150,
+   "reviewAverage": 4.22,
+   "reviewCount": 69,
+   "access": "ＪＲ九大本線由布院駅　車８分／湯布院ＩＣ　車２分／【送迎可　１５時～１７時半】要電話。当日は１０分程お待ちいただきます",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川北1791-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D70870",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D70870%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D70870",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70870.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70870/70870.jpg",
+   "special": "浸かって納得！２４時間掛け流しのとろとろ温泉！由布岳一望の露天風呂で、寛ぎの時間をお楽しみ下さい。"
   },
   {
    "hotelNo": 184560,
@@ -183,5 +217,5 @@
    "special": "お部屋から湯布院の山々や浮舞台がある日本庭園が望める。早割プラン・家族プラン・学生プランなど好評☆"
   }
  ],
- "listedMatchCount": 9
+ "listedMatchCount": 11
 }

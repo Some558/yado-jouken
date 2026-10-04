@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
@@ -23,10 +23,27 @@
   },
   "minPrice": 4840,
   "medianPrice": 11000,
-  "reviewAvgMean": 4.31,
+  "reviewAvgMean": 4.32,
   "pricedCount": 65
  },
  "hotels": [
+  {
+   "hotelNo": 196361,
+   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
+   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
+   "minCharge": 74000,
+   "reviewAverage": 4.94,
+   "reviewCount": 18,
+   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
+   "address1": "静岡県",
+   "address2": "熱海市網代591-38",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
+   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。"
+  },
   {
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
@@ -349,23 +366,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147964.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147964/147964.jpg",
    "special": "全7室の大人の隠れ宿。60平米以上室のゆったりとお過ごしいただける和洋室。天然温泉とお料理自慢の宿"
-  },
-  {
-   "hotelNo": 28013,
-   "name": "熱海温泉　ＲｅｌａｘＲｅｓｏｒｔＨｏｔｅｌ　リラックスリゾートホテル",
-   "kana": "あたみおんせん　りらっくすりぞーとほてる",
-   "minCharge": 11400,
-   "reviewAverage": 4.52,
-   "reviewCount": 710,
-   "access": "JＲ熱海駅～タクシーで5分／東名・厚木IC～70分／新東名・長泉沼津IC～40分",
-   "address1": "静岡県",
-   "address2": "熱海市咲見町6-41",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28013",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28013%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28013",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28013.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28013/28013.jpg",
-   "special": "【熱海一望】客室からの絶景、細かなサービスと美食をお約束します"
   }
  ],
  "listedMatchCount": 65

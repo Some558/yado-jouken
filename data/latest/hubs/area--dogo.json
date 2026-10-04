@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "recordCount": 181,
  "conditions": [
   {
@@ -95,28 +95,22 @@
    ]
   },
   {
-   "hotelNo": 151481,
-   "name": "瀬戸内リトリート青凪　ｂｙ温故知新",
-   "kana": "せとうちりとりーとあおなぎ　ばい　おんこちしん",
-   "minCharge": 65000,
-   "reviewAverage": 4.75,
-   "reviewCount": 38,
-   "access": "松山駅よりお車にて約３５分",
+   "hotelNo": 106036,
+   "name": "旅館　常磐荘",
+   "kana": "ときわそう",
+   "minCharge": 16500,
+   "reviewAverage": 4.74,
+   "reviewCount": 82,
+   "access": "伊予鉄道市内線道後温泉駅より徒歩約5分 / 松山自動車道川内ICより車で約40分／松山」ICより車で30分",
    "address1": "愛媛県",
-   "address2": "松山市柳谷町794-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151481",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151481%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151481",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151481.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151481/151481.jpg",
-   "special": "【5と0のつく日】毎月5・10・15・20・25・30日はクーポン利用で最大20％OFF",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "sauna"
-   ]
+   "address2": "松山市道後湯月町4-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D106036",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D106036%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D106036",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/106036.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106036/106036.jpg",
+   "special": "大正時代の造りを残した昔ながらの旅館にタイムスリップ！道後温泉本館と同じ温泉。源泉かけ流し貸切です",
+   "conditions": []
   },
   {
    "hotelNo": 184795,
@@ -241,6 +235,26 @@
    "conditions": [
     "rotenburo",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 52143,
+   "name": "道後温泉　湯の宿　さち家",
+   "kana": "どうごおんせん　ゆのやど　さちや",
+   "minCharge": 13200,
+   "reviewAverage": 4.65,
+   "reviewCount": 338,
+   "access": "ＪＲ　松山駅から伊予鉄道に乗車→「道後温泉駅」下車し、徒歩3分",
+   "address1": "愛媛県",
+   "address2": "松山市道後湯之町13-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D52143",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D52143%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D52143",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/52143.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/52143/52143.jpg",
+   "special": "道後温泉本館より徒歩１分。100%掛け流し温泉と懐石料理が自慢の静かなお宿。朝食に「宇和島風鯛めし」",
+   "conditions": [
+    "kashikiri-buro"
    ]
   },
   {
@@ -426,27 +440,6 @@
    "conditions": []
   },
   {
-   "hotelNo": 14270,
-   "name": "権現山荘",
-   "kana": "ごんげんさんそう",
-   "minCharge": 11450,
-   "reviewAverage": 4.5,
-   "reviewCount": 588,
-   "access": "ＪＲ堀江駅より車で７分,松山駅より車で２０分",
-   "address1": "愛媛県",
-   "address2": "松山市権現町甲820",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14270",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D14270%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D14270",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14270.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14270/14270.jpg",
-   "special": "海の見える温泉宿です。食事は瀬戸内の魚を使った会席料理で部屋食です。※当館に看板猫はいません。",
-   "conditions": [
-    "kashikiri-buro",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
@@ -627,7 +620,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 5830,
+   "minCharge": 4930,
    "reviewAverage": 4.43,
    "reviewCount": 2291,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",
@@ -724,30 +717,10 @@
    ]
   },
   {
-   "hotelNo": 19527,
-   "name": "花の森ホテル",
-   "kana": "はなのもり　ほてる",
-   "minCharge": 4400,
-   "reviewAverage": 4.39,
-   "reviewCount": 365,
-   "access": "松山市より国道56号線を車で約50分、松山自動車道中山スマートICより車で約10分／JR伊予中山駅より徒歩で約40分",
-   "address1": "愛媛県",
-   "address2": "伊予市中山町中山11-405-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D19527",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19527%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D19527",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19527.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19527/19527.jpg",
-   "special": "大自然の中で過ごす、寛ぎの空間",
-   "conditions": [
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 6615,
+   "minCharge": 7119,
    "reviewAverage": 4.37,
    "reviewCount": 1496,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -938,6 +911,24 @@
    "conditions": []
   },
   {
+   "hotelNo": 165623,
+   "name": "ドウゴノオヤドいわさき",
+   "kana": "どうごのおやどいわさき",
+   "minCharge": 3200,
+   "reviewAverage": 4.24,
+   "reviewCount": 61,
+   "access": "伊予鉄道城南線　道後公園駅より徒歩にて約3分　道後温泉本館へは徒歩10分 大街道まで電車で10分　車で10分",
+   "address1": "愛媛県",
+   "address2": "松山市岩崎町2-8-22",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165623",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165623%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165623",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165623.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165623/165623.jpg",
+   "special": "全室バリアフリーで人に優しいお宿。＜宿泊客限定特典＞敷地内新設のパン屋でのご購入が割引価格に♪",
+   "conditions": []
+  },
+  {
    "hotelNo": 199434,
    "name": "ホテルルートイン松山北",
    "kana": "ほてるるーといんまつやまきた",
@@ -1064,26 +1055,22 @@
    ]
   },
   {
-   "hotelNo": 166482,
-   "name": "ホテルたいよう農園　松山古三津",
-   "kana": "たいようのうえん　まつやまふるみつ",
-   "minCharge": 3000,
-   "reviewAverage": 4.18,
-   "reviewCount": 589,
-   "access": "松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分",
+   "hotelNo": 76392,
+   "name": "ＣＨＡＨＡＲＵ離れ　道後夢蔵　",
+   "kana": "どうごゆめくら　りょあんなみろく",
+   "minCharge": 19800,
+   "reviewAverage": 4.19,
+   "reviewCount": 188,
+   "access": "道後温泉駅より徒歩５分/松山ICより車で30分/松山空港より車で40分",
    "address1": "愛媛県",
-   "address2": "松山市古三津3-6-8  ",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166482",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D166482%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D166482",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/166482.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166482/166482.jpg",
-   "special": "【農家が営む宿】２０２３年８月新装オープン★農家がつくる本気のごはんを召し上がれ！",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner"
-   ]
+   "address2": "松山市道後湯月町4-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76392",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76392%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76392",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76392.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76392/76392.jpg",
+   "special": "地元の厳選食材、今治タオル、砥部焼と愛媛を感じて頂くことを重視した地産地消の宿。",
+   "conditions": []
   },
   {
    "hotelNo": 6276,
@@ -1126,10 +1113,32 @@
    ]
   },
   {
+   "hotelNo": 166482,
+   "name": "ホテルたいよう農園　松山古三津",
+   "kana": "たいようのうえん　まつやまふるみつ",
+   "minCharge": 4000,
+   "reviewAverage": 4.18,
+   "reviewCount": 589,
+   "access": "松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分",
+   "address1": "愛媛県",
+   "address2": "松山市古三津3-6-8  ",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166482",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D166482%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D166482",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/166482.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166482/166482.jpg",
+   "special": "【農家が営む宿】２０２３年８月新装オープン★農家がつくる本気のごはんを召し上がれ！",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
    "hotelNo": 220,
    "name": "ＡＮＡクラウンプラザホテル松山　ｂｙ　ＩＨＧ",
    "kana": "えーえぬえーくらうんぷらざほてるまつやま",
-   "minCharge": 6665,
+   "minCharge": 6215,
    "reviewAverage": 4.17,
    "reviewCount": 4972,
    "access": "松山空港よりバスで20分。ＪＲ松山駅より路面電車で8分。松山インターより車で15分。道後温泉まで路面電車で10分。",
@@ -1253,28 +1262,10 @@
    ]
   },
   {
-   "hotelNo": 31656,
-   "name": "道後温泉　東雲亭",
-   "kana": "どうごおんせん　とううんてい",
-   "minCharge": 8000,
-   "reviewAverage": 4.15,
-   "reviewCount": 113,
-   "access": "伊予鉄道後温泉駅／松山自動車道「松山」ＩＣから２０分",
-   "address1": "愛媛県",
-   "address2": "松山市道後湯之町13-26",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31656",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31656%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31656",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31656.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31656/31656.jpg",
-   "special": "道後の湯前で、昭和にひたる。ホテル東雲亭",
-   "conditions": []
-  },
-  {
    "hotelNo": 198319,
    "name": "日和ホテル松山",
    "kana": "ひよりほてるまつやま",
-   "minCharge": 5700,
+   "minCharge": 5300,
    "reviewAverage": 4.14,
    "reviewCount": 258,
    "access": "松山駅より路面電車で15分（大街道駅下車）／松山空港よりリムジンバスで約30分／松山ICより車で約25分",
@@ -1343,24 +1334,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20374.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20374/20374.jpg",
    "special": "★無料朝食＿提供中！★換気・消毒・飛沫対策等、感染防止対策中！",
-   "conditions": []
-  },
-  {
-   "hotelNo": 183402,
-   "name": "ホテル　道後湯の町",
-   "kana": "ホテル　どうごゆのまち",
-   "minCharge": 2800,
-   "reviewAverage": 4.1,
-   "reviewCount": 150,
-   "access": "伊予鉄市内電車・道後温泉駅：徒歩約1分、JR松山駅より車で約13分、松山自動車道・松山ICより車で約20分",
-   "address1": "愛媛県",
-   "address2": "松山市道後湯之町4-22",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183402",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183402%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183402",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183402.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183402/183402.jpg",
-   "special": "道後温泉本館より徒歩約1分の素泊まり専用ホテル。道後温泉の入浴チケットを宿泊者に進呈！",
    "conditions": []
   },
   {
@@ -1441,7 +1414,7 @@
    "hotelNo": 20377,
    "name": "ターミナルホテル松山",
    "kana": "たーみなるほてる　まつやま",
-   "minCharge": 3500,
+   "minCharge": 3350,
    "reviewAverage": 4.06,
    "reviewCount": 2515,
    "access": "JR松山駅より徒歩約2分／松山空港より15分／松山観光港より35分／三津浜港より20分",
@@ -1523,7 +1496,7 @@
    "hotelNo": 147840,
    "name": "ネストホテル松山",
    "kana": "ねすとほてるまつやま",
-   "minCharge": 2350,
+   "minCharge": 1850,
    "reviewAverage": 3.99,
    "reviewCount": 1939,
    "access": "■大街道より徒歩５分　■松山空港より車で２５分　■市内電車勝山町電停より徒歩３分",
@@ -1577,6 +1550,24 @@
    "conditions": [
     "sauna"
    ]
+  },
+  {
+   "hotelNo": 67042,
+   "name": "東横ＩＮＮ松山一番町",
+   "kana": "とうよこいんまつやまいちばんちょう",
+   "minCharge": 4988,
+   "reviewAverage": 3.95,
+   "reviewCount": 920,
+   "access": "ＪＲ　松山駅から路面電車で７分（勝山町電停下車）",
+   "address1": "愛媛県",
+   "address2": "松山市一番町1-10-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D67042",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D67042%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D67042",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67042.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67042/67042.jpg",
+   "special": "JR松山駅から路面電車で７分で朝食・小学生以下添い寝無料のホテル！松山城まで車で5分",
+   "conditions": []
   },
   {
    "hotelNo": 43995,
@@ -1842,24 +1833,6 @@
    "conditions": []
   },
   {
-   "hotelNo": 198053,
-   "name": "ＨＵＮＴＥＬＩＡ　ＭＡＴＳＵＹＡＭＡ〜ハンテリア　マツヤマ〜",
-   "kana": "ハンテリア　マツヤマ",
-   "minCharge": 3627,
-   "reviewAverage": 3.79,
-   "reviewCount": 24,
-   "access": "勝山町駅より徒歩5分",
-   "address1": "愛媛県",
-   "address2": "松山市二番町1-1-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198053",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198053%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198053",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198053.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198053/198053.jpg",
-   "special": "街の気配に寄り添う、松山で過ごすひととき。",
-   "conditions": []
-  },
-  {
    "hotelNo": 20474,
    "name": "スーパーホテル松山",
    "kana": "すーぱーほてる　まつやま",
@@ -1875,6 +1848,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20474.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20474/20474.jpg",
    "special": "品数豊富な朝食バイキング無料サービスをご提供しております。選べる枕も人気でございます♪",
+   "conditions": []
+  },
+  {
+   "hotelNo": 32037,
+   "name": "Ｔａｂｉｓｔ　ビジネスホテル末広　松山",
+   "kana": "たびすと　びじねすほてるすえひろ　まつやま",
+   "minCharge": 4830,
+   "reviewAverage": 3.4,
+   "reviewCount": 350,
+   "access": "松山市駅より徒歩2分／JR松山駅より車で7分／松山空港より車で20分／松山ICより車で約15分・約7キロ",
+   "address1": "愛媛県",
+   "address2": "松山市末広町17-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D32037",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D32037%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D32037",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32037.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32037/32037.jpg",
+   "special": "松山駅徒歩2分！ビジネスや道後温泉・松山城のアクセス抜群！Wifi・駐車場完備なので長期宿泊でも安心",
    "conditions": []
   }
  ]

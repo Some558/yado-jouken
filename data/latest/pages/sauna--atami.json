@@ -9,24 +9,41 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 34,
-  "matchRate": 37.8,
+  "matchCount": 35,
+  "matchRate": 38.9,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3200,
-  "medianPrice": 12450,
-  "reviewAvgMean": 4.24,
-  "pricedCount": 34
+  "minPrice": 3500,
+  "medianPrice": 13250,
+  "reviewAvgMean": 4.26,
+  "pricedCount": 35
  },
  "hotels": [
+  {
+   "hotelNo": 196361,
+   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
+   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
+   "minCharge": 74000,
+   "reviewAverage": 4.94,
+   "reviewCount": 18,
+   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
+   "address1": "静岡県",
+   "address2": "熱海市網代591-38",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
+   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。"
+  },
   {
    "hotelNo": 198040,
    "name": "エンゼルフォレスト熱海",
@@ -349,24 +366,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147782.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147782/147782.jpg",
    "special": "【全室サウナ・露天風呂付きの別邸OPEN】絶景足湯が自慢のオールインクルーシブ温泉宿"
-  },
-  {
-   "hotelNo": 182519,
-   "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
-   "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14220,
-   "reviewAverage": 4.22,
-   "reviewCount": 1159,
-   "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
-   "address1": "静岡県",
-   "address2": "熱海市渚町22-8",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182519",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182519%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182519",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182519.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182519/182519.jpg",
-   "special": "目前に広がる圧巻の大パノラマオーシャンビュー　全客室オーシャンビュー・天然温泉露天風呂付"
   }
  ],
- "listedMatchCount": 34
+ "listedMatchCount": 35
 }

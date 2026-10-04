@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -23,10 +23,10 @@
    "value": 156,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
-  "minPrice": 5760,
+  "minPrice": 6400,
   "medianPrice": 9900,
-  "reviewAvgMean": 4.4,
-  "pricedCount": 23
+  "reviewAvgMean": 4.41,
+  "pricedCount": 21
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 14850,
+   "minCharge": 16500,
    "reviewAverage": 4.68,
    "reviewCount": 464,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -135,7 +135,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 5760,
+   "minCharge": 6400,
    "reviewAverage": 4.65,
    "reviewCount": 54,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -183,23 +183,6 @@
    "special": "大正モダンの伝統的な美しさと現代の快適さが融合した新しい「深山」をお楽しみください。"
   },
   {
-   "hotelNo": 147610,
-   "name": "潮騒と木もれびの宿　ふじわら",
-   "kana": "しおさいとこもれびのやど　ふじわら",
-   "minCharge": 8900,
-   "reviewAverage": 4.5,
-   "reviewCount": 5,
-   "access": "竹野駅よりお車にて約５分（送迎有り、要予約）",
-   "address1": "兵庫県",
-   "address2": "豊岡市竹野町切浜968",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147610",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147610%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147610",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147610.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147610/147610.jpg",
-   "special": "高台に位置しているのですべてのお部屋から絶景★日本海を一望♪旬の新鮮な魚介のお料理が味わえます。"
-  },
-  {
    "hotelNo": 19746,
    "name": "心やすらぐ海辺の実家　よどや",
    "kana": "こころやすらぐうみべのじっか　よどや",
@@ -237,7 +220,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 7590,
+   "minCharge": 8990,
    "reviewAverage": 4.37,
    "reviewCount": 434,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",
@@ -319,23 +302,6 @@
    "special": "但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。"
   },
   {
-   "hotelNo": 8754,
-   "name": "城崎温泉　大和屋",
-   "kana": "きのさきおんせん　やまとや",
-   "minCharge": 8800,
-   "reviewAverage": 4.25,
-   "reviewCount": 77,
-   "access": "JR城崎温泉駅より約800m",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島427",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8754",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8754%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8754",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8754.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8754/8754.jpg",
-   "special": "城崎温泉ど真ん中！外湯めぐりや街歩きに超便利！家族で営むこじんまりとしたアットホームな宿です。"
-  },
-  {
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
@@ -368,7 +334,41 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147192.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147192/147192.jpg",
    "special": "城崎温泉外湯めぐりに最適！但馬牛や津居山かにを堪能！個室お食事処でカップル・ファミリーも大歓迎！"
+  },
+  {
+   "hotelNo": 8778,
+   "name": "神鍋温泉　自然に癒される高原ホテル　ブルーリッジホテル",
+   "kana": "かんなべおんせん　しぜんにいやされるこうげんほてる　ぶるーりっじほてる",
+   "minCharge": 14000,
+   "reviewAverage": 4.02,
+   "reviewCount": 799,
+   "access": "播但連絡道路・北近畿豊岡自動車道　日高神鍋高原ＩＣより　１５分",
+   "address1": "兵庫県",
+   "address2": "豊岡市日高町栗栖野55",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8778",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8778%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8778",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8778.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8778/8778.jpg",
+   "special": "松茸やボイル蟹の秋バイキング！秋夜の星空露天と源泉１０0％美肌の湯、広大な自然で至福の休息を。"
+  },
+  {
+   "hotelNo": 15315,
+   "name": "リロステイＶＩＬＬＡ　城崎　ザ・コンドミニアム（旧レイセニット城崎スイートＶＩＬＬＡ）",
+   "kana": "りろすていヴぃらきのさきざこんどみにあむ",
+   "minCharge": 6732,
+   "reviewAverage": 3.84,
+   "reviewCount": 1999,
+   "access": "ＪＲ山陰本線「城崎温泉」駅から車で約７分(無料送迎車あり※予約制）。北近畿豊岡自動車道「日高神鍋高原」ＩＣより40分。",
+   "address1": "兵庫県",
+   "address2": "豊岡市小島1220",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15315",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15315%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15315",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15315.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15315/15315.jpg",
+   "special": "ご夕食・ご朝食はあらかじめお部屋の冷蔵庫にご用意。お好きなタイミングでお召し上がりください。"
   }
  ],
- "listedMatchCount": 23
+ "listedMatchCount": 21
 }

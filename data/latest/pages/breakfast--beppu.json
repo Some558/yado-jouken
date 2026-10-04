@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -220,7 +220,7 @@
    "hotelNo": 183136,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　ＧＡＬＬＥＲＩＡ　ＭＩＤＯＢＡＲＵ",
    "kana": "せきや　りぞーと　がれりあ　みどうばる",
-   "minCharge": 20783,
+   "minCharge": 20050,
    "reviewAverage": 4.47,
    "reviewCount": 135,
    "access": "別府駅西口（山側）よりタクシーで約15分／別府ICより約3分",
@@ -254,7 +254,7 @@
    "hotelNo": 182800,
    "name": "アマネク別府ゆらり",
    "kana": "あまねくべっぷ　ゆらり",
-   "minCharge": 8710,
+   "minCharge": 7654,
    "reviewAverage": 4.41,
    "reviewCount": 481,
    "access": "JR線「別府駅」東口から徒歩3分",

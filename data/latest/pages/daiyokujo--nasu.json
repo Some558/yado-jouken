@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,9 +24,9 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2790,
-  "medianPrice": 8800,
-  "reviewAvgMean": 4.31,
-  "pricedCount": 21
+  "medianPrice": 9447,
+  "reviewAvgMean": 4.35,
+  "pricedCount": 20
  },
  "hotels": [
   {
@@ -84,7 +84,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 17900,
+   "minCharge": 19000,
    "reviewAverage": 4.61,
    "reviewCount": 485,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -254,7 +254,7 @@
    "hotelNo": 20574,
    "name": "那須温泉　ホテルサンバレー那須",
    "kana": "ほてるさんばれーなす",
-   "minCharge": 13750,
+   "minCharge": 12650,
    "reviewAverage": 4.21,
    "reviewCount": 9060,
    "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",
@@ -322,7 +322,7 @@
    "hotelNo": 68157,
    "name": "フォートリート＋那須高原",
    "kana": "ふぉーとりーとぷらすなすこうげん",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.14,
    "reviewCount": 1130,
    "access": "東北自動車道那須ICより車で約20分／那須塩原駅より路線バス有り（有料／要予約）詳しくはホテルまでお問い合わせ下さい",
@@ -370,5 +370,5 @@
    "special": "源泉掛け流しの湯を畳敷きひのき造りの大浴場で味わう一軒宿！当館自慢の野天風呂＆豪快4m滝打たせ湯"
   }
  ],
- "listedMatchCount": 21
+ "listedMatchCount": 20
 }

@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-04",
+ "dataAsOf": "2026-10-05",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 9,
-  "matchRate": 10.0,
+  "matchCount": 6,
+  "matchRate": 6.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5225,
-  "medianPrice": 11000,
-  "reviewAvgMean": 4.48,
-  "pricedCount": 9
+  "minPrice": 8250,
+  "medianPrice": 16000,
+  "reviewAvgMean": 4.52,
+  "pricedCount": 6
  },
  "hotels": [
   {
@@ -43,23 +43,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/39497.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/39497/39497.jpg",
    "special": "３０００坪の敷地は遊びもいっぱい。館内も客室の余裕の広さが贅沢。ホテル並みの施設をペンション価格で。"
-  },
-  {
-   "hotelNo": 153630,
-   "name": "ゲストハウス　シャコンヌ軽井沢",
-   "kana": "げすとはうす　しゃこんぬかるいざわ",
-   "minCharge": 5225,
-   "reviewAverage": 4.79,
-   "reviewCount": 106,
-   "access": "軽井沢駅より徒歩にて約１５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町軽井沢1062-63",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D153630",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D153630%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D153630",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153630.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153630/153630.jpg",
-   "special": "軽井沢駅近★アウトレット徒歩３分♪★木の温もりが優しい宿。お得な貸自転車・朝食有。生演奏も楽しめます"
   },
   {
    "hotelNo": 25164,
@@ -96,27 +79,10 @@
    "special": "【7年連続楽天アワード受賞】食数限定フレンチ好評｜貸切風呂あり♪星野エリア車3分・結婚式前後泊も◎"
   },
   {
-   "hotelNo": 43933,
-   "name": "コテージ＆ペンション　ラブ　サーティ",
-   "kana": "こてーじ　あんど　ぺんしょん　らぶ　さーてぃ",
-   "minCharge": 7000,
-   "reviewAverage": 4.57,
-   "reviewCount": 71,
-   "access": "中軽井沢駅より徒歩約１5分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉3911",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D43933",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D43933%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D43933",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/43933.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43933/43933.jpg",
-   "special": "軽井沢での宿泊はコテージ＆ペンションラブサーティで！コテージはペット同宿可！テニスもできます。"
-  },
-  {
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 20000,
+   "minCharge": 18000,
    "reviewAverage": 4.4,
    "reviewCount": 177,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
@@ -162,24 +128,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28349.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28349/28349.jpg",
    "special": "21年春一棟貸コテージOPEN♪ 駅まで送迎OK！ 貸切露天風呂が今だけ45分間無料キャンペーン中"
-  },
-  {
-   "hotelNo": 147939,
-   "name": "小瀬温泉ホテル",
-   "kana": "こせおんせんほてる",
-   "minCharge": 11000,
-   "reviewAverage": 3.85,
-   "reviewCount": 249,
-   "access": "車：軽井沢駅15分（旧軽井沢からは料金所で当館利用と伝えると通行料無料）バス：軽井沢駅北口2番線から小瀬温泉下車徒歩1分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉2126",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147939",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147939%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147939",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147939.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147939/147939.jpg",
-   "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 9
+ "listedMatchCount": 6
 }
