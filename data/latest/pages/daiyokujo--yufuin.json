@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9500,
-  "medianPrice": 23900,
+  "medianPrice": 26000,
   "reviewAvgMean": 4.47,
   "pricedCount": 11
  },
@@ -135,7 +135,7 @@
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
-   "minCharge": 23100,
+   "minCharge": 29700,
    "reviewAverage": 4.43,
    "reviewCount": 359,
    "access": "ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分",

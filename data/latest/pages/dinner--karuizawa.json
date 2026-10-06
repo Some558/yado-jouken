@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3438,
-  "medianPrice": 14541,
+  "medianPrice": 14350,
   "reviewAvgMean": 4.48,
   "pricedCount": 30
  },
@@ -50,7 +50,7 @@
    "hotelNo": 181982,
    "name": "ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　軽井沢　御代田",
    "kana": "ざ　ひらまつ　かるいざわ　みよた",
-   "minCharge": 35000,
+   "minCharge": 34100,
    "reviewAverage": 4.8,
    "reviewCount": 105,
    "access": "上信越自動車道「佐久IC」から車で20分、北陸新幹線「佐久平駅」から車で25分",
@@ -152,7 +152,7 @@
    "hotelNo": 168201,
    "name": "ホテル　ベルリネッタ軽井沢",
    "kana": "べるりねったかるいざわ",
-   "minCharge": 7470,
+   "minCharge": 8640,
    "reviewAverage": 4.67,
    "reviewCount": 331,
    "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 3分・軽井沢タリアセン（塩沢湖）10分",
@@ -169,7 +169,7 @@
    "hotelNo": 135384,
    "name": "リフレッシュエッセンシャルリゾートIN軽井沢",
    "kana": "りふれっしゅえっせんしゃるりぞーといんかるいざわ",
-   "minCharge": 12750,
+   "minCharge": 11900,
    "reviewAverage": 4.67,
    "reviewCount": 135,
    "access": "軽井沢駅からお車で２０分",
@@ -186,7 +186,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 15700,
+   "minCharge": 14700,
    "reviewAverage": 4.66,
    "reviewCount": 448,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",

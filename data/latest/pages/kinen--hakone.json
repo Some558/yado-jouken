@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -23,8 +23,8 @@
    "value": 365,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 6400,
-  "medianPrice": 16575,
+  "minPrice": 4800,
+  "medianPrice": 16687,
   "reviewAvgMean": 4.43,
   "pricedCount": 34
  },
@@ -220,7 +220,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 16650,
+   "minCharge": 15550,
    "reviewAverage": 4.56,
    "reviewCount": 404,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -254,7 +254,7 @@
    "hotelNo": 162753,
    "name": "箱根風雅",
    "kana": "はこねふうが",
-   "minCharge": 18700,
+   "minCharge": 19635,
    "reviewAverage": 4.51,
    "reviewCount": 1781,
    "access": "バス停「仙石高原」より徒歩約7分／小田原駅より箱根登山バスにて約50分／バスタ新宿より高速バスにて約2時間",
@@ -356,7 +356,7 @@
    "hotelNo": 158555,
    "name": "箱根リトリートｆｏｒｅ",
    "kana": "はこね　りとりーと　ふぉーれ",
-   "minCharge": 16024,
+   "minCharge": 16875,
    "reviewAverage": 4.41,
    "reviewCount": 345,
    "access": "小田原駅よりお車で約40分（週末は混雑しますので余裕をもってお越しください）",

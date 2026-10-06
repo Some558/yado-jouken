@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "areas": [
   {
    "area": {
@@ -14,8 +14,8 @@
    "slug": "dinner--hakone",
    "matchCount": 51,
    "matchRate": 14.0,
-   "minPrice": 6400,
-   "medianPrice": 16262,
+   "minPrice": 4800,
+   "medianPrice": 16687,
    "reviewAvgMean": 4.42
   },
   {
@@ -40,7 +40,7 @@
    "slug": "dinner--atami",
    "matchCount": 47,
    "matchRate": 17.1,
-   "minPrice": 3500,
+   "minPrice": 3200,
    "medianPrice": 11200,
    "reviewAvgMean": 4.31
   },
@@ -66,8 +66,8 @@
    "slug": "dinner--yufuin",
    "matchCount": 33,
    "matchRate": 10.4,
-   "minPrice": 9405,
-   "medianPrice": 23100,
+   "minPrice": 8883,
+   "medianPrice": 23760,
    "reviewAvgMean": 4.56
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 35,
    "matchRate": 12.5,
    "minPrice": 3438,
-   "medianPrice": 14541,
+   "medianPrice": 14350,
    "reviewAvgMean": 4.48
   },
   {

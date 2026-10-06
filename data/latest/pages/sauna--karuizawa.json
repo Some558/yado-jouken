@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 192929,
    "name": "ＧＬＡＭＤＡＹ　ＳＴＹＬＥ　ＨＯＴＥＬ　ＳＵＩＴＥ　山ノ麓",
    "kana": "グランディスタイル ホテルスイート ヤマノフモト",
-   "minCharge": 22660,
+   "minCharge": 17820,
    "reviewAverage": 5.0,
    "reviewCount": 6,
    "access": "軽井沢駅よりお車で約２分、軽井沢ＩＣよりお車で約１５分",
@@ -133,7 +133,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 5950,
+   "minCharge": 5730,
    "reviewAverage": 4.63,
    "reviewCount": 975,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -235,7 +235,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 30500,
+   "minCharge": 28100,
    "reviewAverage": 4.36,
    "reviewCount": 247,
    "access": "軽井沢駅よりお車にて約１５分",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2790,
-  "medianPrice": 9447,
+  "medianPrice": 9147,
   "reviewAvgMean": 4.35,
   "pricedCount": 20
  },
@@ -84,7 +84,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 19000,
+   "minCharge": 16800,
    "reviewAverage": 4.61,
    "reviewCount": 485,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -237,7 +237,7 @@
    "hotelNo": 184489,
    "name": "那須温泉グランピング　Ｎｅｎｎ（ネン）",
    "kana": "なすおんせんぐらんぴんぐ　ねん",
-   "minCharge": 10200,
+   "minCharge": 9600,
    "reviewAverage": 4.22,
    "reviewCount": 235,
    "access": "JR那須塩原駅より車で30分",
@@ -271,7 +271,7 @@
    "hotelNo": 17519,
    "name": "ペーパームーン＜栃木県＞",
    "kana": "ぺーぱーむーん",
-   "minCharge": 8500,
+   "minCharge": 8000,
    "reviewAverage": 4.18,
    "reviewCount": 758,
    "access": "ＪＲ黒磯駅前より那須温泉行き、バス停「一軒茶屋」より徒歩７分／那須ＩＣより一軒茶屋方面へ１５分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4750,
-  "medianPrice": 12441,
+  "medianPrice": 12250,
   "reviewAvgMean": 4.4,
   "pricedCount": 20
  },
@@ -84,7 +84,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 15700,
+   "minCharge": 14700,
    "reviewAverage": 4.66,
    "reviewCount": 448,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -118,7 +118,7 @@
    "hotelNo": 188079,
    "name": "アクアホテルプレミアム",
    "kana": "あくあほてるぷれみあむ",
-   "minCharge": 5950,
+   "minCharge": 5730,
    "reviewAverage": 4.63,
    "reviewCount": 975,
    "access": "北陸新幹線佐久平駅　蓼科口より徒歩1分　　東京駅から７０分　軽井沢駅から１０分",
@@ -254,7 +254,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 30500,
+   "minCharge": 28100,
    "reviewAverage": 4.36,
    "reviewCount": 247,
    "access": "軽井沢駅よりお車にて約１５分",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 23100,
+   "minCharge": 20900,
    "reviewAverage": 4.64,
    "reviewCount": 13122,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",
@@ -184,7 +184,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 11025,
+   "minCharge": 11865,
    "reviewAverage": 4.53,
    "reviewCount": 795,
    "access": "別府駅東口より徒歩約1分！",

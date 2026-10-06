@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6798,
-  "medianPrice": 16575,
+  "medianPrice": 16687,
   "reviewAvgMean": 4.38,
   "pricedCount": 68
  },
@@ -184,7 +184,7 @@
    "hotelNo": 176633,
    "name": "全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸",
    "kana": "ぜんしつろてんぶろつききゃくしつ　せんごくばらおんせん　せんちゅりおんはこねべってい",
-   "minCharge": 43000,
+   "minCharge": 38000,
    "reviewAverage": 4.67,
    "reviewCount": 175,
    "access": "箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。",
@@ -320,7 +320,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 16650,
+   "minCharge": 15550,
    "reviewAverage": 4.56,
    "reviewCount": 404,
    "access": "箱根湯本駅より徒歩にて１０分",

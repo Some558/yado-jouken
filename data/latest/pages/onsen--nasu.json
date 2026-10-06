@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2790,
-  "medianPrice": 9447,
+  "medianPrice": 9147,
   "reviewAvgMean": 4.36,
   "pricedCount": 26
  },
@@ -50,7 +50,7 @@
    "hotelNo": 167732,
    "name": "ホテル四季の館那須",
    "kana": "ほてるしきのやかたなす",
-   "minCharge": 19005,
+   "minCharge": 16590,
    "reviewAverage": 4.79,
    "reviewCount": 81,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より無料送迎バスにて30分（要予約）",
@@ -118,7 +118,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 19000,
+   "minCharge": 16800,
    "reviewAverage": 4.61,
    "reviewCount": 485,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -305,7 +305,7 @@
    "hotelNo": 184489,
    "name": "那須温泉グランピング　Ｎｅｎｎ（ネン）",
    "kana": "なすおんせんぐらんぴんぐ　ねん",
-   "minCharge": 10200,
+   "minCharge": 9600,
    "reviewAverage": 4.22,
    "reviewCount": 235,
    "access": "JR那須塩原駅より車で30分",

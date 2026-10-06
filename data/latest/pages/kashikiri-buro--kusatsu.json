@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 13984,
+   "minCharge": 13528,
    "reviewAverage": 4.61,
    "reviewCount": 50,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -320,7 +320,7 @@
    "hotelNo": 7052,
    "name": "草津温泉　旅館たむら",
    "kana": "くさつおんせん　りょかんたむら",
-   "minCharge": 20500,
+   "minCharge": 21500,
    "reviewAverage": 4.48,
    "reviewCount": 178,
    "access": "ＪＲ長野原草津口駅よりバスで２５分。渋川ＩＣより車で９０分。",

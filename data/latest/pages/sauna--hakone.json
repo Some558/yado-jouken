@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -201,7 +201,7 @@
    "hotelNo": 162753,
    "name": "箱根風雅",
    "kana": "はこねふうが",
-   "minCharge": 18700,
+   "minCharge": 19635,
    "reviewAverage": 4.51,
    "reviewCount": 1781,
    "access": "バス停「仙石高原」より徒歩約7分／小田原駅より箱根登山バスにて約50分／バスタ新宿より高速バスにて約2時間",

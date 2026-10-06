@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6400,
-  "medianPrice": 11637,
+  "minPrice": 4800,
+  "medianPrice": 11287,
   "reviewAvgMean": 4.22,
   "pricedCount": 16
  },
@@ -133,7 +133,7 @@
    "hotelNo": 190540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　箱根小涌谷",
    "kana": null,
-   "minCharge": 11900,
+   "minCharge": 6800,
    "reviewAverage": 4.38,
    "reviewCount": 157,
    "access": "箱根登山鉄道　小涌谷駅から徒歩で約5分",
@@ -218,7 +218,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 6400,
+   "minCharge": 4800,
    "reviewAverage": 4.07,
    "reviewCount": 215,
    "access": "箱根登山バス：仙石高原 から徒歩2分",

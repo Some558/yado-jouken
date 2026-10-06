@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -33,7 +33,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 28600,
+   "minCharge": 26059,
    "reviewAverage": 4.73,
    "reviewCount": 2048,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -67,7 +67,7 @@
    "hotelNo": 166482,
    "name": "ホテルたいよう農園　松山古三津",
    "kana": "たいようのうえん　まつやまふるみつ",
-   "minCharge": 4000,
+   "minCharge": 3500,
    "reviewAverage": 4.18,
    "reviewCount": 589,
    "access": "松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分",

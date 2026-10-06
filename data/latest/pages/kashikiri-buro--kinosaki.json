@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 12375,
+  "medianPrice": 12825,
   "reviewAvgMean": 4.52,
   "pricedCount": 40
  },
@@ -184,7 +184,7 @@
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 14300,
+   "minCharge": 16500,
    "reviewAverage": 4.69,
    "reviewCount": 229,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
@@ -331,7 +331,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7739",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7739.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7739/7739.jpg",
-   "special": "温泉街の中央に位置し外湯巡りに最適な場所！陶芸･七宝焼･絵付け体験可能。2ヶ所の貸切風呂もございます"
+   "special": "城崎温泉街の中央に位置し外湯めぐりに最適な場所！館内には２ヶ所の貸切風呂もございます★"
   },
   {
    "hotelNo": 147569,
@@ -354,7 +354,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 23080,
+   "minCharge": 15980,
    "reviewAverage": 4.59,
    "reviewCount": 1057,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",

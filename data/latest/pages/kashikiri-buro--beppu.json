@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 10500,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.38,
   "pricedCount": 33
  },
@@ -201,7 +201,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 3850,
+   "minCharge": 3520,
    "reviewAverage": 4.54,
    "reviewCount": 1372,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",
@@ -218,7 +218,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 11025,
+   "minCharge": 11865,
    "reviewAverage": 4.53,
    "reviewCount": 795,
    "access": "別府駅東口より徒歩約1分！",
@@ -235,7 +235,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 12565,
+   "minCharge": 15257,
    "reviewAverage": 4.53,
    "reviewCount": 209,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -252,7 +252,7 @@
    "hotelNo": 135400,
    "name": "別府鉄輪温泉　和の宿　夢月（なごみのやど　むつき）",
    "kana": "べっぷかんなわおんせん　なごみのやど　むつき",
-   "minCharge": 10500,
+   "minCharge": 11500,
    "reviewAverage": 4.52,
    "reviewCount": 745,
    "access": "大分空港からバスで約１時間　別府インターから車で３分　別府駅から車で１５分",
@@ -337,7 +337,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 7700,
+   "minCharge": 6050,
    "reviewAverage": 4.37,
    "reviewCount": 629,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",

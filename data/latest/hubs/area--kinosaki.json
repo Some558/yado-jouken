@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "recordCount": 156,
  "conditions": [
   {
@@ -452,26 +452,6 @@
    ]
   },
   {
-   "hotelNo": 165044,
-   "name": "城崎温泉　花小路　彩月",
-   "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 14300,
-   "reviewAverage": 4.69,
-   "reviewCount": 229,
-   "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島108",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165044",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165044%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165044",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165044.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165044/165044.jpg",
-   "special": "プライベート重視が嬉しい♪貸切温泉×個室レストラン／城崎温泉おとな専用湯宿",
-   "conditions": [
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 28079,
    "name": "城崎温泉　ときわ別館",
    "kana": "きのさきおんせん　ときわべっかん",
@@ -494,6 +474,26 @@
     "breakfast",
     "dinner",
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 165044,
+   "name": "城崎温泉　花小路　彩月",
+   "kana": "きのさきおんせん　はなこうじ　さいげつ",
+   "minCharge": 16500,
+   "reviewAverage": 4.69,
+   "reviewCount": 229,
+   "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島108",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165044",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165044%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165044",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165044.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165044/165044.jpg",
+   "special": "プライベート重視が嬉しい♪貸切温泉×個室レストラン／城崎温泉おとな専用湯宿",
+   "conditions": [
+    "kashikiri-buro"
    ]
   },
   {
@@ -774,7 +774,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7739",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7739.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7739/7739.jpg",
-   "special": "温泉街の中央に位置し外湯巡りに最適な場所！陶芸･七宝焼･絵付け体験可能。2ヶ所の貸切風呂もございます",
+   "special": "城崎温泉街の中央に位置し外湯めぐりに最適な場所！館内には２ヶ所の貸切風呂もございます★",
    "conditions": [
     "kashikiri-buro"
    ]
@@ -827,7 +827,7 @@
    "hotelNo": 11351,
    "name": "城崎温泉　湯楽　Ｙｕｒａｋｕ　Ｋｉｎｏｓａｋｉ　Ｓｐａ＆Ｇａｒｄｅｎｓ",
    "kana": "きのさきおんせん　ゆらく",
-   "minCharge": 23080,
+   "minCharge": 15980,
    "reviewAverage": 4.59,
    "reviewCount": 1057,
    "access": "城崎温泉駅から徒歩20分『送迎あり』北近畿豊岡道、播但連絡道路、但馬空港ICより→312号線を北上.",
@@ -1585,7 +1585,7 @@
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
-   "minCharge": 17900,
+   "minCharge": 18700,
    "reviewAverage": 4.13,
    "reviewCount": 2601,
    "access": "城崎温泉駅⇒当館　旅館組合の送迎バス（詳しい出発時間は駅舎の係員にお尋ね下さい）",
@@ -1838,7 +1838,7 @@
    "hotelNo": 5595,
    "name": "城崎温泉　しののめ荘",
    "kana": "きのさきおんせん　しののめそう",
-   "minCharge": 11900,
+   "minCharge": 13000,
    "reviewAverage": 3.86,
    "reviewCount": 126,
    "access": "中国自動車道福崎ICから播但道経由で約90分間です。",

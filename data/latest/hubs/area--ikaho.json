@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "recordCount": 71,
  "conditions": [
   {
@@ -234,27 +234,6 @@
    ]
   },
   {
-   "hotelNo": 147464,
-   "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
-   "kana": "いかほおんせん　ちぎらじんせんてい",
-   "minCharge": 13200,
-   "reviewAverage": 4.58,
-   "reviewCount": 604,
-   "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保　４５番地",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147464",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147464%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147464",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147464.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147464/147464.jpg",
-   "special": "【立地＆風呂5つ星★】伊香保随一の湯量を誇る「黄金の湯」かけ流しをお楽しみ下さい。",
-   "conditions": [
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 10737,
    "name": "伊香保温泉　和心の宿　大森",
    "kana": "いかほおんせん　なごみのやど　おおもり",
@@ -272,6 +251,27 @@
    "special": "口コミサービス部門「4.7点」石段まで徒歩5分、標高800mの絶景露天風呂・貸切風呂あり",
    "conditions": [
     "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 147464,
+   "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
+   "kana": "いかほおんせん　ちぎらじんせんてい",
+   "minCharge": 20900,
+   "reviewAverage": 4.58,
+   "reviewCount": 604,
+   "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保　４５番地",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147464",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147464%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147464",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147464.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147464/147464.jpg",
+   "special": "【立地＆風呂5つ星★】伊香保随一の湯量を誇る「黄金の湯」かけ流しをお楽しみ下さい。",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -633,7 +633,7 @@
    "hotelNo": 80783,
    "name": "伊香保温泉　いかほ秀水園",
    "kana": "いかほおんせん　いかほしゅうすいえん",
-   "minCharge": 9350,
+   "minCharge": 10450,
    "reviewAverage": 4.28,
    "reviewCount": 583,
    "access": "ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★",
@@ -1056,7 +1056,7 @@
    "hotelNo": 29387,
    "name": "伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら",
    "kana": "いかほおんせん　きむら",
-   "minCharge": 7150,
+   "minCharge": 8250,
    "reviewAverage": 3.71,
    "reviewCount": 2106,
    "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",

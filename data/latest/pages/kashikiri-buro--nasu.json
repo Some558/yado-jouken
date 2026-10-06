@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-05",
+ "dataAsOf": "2026-10-06",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 17350,
+   "minCharge": 18700,
    "reviewAverage": 4.63,
    "reviewCount": 241,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",
@@ -150,7 +150,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 19000,
+   "minCharge": 16800,
    "reviewAverage": 4.61,
    "reviewCount": 485,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
