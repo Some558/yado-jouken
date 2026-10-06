@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 19271,
    "name": "伊香保温泉　ホテル松本楼",
    "kana": "いかほおんせん　まつもとろう",
-   "minCharge": 14000,
+   "minCharge": 14500,
    "reviewAverage": 4.53,
    "reviewCount": 3298,
    "access": "ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ",
@@ -184,7 +184,7 @@
    "hotelNo": 28606,
    "name": "伊香保温泉　福一",
    "kana": "いかほおんせん　ふくいち",
-   "minCharge": 11220,
+   "minCharge": 11616,
    "reviewAverage": 4.29,
    "reviewCount": 1732,
    "access": "渋川駅より伊香保温泉行きバス30分、終点伊香保温泉下車。新宿駅新南口発着の高速バス有※バス停から徒歩数分バス停まで送迎有",

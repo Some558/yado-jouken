@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 10800,
+  "medianPrice": 10560,
   "reviewAvgMean": 4.36,
   "pricedCount": 57
  },
@@ -65,7 +65,7 @@
    "hotelNo": 184851,
    "name": "ＭＵＲＥ　Ｂｅｐｐｕ",
    "kana": "むれ　べっぷ",
-   "minCharge": 9500,
+   "minCharge": 10450,
    "reviewAverage": 4.7,
    "reviewCount": 67,
    "access": "別府駅より徒歩にて約１１分、別府ICよりお車にて約１６分",
@@ -82,7 +82,7 @@
    "hotelNo": 136161,
    "name": "癒しの宿　彩葉",
    "kana": "いやしのやど　いろは",
-   "minCharge": 13300,
+   "minCharge": 14750,
    "reviewAverage": 4.64,
    "reviewCount": 311,
    "access": "別府駅よりお車で１５分",
@@ -99,7 +99,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 20900,
+   "minCharge": 22000,
    "reviewAverage": 4.64,
    "reviewCount": 13122,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",

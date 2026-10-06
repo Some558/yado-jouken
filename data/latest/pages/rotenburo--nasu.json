@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2790,
-  "medianPrice": 11250,
+  "medianPrice": 11027,
   "reviewAvgMean": 4.42,
   "pricedCount": 52
  },

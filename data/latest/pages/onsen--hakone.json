@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -169,7 +169,7 @@
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 15400,
+   "minCharge": 16500,
    "reviewAverage": 4.59,
    "reviewCount": 300,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
@@ -271,7 +271,7 @@
    "hotelNo": 32024,
    "name": "箱根湯の花プリンスホテル",
    "kana": "はこね　ゆのはな　おんせんほてる",
-   "minCharge": 9630,
+   "minCharge": 10111,
    "reviewAverage": 4.5,
    "reviewCount": 614,
    "access": "東名高速道路厚木I.C.からお車で60分 東海道線 小田原駅より路線バスで50分 小田急線箱根湯本駅より路線バスで35分",

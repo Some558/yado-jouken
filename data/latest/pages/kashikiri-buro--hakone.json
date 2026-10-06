@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 21255,
+  "medianPrice": 20830,
   "reviewAvgMean": 4.42,
   "pricedCount": 24
  },
@@ -150,7 +150,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 21060,
+   "minCharge": 19460,
    "reviewAverage": 4.45,
    "reviewCount": 308,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",

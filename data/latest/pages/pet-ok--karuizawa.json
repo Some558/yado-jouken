@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -303,7 +303,7 @@
    "hotelNo": 178462,
    "name": "ＳＯＲＡ　ＨＯＴＥＬ　ＫＡＲＵＩＺＡＷＡ　ＯＵＴＬＥＴ",
    "kana": "そら　ほてる　かるいざわ　あうとれっと",
-   "minCharge": 7500,
+   "minCharge": 7800,
    "reviewAverage": 4.26,
    "reviewCount": 142,
    "access": "長野新幹線　軽井沢駅よりお車にて約５分",

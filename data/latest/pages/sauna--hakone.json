@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6330,
-  "medianPrice": 21060,
+  "medianPrice": 19460,
   "reviewAvgMean": 4.37,
   "pricedCount": 41
  },
@@ -99,7 +99,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 42900,
+   "minCharge": 44000,
    "reviewAverage": 4.69,
    "reviewCount": 899,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -167,7 +167,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 14000,
+   "minCharge": 18000,
    "reviewAverage": 4.56,
    "reviewCount": 6679,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -218,7 +218,7 @@
    "hotelNo": 16106,
    "name": "小田急　山のホテル",
    "kana": "おだきゅう　やまのほてる",
-   "minCharge": 22000,
+   "minCharge": 24200,
    "reviewAverage": 4.5,
    "reviewCount": 1337,
    "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
@@ -286,7 +286,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 21060,
+   "minCharge": 19460,
    "reviewAverage": 4.45,
    "reviewCount": 308,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -354,7 +354,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 11200,
+   "minCharge": 10400,
    "reviewAverage": 4.42,
    "reviewCount": 92,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",

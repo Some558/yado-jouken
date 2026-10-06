@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -204,7 +204,7 @@
    "minCharge": 6925,
    "reviewAverage": 4.46,
    "reviewCount": 82,
-   "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久中佐都ICから車で約5分",
+   "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久ICから車で約10分　佐久平駅からの無料送迎あり",
    "address1": "長野県",
    "address2": "佐久市岩村田5513-1",
    "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199017",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5525,
-  "medianPrice": 11780,
+  "minPrice": 5737,
+  "medianPrice": 10500,
   "reviewAvgMean": 4.38,
   "pricedCount": 11
  },
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 5525,
+   "minCharge": 5737,
    "reviewAverage": 4.42,
    "reviewCount": 464,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 12220,
+   "minCharge": 10500,
    "reviewAverage": 4.04,
    "reviewCount": 514,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",

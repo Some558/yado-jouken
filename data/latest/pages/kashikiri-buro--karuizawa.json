@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-06",
+ "dataAsOf": "2026-10-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8250,
-  "medianPrice": 16500,
+  "medianPrice": 16000,
   "reviewAvgMean": 4.52,
   "pricedCount": 6
  },
@@ -48,7 +48,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 19000,
+   "minCharge": 18380,
    "reviewAverage": 4.69,
    "reviewCount": 547,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -82,7 +82,7 @@
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 19000,
+   "minCharge": 18000,
    "reviewAverage": 4.4,
    "reviewCount": 177,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
