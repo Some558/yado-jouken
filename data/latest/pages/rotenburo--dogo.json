@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2900,
-  "medianPrice": 9000,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.35,
   "pricedCount": 35
  },
@@ -65,7 +65,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 26059,
+   "minCharge": 25300,
    "reviewAverage": 4.73,
    "reviewCount": 2048,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",

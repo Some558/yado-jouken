@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 1080,
+  "minPrice": 3438,
   "medianPrice": 10440,
   "reviewAvgMean": 4.57,
   "pricedCount": 18
@@ -48,7 +48,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 1080,
+   "minCharge": 5400,
    "reviewAverage": 4.88,
    "reviewCount": 18,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
@@ -82,7 +82,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 34100,
+   "minCharge": 30800,
    "reviewAverage": 4.71,
    "reviewCount": 125,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",
@@ -116,7 +116,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 19140,
+   "minCharge": 22110,
    "reviewAverage": 4.68,
    "reviewCount": 810,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",

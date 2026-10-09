@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -23,8 +23,8 @@
    "value": 353,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
-  "minPrice": 2790,
-  "medianPrice": 9200,
+  "minPrice": 2860,
+  "medianPrice": 9600,
   "reviewAvgMean": 4.41,
   "pricedCount": 37
  },
@@ -231,7 +231,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
-   "special": "10月11日空室出ました★心ほっこり口コミ料理高評価★栃木和牛プランが好評"
+   "special": "10月11日wベッド朝食付空室★心ほっこり口コミ料理高評価★栃木和牛プランが好評"
   },
   {
    "hotelNo": 192854,
@@ -288,7 +288,7 @@
    "hotelNo": 165066,
    "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
-   "minCharge": 13090,
+   "minCharge": 16940,
    "reviewAverage": 4.56,
    "reviewCount": 266,
    "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
@@ -305,7 +305,7 @@
    "hotelNo": 184640,
    "name": "那須高原　山小屋",
    "kana": "なすこうげん　やまごや",
-   "minCharge": 5280,
+   "minCharge": 5720,
    "reviewAverage": 4.5,
    "reviewCount": 21,
    "access": "那須塩原駅よりお車にて約45分・東北自動車道那須ICよりお車にて30分",
@@ -339,7 +339,7 @@
    "hotelNo": 32111,
    "name": "新那須高原温泉　こころのおやど　自在荘",
    "kana": "しんなすこうげんおんせん　こころのおやど　じざいそう",
-   "minCharge": 15400,
+   "minCharge": 16500,
    "reviewAverage": 4.49,
    "reviewCount": 502,
    "access": "那須高原黒磯駅／東北新幹線→那須高原→バス（新那須下車）徒歩５分",

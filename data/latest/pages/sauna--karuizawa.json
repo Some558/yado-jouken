@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 16533,
+  "medianPrice": 16720,
   "reviewAvgMean": 4.44,
   "pricedCount": 19
  },
@@ -99,7 +99,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 19140,
+   "minCharge": 22110,
    "reviewAverage": 4.68,
    "reviewCount": 810,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -150,7 +150,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 16533,
+   "minCharge": 17405,
    "reviewAverage": 4.6,
    "reviewCount": 433,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",

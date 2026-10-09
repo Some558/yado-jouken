@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 9240,
+  "medianPrice": 9900,
   "reviewAvgMean": 3.96,
   "pricedCount": 7
  },
@@ -33,7 +33,7 @@
    "hotelNo": 6267,
    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
    "kana": "きしごんりょかん　いしだんがいりんせつ　きしょうげんせん「おうごんのゆ」のやど",
-   "minCharge": 9900,
+   "minCharge": 11000,
    "reviewAverage": 4.45,
    "reviewCount": 1703,
    "access": "関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
@@ -67,7 +67,7 @@
    "hotelNo": 147842,
    "name": "フォレストリゾート　コニファーいわびつ",
    "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
-   "minCharge": 10500,
+   "minCharge": 9975,
    "reviewAverage": 4.28,
    "reviewCount": 426,
    "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
@@ -135,7 +135,7 @@
    "hotelNo": 14324,
    "name": "伊香保温泉　山陽ホテル",
    "kana": "さんようほてる",
-   "minCharge": 8250,
+   "minCharge": 9900,
    "reviewAverage": 3.17,
    "reviewCount": 327,
    "access": "上越線 渋川駅より伊香保へバスで約２０分 / 関越自動車道 渋川ICより２０分",

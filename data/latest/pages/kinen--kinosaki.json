@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -26,7 +26,7 @@
   "minPrice": 3000,
   "medianPrice": 9900,
   "reviewAvgMean": 4.4,
-  "pricedCount": 31
+  "pricedCount": 32
  },
  "hotels": [
   {
@@ -67,7 +67,7 @@
    "hotelNo": 146878,
    "name": "ＴＯＹＯＯＫＡ１９２５",
    "kana": "とよおかいちきゅうにいごお",
-   "minCharge": 12540,
+   "minCharge": 13290,
    "reviewAverage": 4.83,
    "reviewCount": 121,
    "access": "JR豊岡駅徒歩8分、但馬空港より全但バス15分、城崎温泉まで車で20分",
@@ -152,7 +152,7 @@
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
-   "minCharge": 9900,
+   "minCharge": 15400,
    "reviewAverage": 4.67,
    "reviewCount": 93,
    "access": "ＪＲ城崎駅より徒歩8分",
@@ -169,7 +169,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 6080,
+   "minCharge": 6720,
    "reviewAverage": 4.65,
    "reviewCount": 54,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -305,7 +305,7 @@
    "hotelNo": 14575,
    "name": "山の家浄山　神鍋ハイランドホテル",
    "kana": "やまのいえじょうざん　かんなべはいらんどほてる",
-   "minCharge": 8800,
+   "minCharge": 7900,
    "reviewAverage": 4.44,
    "reviewCount": 75,
    "access": "JR山陰線江原駅より全但バス利用「ゆとろぎ前」下車、徒歩１５分 / 日高神鍋高原ＩＣより国道482号線経由",

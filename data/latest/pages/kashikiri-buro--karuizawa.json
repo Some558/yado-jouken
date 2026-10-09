@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8250,
-  "medianPrice": 16000,
+  "medianPrice": 14500,
   "reviewAvgMean": 4.52,
   "pricedCount": 6
  },
@@ -82,7 +82,7 @@
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 18000,
+   "minCharge": 15000,
    "reviewAverage": 4.4,
    "reviewCount": 177,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
@@ -116,7 +116,7 @@
    "hotelNo": 28349,
    "name": "軽井沢ホテル　ロンギングハウス",
    "kana": "かるいざわほてる　ろんぎんぐはうす",
-   "minCharge": 8800,
+   "minCharge": 11800,
    "reviewAverage": 4.2,
    "reviewCount": 1484,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",

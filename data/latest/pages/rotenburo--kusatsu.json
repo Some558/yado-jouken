@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 2800,
-  "medianPrice": 13200,
+  "minPrice": 3600,
+  "medianPrice": 14030,
   "reviewAvgMean": 4.39,
   "pricedCount": 39
  },
@@ -48,7 +48,7 @@
    "hotelNo": 162719,
    "name": "尻焼温泉　星ヶ岡山荘",
    "kana": "ほしがおかさんそう",
-   "minCharge": 20300,
+   "minCharge": 22200,
    "reviewAverage": 4.83,
    "reviewCount": 225,
    "access": "【車】関越自動車道 渋川伊香保ICより90分【公共交通】吾妻線長野原草津口よりバスにて30分花敷温泉バス停",
@@ -201,7 +201,7 @@
    "hotelNo": 39705,
    "name": "草津温泉　ホテル一井",
    "kana": "くさつおんせん　いちい",
-   "minCharge": 18700,
+   "minCharge": 19800,
    "reviewAverage": 4.63,
    "reviewCount": 3279,
    "access": "ＪＲ吾妻線　長野原草津口駅より路線バス２５分",
@@ -218,7 +218,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 13528,
+   "minCharge": 14440,
    "reviewAverage": 4.61,
    "reviewCount": 50,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -320,7 +320,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 15800,
+   "minCharge": 20800,
    "reviewAverage": 4.43,
    "reviewCount": 3300,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",

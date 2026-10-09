@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 6650,
+  "medianPrice": 6350,
   "reviewAvgMean": 4.29,
   "pricedCount": 27
  },
@@ -31,7 +31,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 26059,
+   "minCharge": 25300,
    "reviewAverage": 4.73,
    "reviewCount": 2048,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -116,7 +116,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6650,
+   "minCharge": 6350,
    "reviewAverage": 4.49,
    "reviewCount": 1121,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -167,7 +167,7 @@
    "hotelNo": 184071,
    "name": "ＨＯＴＥＬ　ＬＥＰＯ　ＣＨＡＨＡＬ",
    "kana": "ほてる　れぽ　ちゃはる",
-   "minCharge": 13200,
+   "minCharge": 12100,
    "reviewAverage": 4.46,
    "reviewCount": 67,
    "access": "大街道駅より徒歩1分、松山空港より車で約20分",
@@ -252,7 +252,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 6615,
+   "minCharge": 7612,
    "reviewAverage": 4.37,
    "reviewCount": 1496,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -303,7 +303,7 @@
    "hotelNo": 70933,
    "name": "ウェルピア伊予",
    "kana": "うぇるぴあいよ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.2,
    "reviewCount": 594,
    "access": "伊予ICより10分。松山ICより15分。　ＪＲ　伊予市駅より車で１０分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5737,
-  "medianPrice": 10500,
+  "medianPrice": 10290,
   "reviewAvgMean": 4.38,
-  "pricedCount": 11
+  "pricedCount": 10
  },
  "hotels": [
   {
@@ -99,7 +99,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 20570,
+   "minCharge": 21780,
    "reviewAverage": 4.42,
    "reviewCount": 2629,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 10500,
+   "minCharge": null,
    "reviewAverage": 4.04,
    "reviewCount": 514,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",
@@ -201,7 +201,7 @@
    "hotelNo": 15680,
    "name": "熱海温泉　ホテル　サンミ倶楽部",
    "kana": "あたみおんせん　さんみくらぶ",
-   "minCharge": 6352,
+   "minCharge": 8085,
    "reviewAverage": 3.88,
    "reviewCount": 986,
    "access": "JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分",

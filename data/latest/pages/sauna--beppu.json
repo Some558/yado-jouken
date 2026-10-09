@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-07",
+ "dataAsOf": "2026-10-09",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 9350,
+  "medianPrice": 9480,
   "reviewAvgMean": 4.36,
   "pricedCount": 27
  },
@@ -82,7 +82,7 @@
    "hotelNo": 172768,
    "name": "灯りの宿　燈月",
    "kana": "あかりのやど　とうげつ",
-   "minCharge": 11550,
+   "minCharge": 13200,
    "reviewAverage": 4.62,
    "reviewCount": 917,
    "access": "別府駅より車で２０分",
@@ -116,7 +116,7 @@
    "hotelNo": 187531,
    "name": "別館　うみね",
    "kana": "べっかん　うみね",
-   "minCharge": 11270,
+   "minCharge": 15120,
    "reviewAverage": 4.59,
    "reviewCount": 360,
    "access": "交通アクセスJR別府駅からタクシーで20分／鉄輪口バス停から徒歩15分（急坂有り）／別府ICから車で10分",
@@ -167,7 +167,7 @@
    "hotelNo": 184774,
    "name": "ととのいの宿　春燈庵",
    "kana": "ととのいのやど　しゅんとうあん",
-   "minCharge": 9000,
+   "minCharge": 10000,
    "reviewAverage": 4.54,
    "reviewCount": 91,
    "access": "別府ICよりお車で5分 扇山町バス停より徒歩４分 自衛隊前バス停より徒歩10分 別府駅→車で13分 大分空港→車で45分",
@@ -184,7 +184,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 11865,
+   "minCharge": 11025,
    "reviewAverage": 4.53,
    "reviewCount": 795,
    "access": "別府駅東口より徒歩約1分！",
@@ -354,7 +354,7 @@
    "hotelNo": 1938,
    "name": "別府温泉　ホテルニューツルタ",
    "kana": "べっぷおんせん　ほてるにゅーつるた",
-   "minCharge": 3000,
+   "minCharge": 3600,
    "reviewAverage": 4.18,
    "reviewCount": 1271,
    "access": "ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi",
