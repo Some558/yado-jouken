@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-10-10",
+ "dataAsOf": "2026-10-11",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 16,
    "matchRate": 17.8,
    "minPrice": 4800,
-   "medianPrice": 11287,
-   "reviewAvgMean": 4.22
+   "medianPrice": 11737,
+   "reviewAvgMean": 4.23
   },
   {
    "area": {
@@ -29,7 +29,7 @@
    "matchRate": 5.6,
    "minPrice": 3950,
    "medianPrice": 7040,
-   "reviewAvgMean": 3.96
+   "reviewAvgMean": 3.97
   },
   {
    "area": {
@@ -42,7 +42,7 @@
    "matchRate": 12.2,
    "minPrice": 5525,
    "medianPrice": 11780,
-   "reviewAvgMean": 4.38
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -81,7 +81,7 @@
    "matchRate": 5.6,
    "minPrice": 3500,
    "medianPrice": 6080,
-   "reviewAvgMean": 4.44
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 26,
-   "matchRate": 28.9,
-   "minPrice": 1690,
-   "medianPrice": 9572,
-   "reviewAvgMean": 4.45
+   "matchCount": 27,
+   "matchRate": 30.0,
+   "minPrice": 3280,
+   "medianPrice": 10450,
+   "reviewAvgMean": 4.42
   },
   {
    "area": {
@@ -120,7 +120,7 @@
    "matchRate": 20.0,
    "minPrice": 3438,
    "medianPrice": 10440,
-   "reviewAvgMean": 4.57
+   "reviewAvgMean": 4.55
   },
   {
    "area": {
@@ -133,7 +133,7 @@
    "matchRate": 3.3,
    "minPrice": 13750,
    "medianPrice": 13790,
-   "reviewAvgMean": 4.31
+   "reviewAvgMean": 4.32
   }
  ]
 }

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-10",
+ "dataAsOf": "2026-10-11",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 13750,
   "medianPrice": 13790,
-  "reviewAvgMean": 4.31,
+  "reviewAvgMean": 4.32,
   "pricedCount": 3
  },
  "hotels": [
@@ -49,8 +49,8 @@
    "name": "ホテル　ルナパーク　別邸やすらぎ",
    "kana": "るなぱーく　べっていやすらぎ",
    "minCharge": 13750,
-   "reviewAverage": 4.41,
-   "reviewCount": 171,
+   "reviewAverage": 4.42,
+   "reviewCount": 173,
    "access": "市電　道後温泉駅より徒歩にて約10分",
    "address1": "愛媛県",
    "address2": "松山市道後鷺谷町434-3",
@@ -66,8 +66,8 @@
    "name": "リブマックスリゾート奥道後",
    "kana": "りぶまっくすりぞーとおくどうご",
    "minCharge": 13790,
-   "reviewAverage": 3.91,
-   "reviewCount": 570,
+   "reviewAverage": 3.92,
+   "reviewCount": 577,
    "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",
    "address1": "愛媛県",
    "address2": "松山市末町300-1",

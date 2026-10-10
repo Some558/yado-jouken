@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-10",
+ "dataAsOf": "2026-10-11",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 3500,
   "medianPrice": 6080,
-  "reviewAvgMean": 4.44,
+  "reviewAvgMean": 4.45,
   "pricedCount": 5
  },
  "hotels": [
@@ -49,8 +49,8 @@
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
    "minCharge": 6080,
-   "reviewAverage": 4.65,
-   "reviewCount": 54,
+   "reviewAverage": 4.64,
+   "reviewCount": 64,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
    "address1": "兵庫県",
    "address2": "豊岡市城崎町上山1414-4",
@@ -67,7 +67,7 @@
    "kana": "きのさきおんせん　おやど　はくさん　はなまんだら",
    "minCharge": 21450,
    "reviewAverage": 4.43,
-   "reviewCount": 1023,
+   "reviewCount": 1024,
    "access": "ＪＲ山陰本線城崎温泉駅より無料バスで5分／中国自動車道吉川ＩＣ→舞鶴若狭道春日→北近畿自動車道終点→Ｒ３１２",
    "address1": "兵庫県",
    "address2": "豊岡市城崎町湯島564",
@@ -83,8 +83,8 @@
    "name": "ペンシオーネ　キタムラ",
    "kana": "ぺんしおーね　きたむら",
    "minCharge": 6000,
-   "reviewAverage": 4.19,
-   "reviewCount": 63,
+   "reviewAverage": 4.22,
+   "reviewCount": 64,
    "access": "車／北近畿豊岡自動車道・日高神鍋高原ICより国道482号で神鍋高原方面へ　電車／JR山陰本線「江原駅」よりバスで25分",
    "address1": "兵庫県",
    "address2": "豊岡市日高町太田159-10",
@@ -101,7 +101,7 @@
    "kana": "こだまそう",
    "minCharge": 3500,
    "reviewAverage": 4.15,
-   "reviewCount": 83,
+   "reviewCount": 84,
    "access": "舞鶴自動車道福知山ＩＣより国道９号・国道４２６号経由、約３８㎞",
    "address1": "兵庫県",
    "address2": "豊岡市但東町相田36",

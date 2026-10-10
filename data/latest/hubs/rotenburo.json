@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-10-10",
+ "dataAsOf": "2026-10-11",
  "areas": [
   {
    "area": {
@@ -12,10 +12,10 @@
     "officialName": "箱根"
    },
    "slug": "rotenburo--hakone",
-   "matchCount": 68,
-   "matchRate": 75.6,
+   "matchCount": 69,
+   "matchRate": 76.7,
    "minPrice": 7898,
-   "medianPrice": 17500,
+   "medianPrice": 17600,
    "reviewAvgMean": 4.38
   },
   {
@@ -29,7 +29,7 @@
    "matchRate": 43.3,
    "minPrice": 3950,
    "medianPrice": 14030,
-   "reviewAvgMean": 4.39
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 58,
    "matchRate": 64.4,
    "minPrice": 3240,
-   "medianPrice": 10800,
+   "medianPrice": 10735,
    "reviewAvgMean": 4.36
   },
   {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "rotenburo--yufuin",
-   "matchCount": 73,
-   "matchRate": 81.1,
+   "matchCount": 76,
+   "matchRate": 84.4,
    "minPrice": 6200,
-   "medianPrice": 18700,
-   "reviewAvgMean": 4.49
+   "medianPrice": 18400,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -106,7 +106,7 @@
    "matchCount": 52,
    "matchRate": 57.8,
    "minPrice": 2860,
-   "medianPrice": 10750,
+   "medianPrice": 10500,
    "reviewAvgMean": 4.42
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "rotenburo--karuizawa",
-   "matchCount": 19,
-   "matchRate": 21.1,
+   "matchCount": 20,
+   "matchRate": 22.2,
    "minPrice": 3700,
-   "medianPrice": 14126,
-   "reviewAvgMean": 4.44
+   "medianPrice": 14063,
+   "reviewAvgMean": 4.43
   },
   {
    "area": {
