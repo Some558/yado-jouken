@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 26,
-  "matchRate": 7.4,
+  "matchRate": 7.3,
   "denominator": {
    "type": "area_total",
-   "value": 353,
+   "value": 354,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2860,
@@ -118,7 +118,7 @@
    "hotelNo": 165066,
    "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
-   "minCharge": 16940,
+   "minCharge": 13090,
    "reviewAverage": 4.56,
    "reviewCount": 266,
    "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
@@ -288,7 +288,7 @@
    "hotelNo": 167733,
    "name": "ホテル森の風那須",
    "kana": "もりのかぜなす",
-   "minCharge": 12000,
+   "minCharge": 12600,
    "reviewAverage": 4.18,
    "reviewCount": 284,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",

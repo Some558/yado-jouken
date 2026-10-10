@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 166919,
    "name": "日本旅館　器　別府鉄輪",
    "kana": "にほんりょかん　うつわ　べっぷかんなわ",
-   "minCharge": 9053,
+   "minCharge": 9350,
    "reviewAverage": 4.61,
    "reviewCount": 333,
    "access": "鉄輪バスターミナルより徒歩5分・別府ICより車で10分・別府駅より車で15分・大分空港より車で50分",
@@ -337,7 +337,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 11025,
+   "minCharge": 11865,
    "reviewAverage": 4.53,
    "reviewCount": 795,
    "access": "別府駅東口より徒歩約1分！",

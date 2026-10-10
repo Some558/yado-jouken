@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "recordCount": 279,
  "conditions": [
   {
@@ -946,29 +946,6 @@
    ]
   },
   {
-   "hotelNo": 183829,
-   "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
-   "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 18467,
-   "reviewAverage": 4.45,
-   "reviewCount": 352,
-   "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町大字長倉字屋敷添18-39",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183829",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183829%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183829",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183829.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183829/183829.jpg",
-   "special": "ぬくもりある別荘に着想を得た、隠れ家のような空間「ホテルインディゴ軽井沢」",
-   "conditions": [
-    "daiyokujo",
-    "kinen",
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
@@ -991,6 +968,29 @@
     "dinner",
     "rotenburo",
     "pet-ok"
+   ]
+  },
+  {
+   "hotelNo": 183829,
+   "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
+   "kana": "ほてるいんでぃごかるいざわ",
+   "minCharge": 19200,
+   "reviewAverage": 4.45,
+   "reviewCount": 352,
+   "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町大字長倉字屋敷添18-39",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183829",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183829%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183829",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183829.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183829/183829.jpg",
+   "special": "ぬくもりある別荘に着想を得た、隠れ家のような空間「ホテルインディゴ軽井沢」",
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "rotenburo",
+    "sauna"
    ]
   },
   {
@@ -1094,7 +1094,7 @@
    "hotelNo": 137986,
    "name": "ホテルグランヴェール旧軽井沢",
    "kana": "ぐらんヴぇーる　きゅうかるいざわ",
-   "minCharge": 13000,
+   "minCharge": 12200,
    "reviewAverage": 4.42,
    "reviewCount": 520,
    "access": "軽井沢駅北口より徒歩にて約３分",
@@ -1365,7 +1365,7 @@
    "hotelNo": 167281,
    "name": "ホテルロッソ軽井沢",
    "kana": "ろっそかるいざわ",
-   "minCharge": 10560,
+   "minCharge": 9680,
    "reviewAverage": 4.24,
    "reviewCount": 267,
    "access": "北陸新幹線　軽井沢駅北口より徒歩にて約５分",
@@ -1426,7 +1426,7 @@
    "hotelNo": 28349,
    "name": "軽井沢ホテル　ロンギングハウス",
    "kana": "かるいざわほてる　ろんぎんぐはうす",
-   "minCharge": 11800,
+   "minCharge": 9800,
    "reviewAverage": 4.2,
    "reviewCount": 1484,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
@@ -1507,7 +1507,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 7000,
+   "minCharge": 6500,
    "reviewAverage": 4.1,
    "reviewCount": 274,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -1710,7 +1710,7 @@
    "hotelNo": 109519,
    "name": "アパホテル〈軽井沢駅前〉軽井沢荘　（２０２６年５月リニューアル）",
    "kana": "あぱほてるかるいざわえきまえかるいざわそう",
-   "minCharge": 9360,
+   "minCharge": 8730,
    "reviewAverage": 3.96,
    "reviewCount": 1439,
    "access": "北陸新幹線、しなの鉄道　軽井沢駅北口より徒歩2分／上信越自動車道碓氷軽井沢ＩＣより車で約20分（約12km）",

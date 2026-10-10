@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -17,16 +17,16 @@
  },
  "stats": {
   "matchCount": 75,
-  "matchRate": 27.2,
+  "matchRate": 27.1,
   "denominator": {
    "type": "area_total",
-   "value": 276,
+   "value": 277,
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3800,
   "medianPrice": 11000,
   "reviewAvgMean": 4.3,
-  "pricedCount": 45
+  "pricedCount": 46
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 57600,
+   "minCharge": 59200,
    "reviewAverage": 4.68,
    "reviewCount": 80,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -146,7 +146,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】10/7(水)、10(土)〜12(月祝)空室わずか！12日は花火☆"
+   "special": "【旅館甲子園優勝の宿】10/12(月祝)＆25(日)は花火大会☆ラスト1室！お早めに！"
   },
   {
    "hotelNo": 179729,
@@ -305,7 +305,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 5737,
+   "minCharge": 5525,
    "reviewAverage": 4.42,
    "reviewCount": 464,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",

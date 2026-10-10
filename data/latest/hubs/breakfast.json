@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "areas": [
   {
    "area": {
@@ -39,9 +39,9 @@
    },
    "slug": "breakfast--atami",
    "matchCount": 56,
-   "matchRate": 20.3,
+   "matchRate": 20.2,
    "minPrice": 3800,
-   "medianPrice": 11000,
+   "medianPrice": 11200,
    "reviewAvgMean": 4.3
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 35,
    "matchRate": 11.0,
    "minPrice": 9500,
-   "medianPrice": 20600,
+   "medianPrice": 19200,
    "reviewAvgMean": 4.56
   },
   {
@@ -119,7 +119,7 @@
    "matchCount": 52,
    "matchRate": 18.6,
    "minPrice": 3438,
-   "medianPrice": 9580,
+   "medianPrice": 9205,
    "reviewAvgMean": 4.43
   },
   {

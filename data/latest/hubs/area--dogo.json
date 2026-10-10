@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "recordCount": 181,
  "conditions": [
   {
@@ -443,7 +443,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 16300,
+   "minCharge": 17500,
    "reviewAverage": 4.5,
    "reviewCount": 713,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",
@@ -720,7 +720,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7612,
+   "minCharge": 8192,
    "reviewAverage": 4.37,
    "reviewCount": 1496,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -837,7 +837,7 @@
    "hotelNo": 199177,
    "name": "アパホテル〈松山市駅前〉（２０２６年７月ＯＰＥＮ）",
    "kana": "あぱほてる　まつやましえきまえ",
-   "minCharge": 5040,
+   "minCharge": 3960,
    "reviewAverage": 4.26,
    "reviewCount": 124,
    "access": "伊予鉄道松山市駅北口から徒歩3分",
@@ -1091,6 +1091,28 @@
    "conditions": []
   },
   {
+   "hotelNo": 166482,
+   "name": "ホテルたいよう農園　松山古三津",
+   "kana": "たいようのうえん　まつやまふるみつ",
+   "minCharge": 3000,
+   "reviewAverage": 4.18,
+   "reviewCount": 589,
+   "access": "松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分",
+   "address1": "愛媛県",
+   "address2": "松山市古三津3-6-8  ",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166482",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D166482%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D166482",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/166482.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166482/166482.jpg",
+   "special": "【農家が営む宿】２０２３年８月新装オープン★農家がつくる本気のごはんを召し上がれ！",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
    "hotelNo": 70303,
    "name": "ホテル三番町",
    "kana": "ほてるさんばんちょう",
@@ -1110,28 +1132,6 @@
     "rotenburo",
     "sauna",
     "kashikiri-buro"
-   ]
-  },
-  {
-   "hotelNo": 166482,
-   "name": "ホテルたいよう農園　松山古三津",
-   "kana": "たいようのうえん　まつやまふるみつ",
-   "minCharge": 4000,
-   "reviewAverage": 4.18,
-   "reviewCount": 589,
-   "access": "松山空港より車10分／ＪＲ松山駅より車15分／松山観光港より車10分／ＪＲ三津浜駅より徒歩10分／松山ＩＣより車30分",
-   "address1": "愛媛県",
-   "address2": "松山市古三津3-6-8  ",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D166482",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D166482%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D166482",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/166482.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166482/166482.jpg",
-   "special": "【農家が営む宿】２０２３年８月新装オープン★農家がつくる本気のごはんを召し上がれ！",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner"
    ]
   },
   {
@@ -1636,7 +1636,7 @@
    "hotelNo": 164470,
    "name": "ホテル勝山",
    "kana": "かつやま",
-   "minCharge": 2900,
+   "minCharge": 3000,
    "reviewAverage": 3.89,
    "reviewCount": 1274,
    "access": "勝山町駅より徒歩にて約3分",
@@ -1854,7 +1854,7 @@
    "hotelNo": 32037,
    "name": "Ｔａｂｉｓｔ　ビジネスホテル末広　松山",
    "kana": "たびすと　びじねすほてるすえひろ　まつやま",
-   "minCharge": 4508,
+   "minCharge": 4278,
    "reviewAverage": 3.4,
    "reviewCount": 350,
    "access": "松山市駅より徒歩2分／JR松山駅より車で7分／松山空港より車で20分／松山ICより車で約15分・約7キロ",

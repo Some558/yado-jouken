@@ -4,8 +4,8 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-09",
- "recordCount": 353,
+ "dataAsOf": "2026-10-10",
+ "recordCount": 354,
  "conditions": [
   {
    "condition": "onsen",
@@ -525,7 +525,7 @@
    "hotelNo": 198001,
    "name": "Ｅａｒｔｈｂｏａｔ　Ｎａｓｕ（那須）",
    "kana": "あーすぼーと なす（なす）",
-   "minCharge": 18304,
+   "minCharge": 18570,
    "reviewAverage": 4.62,
    "reviewCount": 13,
    "access": "東北自動車道 那須ICより車で約20分／那須塩原駅西口より路線バス（約50分）「湯本1丁目」下車、徒歩約10分",
@@ -769,7 +769,7 @@
    "hotelNo": 165066,
    "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
-   "minCharge": 16940,
+   "minCharge": 13090,
    "reviewAverage": 4.56,
    "reviewCount": 266,
    "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
@@ -1689,7 +1689,7 @@
    "hotelNo": 167733,
    "name": "ホテル森の風那須",
    "kana": "もりのかぜなす",
-   "minCharge": 12000,
+   "minCharge": 12600,
    "reviewAverage": 4.18,
    "reviewCount": 284,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",

@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4350,
-  "medianPrice": 9761,
+  "medianPrice": 9662,
   "reviewAvgMean": 4.25,
   "pricedCount": 20
  },
@@ -320,7 +320,7 @@
    "hotelNo": 84597,
    "name": "伊香保温泉　とどろき（伊東園ホテルズ）",
    "kana": "いかほおんせん　とどろき",
-   "minCharge": 9548,
+   "minCharge": 8448,
    "reviewAverage": 3.88,
    "reviewCount": 1240,
    "access": "ＪＲ上越線　渋川駅よりバス（伊香保榛名口行、八千代坂下バス停降車）又はお車にて２5分",
@@ -337,7 +337,7 @@
    "hotelNo": 40805,
    "name": "伊香保温泉　伊香保グランドホテル（伊東園ホテルズ）",
    "kana": "いかほおんせん　いかほぐらんどほてる",
-   "minCharge": 8998,
+   "minCharge": 8448,
    "reviewAverage": 3.8,
    "reviewCount": 1483,
    "access": "車：関越自動車道　渋川伊香保I.Cより20分　公共交通機関：ＪＲ渋川駅よりバスで２０分",

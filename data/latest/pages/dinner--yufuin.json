@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-10",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9500,
-  "medianPrice": 21700,
+  "medianPrice": 19500,
   "reviewAvgMean": 4.56,
   "pricedCount": 27
  },
@@ -33,7 +33,7 @@
    "hotelNo": 176658,
    "name": "由布院温泉　御宿　田　離宮",
    "kana": "ゆふいんおんせん　おんやど　でん　りきゅう",
-   "minCharge": 33000,
+   "minCharge": 28000,
    "reviewAverage": 5.0,
    "reviewCount": 59,
    "access": "ＪＲ　由布院駅より徒歩にて約１０分／大分自動車道　湯布院ＩＣよりお車にて約５分",
@@ -183,6 +183,23 @@
    "special": "幼児無料！3組限定の広々グランピングでお肉自慢のバーベキューとプライベートサウナをお楽しみください"
   },
   {
+   "hotelNo": 76377,
+   "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
+   "kana": "あさぎりのみえるやど　ゆふいんはなよし",
+   "minCharge": 25520,
+   "reviewAverage": 4.69,
+   "reviewCount": 1098,
+   "access": "■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川北913-11",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76377",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76377%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76377",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76377.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg",
+   "special": "【湯布院随一の絶景＆眺望★★★★★】お客様評価5つ星！由布岳を望む眺望とPH9.2の温泉自慢の宿"
+  },
+  {
    "hotelNo": 43826,
    "name": "由布院温泉　かほりの郷　はな村",
    "kana": "ゆふいんおんせん　かほりのさと　はなむら",
@@ -198,23 +215,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/43826.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43826/43826.jpg",
    "special": "女性が喜ぶ宿を目指しています。湯の坪街道最大の宿。観光・ショッピングの中心まで徒歩1分"
-  },
-  {
-   "hotelNo": 76377,
-   "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
-   "kana": "あさぎりのみえるやど　ゆふいんはなよし",
-   "minCharge": 26400,
-   "reviewAverage": 4.69,
-   "reviewCount": 1098,
-   "access": "■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川北913-11",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76377",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76377%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76377",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76377.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76377/76377.jpg",
-   "special": "【湯布院随一の絶景＆眺望★★★★★】お客様評価5つ星！由布岳を望む眺望とPH9.2の温泉自慢の宿"
   },
   {
    "hotelNo": 198983,

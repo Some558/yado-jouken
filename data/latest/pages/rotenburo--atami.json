@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-09",
+ "dataAsOf": "2026-10-10",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11200,
+  "medianPrice": 11400,
   "reviewAvgMean": 4.32,
-  "pricedCount": 64
+  "pricedCount": 65
  },
  "hotels": [
   {
@@ -161,7 +161,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】10/7(水)、10(土)〜12(月祝)空室わずか！12日は花火☆"
+   "special": "【旅館甲子園優勝の宿】10/12(月祝)＆25(日)は花火大会☆ラスト1室！お早めに！"
   },
   {
    "hotelNo": 197470,
