@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 10487,
+  "medianPrice": 10750,
   "reviewAvgMean": 4.23,
   "pricedCount": 26
  },
@@ -186,7 +186,7 @@
    "hotelNo": 7170,
    "name": "伊香保温泉　温泉宿　塚越屋七兵衛",
    "kana": "いかほおんせん　おんせんやど　つかごしやしちべえ",
-   "minCharge": 9240,
+   "minCharge": 10010,
    "reviewAverage": 4.4,
    "reviewCount": 924,
    "access": "関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）",
@@ -220,7 +220,7 @@
    "hotelNo": 182808,
    "name": "渋川天然温泉　ハナホテル＆スパ　伊香保インター",
    "kana": "しぶかわてんねんおんせん　はなほてる　すぱいかほいんたー",
-   "minCharge": 6500,
+   "minCharge": 6000,
    "reviewAverage": 4.34,
    "reviewCount": 2158,
    "access": "渋川・伊香保インターより車で５分。JR上越線『渋川駅』よりバスで30分。『八木原駅』よりバスで3分。",
@@ -271,7 +271,7 @@
    "hotelNo": 147842,
    "name": "フォレストリゾート　コニファーいわびつ",
    "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
-   "minCharge": 9975,
+   "minCharge": 10500,
    "reviewAverage": 4.28,
    "reviewCount": 426,
    "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",

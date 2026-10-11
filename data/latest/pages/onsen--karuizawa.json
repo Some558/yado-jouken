@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -169,7 +169,7 @@
    "hotelNo": 2010,
    "name": "天狗温泉　浅間山荘",
    "kana": "てんぐおんせん　あさまさんそう",
-   "minCharge": 7200,
+   "minCharge": 6200,
    "reviewAverage": 4.5,
    "reviewCount": 153,
    "access": "上信越自動車道、小諸ＩＣより車で２５分。軽井沢より車で４０分。",
@@ -254,7 +254,7 @@
    "hotelNo": 29249,
    "name": "軽井沢プリンスホテル　ウエスト",
    "kana": "かるいざわ　ぷりんす　うえすと",
-   "minCharge": 6850,
+   "minCharge": 6402,
    "reviewAverage": 4.36,
    "reviewCount": 2991,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",

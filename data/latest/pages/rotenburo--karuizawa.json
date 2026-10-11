@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 20,
-  "matchRate": 22.2,
+  "matchCount": 21,
+  "matchRate": 23.3,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 14063,
-  "reviewAvgMean": 4.43,
-  "pricedCount": 20
+  "medianPrice": 14000,
+  "reviewAvgMean": 4.4,
+  "pricedCount": 21
  },
  "hotels": [
   {
@@ -99,7 +99,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 16700,
+   "minCharge": 15700,
    "reviewAverage": 4.6,
    "reviewCount": 454,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -351,22 +351,22 @@
    "special": "楽天トラベル ブロンズアワード2025受賞☆24時迄入れる7種類のお風呂＆2種類のサウナ無料"
   },
   {
-   "hotelNo": 182619,
-   "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
-   "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
-   "minCharge": 4750,
-   "reviewAverage": 3.9,
-   "reviewCount": 769,
-   "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",
+   "hotelNo": 147939,
+   "name": "小瀬温泉ホテル",
+   "kana": "こせおんせんほてる",
+   "minCharge": 11000,
+   "reviewAverage": 3.93,
+   "reviewCount": 251,
+   "access": "車：軽井沢駅15分（旧軽井沢からは料金所で当館利用と伝えると通行料無料）バス：軽井沢駅北口2番線から小瀬温泉下車徒歩1分",
    "address1": "長野県",
-   "address2": "佐久市中込3150-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182619",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182619%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182619",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182619.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182619/182619.jpg",
-   "special": "☆8種類の浴槽と2種類のサウナが自慢の天然温泉☆信州佐久平の中心地☆駐車場200台完備（大型OK）"
+   "address2": "北佐久郡軽井沢町長倉2126",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147939",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147939%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147939",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147939.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147939/147939.jpg",
+   "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 20
+ "listedMatchCount": 21
 }

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "facility"
  },
@@ -218,7 +218,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20687,
+   "minCharge": 20500,
    "reviewAverage": 4.59,
    "reviewCount": 334,
    "access": "JR熱海駅よりお車・タクシーで約１０分",

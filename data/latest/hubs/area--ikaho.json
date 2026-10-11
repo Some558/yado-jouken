@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "recordCount": 71,
  "conditions": [
   {
@@ -482,7 +482,7 @@
    "hotelNo": 7170,
    "name": "伊香保温泉　温泉宿　塚越屋七兵衛",
    "kana": "いかほおんせん　おんせんやど　つかごしやしちべえ",
-   "minCharge": 9240,
+   "minCharge": 10010,
    "reviewAverage": 4.4,
    "reviewCount": 924,
    "access": "関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）",
@@ -534,7 +534,7 @@
    "hotelNo": 197407,
    "name": "ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　渋川",
    "kana": "ほてる あーるないん ざ やーど しぶかわ",
-   "minCharge": 3900,
+   "minCharge": 4300,
    "reviewAverage": 4.37,
    "reviewCount": 145,
    "access": "【電車】渋川駅より徒歩10分、タクシーで4分。【お車】渋川伊香保ICより車で5分。",
@@ -572,7 +572,7 @@
    "hotelNo": 182808,
    "name": "渋川天然温泉　ハナホテル＆スパ　伊香保インター",
    "kana": "しぶかわてんねんおんせん　はなほてる　すぱいかほいんたー",
-   "minCharge": 6500,
+   "minCharge": 6000,
    "reviewAverage": 4.34,
    "reviewCount": 2158,
    "access": "渋川・伊香保インターより車で５分。JR上越線『渋川駅』よりバスで30分。『八木原駅』よりバスで3分。",
@@ -689,34 +689,6 @@
    ]
   },
   {
-   "hotelNo": 147842,
-   "name": "フォレストリゾート　コニファーいわびつ",
-   "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
-   "minCharge": 9975,
-   "reviewAverage": 4.28,
-   "reviewCount": 426,
-   "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
-   "address1": "群馬県",
-   "address2": "吾妻郡東吾妻町原町4399",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147842",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147842%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147842",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147842.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147842/147842.jpg",
-   "special": "自然溢れる敷地内で楽しむ休日の気持ち良さはたまらない！ペットＯＫのログハウスも予約受付中！",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "sauna",
-    "kashikiri-buro",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 80783,
    "name": "伊香保温泉　いかほ秀水園",
    "kana": "いかほおんせん　いかほしゅうすいえん",
@@ -738,6 +710,34 @@
     "kinen",
     "rotenburo",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 147842,
+   "name": "フォレストリゾート　コニファーいわびつ",
+   "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
+   "minCharge": 10500,
+   "reviewAverage": 4.28,
+   "reviewCount": 426,
+   "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
+   "address1": "群馬県",
+   "address2": "吾妻郡東吾妻町原町4399",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147842",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147842%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147842",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147842.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147842/147842.jpg",
+   "special": "自然溢れる敷地内で楽しむ休日の気持ち良さはたまらない！ペットＯＫのログハウスも予約受付中！",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo",
+    "sauna",
+    "kashikiri-buro",
+    "pet-ok"
    ]
   },
   {

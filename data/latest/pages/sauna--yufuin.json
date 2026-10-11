@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 9500,
-  "medianPrice": 12547,
+  "medianPrice": 12350,
   "reviewAvgMean": 4.5,
   "pricedCount": 10
  },
@@ -167,7 +167,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 11395,
+   "minCharge": 10900,
    "reviewAverage": 4.21,
    "reviewCount": 307,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",

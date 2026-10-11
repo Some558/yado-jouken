@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -24,28 +24,11 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4500,
-  "medianPrice": 13396,
-  "reviewAvgMean": 4.38,
-  "pricedCount": 23
+  "medianPrice": 14548,
+  "reviewAvgMean": 4.37,
+  "pricedCount": 22
  },
  "hotels": [
-  {
-   "hotelNo": 38419,
-   "name": "軽井沢つるや旅館",
-   "kana": "かるいざわつるやりょかん",
-   "minCharge": 13310,
-   "reviewAverage": 4.75,
-   "reviewCount": 142,
-   "access": "ＪＲ軽井沢駅より車で５分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町旧軽井沢678",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38419",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38419%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38419",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38419.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38419/38419.jpg",
-   "special": "旧軽銀座と高級別荘地に面し、ショッピングに散歩に最適。軽井沢らしい洋風感覚の旅館。"
-  },
   {
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
@@ -135,7 +118,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 16700,
+   "minCharge": 15700,
    "reviewAverage": 4.6,
    "reviewCount": 454,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -322,7 +305,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.11,
    "reviewCount": 275,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137798.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137798/137798.jpg",
    "special": "アットホームな御代田の老舗旅館。レジャー、ビジネスなどアクセス便利、人気の信州川魚料理もオススメ♪"
+  },
+  {
+   "hotelNo": 182619,
+   "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
+   "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
+   "minCharge": 5100,
+   "reviewAverage": 3.9,
+   "reviewCount": 769,
+   "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",
+   "address1": "長野県",
+   "address2": "佐久市中込3150-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182619",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182619%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182619",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182619.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182619/182619.jpg",
+   "special": "☆8種類の浴槽と2種類のサウナが自慢の天然温泉☆信州佐久平の中心地☆駐車場200台完備（大型OK）"
   }
  ],
- "listedMatchCount": 23
+ "listedMatchCount": 22
 }

@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-11",
+ "dataAsOf": "2026-10-12",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 16,
-  "matchRate": 17.8,
+  "matchCount": 15,
+  "matchRate": 16.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 11737,
+  "medianPrice": 11374,
   "reviewAvgMean": 4.23,
-  "pricedCount": 16
+  "pricedCount": 15
  },
  "hotels": [
   {
@@ -181,23 +181,6 @@
    "special": "〈綾館〉国際的に権威あるデザイン賞『iF DESIGN award 2025』を受賞"
   },
   {
-   "hotelNo": 142874,
-   "name": "箱根強羅グアムドッグ本店",
-   "kana": "はこねごうらぐあむどっぐほんてん",
-   "minCharge": 22770,
-   "reviewAverage": 4.17,
-   "reviewCount": 102,
-   "access": "早雲山駅より徒歩にて１５分。ＪＲ　小田原駅より伊豆箱根バス「大涌谷経由湖尻行き」早雲山上バス停で下車、徒歩５分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1322-20",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D142874",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D142874%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142874",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142874.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142874/142874.jpg",
-   "special": "愛犬家専用貸切にごり湯のぐるめ温泉宿。地元食材とお酒でおもてなし。愛犬家御用達旅館"
-  },
-  {
    "hotelNo": 129468,
    "name": "二の平温泉　ペットと泊まる宿　Ｄｏｇ’ｓ　Ｒｅｓｔ　Ｐｌａｃｅ",
    "kana": "ぺっとととまるやど　どっぐ　れすと　ぷれいす",
@@ -300,5 +283,5 @@
    "special": "和モダンがテーマの全室露天風呂付温宿。秋野菜グラタンやイクラ、熱々ステーキを楽しむ秋ビュッフェ開催。"
   }
  ],
- "listedMatchCount": 16
+ "listedMatchCount": 15
 }
