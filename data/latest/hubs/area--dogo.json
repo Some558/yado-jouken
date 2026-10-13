@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-12",
+ "dataAsOf": "2026-10-13",
  "recordCount": 181,
  "conditions": [
   {
@@ -267,6 +267,28 @@
    ]
   },
   {
+   "hotelNo": 188387,
+   "name": "時地人－　ＪＩＪＩＪＩＮ　Ｍａｔｓｕｙａｍａ（旧：ＴＯＢＥオーベルジュリゾート）",
+   "kana": "じじじん　まつやま",
+   "minCharge": 18150,
+   "reviewAverage": 4.64,
+   "reviewCount": 20,
+   "access": "松山空港より車で約20分",
+   "address1": "愛媛県",
+   "address2": "伊予郡砥部町宮内1622-7",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188387",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188387%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188387",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188387.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188387/188387.jpg",
+   "special": "水庭を眺めながら非日常を体験する、ここにしかないLocal Luxury Resort",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
    "hotelNo": 142928,
    "name": "大和屋別荘",
    "kana": "やまとやべっそう",
@@ -284,28 +306,6 @@
    "special": "【部屋食×露天風呂】ミシュラン4つ星獲得の部屋食と露天風呂付き客室ご用意でゆったり道後を堪能。",
    "conditions": [
     "rotenburo"
-   ]
-  },
-  {
-   "hotelNo": 188387,
-   "name": "時地人－　ＪＩＪＩＪＩＮ　Ｍａｔｓｕｙａｍａ（旧：ＴＯＢＥオーベルジュリゾート）",
-   "kana": "じじじん　まつやま",
-   "minCharge": 30250,
-   "reviewAverage": 4.64,
-   "reviewCount": 20,
-   "access": "松山空港より車で約20分",
-   "address1": "愛媛県",
-   "address2": "伊予郡砥部町宮内1622-7",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D188387",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D188387%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D188387",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/188387.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/188387/188387.jpg",
-   "special": "水庭を眺めながら非日常を体験する、ここにしかないLocal Luxury Resort",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner"
    ]
   },
   {
@@ -485,7 +485,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6350,
+   "minCharge": 6800,
    "reviewAverage": 4.49,
    "reviewCount": 1125,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -722,7 +722,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 12800,
+   "minCharge": 11700,
    "reviewAverage": 4.4,
    "reviewCount": 2723,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",
@@ -990,7 +990,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 6100,
+   "minCharge": 6300,
    "reviewAverage": 4.22,
    "reviewCount": 2424,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",
@@ -1132,28 +1132,6 @@
    "conditions": []
   },
   {
-   "hotelNo": 6276,
-   "name": "ホテルマイステイズ松山",
-   "kana": "まいすていずまつやま",
-   "minCharge": 2700,
-   "reviewAverage": 4.18,
-   "reviewCount": 3173,
-   "access": "JR松山駅・松山市駅から徒歩8分／松山空港からバス約20分(愛媛新聞社前下車)／松山観光港～バス24分／松山IC～15分",
-   "address1": "愛媛県",
-   "address2": "松山市大手町1-10-10",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D6276",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D6276%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D6276",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/6276.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6276/6276.jpg",
-   "special": "松山市民会館・コミュニティセンター・ひめぎんホール・道後温泉へのアクセスも便利。",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner"
-   ]
-  },
-  {
    "hotelNo": 70303,
    "name": "ホテル三番町",
    "kana": "ほてるさんばんちょう",
@@ -1176,10 +1154,32 @@
    ]
   },
   {
+   "hotelNo": 6276,
+   "name": "ホテルマイステイズ松山",
+   "kana": "まいすていずまつやま",
+   "minCharge": 3550,
+   "reviewAverage": 4.18,
+   "reviewCount": 3173,
+   "access": "JR松山駅・松山市駅から徒歩8分／松山空港からバス約20分(愛媛新聞社前下車)／松山観光港～バス24分／松山IC～15分",
+   "address1": "愛媛県",
+   "address2": "松山市大手町1-10-10",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D6276",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D6276%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D6276",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/6276.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6276/6276.jpg",
+   "special": "松山市民会館・コミュニティセンター・ひめぎんホール・道後温泉へのアクセスも便利。",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner"
+   ]
+  },
+  {
    "hotelNo": 220,
    "name": "ＡＮＡクラウンプラザホテル松山　ｂｙ　ＩＨＧ",
    "kana": "えーえぬえーくらうんぷらざほてるまつやま",
-   "minCharge": 6759,
+   "minCharge": 6878,
    "reviewAverage": 4.18,
    "reviewCount": 4981,
    "access": "松山空港よりバスで20分。ＪＲ松山駅より路面電車で8分。松山インターより車で15分。道後温泉まで路面電車で10分。",
@@ -1472,7 +1472,7 @@
    "hotelNo": 16718,
    "name": "ホテル葛城　Ｓｐａ　Ｒｅｓｏｒｔ　道後",
    "kana": "ほてるかつらぎ　すぱ　りぞーと　どうご",
-   "minCharge": 6350,
+   "minCharge": 7161,
    "reviewAverage": 4.04,
    "reviewCount": 1468,
    "access": "道後温泉駅より徒歩５分！坊っちゃん湯道後温泉本館までは徒歩１分の好立地☆ＪＲ松山駅より車で１５分／松山ＩＣより車で２0分",
@@ -1559,7 +1559,7 @@
    "hotelNo": 16716,
    "name": "県庁前　ホテルアビス松山",
    "kana": "けんちょうまえ　あびすまつやま",
-   "minCharge": 4400,
+   "minCharge": 4500,
    "reviewAverage": 3.98,
    "reviewCount": 3153,
    "access": "松山空港→バスで25分「大街道降車場」より徒歩2分／路面電車「県庁前」より徒歩1分／市内中心の大街道より徒歩2分",

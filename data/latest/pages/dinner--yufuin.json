@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-12",
+ "dataAsOf": "2026-10-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -23,8 +23,8 @@
    "value": 318,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
-  "minPrice": 9500,
-  "medianPrice": 18900,
+  "minPrice": 9000,
+  "medianPrice": 19500,
   "reviewAvgMean": 4.52,
   "pricedCount": 39
  },
@@ -186,7 +186,7 @@
    "hotelNo": 31261,
    "name": "由布院温泉　吉祥開運亭　無尽蔵",
    "kana": "ゆふいんおんせん　きっしょうかいうんてい　むじんぞう",
-   "minCharge": 18700,
+   "minCharge": 24200,
    "reviewAverage": 4.73,
    "reviewCount": 210,
    "access": "■JR久大本線由布院駅より徒歩15分■車で５分■湯布院ICより15分程■湯の坪街道まで徒歩30秒",
@@ -356,7 +356,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 10080,
+   "minCharge": 10512,
    "reviewAverage": 4.62,
    "reviewCount": 183,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",

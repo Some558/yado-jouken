@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-12",
+ "dataAsOf": "2026-10-13",
  "detection": {
   "type": "facility"
  },
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 16650,
+   "minCharge": 16110,
    "reviewAverage": 4.03,
    "reviewCount": 518,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",
