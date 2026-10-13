@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -33,7 +33,7 @@
    "hotelNo": 187920,
    "name": "ふふ　軽井沢　ー陽光の風ー",
    "kana": "ふふ かるいざわ ようこうのかぜ",
-   "minCharge": 45400,
+   "minCharge": 49250,
    "reviewAverage": 4.89,
    "reviewCount": 58,
    "access": "軽井沢駅よりお車で約10分",
@@ -152,7 +152,7 @@
    "hotelNo": 67500,
    "name": "ザ・プリンス軽井沢",
    "kana": "ざ・ぷりんすかるいざわ",
-   "minCharge": 14126,
+   "minCharge": 13141,
    "reviewAverage": 4.52,
    "reviewCount": 327,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",

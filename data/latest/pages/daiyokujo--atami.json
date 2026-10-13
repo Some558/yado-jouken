@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 2180,
-  "medianPrice": 10200,
+  "medianPrice": 10890,
   "reviewAvgMean": 4.25,
   "pricedCount": 49
  },
@@ -67,7 +67,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 57600,
+   "minCharge": 59200,
    "reviewAverage": 4.68,
    "reviewCount": 80,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -322,7 +322,7 @@
    "hotelNo": 859,
    "name": "熱海温泉　月の栖　熱海聚楽ホテル",
    "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 20570,
+   "minCharge": 21780,
    "reviewAverage": 4.41,
    "reviewCount": 2635,
    "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
@@ -356,7 +356,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 9900,
    "reviewAverage": 4.38,
    "reviewCount": 195,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",

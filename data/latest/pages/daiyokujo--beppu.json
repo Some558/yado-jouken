@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3240,
-  "medianPrice": 9727,
+  "medianPrice": 9690,
   "reviewAvgMean": 4.29,
   "pricedCount": 28
  },
@@ -50,7 +50,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 22000,
+   "minCharge": 23100,
    "reviewAverage": 4.64,
    "reviewCount": 13164,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",
@@ -220,7 +220,7 @@
    "hotelNo": 180258,
    "name": "天然温泉　鉄輪の湯　スーパーホテル別府駅前",
    "kana": "すーぱーほてる　べっぷえきまえ　てんねんおんせん　かんなわのゆ",
-   "minCharge": 6280,
+   "minCharge": 6413,
    "reviewAverage": 4.38,
    "reviewCount": 1280,
    "access": "ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分",
@@ -305,7 +305,7 @@
    "hotelNo": 674,
    "name": "ホテルアーサー　ＫＩＴＡＨＡＭＡ　ＢＡＳＥ",
    "kana": "ほてるあーさー　きたはまべーす",
-   "minCharge": 4208,
+   "minCharge": 4420,
    "reviewAverage": 4.31,
    "reviewCount": 1790,
    "access": "ＪＲ「別府駅」より徒歩３分 　大分空港より「北浜停留所」徒歩５分　大分自動車道別府I.Cより15分",
@@ -356,7 +356,7 @@
    "hotelNo": 31206,
    "name": "スパ&リゾート　ホテルソラージュ　大分・日出",
    "kana": "すぱあんどりぞーと　ほてるそらーじゅおおいたひじ",
-   "minCharge": 6800,
+   "minCharge": 7600,
    "reviewAverage": 4.18,
    "reviewCount": 1743,
    "access": "日豊線　日出駅より車で７分。大分自動車道日出ＩＣより約20分。",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -84,7 +84,7 @@
    "hotelNo": 187920,
    "name": "ふふ　軽井沢　ー陽光の風ー",
    "kana": "ふふ かるいざわ ようこうのかぜ",
-   "minCharge": 45400,
+   "minCharge": 49250,
    "reviewAverage": 4.89,
    "reviewCount": 58,
    "access": "軽井沢駅よりお車で約10分",
@@ -135,7 +135,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 29095,
+   "minCharge": 27408,
    "reviewAverage": 4.73,
    "reviewCount": 519,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",

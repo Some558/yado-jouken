@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3240,
-  "medianPrice": 10450,
+  "medianPrice": 10560,
   "reviewAvgMean": 4.36,
   "pricedCount": 57
  },
@@ -99,7 +99,7 @@
    "hotelNo": 5547,
    "name": "別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）",
    "kana": "べっぷおんせん　すぎのいほてる　おりっくすほてるずあんどりぞーと",
-   "minCharge": 22000,
+   "minCharge": 23100,
    "reviewAverage": 4.64,
    "reviewCount": 13164,
    "access": "大分自動車道別府ＩＣより観海寺方面へ車で５分。ＪＲ別府駅より車で１０分。JR別府駅とホテル間を結ぶ無料シャトルバス有り。",
@@ -116,7 +116,7 @@
    "hotelNo": 184774,
    "name": "ととのいの宿　春燈庵",
    "kana": "ととのいのやど　しゅんとうあん",
-   "minCharge": 10000,
+   "minCharge": 11650,
    "reviewAverage": 4.63,
    "reviewCount": 93,
    "access": "別府ICよりお車で5分 扇山町バス停より徒歩４分 自衛隊前バス停より徒歩10分 別府駅→車で13分 大分空港→車で45分",
@@ -201,7 +201,7 @@
    "hotelNo": 187531,
    "name": "別館　うみね",
    "kana": "べっかん　うみね",
-   "minCharge": 15120,
+   "minCharge": 11820,
    "reviewAverage": 4.6,
    "reviewCount": 368,
    "access": "交通アクセスJR別府駅からタクシーで20分／鉄輪口バス停から徒歩15分（急坂有り）／別府ICから車で10分",

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -23,8 +23,8 @@
    "value": 157,
    "label": "草津温泉・白根エリアの掲載施設数"
   },
-  "minPrice": 6741,
-  "medianPrice": 14165,
+  "minPrice": 5120,
+  "medianPrice": 14345,
   "reviewAvgMean": 4.37,
   "pricedCount": 26
  },
@@ -152,7 +152,7 @@
    "hotelNo": 179990,
    "name": "ラビスタ草津ヒルズ（共立リゾート）",
    "kana": "らびすた　くさつひるず",
-   "minCharge": 23540,
+   "minCharge": 24860,
    "reviewAverage": 4.6,
    "reviewCount": 1091,
    "access": "渋川伊香保ICより車約６０km／JR長野原草津口より路線バス／草津温泉バスターミナルよりシャトルバス有",
@@ -203,7 +203,7 @@
    "hotelNo": 107756,
    "name": "湯宿　季の庭（共立リゾート）",
    "kana": "ゆやど　ときのにわ",
-   "minCharge": 35200,
+   "minCharge": 31570,
    "reviewAverage": 4.42,
    "reviewCount": 1814,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そちらから専用シャトルバスで5分。",
@@ -251,6 +251,23 @@
    "special": "【森と生きる温泉リゾート】森に囲まれた温泉リゾートホテル。心とからだにやすらぎを提供します。"
   },
   {
+   "hotelNo": 195645,
+   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
+   "kana": null,
+   "minCharge": 5120,
+   "reviewAverage": 4.33,
+   "reviewCount": 58,
+   "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津745　Rakuten STAY VILLA 草津温泉",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195645",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D195645%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D195645",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
+   "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。"
+  },
+  {
    "hotelNo": 2108,
    "name": "草津温泉　ペンション五郎次",
    "kana": "くさつおんせん　ごろうじ",
@@ -266,23 +283,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2108.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2108/2108.jpg",
    "special": "湯畑源泉100％かけ流し貸切風呂の宿。湯畑へ徒歩３分。温泉散策に最適な家族で営む小さな宿です"
-  },
-  {
-   "hotelNo": 195645,
-   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
-   "kana": null,
-   "minCharge": 7040,
-   "reviewAverage": 4.33,
-   "reviewCount": 58,
-   "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津745　Rakuten STAY VILLA 草津温泉",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195645",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D195645%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D195645",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195645.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195645/195645.jpg",
-   "special": "日本の名湯 草津温泉 万代鉱源泉をゆったりとしたヴィラで贅沢に満喫。"
   },
   {
    "hotelNo": 108634,
@@ -322,7 +322,7 @@
    "hotelNo": 108128,
    "name": "お宿　木の葉（共立リゾート）",
    "kana": "おやど　このは",
-   "minCharge": 21780,
+   "minCharge": 22330,
    "reviewAverage": 4.29,
    "reviewCount": 1246,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そこから専用シャトルバスで5分。",
@@ -339,7 +339,7 @@
    "hotelNo": 16110,
    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
-   "minCharge": 6741,
+   "minCharge": 6951,
    "reviewAverage": 4.27,
    "reviewCount": 1333,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",

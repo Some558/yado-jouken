@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "areas": [
   {
    "area": {
@@ -27,8 +27,8 @@
    "slug": "breakfast--kusatsu",
    "matchCount": 29,
    "matchRate": 18.5,
-   "minPrice": 6741,
-   "medianPrice": 14165,
+   "minPrice": 5120,
+   "medianPrice": 14345,
    "reviewAvgMean": 4.37
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 76,
    "matchRate": 27.4,
    "minPrice": 2180,
-   "medianPrice": 10200,
+   "medianPrice": 10890,
    "reviewAvgMean": 4.28
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 42,
    "matchRate": 16.3,
    "minPrice": 3240,
-   "medianPrice": 10000,
+   "medianPrice": 9975,
    "reviewAvgMean": 4.35
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 99,
    "matchRate": 28.0,
    "minPrice": 3280,
-   "medianPrice": 9900,
+   "medianPrice": 10005,
    "reviewAvgMean": 4.36
   },
   {
@@ -131,7 +131,7 @@
    "slug": "breakfast--dogo",
    "matchCount": 37,
    "matchRate": 20.4,
-   "minPrice": 1850,
+   "minPrice": 1950,
    "medianPrice": 6300,
    "reviewAvgMean": 4.24
   }

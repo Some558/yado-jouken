@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-13",
+ "dataAsOf": "2026-10-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3280,
-  "medianPrice": 9900,
+  "medianPrice": 10005,
   "reviewAvgMean": 4.36,
   "pricedCount": 57
  },
@@ -50,7 +50,7 @@
    "hotelNo": 167732,
    "name": "ホテル四季の館那須",
    "kana": "ほてるしきのやかたなす",
-   "minCharge": 16590,
+   "minCharge": 15015,
    "reviewAverage": 4.79,
    "reviewCount": 81,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より無料送迎バスにて30分（要予約）",
@@ -101,7 +101,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 8694,
+   "minCharge": 10005,
    "reviewAverage": 4.68,
    "reviewCount": 355,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -254,7 +254,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 32889,
+   "minCharge": 36081,
    "reviewAverage": 4.57,
    "reviewCount": 35,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
