@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-14",
+ "dataAsOf": "2026-10-15",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5742,
-  "medianPrice": 10750,
+  "medianPrice": 10475,
   "reviewAvgMean": 4.4,
   "pricedCount": 22
  },
@@ -303,7 +303,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 6600,
+   "minCharge": 6120,
    "reviewAverage": 4.23,
    "reviewCount": 1924,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",
@@ -337,7 +337,7 @@
    "hotelNo": 20574,
    "name": "那須温泉　ホテルサンバレー那須",
    "kana": "ほてるさんばれーなす",
-   "minCharge": 13200,
+   "minCharge": 12650,
    "reviewAverage": 4.22,
    "reviewCount": 9098,
    "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",

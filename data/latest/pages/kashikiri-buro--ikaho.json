@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-14",
+ "dataAsOf": "2026-10-15",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5600,
-  "medianPrice": 11000,
+  "medianPrice": 11550,
   "reviewAvgMean": 4.33,
   "pricedCount": 19
  },
@@ -150,7 +150,7 @@
    "hotelNo": 19468,
    "name": "伊香保温泉　横手館",
    "kana": "いかほおんせん　よこてかん",
-   "minCharge": 14850,
+   "minCharge": 15400,
    "reviewAverage": 4.45,
    "reviewCount": 321,
    "access": "ＪＲ上越線・渋川駅／関越道・渋川伊香保ＩＣ～Ｒ１７経由２０分",
@@ -167,7 +167,7 @@
    "hotelNo": 6267,
    "name": "岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿",
    "kana": "きしごんりょかん　いしだんがいりんせつ　きしょうげんせん「おうごんのゆ」のやど",
-   "minCharge": 11000,
+   "minCharge": 13200,
    "reviewAverage": 4.44,
    "reviewCount": 1716,
    "access": "関越自動車道　渋川伊香保ＩＣから車で２０分　上越線渋川駅下車バスで３０分、タクシー１５分",
@@ -286,7 +286,7 @@
    "hotelNo": 7105,
    "name": "伊香保温泉　ホテル天坊",
    "kana": "いかほおんせん　てんぼう",
-   "minCharge": 10450,
+   "minCharge": 11550,
    "reviewAverage": 4.04,
    "reviewCount": 3271,
    "access": "関越自動車道渋川伊香保ＩＣより車約２０分 / 渋川駅より路線バス２５分見晴下下車（送迎はなし）",
@@ -320,7 +320,7 @@
    "hotelNo": 29387,
    "name": "伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら",
    "kana": "いかほおんせん　きむら",
-   "minCharge": 7700,
+   "minCharge": 7150,
    "reviewAverage": 3.71,
    "reviewCount": 2118,
    "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-14",
+ "dataAsOf": "2026-10-15",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6430,
-  "medianPrice": 17910,
+  "medianPrice": 17500,
   "reviewAvgMean": 4.37,
   "pricedCount": 40
  },
@@ -201,7 +201,7 @@
    "hotelNo": 16106,
    "name": "小田急　山のホテル",
    "kana": "おだきゅう　やまのほてる",
-   "minCharge": 19800,
+   "minCharge": 17600,
    "reviewAverage": 4.5,
    "reviewCount": 1340,
    "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
@@ -218,7 +218,7 @@
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 12000,
+   "minCharge": 12900,
    "reviewAverage": 4.47,
    "reviewCount": 850,
    "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",
@@ -235,7 +235,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 18420,
+   "minCharge": 21060,
    "reviewAverage": 4.47,
    "reviewCount": 310,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -337,7 +337,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 11200,
+   "minCharge": 12000,
    "reviewAverage": 4.42,
    "reviewCount": 93,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",

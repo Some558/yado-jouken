@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-14",
+ "dataAsOf": "2026-10-15",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 2650,
-  "medianPrice": 10750,
+  "minPrice": 2860,
+  "medianPrice": 10500,
   "reviewAvgMean": 4.42,
   "pricedCount": 52
  },
@@ -65,7 +65,7 @@
    "hotelNo": 2489,
    "name": "那須温泉　ペンション散歩道",
    "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 14390,
+   "minCharge": 14290,
    "reviewAverage": 4.83,
    "reviewCount": 182,
    "access": "東北自動車道那須ＩＣより車で１２分",
@@ -167,7 +167,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 29700,
+   "minCharge": 27500,
    "reviewAverage": 4.67,
    "reviewCount": 388,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",

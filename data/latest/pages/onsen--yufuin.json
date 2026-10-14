@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-14",
+ "dataAsOf": "2026-10-15",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 6600,
-  "medianPrice": 18700,
+  "medianPrice": 18600,
   "reviewAvgMean": 4.52,
   "pricedCount": 42
  },
@@ -50,7 +50,7 @@
    "hotelNo": 198450,
    "name": "ＨＯＴＥＬ　ＭＯＤＡ",
    "kana": "ほてる もだ",
-   "minCharge": 24700,
+   "minCharge": 42700,
    "reviewAverage": 4.88,
    "reviewCount": 8,
    "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",
@@ -67,7 +67,7 @@
    "hotelNo": 187285,
    "name": "由布院温泉グランピング　風の響き",
    "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 18900,
+   "minCharge": 23460,
    "reviewAverage": 4.86,
    "reviewCount": 47,
    "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
@@ -203,7 +203,7 @@
    "hotelNo": 31261,
    "name": "由布院温泉　吉祥開運亭　無尽蔵",
    "kana": "ゆふいんおんせん　きっしょうかいうんてい　むじんぞう",
-   "minCharge": 24200,
+   "minCharge": 17600,
    "reviewAverage": 4.73,
    "reviewCount": 210,
    "access": "■JR久大本線由布院駅より徒歩15分■車で５分■湯布院ICより15分程■湯の坪街道まで徒歩30秒",
@@ -356,7 +356,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 10080,
+   "minCharge": 10710,
    "reviewAverage": 4.62,
    "reviewCount": 183,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",

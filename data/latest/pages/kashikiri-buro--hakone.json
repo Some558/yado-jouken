@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-14",
+ "dataAsOf": "2026-10-15",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5440,
+  "minPrice": 6400,
   "medianPrice": 18800,
   "reviewAvgMean": 4.43,
   "pricedCount": 23
@@ -116,7 +116,7 @@
    "hotelNo": 130716,
    "name": "箱根湯本温泉　喜仙荘",
    "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 11550,
+   "minCharge": 12650,
    "reviewAverage": 4.58,
    "reviewCount": 290,
    "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
@@ -150,7 +150,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 18420,
+   "minCharge": 21060,
    "reviewAverage": 4.47,
    "reviewCount": 310,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -269,7 +269,7 @@
    "hotelNo": 184829,
    "name": "箱根ホテル小涌園（藤田観光リゾート）",
    "kana": "はこねほてるこわきえん（ふじたかんこうりぞーと）",
-   "minCharge": 21450,
+   "minCharge": 17160,
    "reviewAverage": 4.37,
    "reviewCount": 729,
    "access": "「小涌園」バス停徒歩すぐ／箱根登山鉄道「強羅」からシャトルバス有",
@@ -286,7 +286,7 @@
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 16500,
+   "minCharge": 17600,
    "reviewAverage": 4.36,
    "reviewCount": 710,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
