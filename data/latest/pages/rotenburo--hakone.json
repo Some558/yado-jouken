@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-15",
+ "dataAsOf": "2026-10-16",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7898,
-  "medianPrice": 16948,
+  "minPrice": 8000,
+  "medianPrice": 16868,
   "reviewAvgMean": 4.38,
   "pricedCount": 68
  },
@@ -116,7 +116,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 37400,
+   "minCharge": 36300,
    "reviewAverage": 4.78,
    "reviewCount": 918,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -303,7 +303,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 17750,
+   "minCharge": 18850,
    "reviewAverage": 4.58,
    "reviewCount": 405,
    "access": "箱根湯本駅より徒歩にて１０分",

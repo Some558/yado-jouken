@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-15",
+ "dataAsOf": "2026-10-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -101,7 +101,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 27408,
+   "minCharge": 29095,
    "reviewAverage": 4.73,
    "reviewCount": 519,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",

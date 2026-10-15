@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-15",
+ "dataAsOf": "2026-10-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -67,7 +67,7 @@
    "hotelNo": 198450,
    "name": "ＨＯＴＥＬ　ＭＯＤＡ",
    "kana": "ほてる もだ",
-   "minCharge": 42700,
+   "minCharge": 40500,
    "reviewAverage": 4.88,
    "reviewCount": 8,
    "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",
@@ -271,7 +271,7 @@
    "hotelNo": 76377,
    "name": "由布院温泉　朝霧のみえる宿　ゆふいん花由",
    "kana": "あさぎりのみえるやど　ゆふいんはなよし",
-   "minCharge": 25520,
+   "minCharge": 28160,
    "reviewAverage": 4.69,
    "reviewCount": 1098,
    "access": "■湯布院ＩＣから車1分■由布院駅から車で７分程でございます。■無料送迎もございます（電話にて要予約）",

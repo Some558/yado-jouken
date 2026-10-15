@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-15",
+ "dataAsOf": "2026-10-16",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6430,
-  "medianPrice": 17500,
+  "medianPrice": 17280,
   "reviewAvgMean": 4.37,
   "pricedCount": 40
  },
@@ -65,7 +65,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 37400,
+   "minCharge": 36300,
    "reviewAverage": 4.78,
    "reviewCount": 918,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -82,7 +82,7 @@
    "hotelNo": 1727,
    "name": "富士屋ホテル",
    "kana": "ふじやほてる",
-   "minCharge": 27775,
+   "minCharge": 28886,
    "reviewAverage": 4.75,
    "reviewCount": 2298,
    "access": "箱根登山鉄道「宮ノ下駅」より 徒歩７分 / 小田原厚木道路「箱根口IC」より国道1号線経由20分 （11㎞）",
@@ -235,7 +235,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 21060,
+   "minCharge": 19460,
    "reviewAverage": 4.47,
    "reviewCount": 310,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -286,7 +286,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 21010,
+   "minCharge": 21670,
    "reviewAverage": 4.44,
    "reviewCount": 1064,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",
@@ -354,7 +354,7 @@
    "hotelNo": 19684,
    "name": "箱根湯本温泉　ホテル　おかだ",
    "kana": "はこねゆもとおんせん　おかだ",
-   "minCharge": 15300,
+   "minCharge": 17000,
    "reviewAverage": 4.42,
    "reviewCount": 1836,
    "access": "箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分",

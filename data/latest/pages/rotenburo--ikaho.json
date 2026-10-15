@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-15",
+ "dataAsOf": "2026-10-16",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4620,
-  "medianPrice": 10500,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.23,
   "pricedCount": 31
  },
@@ -82,7 +82,7 @@
    "hotelNo": 2630,
    "name": "伊香保温泉　お宿玉樹",
    "kana": "いかほおんせん　おやどたまき",
-   "minCharge": 22000,
+   "minCharge": 20900,
    "reviewAverage": 4.6,
    "reviewCount": 485,
    "access": "渋川駅から車で１５分。石段街まで徒歩2分",
@@ -286,7 +286,7 @@
    "hotelNo": 80783,
    "name": "伊香保温泉　いかほ秀水園",
    "kana": "いかほおんせん　いかほしゅうすいえん",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.28,
    "reviewCount": 585,
    "access": "ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★",

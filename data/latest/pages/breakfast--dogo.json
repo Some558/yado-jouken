@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-15",
+ "dataAsOf": "2026-10-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -23,7 +23,7 @@
    "value": 181,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 1950,
+  "minPrice": 2050,
   "medianPrice": 6300,
   "reviewAvgMean": 4.24,
   "pricedCount": 29
@@ -186,7 +186,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7875,
+   "minCharge": 8475,
    "reviewAverage": 4.37,
    "reviewCount": 1503,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -305,7 +305,7 @@
    "hotelNo": 168297,
    "name": "ホテルたいよう農園　二番町",
    "kana": "たいようのうえん　にばんちょう",
-   "minCharge": 5600,
+   "minCharge": 5000,
    "reviewAverage": 4.2,
    "reviewCount": 960,
    "access": "大街道駅から徒歩６分／松山ICから車で１５分／JR松山駅から車で１３分／コンビニ飲食店すぐ",
