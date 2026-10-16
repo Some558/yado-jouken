@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-16",
+ "dataAsOf": "2026-10-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -23,7 +23,7 @@
    "value": 277,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 4000,
+  "minPrice": 3500,
   "medianPrice": 12100,
   "reviewAvgMean": 4.28,
   "pricedCount": 51
@@ -67,7 +67,7 @@
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
    "kana": "あたみ　ほてるなぎさかん",
-   "minCharge": 15246,
+   "minCharge": 13721,
    "reviewAverage": 4.68,
    "reviewCount": 90,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -254,7 +254,7 @@
    "hotelNo": 151233,
    "name": "オーベルジュ　フォンテーヌ・ブロー熱海",
    "kana": "ふぉんてーぬ・ぶろーあたみ",
-   "minCharge": 21600,
+   "minCharge": 19800,
    "reviewAverage": 4.49,
    "reviewCount": 347,
    "access": "事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー",

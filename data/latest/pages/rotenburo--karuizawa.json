@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-16",
+ "dataAsOf": "2026-10-17",
  "detection": {
   "type": "facility"
  },
@@ -198,6 +198,23 @@
    "special": "森の静かな場所に佇むリゾート。駅、観光名所、アウトレット、全てにアクセスが良好"
   },
   {
+   "hotelNo": 183829,
+   "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
+   "kana": "ほてるいんでぃごかるいざわ",
+   "minCharge": 18467,
+   "reviewAverage": 4.45,
+   "reviewCount": 356,
+   "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町大字長倉字屋敷添18-39",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183829",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183829%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183829",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183829.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183829/183829.jpg",
+   "special": "ぬくもりある別荘に着想を得た、隠れ家のような空間「ホテルインディゴ軽井沢」"
+  },
+  {
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
@@ -213,23 +230,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153419.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153419/153419.jpg",
    "special": "世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。"
-  },
-  {
-   "hotelNo": 183829,
-   "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
-   "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 20134,
-   "reviewAverage": 4.45,
-   "reviewCount": 356,
-   "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町大字長倉字屋敷添18-39",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183829",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183829%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183829",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183829.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183829/183829.jpg",
-   "special": "ぬくもりある別荘に着想を得た、隠れ家のような空間「ホテルインディゴ軽井沢」"
   },
   {
    "hotelNo": 129421,

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-16",
+ "dataAsOf": "2026-10-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-17",
@@ -23,8 +23,8 @@
    "value": 181,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 2050,
-  "medianPrice": 6435,
+  "minPrice": 2150,
+  "medianPrice": 6185,
   "reviewAvgMean": 4.28,
   "pricedCount": 32
  },
@@ -186,7 +186,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 4670,
+   "minCharge": 4590,
    "reviewAverage": 4.43,
    "reviewCount": 2303,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",
@@ -220,7 +220,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 8475,
+   "minCharge": 7875,
    "reviewAverage": 4.37,
    "reviewCount": 1503,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -305,7 +305,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 6300,
+   "minCharge": 5800,
    "reviewAverage": 4.22,
    "reviewCount": 2424,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",
