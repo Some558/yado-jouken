@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-10-18",
+ "dataAsOf": "2026-10-19",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 82,
    "matchRate": 22.4,
    "minPrice": 4800,
-   "medianPrice": 14000,
-   "reviewAvgMean": 4.37
+   "medianPrice": 15400,
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -27,8 +27,8 @@
    "slug": "breakfast--kusatsu",
    "matchCount": 25,
    "matchRate": 15.9,
-   "minPrice": 6080,
-   "medianPrice": 13492,
+   "minPrice": 6990,
+   "medianPrice": 13720,
    "reviewAvgMean": 4.32
   },
   {
@@ -40,8 +40,8 @@
    "slug": "breakfast--atami",
    "matchCount": 80,
    "matchRate": 28.9,
-   "minPrice": 2500,
-   "medianPrice": 12100,
+   "minPrice": 3000,
+   "medianPrice": 12210,
    "reviewAvgMean": 4.28
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 55,
    "matchRate": 17.2,
    "minPrice": 9900,
-   "medianPrice": 19430,
+   "medianPrice": 18600,
    "reviewAvgMean": 4.47
   },
   {
@@ -79,9 +79,9 @@
    "slug": "breakfast--kinosaki",
    "matchCount": 52,
    "matchRate": 33.3,
-   "minPrice": 4300,
-   "medianPrice": 11000,
-   "reviewAvgMean": 4.46
+   "minPrice": 3900,
+   "medianPrice": 10000,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {

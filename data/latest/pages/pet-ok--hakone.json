@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-18",
+ "dataAsOf": "2026-10-19",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 12100,
+  "medianPrice": 12584,
   "reviewAvgMean": 4.23,
   "pricedCount": 15
  },
@@ -31,7 +31,7 @@
    "hotelNo": 173084,
    "name": "レジーナリゾート箱根仙石原",
    "kana": "れじーなりぞーとはこねせんごくはら",
-   "minCharge": 34100,
+   "minCharge": 32400,
    "reviewAverage": 4.67,
    "reviewCount": 166,
    "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
@@ -99,7 +99,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 12000,
+   "minCharge": 12600,
    "reviewAverage": 4.42,
    "reviewCount": 94,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -218,7 +218,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 12100,
+   "minCharge": 11000,
    "reviewAverage": 4.07,
    "reviewCount": 118,
    "access": "上強羅駅より徒歩約１分",

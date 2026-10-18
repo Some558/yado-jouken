@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-18",
+ "dataAsOf": "2026-10-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,9 +24,9 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 10100,
-  "reviewAvgMean": 4.46,
-  "pricedCount": 37
+  "medianPrice": 10000,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 38
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "城崎マリンワールド徒歩１分！日本海の迫力ある大パノラマ絶景に露天風呂★城崎温泉車10分（送迎あり）"
   }
  ],
- "listedMatchCount": 37
+ "listedMatchCount": 38
 }

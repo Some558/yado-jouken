@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-18",
+ "dataAsOf": "2026-10-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -23,10 +23,10 @@
    "value": 277,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2500,
-  "medianPrice": 12210,
+  "minPrice": 3000,
+  "medianPrice": 12320,
   "reviewAvgMean": 4.25,
-  "pricedCount": 52
+  "pricedCount": 53
  },
  "hotels": [
   {
@@ -118,7 +118,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20125,
+   "minCharge": 20312,
    "reviewAverage": 4.6,
    "reviewCount": 339,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -220,7 +220,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 14200,
+   "minCharge": 13200,
    "reviewAverage": 4.53,
    "reviewCount": 1106,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -254,7 +254,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 7800,
+   "minCharge": 7200,
    "reviewAverage": 4.47,
    "reviewCount": 624,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -336,6 +336,23 @@
    "special": "贅沢なお部屋食＆源泉かけ流し７つのお風呂で温泉ざんまい！アワード６年連続受賞★熱海駅より徒歩約15分"
   },
   {
+   "hotelNo": 15488,
+   "name": "料亭旅館　熱海　小嵐亭（旧　迎賓館　熱海小嵐亭）",
+   "kana": "料亭旅館　あたみ　こあらしてい",
+   "minCharge": 39600,
+   "reviewAverage": 4.41,
+   "reviewCount": 122,
+   "access": "車／東名厚木ICより小田原厚木道路経由（約60分）　電車／東京より東海道新幹線で熱海下車（約45分）",
+   "address1": "静岡県",
+   "address2": "熱海市小嵐町1-16",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D15488",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D15488%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D15488",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/15488.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/15488/15488.jpg",
+   "special": "■全館禁煙（喫煙所あり）■　熱海の老舗旅館で心休まる寛ぎの時間をごゆっくりお過ごしください。"
+  },
+  {
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1656.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1656/1656.jpg",
    "special": "熱海の夜景と相模灘を眼前に望める絶好のロケーション！源泉を使用した大展望風呂で、ゆっくりと温泉三昧。"
-  },
-  {
-   "hotelNo": 859,
-   "name": "熱海温泉　月の栖　熱海聚楽ホテル",
-   "kana": "あたみおんせん　つきのす　あたみじゅらくほてる",
-   "minCharge": 21780,
-   "reviewAverage": 4.4,
-   "reviewCount": 2641,
-   "access": "ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り",
-   "address1": "静岡県",
-   "address2": "熱海市田原本町2-19",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D859",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D859%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D859",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/859.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/859/859.jpg",
-   "special": "【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！"
   }
  ],
- "listedMatchCount": 52
+ "listedMatchCount": 53
 }

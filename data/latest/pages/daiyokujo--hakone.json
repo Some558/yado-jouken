@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-18",
+ "dataAsOf": "2026-10-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -23,8 +23,8 @@
    "value": 366,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5500,
-  "medianPrice": 15400,
+  "minPrice": 6430,
+  "medianPrice": 15800,
   "reviewAvgMean": 4.34,
   "pricedCount": 43
  },
@@ -101,7 +101,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 12200,
+   "minCharge": 11700,
    "reviewAverage": 4.6,
    "reviewCount": 1425,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",
@@ -152,7 +152,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 55330,
+   "minCharge": 71150,
    "reviewAverage": 4.6,
    "reviewCount": 124,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -169,7 +169,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 14000,
+   "minCharge": 18000,
    "reviewAverage": 4.54,
    "reviewCount": 6716,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",

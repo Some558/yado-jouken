@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-18",
+ "dataAsOf": "2026-10-19",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -23,10 +23,10 @@
    "value": 277,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2500,
-  "medianPrice": 12000,
+  "minPrice": 3000,
+  "medianPrice": 12050,
   "reviewAvgMean": 4.26,
-  "pricedCount": 59
+  "pricedCount": 60
  },
  "hotels": [
   {
@@ -118,7 +118,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20125,
+   "minCharge": 20312,
    "reviewAverage": 4.6,
    "reviewCount": 339,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -237,7 +237,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 14200,
+   "minCharge": 13200,
    "reviewAverage": 4.53,
    "reviewCount": 1106,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -288,7 +288,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 7800,
+   "minCharge": 7200,
    "reviewAverage": 4.47,
    "reviewCount": 624,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -322,7 +322,7 @@
    "hotelNo": 151233,
    "name": "オーベルジュ　フォンテーヌ・ブロー熱海",
    "kana": "ふぉんてーぬ・ぶろーあたみ",
-   "minCharge": 19800,
+   "minCharge": 20900,
    "reviewAverage": 4.46,
    "reviewCount": 348,
    "access": "事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー",
@@ -370,5 +370,5 @@
    "special": "全室オーシャンビュー！ルーフトップテラス、温泉大浴場、ドリンクフリーフローサービスでおもてなし"
   }
  ],
- "listedMatchCount": 59
+ "listedMatchCount": 60
 }
