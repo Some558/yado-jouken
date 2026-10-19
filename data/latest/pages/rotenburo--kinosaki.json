@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7810,
-  "medianPrice": 14000,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.44,
   "pricedCount": 25
  },
@@ -150,7 +150,7 @@
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
-   "minCharge": 15400,
+   "minCharge": 8800,
    "reviewAverage": 4.65,
    "reviewCount": 97,
    "access": "ＪＲ城崎駅より徒歩8分",

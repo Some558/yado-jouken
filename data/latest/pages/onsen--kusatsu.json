@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -23,8 +23,8 @@
    "value": 157,
    "label": "草津温泉・白根エリアの掲載施設数"
   },
-  "minPrice": 3725,
-  "medianPrice": 13000,
+  "minPrice": 3025,
+  "medianPrice": 13460,
   "reviewAvgMean": 4.35,
   "pricedCount": 33
  },
@@ -322,7 +322,7 @@
    "hotelNo": 108634,
    "name": "草津温泉　源泉かけ流しの宿　ひのき亭　牧水",
    "kana": "くさつおんせん　げんせんかけながしのやど　ひのきてい　ぼくすい",
-   "minCharge": 10500,
+   "minCharge": 13500,
    "reviewAverage": 4.35,
    "reviewCount": 197,
    "access": "ＪＲ　長野原草津口駅からバスで２０分 草津温泉バスターミナルから徒歩2分",

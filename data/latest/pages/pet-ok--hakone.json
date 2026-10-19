@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4800,
-  "medianPrice": 12584,
+  "minPrice": 6400,
+  "medianPrice": 12000,
   "reviewAvgMean": 4.23,
   "pricedCount": 15
  },
@@ -99,7 +99,7 @@
    "hotelNo": 193943,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根桃源台",
    "kana": null,
-   "minCharge": 12600,
+   "minCharge": 12000,
    "reviewAverage": 4.42,
    "reviewCount": 94,
    "access": "箱根ロープウェイ桃源台駅から徒歩約10分／東名高速道路 御殿場ICから車で約30分／伊豆箱根バス 湖尻上停留所徒歩1分",
@@ -150,7 +150,7 @@
    "hotelNo": 190540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　箱根小涌谷",
    "kana": null,
-   "minCharge": 10200,
+   "minCharge": 8500,
    "reviewAverage": 4.36,
    "reviewCount": 160,
    "access": "箱根登山鉄道　小涌谷駅から徒歩で約5分",
@@ -167,7 +167,7 @@
    "hotelNo": 68545,
    "name": "ラフォーレ箱根強羅　湯の棲",
    "kana": "らふぉーれ　はこねごうら　ゆのすみか",
-   "minCharge": 16500,
+   "minCharge": 15400,
    "reviewAverage": 4.25,
    "reviewCount": 691,
    "access": "【車】①箱根口－25分②御殿場（アウトレット）－30分　【電車】中強羅駅－徒歩5分　【バス】ひめしゃら林道入口－徒歩4分",
@@ -201,7 +201,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 4800,
+   "minCharge": 6400,
    "reviewAverage": 4.12,
    "reviewCount": 225,
    "access": "箱根登山バス：仙石高原 から徒歩2分",

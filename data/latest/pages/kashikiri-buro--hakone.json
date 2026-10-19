@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4800,
+  "minPrice": 6400,
   "medianPrice": 19685,
   "reviewAvgMean": 4.44,
   "pricedCount": 24
@@ -133,7 +133,7 @@
    "hotelNo": 130716,
    "name": "箱根湯本温泉　喜仙荘",
    "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 12650,
+   "minCharge": 11550,
    "reviewAverage": 4.6,
    "reviewCount": 292,
    "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
@@ -286,7 +286,7 @@
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 15950,
+   "minCharge": 17600,
    "reviewAverage": 4.38,
    "reviewCount": 715,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",

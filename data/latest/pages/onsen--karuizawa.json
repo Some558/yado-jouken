@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -237,7 +237,7 @@
    "hotelNo": 129421,
    "name": "布引温泉　こもろ",
    "kana": "ぬのびきおんせん　こもろ",
-   "minCharge": 6000,
+   "minCharge": 5000,
    "reviewAverage": 4.41,
    "reviewCount": 207,
    "access": "小諸駅よりお車で７分",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5742,
-  "medianPrice": 10252,
+  "medianPrice": 10475,
   "reviewAvgMean": 4.4,
   "pricedCount": 22
  },
@@ -31,7 +31,7 @@
    "hotelNo": 108973,
    "name": "那須黒磯温泉　かんすい苑　覚楽",
    "kana": "かんすいえん　かくらく",
-   "minCharge": 13200,
+   "minCharge": 11550,
    "reviewAverage": 4.74,
    "reviewCount": 465,
    "access": "ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時～18時　翌8時～10時",
@@ -235,7 +235,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 15500,
+   "minCharge": 13500,
    "reviewAverage": 4.37,
    "reviewCount": 697,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",
@@ -252,7 +252,7 @@
    "hotelNo": 28693,
    "name": "ウェルネスの森　那須（共立リゾート）",
    "kana": "うぇるねすのもり　なす",
-   "minCharge": 9955,
+   "minCharge": 10450,
    "reviewAverage": 4.35,
    "reviewCount": 1936,
    "access": "【ＪＲ】那須塩原駅より無料送迎車有（要予約）【車】那須ICより約10分【高速バス】友愛の森下車、徒歩約10分",
@@ -303,7 +303,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 6120,
+   "minCharge": 6360,
    "reviewAverage": 4.24,
    "reviewCount": 1928,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 6570,
+  "medianPrice": 6000,
   "reviewAvgMean": 4.28,
   "pricedCount": 27
  },
@@ -252,7 +252,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 8662,
+   "minCharge": 9187,
    "reviewAverage": 4.37,
    "reviewCount": 1516,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -269,7 +269,7 @@
    "hotelNo": 130460,
    "name": "南道後温泉　ホテルていれぎ館",
    "kana": "みなみどうごおんせん　ほてるていれぎかん",
-   "minCharge": 4380,
+   "minCharge": 4070,
    "reviewAverage": 4.28,
    "reviewCount": 613,
    "access": "松山ＩＣより砥部方面へ１０分砥部町拾町交差点より１００m伊予市方面へ。バスはＪＲ四国で２０分 伊予鉄で３０分、高尾田下車",
@@ -320,7 +320,7 @@
    "hotelNo": 70933,
    "name": "ウェルピア伊予",
    "kana": "うぇるぴあいよ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.19,
    "reviewCount": 598,
    "access": "伊予ICより10分。松山ICより15分。　ＪＲ　伊予市駅より車で１０分",

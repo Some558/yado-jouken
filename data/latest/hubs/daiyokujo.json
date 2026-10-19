@@ -3,7 +3,7 @@
   "slug": "daiyokujo",
   "label": "大浴場"
  },
- "dataAsOf": "2026-10-19",
+ "dataAsOf": "2026-10-20",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 68,
    "matchRate": 18.6,
    "minPrice": 6430,
-   "medianPrice": 15800,
+   "medianPrice": 15400,
    "reviewAvgMean": 4.34
   },
   {
@@ -27,7 +27,7 @@
    "slug": "daiyokujo--kusatsu",
    "matchCount": 24,
    "matchRate": 15.3,
-   "minPrice": 3725,
+   "minPrice": 3025,
    "medianPrice": 12100,
    "reviewAvgMean": 4.29
   },
@@ -40,7 +40,7 @@
    "slug": "daiyokujo--atami",
    "matchCount": 56,
    "matchRate": 20.2,
-   "minPrice": 3000,
+   "minPrice": 2000,
    "medianPrice": 12320,
    "reviewAvgMean": 4.25
   },
@@ -106,7 +106,7 @@
    "matchCount": 37,
    "matchRate": 10.5,
    "minPrice": 5280,
-   "medianPrice": 9955,
+   "medianPrice": 10005,
    "reviewAvgMean": 4.33
   },
   {
