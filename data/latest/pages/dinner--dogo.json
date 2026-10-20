@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 12200,
+  "medianPrice": 10800,
   "reviewAvgMean": 4.37,
   "pricedCount": 15
  },
@@ -50,7 +50,7 @@
    "hotelNo": 11332,
    "name": "道後温泉　ふなや",
    "kana": "どうごおんせん　ふなや",
-   "minCharge": 25300,
+   "minCharge": 22000,
    "reviewAverage": 4.73,
    "reviewCount": 2055,
    "access": "道後温泉駅から徒歩3分 松山ＩＣより車で25分 ＪＲ松山駅前から市内電車で30分 空港からリムジンバスで35分",
@@ -152,7 +152,7 @@
    "hotelNo": 80639,
    "name": "東道後のそらともり",
    "kana": "ひがしどうごのそらともり",
-   "minCharge": 17500,
+   "minCharge": 16300,
    "reviewAverage": 4.48,
    "reviewCount": 717,
    "access": "伊予鉄バス１０番線「日尾公園前」バス停から徒歩０分／伊予鉄・郊外電車横河原線「久米駅」より徒歩３分",
@@ -254,7 +254,7 @@
    "hotelNo": 147473,
    "name": "大江戸温泉物語　道後",
    "kana": "おおえどおんせんものがたり　どうご",
-   "minCharge": 12200,
+   "minCharge": 10800,
    "reviewAverage": 3.85,
    "reviewCount": 1090,
    "access": "道後温泉駅からお車にて約３分",

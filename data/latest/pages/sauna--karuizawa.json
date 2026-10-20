@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 18150,
+   "minCharge": 17380,
    "reviewAverage": 4.67,
    "reviewCount": 816,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -218,7 +218,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 19667,
+   "minCharge": 18767,
    "reviewAverage": 4.45,
    "reviewCount": 364,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3438,
-  "medianPrice": 10285,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.54,
   "pricedCount": 19
  },
@@ -116,7 +116,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 18150,
+   "minCharge": 17380,
    "reviewAverage": 4.67,
    "reviewCount": 816,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -232,6 +232,23 @@
    "special": "世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。"
   },
   {
+   "hotelNo": 172066,
+   "name": "ＭＯＲＩＨＡＫＵ",
+   "kana": "もりはく",
+   "minCharge": 9350,
+   "reviewAverage": 4.43,
+   "reviewCount": 19,
+   "access": "軽井沢駅よりお車にて約9分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町長倉2516-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172066",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172066%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172066",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172066.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
+   "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。"
+  },
+  {
    "hotelNo": 67962,
    "name": "アートホテルドッグレッグ軽井沢",
    "kana": "あーとほてるどっぐれっぐかるいざわ",
@@ -247,23 +264,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67962.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67962/67962.jpg",
    "special": "愛犬とすごすためのデザイナーズホテル　全室キッチン、ＬＡＮ付　天然芝のドッグランも無料"
-  },
-  {
-   "hotelNo": 172066,
-   "name": "ＭＯＲＩＨＡＫＵ",
-   "kana": "もりはく",
-   "minCharge": 10285,
-   "reviewAverage": 4.43,
-   "reviewCount": 19,
-   "access": "軽井沢駅よりお車にて約9分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉2516-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172066",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172066%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172066",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172066.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
-   "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。"
   },
   {
    "hotelNo": 43933,

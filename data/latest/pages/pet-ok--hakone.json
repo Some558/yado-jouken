@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 161012,
    "name": "リブマックスリゾート箱根芦ノ湖",
    "kana": "りぶまっくすりぞーとはこねあしのこ",
-   "minCharge": 8000,
+   "minCharge": 9500,
    "reviewAverage": 3.49,
    "reviewCount": 632,
    "access": "ＪＲ「小田原駅」よりお車にて約46分　伊豆箱根バス「大石バス停」から徒歩１分",

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -271,7 +271,7 @@
    "hotelNo": 108128,
    "name": "お宿　木の葉（共立リゾート）",
    "kana": "おやど　このは",
-   "minCharge": 23430,
+   "minCharge": 23980,
    "reviewAverage": 4.3,
    "reviewCount": 1249,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そこから専用シャトルバスで5分。",
@@ -305,7 +305,7 @@
    "hotelNo": 16110,
    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
-   "minCharge": 8400,
+   "minCharge": 9030,
    "reviewAverage": 4.27,
    "reviewCount": 1343,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",

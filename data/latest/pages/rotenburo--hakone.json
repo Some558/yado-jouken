@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7898,
-  "medianPrice": 16618,
+  "medianPrice": 16948,
   "reviewAvgMean": 4.39,
   "pricedCount": 68
  },
@@ -184,7 +184,7 @@
    "hotelNo": 107882,
    "name": "箱根湯本温泉　木もれびの宿　ふるさと",
    "kana": "はこねゆもとおんせん　こもれびのやど　ふるさと",
-   "minCharge": 10700,
+   "minCharge": 10200,
    "reviewAverage": 4.67,
    "reviewCount": 513,
    "access": "箱根湯本駅から箱根湯本温泉郷共同バスで約５分　※送迎サービスはございません",
@@ -218,7 +218,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 18800,
+   "minCharge": 19800,
    "reviewAverage": 4.61,
    "reviewCount": 68,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -303,7 +303,7 @@
    "hotelNo": 70712,
    "name": "箱根湯本温泉　ホテル仙景",
    "kana": "せんけい",
-   "minCharge": 15550,
+   "minCharge": 18850,
    "reviewAverage": 4.59,
    "reviewCount": 406,
    "access": "箱根湯本駅より徒歩にて１０分",
@@ -337,7 +337,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 32300,
+   "minCharge": 30300,
    "reviewAverage": 4.56,
    "reviewCount": 407,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",

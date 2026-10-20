@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20900,
+   "minCharge": 22000,
    "reviewAverage": 4.56,
    "reviewCount": 336,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -235,7 +235,7 @@
    "hotelNo": 32113,
    "name": "熱海温泉　お部屋食と源泉かけ流しの宿　ホテル貫一",
    "kana": "あたみおんせん　おへやしょくとげんせんかけながしのやど　ほてるかんいち",
-   "minCharge": 12000,
+   "minCharge": 12500,
    "reviewAverage": 4.41,
    "reviewCount": 1846,
    "access": "熱海駅よりタクシー（１メーター）　徒歩13分　駐車場有（1泊1,650円）",

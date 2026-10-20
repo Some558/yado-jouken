@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -67,7 +67,7 @@
    "hotelNo": 187919,
    "name": "ふふ　旧軽井沢　ー静養の森ー",
    "kana": "ふふ かるいざわ せいようのもり",
-   "minCharge": 81400,
+   "minCharge": 77550,
    "reviewAverage": 4.73,
    "reviewCount": 19,
    "access": "軽井沢駅よりお車にて約5分",
@@ -101,7 +101,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 18150,
+   "minCharge": 17380,
    "reviewAverage": 4.67,
    "reviewCount": 816,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",

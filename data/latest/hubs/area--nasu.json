@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "recordCount": 354,
  "conditions": [
   {
@@ -300,7 +300,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 27500,
+   "minCharge": 33000,
    "reviewAverage": 4.7,
    "reviewCount": 388,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -1796,7 +1796,7 @@
    "hotelNo": 183690,
    "name": "ほったらかしの宿　ゆうふり那須高雄温泉ロッジ",
    "kana": "ほったらかしのやど　ゆうふりなすたかおおんせんろっじ（２０２５ねん１０がつ１にちおーぷん）",
-   "minCharge": 2730,
+   "minCharge": 2650,
    "reviewAverage": 4.15,
    "reviewCount": 317,
    "access": "東北自動車道那須IC～東北自動車道、那須IC～県道17号（那須街道）湯本方面へ、ICから約30分",

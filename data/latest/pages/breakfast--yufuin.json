@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -50,7 +50,7 @@
    "hotelNo": 198450,
    "name": "ＨＯＴＥＬ　ＭＯＤＡ",
    "kana": "ほてる もだ",
-   "minCharge": 39400,
+   "minCharge": 38300,
    "reviewAverage": 4.88,
    "reviewCount": 8,
    "access": "JR久大本線「由布院駅」から徒歩約30分～40分、またはタクシーで約5～10分。",
@@ -101,7 +101,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 20000,
+   "minCharge": 23000,
    "reviewAverage": 4.83,
    "reviewCount": 384,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",

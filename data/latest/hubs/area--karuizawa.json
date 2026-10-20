@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "recordCount": 279,
  "conditions": [
   {
@@ -255,7 +255,7 @@
    "hotelNo": 187919,
    "name": "ふふ　旧軽井沢　ー静養の森ー",
    "kana": "ふふ かるいざわ せいようのもり",
-   "minCharge": 81400,
+   "minCharge": 77550,
    "reviewAverage": 4.73,
    "reviewCount": 19,
    "access": "軽井沢駅よりお車にて約5分",
@@ -416,7 +416,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 18150,
+   "minCharge": 17380,
    "reviewAverage": 4.67,
    "reviewCount": 816,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -632,7 +632,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 15700,
+   "minCharge": 14700,
    "reviewAverage": 4.6,
    "reviewCount": 455,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -895,7 +895,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 19667,
+   "minCharge": 18767,
    "reviewAverage": 4.45,
    "reviewCount": 364,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -958,6 +958,28 @@
    "conditions": []
   },
   {
+   "hotelNo": 172066,
+   "name": "ＭＯＲＩＨＡＫＵ",
+   "kana": "もりはく",
+   "minCharge": 9350,
+   "reviewAverage": 4.43,
+   "reviewCount": 19,
+   "access": "軽井沢駅よりお車にて約9分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町長倉2516-3",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172066",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172066%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172066",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172066.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
+   "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 67962,
    "name": "アートホテルドッグレッグ軽井沢",
    "kana": "あーとほてるどっぐれっぐかるいざわ",
@@ -973,28 +995,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/67962.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67962/67962.jpg",
    "special": "愛犬とすごすためのデザイナーズホテル　全室キッチン、ＬＡＮ付　天然芝のドッグランも無料",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "pet-ok"
-   ]
-  },
-  {
-   "hotelNo": 172066,
-   "name": "ＭＯＲＩＨＡＫＵ",
-   "kana": "もりはく",
-   "minCharge": 10285,
-   "reviewAverage": 4.43,
-   "reviewCount": 19,
-   "access": "軽井沢駅よりお車にて約9分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉2516-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172066",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172066%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172066",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172066.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172066/172066.jpg",
-   "special": "森泊...そこは泊まるをきっかけに身近に感じられる、あなただけのセカンドハウスのような居場所です。",
    "conditions": [
     "kinen",
     "breakfast",
@@ -1436,7 +1436,7 @@
    "hotelNo": 16784,
    "name": "ホテル軽井沢エレガンス",
    "kana": "かるいざわ　えれがんす",
-   "minCharge": 6600,
+   "minCharge": 7000,
    "reviewAverage": 4.21,
    "reviewCount": 252,
    "access": "JR軽井沢駅より徒歩１０分、上信越自動車道碓井・軽井沢I.C.より約１５分",

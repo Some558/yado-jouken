@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 6400,
-  "medianPrice": 12850,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.36,
   "pricedCount": 50
  },
@@ -118,7 +118,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 60500,
+   "minCharge": 59550,
    "reviewAverage": 4.67,
    "reviewCount": 67,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",

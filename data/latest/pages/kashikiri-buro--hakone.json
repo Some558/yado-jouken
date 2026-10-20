@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6400,
-  "medianPrice": 19685,
+  "medianPrice": 19855,
   "reviewAvgMean": 4.44,
   "pricedCount": 24
  },
@@ -116,7 +116,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 18800,
+   "minCharge": 19800,
    "reviewAverage": 4.61,
    "reviewCount": 68,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -201,7 +201,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 21670,
+   "minCharge": 24310,
    "reviewAverage": 4.44,
    "reviewCount": 1068,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-20",
+ "dataAsOf": "2026-10-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -118,7 +118,7 @@
    "hotelNo": 187919,
    "name": "ふふ　旧軽井沢　ー静養の森ー",
    "kana": "ふふ かるいざわ せいようのもり",
-   "minCharge": 81400,
+   "minCharge": 77550,
    "reviewAverage": 4.73,
    "reviewCount": 19,
    "access": "軽井沢駅よりお車にて約5分",
@@ -288,7 +288,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 15700,
+   "minCharge": 14700,
    "reviewAverage": 4.6,
    "reviewCount": 455,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
