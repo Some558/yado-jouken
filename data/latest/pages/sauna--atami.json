@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3000,
-  "medianPrice": 14220,
+  "minPrice": 4000,
+  "medianPrice": 15170,
   "reviewAvgMean": 4.25,
   "pricedCount": 35
  },
@@ -269,7 +269,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 7700,
+   "minCharge": 9900,
    "reviewAverage": 4.35,
    "reviewCount": 198,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -337,7 +337,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14220,
+   "minCharge": 15170,
    "reviewAverage": 4.22,
    "reviewCount": 1183,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

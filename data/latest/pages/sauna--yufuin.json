@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 9500,
+  "minPrice": 10080,
   "medianPrice": 13350,
   "reviewAvgMean": 4.49,
   "pricedCount": 10
@@ -201,7 +201,7 @@
    "hotelNo": 184560,
    "name": "由布院倶楽部",
    "kana": "ゆふいんくらぶ",
-   "minCharge": 9500,
+   "minCharge": 11000,
    "reviewAverage": 4.04,
    "reviewCount": 334,
    "access": "由布院駅より徒歩5分／湯布院ICより車で10分",

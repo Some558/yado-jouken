@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 6400,
-  "medianPrice": 13200,
+  "medianPrice": 13400,
   "reviewAvgMean": 4.37,
   "pricedCount": 50
  },
@@ -118,7 +118,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 59550,
+   "minCharge": 57650,
    "reviewAverage": 4.67,
    "reviewCount": 67,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -186,7 +186,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 55330,
+   "minCharge": 58930,
    "reviewAverage": 4.6,
    "reviewCount": 124,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -254,7 +254,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 10200,
+   "minCharge": 13600,
    "reviewAverage": 4.48,
    "reviewCount": 171,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -288,7 +288,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 19460,
+   "minCharge": 21060,
    "reviewAverage": 4.46,
    "reviewCount": 311,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",

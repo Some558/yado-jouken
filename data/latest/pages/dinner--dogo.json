@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 10800,
+  "medianPrice": 10700,
   "reviewAvgMean": 4.37,
   "pricedCount": 15
  },
@@ -254,7 +254,7 @@
    "hotelNo": 147473,
    "name": "大江戸温泉物語　道後",
    "kana": "おおえどおんせんものがたり　どうご",
-   "minCharge": 10800,
+   "minCharge": 10700,
    "reviewAverage": 3.85,
    "reviewCount": 1090,
    "access": "道後温泉駅からお車にて約３分",

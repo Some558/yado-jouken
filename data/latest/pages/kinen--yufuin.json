@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 91,
-  "matchRate": 28.5,
+  "matchRate": 28.8,
   "denominator": {
    "type": "area_total",
-   "value": 319,
+   "value": 316,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 4896,
-  "medianPrice": 18325,
+  "medianPrice": 18600,
   "reviewAvgMean": 4.47,
   "pricedCount": 38
  },
@@ -101,7 +101,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 23000,
+   "minCharge": 28000,
    "reviewAverage": 4.83,
    "reviewCount": 384,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",

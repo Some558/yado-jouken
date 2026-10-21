@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2700,
-  "medianPrice": 10091,
+  "medianPrice": 9700,
   "reviewAvgMean": 4.36,
   "pricedCount": 34
  },
@@ -167,7 +167,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 35550,
+   "minCharge": 17127,
    "reviewAverage": 4.55,
    "reviewCount": 211,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -337,7 +337,7 @@
    "hotelNo": 108176,
    "name": "別府温泉　美湯の宿　両築別邸",
    "kana": "びゆのやど　りょうちくべってい",
-   "minCharge": 8470,
+   "minCharge": 7650,
    "reviewAverage": 4.37,
    "reviewCount": 1777,
    "access": "JR別府駅より車で10分（無料送迎あり・前日12時までの要予約）／大分自動車道別府ICより8分／大分空港より車で50分",

@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 15,
    "matchRate": 16.7,
    "minPrice": 6400,
-   "medianPrice": 12000,
+   "medianPrice": 12584,
    "reviewAvgMean": 4.23
   },
   {
@@ -27,9 +27,9 @@
    "slug": "pet-ok--kusatsu",
    "matchCount": 5,
    "matchRate": 5.6,
-   "minPrice": 3250,
+   "minPrice": 6080,
    "medianPrice": 10160,
-   "reviewAvgMean": 3.95
+   "reviewAvgMean": 3.98
   },
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "pet-ok--atami",
    "matchCount": 11,
    "matchRate": 12.2,
-   "minPrice": 5737,
+   "minPrice": 5525,
    "medianPrice": 11780,
    "reviewAvgMean": 4.37
   },
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "pet-ok--kinosaki",
-   "matchCount": 5,
-   "matchRate": 5.6,
+   "matchCount": 4,
+   "matchRate": 4.4,
    "minPrice": 3500,
-   "medianPrice": 6720,
-   "reviewAvgMean": 4.44
+   "medianPrice": 6200,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -106,7 +106,7 @@
    "matchCount": 27,
    "matchRate": 30.0,
    "minPrice": 3280,
-   "medianPrice": 10450,
+   "medianPrice": 10005,
    "reviewAvgMean": 4.42
   },
   {

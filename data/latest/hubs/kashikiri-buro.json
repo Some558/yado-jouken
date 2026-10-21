@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 24,
    "matchRate": 26.7,
    "minPrice": 6400,
-   "medianPrice": 19855,
+   "medianPrice": 20335,
    "reviewAvgMean": 4.44
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 29,
    "matchRate": 32.2,
    "minPrice": 4840,
-   "medianPrice": 11780,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.33
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 35,
    "matchRate": 38.9,
    "minPrice": 2700,
-   "medianPrice": 10091,
+   "medianPrice": 9700,
    "reviewAvgMean": 4.36
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 36,
    "matchRate": 40.0,
    "minPrice": 4896,
-   "medianPrice": 16720,
+   "medianPrice": 15950,
    "reviewAvgMean": 4.48
   },
   {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "kashikiri-buro--kinosaki",
-   "matchCount": 40,
-   "matchRate": 44.4,
+   "matchCount": 38,
+   "matchRate": 42.2,
    "minPrice": 6000,
    "medianPrice": 13200,
-   "reviewAvgMean": 4.51
+   "reviewAvgMean": 4.52
   },
   {
    "area": {
@@ -103,8 +103,8 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "kashikiri-buro--nasu",
-   "matchCount": 28,
-   "matchRate": 31.1,
+   "matchCount": 29,
+   "matchRate": 32.2,
    "minPrice": 3280,
    "medianPrice": 11000,
    "reviewAvgMean": 4.49
@@ -118,7 +118,7 @@
    "slug": "kashikiri-buro--karuizawa",
    "matchCount": 8,
    "matchRate": 8.9,
-   "minPrice": 7000,
+   "minPrice": 6500,
    "medianPrice": 10395,
    "reviewAvgMean": 4.43
   },

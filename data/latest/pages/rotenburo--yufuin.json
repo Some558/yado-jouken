@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6000,
-  "medianPrice": 18075,
+  "minPrice": 6180,
+  "medianPrice": 18275,
   "reviewAvgMean": 4.48,
   "pricedCount": 74
  },
@@ -116,7 +116,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 23000,
+   "minCharge": 28000,
    "reviewAverage": 4.83,
    "reviewCount": 384,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",
@@ -235,7 +235,7 @@
    "hotelNo": 20590,
    "name": "由布院温泉　湯布院　やわらぎの郷　やどや",
    "kana": "ゆふいんおんせん　ゆふいん　やわらぎのさと　やどや",
-   "minCharge": 17600,
+   "minCharge": 14300,
    "reviewAverage": 4.76,
    "reviewCount": 1031,
    "access": "ＪＲ久大線　由布院駅よりお車で5分／大分道　湯布院ICより15分",
@@ -337,7 +337,7 @@
    "hotelNo": 54134,
    "name": "源泉掛け流しの離れ宿　由布院別邸　風の森",
    "kana": "げんせんかけながしのはなれやど　ゆふいんべってい　かぜのもり",
-   "minCharge": 36960,
+   "minCharge": 35860,
    "reviewAverage": 4.71,
    "reviewCount": 130,
    "access": "◆ 由布院駅より徒歩15分　",

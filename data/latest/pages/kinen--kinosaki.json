@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,9 +24,9 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 10000,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.45,
-  "pricedCount": 38
+  "pricedCount": 37
  },
  "hotels": [
   {
@@ -186,7 +186,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 16500,
+   "minCharge": 17600,
    "reviewAverage": 4.69,
    "reviewCount": 465,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -203,7 +203,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 32900,
+   "minCharge": 30900,
    "reviewAverage": 4.69,
    "reviewCount": 782,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",
@@ -237,7 +237,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 6720,
+   "minCharge": 6400,
    "reviewAverage": 4.65,
    "reviewCount": 71,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -370,5 +370,5 @@
    "special": "城崎マリンワールド徒歩１分！日本海の迫力ある大パノラマ絶景に露天風呂★城崎温泉車10分（送迎あり）"
   }
  ],
- "listedMatchCount": 38
+ "listedMatchCount": 37
 }

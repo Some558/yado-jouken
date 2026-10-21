@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-21",
+ "dataAsOf": "2026-10-22",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -23,7 +23,7 @@
    "value": 277,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2000,
+  "minPrice": 3800,
   "medianPrice": 12500,
   "reviewAvgMean": 4.25,
   "pricedCount": 53
@@ -50,7 +50,7 @@
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
    "kana": "あたみ　ほてるなぎさかん",
-   "minCharge": 15246,
+   "minCharge": 13721,
    "reviewAverage": 4.68,
    "reviewCount": 94,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -254,7 +254,7 @@
    "hotelNo": 1970,
    "name": "源泉湯宿　大成館（ＴＡＩＳＥＩＫＡＮ）",
    "kana": "たいせいかん",
-   "minCharge": 7200,
+   "minCharge": 7800,
    "reviewAverage": 4.47,
    "reviewCount": 624,
    "access": "電車：ＪＲ熱海駅から３駅目（約１５分）〜ＪＲ伊東線・網代駅徒歩３分　／　車：熱海中心地から約１５分",
@@ -305,7 +305,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 5737,
+   "minCharge": 5525,
    "reviewAverage": 4.44,
    "reviewCount": 470,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
