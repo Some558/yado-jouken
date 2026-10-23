@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6400,
+  "minPrice": 5760,
   "medianPrice": 19855,
   "reviewAvgMean": 4.44,
   "pricedCount": 24
@@ -201,7 +201,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 24750,
+   "minCharge": 23100,
    "reviewAverage": 4.44,
    "reviewCount": 1068,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",

@@ -4,7 +4,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "recordCount": 156,
  "conditions": [
   {
@@ -166,7 +166,7 @@
    "hotelNo": 41857,
    "name": "城崎温泉　みつわ旅館",
    "kana": "きのさきおんせん　みつわりょかん",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.88,
    "reviewCount": 212,
    "access": "山陰本線　城崎温泉駅より徒歩２～３分",
@@ -599,7 +599,7 @@
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 17600,
+   "minCharge": 15400,
    "reviewAverage": 4.67,
    "reviewCount": 234,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
@@ -695,7 +695,7 @@
    "hotelNo": 144559,
    "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
    "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
-   "minCharge": 20350,
+   "minCharge": 18150,
    "reviewAverage": 4.64,
    "reviewCount": 297,
    "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",
@@ -832,7 +832,7 @@
    "hotelNo": 56951,
    "name": "城崎温泉　但馬屋（たじまや）",
    "kana": "きのさきおんせん　たじまや",
-   "minCharge": 24200,
+   "minCharge": 15400,
    "reviewAverage": 4.6,
    "reviewCount": 348,
    "access": "ＪＲ　城崎温泉駅より徒歩１３分, 車　大阪より　中国道→吉川JCT→舞鶴若狭自動車道→春日JCT→北近畿豊岡自動車道",
@@ -1189,6 +1189,27 @@
    ]
   },
   {
+   "hotelNo": 14074,
+   "name": "城崎温泉　お宿　白山　花まんだら　【湯亭　花のれん】",
+   "kana": "きのさきおんせん　おやど　はくさん　はなまんだら",
+   "minCharge": 21450,
+   "reviewAverage": 4.42,
+   "reviewCount": 1024,
+   "access": "ＪＲ山陰本線城崎温泉駅より無料バスで5分／中国自動車道吉川ＩＣ→舞鶴若狭道春日→北近畿自動車道終点→Ｒ３１２",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島564",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14074",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D14074%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D14074",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14074.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14074/14074.jpg",
+   "special": "「お宿白山」がプロデュース宿♪【湯亭花のれん】の別棟【花地蔵庵】♪無料貸切湯が４つに！",
+   "conditions": [
+    "kashikiri-buro",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 147633,
    "name": "あつみ旅苑",
    "kana": "あつみりょえん",
@@ -1398,28 +1419,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13552/13552.jpg",
    "special": "城崎温泉は中心地一の湯前に宿を構え「外湯巡りに温泉情緒」どちらもご堪能頂ける宿でございます。",
    "conditions": []
-  },
-  {
-   "hotelNo": 135390,
-   "name": "城崎温泉　扇屋旅館",
-   "kana": "おうぎやりょかん",
-   "minCharge": 11550,
-   "reviewAverage": 4.25,
-   "reviewCount": 55,
-   "access": "城崎温泉駅より徒歩１０分",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島243",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D135390",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D135390%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D135390",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/135390.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135390/135390.jpg",
-   "special": "地蔵湯すぐそば！大正時代から続く老舗の宿。城崎温泉に３軒しかない源泉かけ流しの小さな内湯あり。",
-   "conditions": [
-    "onsen",
-    "breakfast",
-    "dinner"
-   ]
   },
   {
    "hotelNo": 178409,

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -84,7 +84,7 @@
    "hotelNo": 187920,
    "name": "ふふ　軽井沢　ー陽光の風ー",
    "kana": "ふふ かるいざわ ようこうのかぜ",
-   "minCharge": 49250,
+   "minCharge": 48700,
    "reviewAverage": 4.89,
    "reviewCount": 59,
    "access": "軽井沢駅よりお車で約10分",
@@ -203,7 +203,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 21441,
+   "minCharge": 24203,
    "reviewAverage": 4.69,
    "reviewCount": 213,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",

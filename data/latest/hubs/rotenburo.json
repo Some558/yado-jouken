@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "areas": [
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "rotenburo--kusatsu",
-   "matchCount": 37,
-   "matchRate": 41.1,
-   "minPrice": 6006,
-   "medianPrice": 14000,
-   "reviewAvgMean": 4.39
+   "matchCount": 38,
+   "matchRate": 42.2,
+   "minPrice": 3500,
+   "medianPrice": 13992,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -66,7 +66,7 @@
    "slug": "rotenburo--yufuin",
    "matchCount": 75,
    "matchRate": 83.3,
-   "minPrice": 5940,
+   "minPrice": 5600,
    "medianPrice": 18275,
    "reviewAvgMean": 4.48
   },
@@ -93,7 +93,7 @@
    "matchCount": 36,
    "matchRate": 50.7,
    "minPrice": 4620,
-   "medianPrice": 11550,
+   "medianPrice": 11583,
    "reviewAvgMean": 4.23
   },
   {
@@ -118,7 +118,7 @@
    "slug": "rotenburo--karuizawa",
    "matchCount": 21,
    "matchRate": 23.3,
-   "minPrice": 3700,
+   "minPrice": 4200,
    "medianPrice": 12230,
    "reviewAvgMean": 4.41
   },

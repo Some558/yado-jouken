@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "recordCount": 354,
  "conditions": [
   {
@@ -83,7 +83,7 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11700,
+   "minCharge": 11500,
    "reviewAverage": 4.82,
    "reviewCount": 180,
    "access": "黒磯駅よりお車で約２５分",
@@ -485,30 +485,6 @@
    ]
   },
   {
-   "hotelNo": 16139,
-   "name": "カントリーハウス　パディントン＜栃木県＞",
-   "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
-   "minCharge": 11000,
-   "reviewAverage": 4.62,
-   "reviewCount": 1322,
-   "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久乙600-103",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16139",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16139%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
-   "special": "那須岳紅葉見頃★心ほっこり口コミサービス・料理高評価★栃木和牛プランが好評",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner",
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 193086,
    "name": "山のリゾートホテルエイト",
    "kana": "やまのりぞーとほてるえいと",
@@ -528,6 +504,30 @@
     "kinen",
     "breakfast",
     "dinner"
+   ]
+  },
+  {
+   "hotelNo": 16139,
+   "name": "カントリーハウス　パディントン＜栃木県＞",
+   "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
+   "minCharge": 18500,
+   "reviewAverage": 4.62,
+   "reviewCount": 1322,
+   "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久乙600-103",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16139",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16139%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
+   "special": "那須岳紅葉見頃★心ほっこり口コミサービス・料理高評価★栃木和牛プランが好評",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -671,7 +671,7 @@
    "hotelNo": 28443,
    "name": "ペンション　アンティーク",
    "kana": "あんてぃーく",
-   "minCharge": 7400,
+   "minCharge": 7500,
    "reviewAverage": 4.57,
    "reviewCount": 314,
    "access": "東北自動車道・那須ＩＣよりお車で２０分。那須湯本方面へ、一軒茶屋前交差点左折約３ｋｍ先右折。",
@@ -1518,7 +1518,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 6360,
+   "minCharge": 6120,
    "reviewAverage": 4.24,
    "reviewCount": 1928,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",
@@ -1916,7 +1916,7 @@
    "hotelNo": 15255,
    "name": "那須ハイランドパークオフィシャルホテル　ＴＯＷＡピュアコテージ",
    "kana": "なすはいらんどぱーくおふぃしゃるほてる　とーわ　ぴゅあこてーじ",
-   "minCharge": 6600,
+   "minCharge": 5280,
    "reviewAverage": 3.98,
    "reviewCount": 3025,
    "access": "【那須塩原駅】無料送迎バスで約40分（要事前予約）／【お車】那須ＩＣより約20分",

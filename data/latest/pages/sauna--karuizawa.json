@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3700,
-  "medianPrice": 12151,
+  "minPrice": 4200,
+  "medianPrice": 12181,
   "reviewAvgMean": 4.43,
   "pricedCount": 20
  },
@@ -65,7 +65,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 21441,
+   "minCharge": 24203,
    "reviewAverage": 4.69,
    "reviewCount": 213,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",
@@ -167,7 +167,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 14203,
+   "minCharge": 14263,
    "reviewAverage": 4.6,
    "reviewCount": 437,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -201,7 +201,7 @@
    "hotelNo": 199017,
    "name": "ホテルルートインＧｒａｎｄ佐久－佐久平駅南－",
    "kana": "ほてるるーといんぐらんどさく　さくだいらえきみなみ",
-   "minCharge": 6925,
+   "minCharge": 7000,
    "reviewAverage": 4.46,
    "reviewCount": 89,
    "access": "北陸新幹線　佐久平駅から徒歩で約10分、上信越自動車道　佐久ICから車で約10分　佐久平駅からの無料送迎あり",
@@ -320,7 +320,7 @@
    "hotelNo": 4792,
    "name": "佐久平プラザ２１",
    "kana": "さくだいらぷらざ　にじゅういち",
-   "minCharge": 3700,
+   "minCharge": 4200,
    "reviewAverage": 3.94,
    "reviewCount": 2623,
    "access": "新幹線佐久平駅蓼科口より徒歩3分。佐久ICから車で10分。軽井沢駅まで車40分。カーナビ検索なら佐久平駅をご入力下さい",

@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "kashikiri-buro--hakone",
    "matchCount": 24,
    "matchRate": 26.7,
-   "minPrice": 6400,
+   "minPrice": 5760,
    "medianPrice": 19855,
    "reviewAvgMean": 4.44
   },
@@ -41,7 +41,7 @@
    "matchCount": 29,
    "matchRate": 32.2,
    "minPrice": 4840,
-   "medianPrice": 11200,
+   "medianPrice": 11000,
    "reviewAvgMean": 4.33
   },
   {
@@ -53,7 +53,7 @@
    "slug": "kashikiri-buro--beppu",
    "matchCount": 35,
    "matchRate": 38.9,
-   "minPrice": 2700,
+   "minPrice": 2800,
    "medianPrice": 9700,
    "reviewAvgMean": 4.36
   },
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "kashikiri-buro--kinosaki",
-   "matchCount": 39,
-   "matchRate": 43.3,
+   "matchCount": 40,
+   "matchRate": 44.4,
    "minPrice": 6000,
    "medianPrice": 13200,
-   "reviewAvgMean": 4.52
+   "reviewAvgMean": 4.51
   },
   {
    "area": {
@@ -118,7 +118,7 @@
    "slug": "kashikiri-buro--karuizawa",
    "matchCount": 8,
    "matchRate": 8.9,
-   "minPrice": 6500,
+   "minPrice": 7000,
    "medianPrice": 10395,
    "reviewAvgMean": 4.43
   },

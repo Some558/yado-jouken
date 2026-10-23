@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -84,7 +84,7 @@
    "hotelNo": 184430,
    "name": "ふふ　箱根",
    "kana": "ふふ 　はこね",
-   "minCharge": 57650,
+   "minCharge": 53800,
    "reviewAverage": 4.67,
    "reviewCount": 67,
    "access": "箱根登山鉄道 強羅駅よりお車にて約5分",
@@ -220,7 +220,7 @@
    "hotelNo": 29435,
    "name": "箱根仙石原プリンスホテル",
    "kana": "はこね　せんごくはらプリンスホテル",
-   "minCharge": 12500,
+   "minCharge": 11400,
    "reviewAverage": 4.47,
    "reviewCount": 851,
    "access": "小田原駅からタクシーで４０分・箱根登山バスで５０分「仙石高原」下車／東名高速道路御殿場ＩＣから乙女峠経由で１４ｋｍ",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-23",
+ "dataAsOf": "2026-10-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -50,7 +50,7 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11700,
+   "minCharge": 11500,
    "reviewAverage": 4.82,
    "reviewCount": 180,
    "access": "黒磯駅よりお車で約２５分",
