@@ -29,7 +29,6 @@ fi
 "$PY" pipeline/transform.py --as-of "$AS_OF"
 "$PY" pipeline/validate.py
 
-# promote: staged → latest (atomic-ish replace)
-rm -rf data/latest
-cp -R data/staged data/latest
+# Copy fully before replacement; restore latest if replacement fails.
+"$PY" pipeline/promote.py
 echo "[daily] promoted data/staged → data/latest"

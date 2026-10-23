@@ -1,0 +1,26 @@
+name: Pipeline regression tests
+
+on:
+  pull_request:
+    paths:
+      - "pipeline/**"
+      - "scripts/*refresh.sh"
+      - ".github/workflows/**"
+
+permissions:
+  contents: read
+
+jobs:
+  fixtures:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements.txt
+      - name: Offline fixtures (no API credentials or deployment)
+        run: python3 -m unittest discover -s pipeline/tests -v
+      - run: bash -n scripts/daily-refresh.sh scripts/weekly-refresh.sh

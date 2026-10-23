@@ -84,13 +84,31 @@ def main():
     as_of = args.as_of or datetime.date.today().isoformat()
 
     staged = pathlib.Path(args.out)
+    latest = (ROOT / "data" / "latest").resolve()
+    resolved = staged.resolve()
+    if resolved == latest or latest in resolved.parents or resolved in latest.parents:
+        sys.exit("FATAL: staged出力先はdata/latestと独立したディレクトリが必要")
     pages_dir = staged / "pages"
     hubs_dir = staged / "hubs"
+    if any(p.is_symlink() for p in (staged, pages_dir, hubs_dir, staged / "meta.json")):
+        sys.exit("FATAL: staged出力先のsymlinkは使用不可")
+    # meta is the completion marker. Remove it first so any failure stays closed.
+    (staged / "meta.json").unlink(missing_ok=True)
     pages_dir.mkdir(parents=True, exist_ok=True)
     hubs_dir.mkdir(parents=True, exist_ok=True)
+    for directory in (pages_dir, hubs_dir):
+        for old in directory.glob("*.json"):
+            old.unlink()
 
     areas = load_json(CONFIG / "areas.json")["areas"]
     conditions = load_json(CONFIG / "conditions.json")["conditions"]
+    manifest_path = WORK / "daily" / "manifest.json"
+    if not manifest_path.exists():
+        sys.exit("FATAL: daily取得の完了manifestがない(全エリアを再取得してください)")
+    manifest = load_json(manifest_path)
+    if (manifest.get("dataAsOf") != as_of
+            or sorted(manifest.get("areas", [])) != sorted(a["slug"] for a in areas)):
+        sys.exit("FATAL: daily取得日またはエリア集合が今回のtransformと不一致")
     squeeze_path = CACHE / "squeeze.json"
     if not squeeze_path.exists():
         squeeze_path = WORK / "squeeze.json"
@@ -110,6 +128,8 @@ def main():
         if not p.exists():
             sys.exit(f"daily未取得: {p}")
         daily[area["slug"]] = load_json(p)
+        if daily[area["slug"]].get("dataAsOf") != as_of:
+            sys.exit(f"FATAL: daily取得日不一致 area={area['slug']}")
 
     written, skipped, page_index = [], [], {}
     for cond in conditions:

@@ -24,6 +24,5 @@ echo "[weekly] as-of=${AS_OF}"
 "$PY" pipeline/fetch.py --mode weekly --as-of "$AS_OF"
 "$PY" pipeline/transform.py --as-of "$AS_OF"
 "$PY" pipeline/validate.py
-rm -rf data/latest
-cp -R data/staged data/latest
+"$PY" pipeline/promote.py
 echo "[weekly] promoted data/staged → data/latest (+ squeeze/facilities updated)"

@@ -41,6 +41,7 @@ def err(msg: str):
 
 
 def main():
+    errors.clear()
     ap = argparse.ArgumentParser()
     ap.add_argument("staged", nargs="?", default=str(ROOT / "data" / "staged"))
     ap.add_argument("--baseline", default=str(ROOT / "data" / "latest"))
@@ -53,15 +54,25 @@ def main():
         sys.exit("FATAL: meta.json がない(transform未実行)")
     meta = json.loads(meta_path.read_text())
     pages = sorted((staged / "pages").glob("*.json"))
+    if not pages or meta.get("generatedPages") != len(pages):
+        err("生成ページ数と実ファイル数が不一致、または生成0ページ")
 
     # 1. Schema
     validator = jsonschema.Draft202012Validator(SCHEMA)
     page_data = {}
     for p in pages:
         d = json.loads(p.read_text())
-        page_data[p.stem] = d
-        for e in validator.iter_errors(d):
-            err(f"schema {p.name}: {e.json_path}: {e.message[:100]}")
+        schema_errors = list(validator.iter_errors(d))
+        for e in schema_errors:
+            # Validator messages can quote an offending authenticated URL/value.
+            err(f"schema {p.name}: {e.validator} validation failed")
+        if not schema_errors:
+            page_data[p.stem] = d
+        if d.get("dataAsOf") != meta.get("dataAsOf"):
+            err(f"取得日不一致 {p.name}")
+    for p in sorted((staged / "hubs").glob("*.json")):
+        if json.loads(p.read_text()).get("dataAsOf") != meta.get("dataAsOf"):
+            err(f"取得日不一致 hub {p.name}")
 
     # 2. 件数下限
     total_hotels = sum(meta["areaTotals"].values())

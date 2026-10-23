@@ -38,8 +38,7 @@ jobs:
           python3 pipeline/fetch.py --mode daily --as-of "$AS_OF"
           python3 pipeline/transform.py --as-of "$AS_OF"
           python3 pipeline/validate.py
-          rm -rf data/latest
-          cp -R data/staged data/latest
+          python3 pipeline/promote.py
 
       - name: "Commit data/latest (fail-closed: only after validate)"
         id: commit

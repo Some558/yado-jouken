@@ -28,7 +28,12 @@
   - fetch daily+weekly → transform → validate → promote → commit `data/latest/` + `data/cache/squeeze.json` + `data/facilities/`
 - ⚠️ GitHub Actions の `on.schedule` に `timezone:` キーは使えない(無効YAML扱いで workflow_dispatch も消える)。JSTはUTC換算で書くこと
 - **squeeze正本**: `data/cache/squeeze.json`(git管理)。`data/work/` はローカル作業用でgitignore
-- **ローカル確認(APIなし)**: `./scripts/daily-refresh.sh --skip-fetch` → `cd site && npm run build`
+- **ローカル確認(APIなし)**: `python3 -m unittest discover -s pipeline/tests -v`。fixtureのみを使い、API・秘密・本番データに触れない。
+  - `./scripts/daily-refresh.sh --skip-fetch --as-of YYYY-MM-DD` は、同じ取得日・全エリアのdaily完了manifestがある場合のみ再利用できる。古い形式や途中取得のworkは再利用不可。取得日を変えて過去の入力を新しいデータとして公開しない。
+  - transformは既存stagedのpages/hubsを除去して再生成し、最後にmetaを書く。validateはmetaと実ページ数・取得日を照合する。latestへのコピー完了前に既存latestを削除せず、置換失敗時は復元する。既存の公開前ゲートは維持。
+  - promoteは完全な原子的置換ではない。退避と置換の間にプロセスが強制終了された場合、作業checkoutのlatestが一時不在になり得る。旧データは`data/.promote-*/previous`に残るので復旧用に保持する。後続commit/deployは実行されず、公開済みデータは維持される。
+  - `[daily-page]` / `[squeeze-page]` のarea・pageに続く `[rakuten]` JSONでendpoint、HTTP状態、attempt、recordCount/pageCount、returnedHotelsを確認。`outcome=not_found` はHTTP 404かつJSONのerrorが厳密にnot_found、`outcome=ok`・recordCount=0は正常レスポンスの0件。HTTP/通信/JSONエラーは別分類で、429/指定5xx/通信エラーの再試行上限2回・1.1秒間隔を維持する。
+  - ログに認証パラメータ、URL、ヘッダー、レスポンス本文、例外の生文字列を追加しない。未知のAPIエラーコードはunrecognizedへ丸める。取得0件の根因は新ログで確認するまで未確定。
 - **GHA実走前提**: GitHub secrets `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY` / `RAKUTEN_AFFILIATE_ID` / `SLACK_WEBHOOK_URL` / `CLOUDFLARE_DEPLOY_HOOK_URL` + 楽天 Allowed websites=`yadoshibori.com`
 - **ハーネス**: automation-harness.md §1 台帳 + §2.1 例外e(プラン承認で決裁済・A4で台帳追記)
 
