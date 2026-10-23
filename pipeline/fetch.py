@@ -50,12 +50,17 @@ def next_saturday(as_of: datetime.date) -> datetime.date:
     return as_of + datetime.timedelta(days=days or 7)
 
 
-def fetch_daily(client: RakutenClient, areas: list[dict]) -> None:
+def fetch_daily(client: RakutenClient, areas: list[dict], as_of: datetime.date) -> None:
     out_dir = WORK / "daily"
     out_dir.mkdir(parents=True, exist_ok=True)
+    # Invalidate completion before touching any area. Partial runs cannot be reused.
+    (out_dir / "manifest.json").unlink(missing_ok=True)
+    for old in out_dir.glob("*.json"):
+        old.unlink()
     for area in areas:
         hotels, record_count = [], 0
         for page in range(1, DAILY_PAGES + 1):
+            print(f"[daily-page] area={area['slug']} page={page}", flush=True)
             res = client.search(
                 "Travel/SimpleHotelSearch/20170426",
                 {**area_params(area), "hits": 30, "page": page, "responseType": "small"},
@@ -69,11 +74,15 @@ def fetch_daily(client: RakutenClient, areas: list[dict]) -> None:
                 break
         (out_dir / f"{area['slug']}.json").write_text(
             json.dumps(
-                {"area": area["slug"], "recordCount": record_count, "hotels": hotels},
+                {"area": area["slug"], "dataAsOf": as_of.isoformat(),
+                 "recordCount": record_count, "hotels": hotels},
                 ensure_ascii=False,
             )
         )
         print(f"[daily] {area['slug']}: {len(hotels)}件取得 / エリア総数{record_count}")
+    (out_dir / "manifest.json").write_text(json.dumps({
+        "dataAsOf": as_of.isoformat(), "areas": [a["slug"] for a in areas],
+    }))
 
 
 def fetch_squeeze(client: RakutenClient, areas: list[dict], as_of: datetime.date) -> None:
@@ -90,6 +99,7 @@ def fetch_squeeze(client: RakutenClient, areas: list[dict], as_of: datetime.date
         for cond in conds:
             hotel_nos, record_count = [], 0
             for page in range(1, SQUEEZE_MAX_PAGES + 1):
+                print(f"[squeeze-page] area={area['slug']} condition={cond['slug']} page={page}", flush=True)
                 res = client.search(
                     "Travel/VacantHotelSearch/20170426",
                     {
@@ -188,7 +198,7 @@ def main():
     started = time.monotonic()
 
     if args.mode == "daily":
-        fetch_daily(client, areas)
+        fetch_daily(client, areas, as_of)
     else:
         fetch_squeeze(client, areas, as_of)
         fetch_facilities(client, areas, as_of)
