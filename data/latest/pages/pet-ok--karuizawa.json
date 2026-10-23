@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3438,
-  "medianPrice": 9900,
+  "medianPrice": 10440,
   "reviewAvgMean": 4.54,
-  "pricedCount": 19
+  "pricedCount": 18
  },
  "hotels": [
   {
@@ -48,7 +48,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 7200,
+   "minCharge": 7100,
    "reviewAverage": 4.88,
    "reviewCount": 18,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
@@ -303,7 +303,7 @@
    "hotelNo": 84553,
    "name": "ＤＥＳＩＧＮ　ＨＯＴＥＬ　ＦＯＬＯＮ",
    "kana": "でざいんほてる　ふぉろん",
-   "minCharge": 8000,
+   "minCharge": null,
    "reviewAverage": 4.31,
    "reviewCount": 184,
    "access": "ＪＲ長野新幹線　軽井沢駅より　徒歩１８分、タクシー３分",

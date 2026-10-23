@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4598,
-  "medianPrice": 14960,
+  "medianPrice": 14203,
   "reviewAvgMean": 4.47,
   "pricedCount": 19
  },
@@ -84,7 +84,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 18380,
+   "minCharge": 13700,
    "reviewAverage": 4.68,
    "reviewCount": 547,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -237,7 +237,7 @@
    "hotelNo": 129421,
    "name": "布引温泉　こもろ",
    "kana": "ぬのびきおんせん　こもろ",
-   "minCharge": 5000,
+   "minCharge": 10100,
    "reviewAverage": 4.41,
    "reviewCount": 207,
    "access": "小諸駅よりお車で７分",

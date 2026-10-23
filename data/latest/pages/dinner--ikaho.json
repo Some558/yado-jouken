@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -237,7 +237,7 @@
    "hotelNo": 14324,
    "name": "伊香保温泉　山陽ホテル",
    "kana": "さんようほてる",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 3.23,
    "reviewCount": 332,
    "access": "上越線 渋川駅より伊香保へバスで約２０分 / 関越自動車道 渋川ICより２０分",

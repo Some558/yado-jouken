@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 4140,
-  "medianPrice": 9955,
+  "medianPrice": 10005,
   "reviewAvgMean": 4.4,
   "pricedCount": 55
  },
@@ -50,7 +50,7 @@
    "hotelNo": 128615,
    "name": "那須温泉　ペンションアズール",
    "kana": "あずーる",
-   "minCharge": 11500,
+   "minCharge": 11700,
    "reviewAverage": 4.82,
    "reviewCount": 180,
    "access": "黒磯駅よりお車で約２５分",
@@ -84,7 +84,7 @@
    "hotelNo": 108973,
    "name": "那須黒磯温泉　かんすい苑　覚楽",
    "kana": "かんすいえん　かくらく",
-   "minCharge": 11550,
+   "minCharge": 12650,
    "reviewAverage": 4.74,
    "reviewCount": 465,
    "access": "ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時～18時　翌8時～10時",
@@ -203,7 +203,7 @@
    "hotelNo": 16139,
    "name": "カントリーハウス　パディントン＜栃木県＞",
    "kana": "かんとりーはうす　ぱでぃんとん＜とちぎけん＞",
-   "minCharge": 8800,
+   "minCharge": 11000,
    "reviewAverage": 4.62,
    "reviewCount": 1322,
    "access": "ＪＲ黒磯駅／東北自動車道・那須ＩＣより１０分　★那須塩原駅・黒磯駅から関東バス「友愛の森」下車・徒歩10分",
@@ -288,7 +288,7 @@
    "hotelNo": 28443,
    "name": "ペンション　アンティーク",
    "kana": "あんてぃーく",
-   "minCharge": 6400,
+   "minCharge": 7400,
    "reviewAverage": 4.57,
    "reviewCount": 314,
    "access": "東北自動車道・那須ＩＣよりお車で２０分。那須湯本方面へ、一軒茶屋前交差点左折約３ｋｍ先右折。",

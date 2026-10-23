@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3850,
-  "medianPrice": 9795,
+  "medianPrice": 9850,
   "reviewAvgMean": 4.44,
   "pricedCount": 52
  },
@@ -50,7 +50,7 @@
    "hotelNo": 197497,
    "name": "Ｓｕｎｎｙ　Ｇｏ　軽井沢・御代田",
    "kana": "さにーごー　かるいざわ・みよた",
-   "minCharge": 6620,
+   "minCharge": 6240,
    "reviewAverage": 4.93,
    "reviewCount": 14,
    "access": "・佐久ICから車で７分　・軽井沢ICから車で25分　・北陸新幹線「軽井沢駅」→しなの鉄道「御代田駅」から徒歩約10分",

@@ -9,13 +9,13 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 38,
-  "matchRate": 42.2,
+  "matchCount": 39,
+  "matchRate": 43.3,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -82,7 +82,7 @@
    "hotelNo": 41857,
    "name": "城崎温泉　みつわ旅館",
    "kana": "きのさきおんせん　みつわりょかん",
-   "minCharge": 8800,
+   "minCharge": 9900,
    "reviewAverage": 4.88,
    "reviewCount": 212,
    "access": "山陰本線　城崎温泉駅より徒歩２～３分",
@@ -368,5 +368,5 @@
    "special": "2022年11月貸切風呂＆離れ特別室リニューアル！老舗鮮魚店プロデュース　大人だけの料理旅館！"
   }
  ],
- "listedMatchCount": 38
+ "listedMatchCount": 39
 }

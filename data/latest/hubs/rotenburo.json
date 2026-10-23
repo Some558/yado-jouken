@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 68,
    "matchRate": 75.6,
    "minPrice": 8000,
-   "medianPrice": 16948,
+   "medianPrice": 17280,
    "reviewAvgMean": 4.39
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 65,
    "matchRate": 72.2,
    "minPrice": 4840,
-   "medianPrice": 12100,
+   "medianPrice": 11780,
    "reviewAvgMean": 4.32
   },
   {
@@ -66,7 +66,7 @@
    "slug": "rotenburo--yufuin",
    "matchCount": 75,
    "matchRate": 83.3,
-   "minPrice": 6180,
+   "minPrice": 5940,
    "medianPrice": 18275,
    "reviewAvgMean": 4.48
   },
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "rotenburo--kinosaki",
-   "matchCount": 24,
-   "matchRate": 26.7,
+   "matchCount": 25,
+   "matchRate": 27.8,
    "minPrice": 7810,
-   "medianPrice": 13600,
-   "reviewAvgMean": 4.45
+   "medianPrice": 14000,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -105,8 +105,8 @@
    "slug": "rotenburo--nasu",
    "matchCount": 52,
    "matchRate": 57.8,
-   "minPrice": 2650,
-   "medianPrice": 10500,
+   "minPrice": 3200,
+   "medianPrice": 10750,
    "reviewAvgMean": 4.42
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 35,
    "matchRate": 38.9,
    "minPrice": 3000,
-   "medianPrice": 9900,
+   "medianPrice": 8662,
    "reviewAvgMean": 4.35
   }
  ]

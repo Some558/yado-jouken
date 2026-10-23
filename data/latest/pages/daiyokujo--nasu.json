@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-22",
+ "dataAsOf": "2026-10-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-24",
@@ -33,7 +33,7 @@
    "hotelNo": 108973,
    "name": "那須黒磯温泉　かんすい苑　覚楽",
    "kana": "かんすいえん　かくらく",
-   "minCharge": 11550,
+   "minCharge": 12650,
    "reviewAverage": 4.74,
    "reviewCount": 465,
    "access": "ＪＲ　黒磯駅よりお車にて５分（送迎バス有り・要予約） 送迎時間　14時～18時　翌8時～10時",
@@ -254,7 +254,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 13500,
+   "minCharge": 11500,
    "reviewAverage": 4.37,
    "reviewCount": 697,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",
