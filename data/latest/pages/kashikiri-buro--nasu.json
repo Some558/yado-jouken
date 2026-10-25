@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 2489,
    "name": "那須温泉　ペンション散歩道",
    "kana": "なすおんせん　ぺんしょんさんぽみち",
-   "minCharge": 14390,
+   "minCharge": 14590,
    "reviewAverage": 4.82,
    "reviewCount": 184,
    "access": "東北自動車道那須ＩＣより車で１２分",
@@ -133,7 +133,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 18700,
+   "minCharge": 21700,
    "reviewAverage": 4.61,
    "reviewCount": 246,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",

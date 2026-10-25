@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,9 +24,9 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 15800,
+  "medianPrice": 15600,
   "reviewAvgMean": 4.35,
-  "pricedCount": 49
+  "pricedCount": 50
  },
  "hotels": [
   {
@@ -50,7 +50,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 50850,
+   "minCharge": 48590,
    "reviewAverage": 4.88,
    "reviewCount": 663,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -118,7 +118,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 42900,
+   "minCharge": 40700,
    "reviewAverage": 4.69,
    "reviewCount": 908,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -203,7 +203,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 11700,
+   "minCharge": 12200,
    "reviewAverage": 4.57,
    "reviewCount": 1428,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",
@@ -215,6 +215,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/59637.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/59637/59637.jpg",
    "special": "コンセプトは“リラクゼーション＆ネイチャー"
+  },
+  {
+   "hotelNo": 32024,
+   "name": "箱根湯の花プリンスホテル",
+   "kana": "はこね　ゆのはな　おんせんほてる",
+   "minCharge": 9630,
+   "reviewAverage": 4.5,
+   "reviewCount": 617,
+   "access": "東名高速道路厚木I.C.からお車で60分 東海道線 小田原駅より路線バスで50分 小田急線箱根湯本駅より路線バスで35分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町芦之湯93",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D32024",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D32024%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D32024",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32024.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32024/32024.jpg",
+   "special": "湯けむり立ち上る天空温泉宿"
   },
   {
    "hotelNo": 16106,
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/50826.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/50826/50826.jpg",
    "special": "小涌谷温泉・宮ノ下温泉の2種の湯を愉しめ、13種の湯処で温泉三昧"
-  },
-  {
-   "hotelNo": 29488,
-   "name": "箱根温泉　鶴井の宿　紫雲荘",
-   "kana": "はこねおんせん　かくいのやど　しうんそう",
-   "minCharge": 20760,
-   "reviewAverage": 4.44,
-   "reviewCount": 1174,
-   "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町塔之沢92",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29488",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29488%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29488",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29488.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29488/29488.jpg",
-   "special": "渓流沿い×部屋食×露付客室｜おこもりステイの叶う宿★ベビーフレンドリー三世代旅行人気宿"
   }
  ],
- "listedMatchCount": 49
+ "listedMatchCount": 50
 }

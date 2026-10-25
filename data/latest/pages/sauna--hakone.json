@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 41,
-  "matchRate": 45.6,
+  "matchCount": 40,
+  "matchRate": 44.4,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6430,
-  "medianPrice": 17300,
-  "reviewAvgMean": 4.38,
-  "pricedCount": 41
+  "medianPrice": 17230,
+  "reviewAvgMean": 4.37,
+  "pricedCount": 40
  },
  "hotels": [
   {
@@ -48,7 +48,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 50850,
+   "minCharge": 48590,
    "reviewAverage": 4.88,
    "reviewCount": 663,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -116,7 +116,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 42900,
+   "minCharge": 40700,
    "reviewAverage": 4.69,
    "reviewCount": 908,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -128,23 +128,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158501.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158501/158501.jpg",
    "special": "楽天トラベルCM撮影地になりました！箱根の絶景を眺めるインフィニティ温泉や全客室温泉露天風呂客室"
-  },
-  {
-   "hotelNo": 79469,
-   "name": "箱根翡翠",
-   "kana": "はこねひすい",
-   "minCharge": 32500,
-   "reviewAverage": 4.61,
-   "reviewCount": 282,
-   "access": "強羅駅から施設めぐりバスで30分、タクシーで15分、有料送迎有小田原駅発",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町仙石原837",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D79469",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D79469%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D79469",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/79469.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/79469/79469.jpg",
-   "special": "翡翠のように色鮮やかな四季の庭園とせせらぎの清流に包まれて過ごす、自然と静寂が調和する大人のリゾート"
   },
   {
    "hotelNo": 179644,
@@ -167,7 +150,7 @@
    "hotelNo": 59637,
    "name": "ザ・プリンス　箱根芦ノ湖",
    "kana": "ざ・ぷりんすはこね",
-   "minCharge": 11700,
+   "minCharge": 12200,
    "reviewAverage": 4.57,
    "reviewCount": 1428,
    "access": "小田原駅西口より無料送迎バス（定時運行・要予約）にて45分／箱根湯本駅から伊豆箱根バス約65分／元箱根より循環バスあり",
@@ -184,7 +167,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 8500,
+   "minCharge": 18000,
    "reviewAverage": 4.55,
    "reviewCount": 6729,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -337,7 +320,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 23500,
+   "minCharge": 22800,
    "reviewAverage": 4.43,
    "reviewCount": 52,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/193943.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/193943/193943.jpg",
    "special": "全室天然温泉・サウナ・テラス付◎エクスクルーシブな非日常体験が叶う、大人が主役のご褒美旅を。"
+  },
+  {
+   "hotelNo": 19684,
+   "name": "箱根湯本温泉　ホテル　おかだ",
+   "kana": "はこねゆもとおんせん　おかだ",
+   "minCharge": 17000,
+   "reviewAverage": 4.42,
+   "reviewCount": 1853,
+   "access": "箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町湯本茶屋191",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D19684",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19684%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D19684",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19684.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19684/19684.jpg",
+   "special": "５本の源泉持ち、豊富な湯量、良質の温泉が楽しめる宿。展望大浴場、足湯、湯の里（特別優待）と種類も豊富"
   }
  ],
- "listedMatchCount": 41
+ "listedMatchCount": 40
 }

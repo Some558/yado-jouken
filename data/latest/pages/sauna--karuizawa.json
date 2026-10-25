@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4200,
-  "medianPrice": 12181,
+  "medianPrice": 13126,
   "reviewAvgMean": 4.43,
   "pricedCount": 20
  },
@@ -150,7 +150,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 14263,
+   "minCharge": 14203,
    "reviewAverage": 4.59,
    "reviewCount": 444,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -235,7 +235,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 24100,
+   "minCharge": 22300,
    "reviewAverage": 4.39,
    "reviewCount": 254,
    "access": "軽井沢駅よりお車にて約１５分",
@@ -286,7 +286,7 @@
    "hotelNo": 31166,
    "name": "ホテル　サイプレス軽井沢",
    "kana": "さいぷれす　かるいざわ",
-   "minCharge": 10100,
+   "minCharge": 12050,
    "reviewAverage": 4.2,
    "reviewCount": 2006,
    "access": "JR北陸新幹線軽井沢駅より徒歩12分／上信越自動車道・碓氷軽井沢ICより約15km",
@@ -303,7 +303,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 6500,
+   "minCharge": 7000,
    "reviewAverage": 4.12,
    "reviewCount": 285,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",

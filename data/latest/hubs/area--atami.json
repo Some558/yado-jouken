@@ -4,7 +4,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "recordCount": 277,
  "conditions": [
   {
@@ -55,27 +55,6 @@
  ],
  "hotels": [
   {
-   "hotelNo": 196361,
-   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
-   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 74000,
-   "reviewAverage": 4.94,
-   "reviewCount": 19,
-   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
-   "address1": "静岡県",
-   "address2": "熱海市網代591-38",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
-   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。",
-   "conditions": [
-    "rotenburo",
-    "sauna"
-   ]
-  },
-  {
    "hotelNo": 142946,
    "name": "潮騒の宿　ふじま",
    "kana": "しおさいのやど　ふじま",
@@ -97,7 +76,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 39930,
+   "minCharge": 41030,
    "reviewAverage": 4.85,
    "reviewCount": 574,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -239,7 +218,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 59200,
+   "minCharge": 57600,
    "reviewAverage": 4.68,
    "reviewCount": 80,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -355,7 +334,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20500,
+   "minCharge": 20687,
    "reviewAverage": 4.61,
    "reviewCount": 341,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -1011,7 +990,7 @@
    "hotelNo": 187532,
    "name": "ホテルブリーズベイ熱海ＡＮＮＥＸ",
    "kana": "ほてるぶりーずべいあたみあねっくす",
-   "minCharge": 9600,
+   "minCharge": 8600,
    "reviewAverage": 4.35,
    "reviewCount": 170,
    "access": "熱海駅より約徒歩12分、車にて5分",
@@ -1050,7 +1029,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.34,
    "reviewCount": 199,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -1221,7 +1200,7 @@
    "hotelNo": 50601,
    "name": "亀の井ホテル　熱海　別館",
    "kana": "かめのいほてる　あたみべっかん",
-   "minCharge": 14910,
+   "minCharge": 7980,
    "reviewAverage": 4.23,
    "reviewCount": 639,
    "access": "JR熱海駅より無料送迎あり（要予約）、又は路線バス、厚木ICより車で約70分・駐車場無料",
@@ -1266,7 +1245,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 15170,
+   "minCharge": 15670,
    "reviewAverage": 4.22,
    "reviewCount": 1195,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
@@ -1316,7 +1295,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 9300,
+   "minCharge": 9500,
    "reviewAverage": 4.2,
    "reviewCount": 959,
    "access": "熱海駅より徒歩20分。車５分。",
@@ -1554,7 +1533,7 @@
    "hotelNo": 7646,
    "name": "熱海温泉　湯宿一番地",
    "kana": "あたみおんせん　ゆやどいちばんち",
-   "minCharge": 11000,
+   "minCharge": 12100,
    "reviewAverage": 4.1,
    "reviewCount": 1216,
    "access": "熱海駅から左前方の仲見世商店街抜けて徒歩2分。",
@@ -1569,6 +1548,30 @@
    "conditions": [
     "rotenburo",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 167508,
+   "name": "PICA初島",
+   "kana": "ぴかはつしま",
+   "minCharge": 12700,
+   "reviewAverage": 4.1,
+   "reviewCount": 23,
+   "access": "熱海駅",
+   "address1": "静岡県",
+   "address2": "熱海市初島1113",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167508",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167508%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167508",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167508.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167508/167508.jpg",
+   "special": "島を遊ぶ、島を食べる、島と眠る。ゆったりと流れる島時間を満喫出来る首都圏から一番近い離島、初島。",
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "dinner",
+    "rotenburo"
    ]
   },
   {
@@ -1778,6 +1781,26 @@
     "breakfast",
     "dinner",
     "sauna"
+   ]
+  },
+  {
+   "hotelNo": 191515,
+   "name": "ＴＨＥ　ＭＯＯＮ　熱海",
+   "kana": "ざむーんあたみ",
+   "minCharge": 4300,
+   "reviewAverage": 3.95,
+   "reviewCount": 53,
+   "access": "熱海駅より伊豆東海バス（所要時間約7分）銀座バス停",
+   "address1": "静岡県",
+   "address2": "熱海市渚町8-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191515",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D191515%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D191515",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/191515.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191515/191515.jpg",
+   "special": "熱海のメインストリート【熱海銀座商店街】【熱海サンビーチ】花火絶景スポット徒歩1分の超好立地！",
+   "conditions": [
+    "kinen"
    ]
   },
   {
@@ -1996,24 +2019,6 @@
     "kinen",
     "breakfast"
    ]
-  },
-  {
-   "hotelNo": 142646,
-   "name": "熱海望洋館",
-   "kana": "あたみぼうようかん",
-   "minCharge": 6006,
-   "reviewAverage": 3.84,
-   "reviewCount": 234,
-   "access": "熱海駅よりお車にて５分、徒歩にて１５分",
-   "address1": "静岡県",
-   "address2": "熱海市桃山町8-27",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D142646",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D142646%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142646",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142646.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142646/142646.jpg",
-   "special": "開放感を感じられるホテル。相模湾を見下ろす高台にあり、２階・３階最上階客室からは海を望めます。",
-   "conditions": []
   },
   {
    "hotelNo": 137432,

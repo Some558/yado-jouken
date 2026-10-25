@@ -9,41 +9,24 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 35,
-  "matchRate": 38.9,
+  "matchCount": 34,
+  "matchRate": 37.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3200,
-  "medianPrice": 14950,
-  "reviewAvgMean": 4.25,
-  "pricedCount": 35
+  "medianPrice": 13635,
+  "reviewAvgMean": 4.23,
+  "pricedCount": 34
  },
  "hotels": [
-  {
-   "hotelNo": 196361,
-   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
-   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 74000,
-   "reviewAverage": 4.94,
-   "reviewCount": 19,
-   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
-   "address1": "静岡県",
-   "address2": "熱海市網代591-38",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
-   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。"
-  },
   {
    "hotelNo": 38893,
    "name": "伊豆山温泉　ホテルニューさがみや",
@@ -99,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 59200,
+   "minCharge": 57600,
    "reviewAverage": 4.68,
    "reviewCount": 80,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -269,7 +252,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 7700,
    "reviewAverage": 4.34,
    "reviewCount": 199,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -337,7 +320,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 15170,
+   "minCharge": 15670,
    "reviewAverage": 4.22,
    "reviewCount": 1195,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108981.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108981/108981.jpg",
    "special": "相模灘の絶景と新鮮な海の幸を満喫！源泉2本の天然温泉など魅力満載♪"
+  },
+  {
+   "hotelNo": 176941,
+   "name": "エンゼルフォレスト熱海自然郷",
+   "kana": "えんぜるふぉれすとあたみしぜんきょう",
+   "minCharge": 5760,
+   "reviewAverage": 4.19,
+   "reviewCount": 279,
+   "access": "ＪＲ　熱海駅よりお車にて約２５分",
+   "address1": "静岡県",
+   "address2": "熱海市上多賀1066-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176941",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D176941%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D176941",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176941.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176941/176941.jpg",
+   "special": "【ペットと泊まれる】源泉かけ流し温泉付き貸切別荘（自炊OK）全別荘内装リフォーム済み♪"
   }
  ],
- "listedMatchCount": 35
+ "listedMatchCount": 34
 }

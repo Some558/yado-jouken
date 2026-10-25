@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11000,
+  "medianPrice": 11780,
   "reviewAvgMean": 4.33,
   "pricedCount": 29
  },
@@ -337,7 +337,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 9300,
+   "minCharge": 9500,
    "reviewAverage": 4.2,
    "reviewCount": 959,
    "access": "熱海駅より徒歩20分。車５分。",

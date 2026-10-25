@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
@@ -22,33 +22,16 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11780,
-  "reviewAvgMean": 4.32,
+  "medianPrice": 11970,
+  "reviewAvgMean": 4.3,
   "pricedCount": 65
  },
  "hotels": [
   {
-   "hotelNo": 196361,
-   "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
-   "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 74000,
-   "reviewAverage": 4.94,
-   "reviewCount": 19,
-   "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
-   "address1": "静岡県",
-   "address2": "熱海市網代591-38",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D196361",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D196361%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D196361",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/196361.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/196361/196361.jpg",
-   "special": "森、海、静けさ。 喧騒を忘れ、あるがままの自然に、あるがままの自分と向き合う。"
-  },
-  {
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 39930,
+   "minCharge": 41030,
    "reviewAverage": 4.85,
    "reviewCount": 574,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -201,7 +184,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20500,
+   "minCharge": 20687,
    "reviewAverage": 4.61,
    "reviewCount": 341,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -366,6 +349,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1854.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1854/1854.jpg",
    "special": "熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気"
+  },
+  {
+   "hotelNo": 8223,
+   "name": "熱海温泉　熱海の癒（ゆ）　新かどや",
+   "kana": "あたみおんせん　あたみのゆ　しんかどや",
+   "minCharge": 16750,
+   "reviewAverage": 4.51,
+   "reviewCount": 237,
+   "access": "★交通手段をお知らせください　車：小田原厚木道路より国道135号線にて約30分　電車：熱海駅よりタクシーで8分",
+   "address1": "静岡県",
+   "address2": "熱海市小嵐町14-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8223",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8223%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8223",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8223.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8223/8223.jpg",
+   "special": "屋上天空露天から熱海の街が一望。夕食朝食ともお部屋食でゆったりとできる和風温泉旅館です。"
   }
  ],
  "listedMatchCount": 65

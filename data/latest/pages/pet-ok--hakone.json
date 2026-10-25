@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 12584,
+  "medianPrice": 11979,
   "reviewAvgMean": 4.23,
   "pricedCount": 15
  },
@@ -82,7 +82,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 23500,
+   "minCharge": 22800,
    "reviewAverage": 4.43,
    "reviewCount": 52,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -218,7 +218,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.08,
    "reviewCount": 127,
    "access": "上強羅駅より徒歩約１分",
@@ -235,7 +235,7 @@
    "hotelNo": 80580,
    "name": "仙石高原大箱根一の湯",
    "kana": "せんごくこうげんだいはこねいちのゆ",
-   "minCharge": 12584,
+   "minCharge": 11979,
    "reviewAverage": 3.96,
    "reviewCount": 371,
    "access": "箱根湯本駅から箱根登山バスに乗車、仙石高原下車徒歩１０分",

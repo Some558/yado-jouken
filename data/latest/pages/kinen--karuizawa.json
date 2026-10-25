@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 3438,
-  "medianPrice": 11781,
+  "medianPrice": 11975,
   "reviewAvgMean": 4.44,
-  "pricedCount": 45
+  "pricedCount": 44
  },
  "hotels": [
   {
@@ -84,7 +84,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 25721,
+   "minCharge": 24035,
    "reviewAverage": 4.74,
    "reviewCount": 529,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",
@@ -186,7 +186,7 @@
    "hotelNo": 136825,
    "name": "軽井沢　ホテル鹿島ノ森（オークラホテルズ＆リゾーツ）",
    "kana": "かじまのもりおーくらほてるずあんどりぞーつ",
-   "minCharge": 16650,
+   "minCharge": 16150,
    "reviewAverage": 4.68,
    "reviewCount": 285,
    "access": "お車：上信越自動車道 碓氷軽井沢ICから約20分　新幹線：JR軽井沢駅下車、タクシーで約7分　駅からの送迎はございません",
@@ -237,7 +237,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 14700,
+   "minCharge": 12900,
    "reviewAverage": 4.61,
    "reviewCount": 459,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",
@@ -271,7 +271,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 14263,
+   "minCharge": 14203,
    "reviewAverage": 4.59,
    "reviewCount": 444,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -370,5 +370,5 @@
    "special": "家族・グループ旅行にピッタリ。ペットと泊まれる全室独立型トレーラーハウスホテル！"
   }
  ],
- "listedMatchCount": 45
+ "listedMatchCount": 44
 }

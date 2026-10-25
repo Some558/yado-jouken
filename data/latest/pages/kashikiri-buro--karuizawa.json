@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-25",
+ "dataAsOf": "2026-10-26",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 8,
-  "matchRate": 8.9,
+  "matchCount": 7,
+  "matchRate": 7.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 7000,
-  "medianPrice": 10395,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 8
+  "minPrice": 8250,
+  "medianPrice": 11000,
+  "reviewAvgMean": 4.43,
+  "pricedCount": 7
  },
  "hotels": [
   {
@@ -82,7 +82,7 @@
    "hotelNo": 187284,
    "name": "ＬＯＮＧＩＮＧＨＯＵＳＥ　旧軽井沢・諏訪ノ森",
    "kana": "ロンギングハウス　きゅうかるいざわ・すわのもり",
-   "minCharge": 21000,
+   "minCharge": 14000,
    "reviewAverage": 4.39,
    "reviewCount": 182,
    "access": "ＪＲ北陸新幹線・軽井沢駅下車、車で約５分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
@@ -99,7 +99,7 @@
    "hotelNo": 177441,
    "name": "ホテルハーヴェスト軽井沢",
    "kana": "はーヴぇすとかるいざわ",
-   "minCharge": 24100,
+   "minCharge": 22300,
    "reviewAverage": 4.39,
    "reviewCount": 254,
    "access": "軽井沢駅よりお車にて約１５分",
@@ -111,23 +111,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177441.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177441/177441.jpg",
    "special": "5ヘクタールの広大な敷地。浅間山を望み豊かな緑に包まれた美しく上質な東急グループのリゾート。"
-  },
-  {
-   "hotelNo": 43933,
-   "name": "コテージ＆ペンション　ラブ　サーティ",
-   "kana": "こてーじ　あんど　ぺんしょん　らぶ　さーてぃ",
-   "minCharge": 7000,
-   "reviewAverage": 4.36,
-   "reviewCount": 75,
-   "access": "上信越自動車道碓氷軽井沢Ｉ.Ｃ.より約20分、北陸新幹線軽井沢駅→しなの鉄道線中軽井沢駅下車徒歩約15分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉3911",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D43933",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D43933%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D43933",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/43933.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/43933/43933.jpg",
-   "special": "軽井沢での宿泊はコテージ＆ペンションラブサーティで！コテージはペット同宿可！テニスもできます。"
   },
   {
    "hotelNo": 28349,
@@ -164,5 +147,5 @@
    "special": "＊＊元湯小瀬温泉・源泉かけ流し貸切露天風呂で過ごす癒しの旅＊＊"
   }
  ],
- "listedMatchCount": 8
+ "listedMatchCount": 7
 }
