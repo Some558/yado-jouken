@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "facility"
  },
@@ -167,7 +167,7 @@
    "hotelNo": 165066,
    "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
    "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
-   "minCharge": 11000,
+   "minCharge": 13090,
    "reviewAverage": 4.54,
    "reviewCount": 267,
    "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
@@ -235,7 +235,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 12600,
+   "minCharge": 11445,
    "reviewAverage": 4.41,
    "reviewCount": 8793,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",

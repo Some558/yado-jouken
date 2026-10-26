@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "recordCount": 354,
  "conditions": [
   {
@@ -557,7 +557,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 15700,
+   "minCharge": 16800,
    "reviewAverage": 4.58,
    "reviewCount": 492,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -568,7 +568,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D32051",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32051.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32051/32051.jpg",
-   "special": "山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。",
+   "special": "200余年の歴史を紡ぐ、大人の隠れ温泉宿◆那須最奥地の秘湯へ",
    "conditions": [
     "rotenburo",
     "kashikiri-buro"
@@ -685,29 +685,6 @@
    ]
   },
   {
-   "hotelNo": 165066,
-   "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
-   "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
-   "minCharge": 11000,
-   "reviewAverage": 4.54,
-   "reviewCount": 267,
-   "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久丙4373-20",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165066",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165066%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165066",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165066.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165066/165066.jpg",
-   "special": "ペットと泊まれる♪レストランでお食事も一緒に！ワンコMENUもご用意しております。",
-   "conditions": [
-    "daiyokujo",
-    "kinen",
-    "kashikiri-buro",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 177431,
    "name": "ペンション　イグアナの森　ー絶品ジビエ料理と貸切那須温泉ー",
    "kana": "ぺんしょん　いぐあなのもり",
@@ -729,6 +706,29 @@
     "breakfast",
     "dinner",
     "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 165066,
+   "name": "ＤＯＧ　ＳＰＡ　ＲＥＳＯＲＴ　アルトピアーノ",
+   "kana": "どっぐ　すぱ　りぞーと　あるとぴあーの",
+   "minCharge": 13090,
+   "reviewAverage": 4.54,
+   "reviewCount": 267,
+   "access": "電車：ＪＲ東北本線　黒磯駅　　お車：東北自動車道那須ICを出て右折。お車で約10分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久丙4373-20",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165066",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165066%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165066",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165066.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165066/165066.jpg",
+   "special": "ペットと泊まれる♪レストランでお食事も一緒に！ワンコMENUもご用意しております。",
+   "conditions": [
+    "daiyokujo",
+    "kinen",
+    "kashikiri-buro",
+    "pet-ok"
    ]
   },
   {
@@ -947,7 +947,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 9570,
+   "minCharge": 9020,
    "reviewAverage": 4.47,
    "reviewCount": 547,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",
@@ -1059,7 +1059,7 @@
    "hotelNo": 192958,
    "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
    "kana": "フォレストグランピングリゾートイツ「イツ」",
-   "minCharge": 17605,
+   "minCharge": 15012,
    "reviewAverage": 4.43,
    "reviewCount": 11,
    "access": "那須塩原駅よりお車で約３０分。フォレストリゾート『ホテルグリーンパール那須』がすぐ近く！",
@@ -1128,7 +1128,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 12600,
+   "minCharge": 11445,
    "reviewAverage": 4.41,
    "reviewCount": 8793,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",
@@ -1567,7 +1567,7 @@
    "hotelNo": 20574,
    "name": "那須温泉　ホテルサンバレー那須",
    "kana": "ほてるさんばれーなす",
-   "minCharge": 12100,
+   "minCharge": 12650,
    "reviewAverage": 4.22,
    "reviewCount": 9164,
    "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",

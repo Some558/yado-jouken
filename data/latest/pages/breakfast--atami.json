@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 74,
-  "matchRate": 26.7,
+  "matchRate": 26.6,
   "denominator": {
    "type": "area_total",
-   "value": 277,
+   "value": 278,
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 10945,
+  "medianPrice": 11485,
   "reviewAvgMean": 4.26,
   "pricedCount": 54
  },
@@ -135,7 +135,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20687,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 341,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -356,7 +356,7 @@
    "hotelNo": 151233,
    "name": "オーベルジュ　フォンテーヌ・ブロー熱海",
    "kana": "ふぉんてーぬ・ぶろーあたみ",
-   "minCharge": 21600,
+   "minCharge": 19800,
    "reviewAverage": 4.44,
    "reviewCount": 351,
    "access": "事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー",

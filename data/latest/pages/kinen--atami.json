@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 107,
-  "matchRate": 38.6,
+  "matchRate": 38.5,
   "denominator": {
    "type": "area_total",
-   "value": 277,
+   "value": 278,
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 11250,
+  "medianPrice": 12145,
   "reviewAvgMean": 4.28,
   "pricedCount": 54
  },
@@ -135,7 +135,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20687,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 341,
    "access": "JR熱海駅よりお車・タクシーで約１０分",

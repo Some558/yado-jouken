@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 7898,
-  "medianPrice": 17230,
+  "medianPrice": 17500,
   "reviewAvgMean": 4.38,
   "pricedCount": 68
  },
@@ -65,7 +65,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 48590,
+   "minCharge": 50850,
    "reviewAverage": 4.88,
    "reviewCount": 663,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -150,7 +150,7 @@
    "hotelNo": 176633,
    "name": "全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸",
    "kana": "ぜんしつろてんぶろつききゃくしつ　せんごくばらおんせん　せんちゅりおんはこねべってい",
-   "minCharge": 28000,
+   "minCharge": 33000,
    "reviewAverage": 4.71,
    "reviewCount": 177,
    "access": "箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。",
@@ -218,7 +218,7 @@
    "hotelNo": 130716,
    "name": "箱根湯本温泉　喜仙荘",
    "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 11550,
+   "minCharge": 10450,
    "reviewAverage": 4.6,
    "reviewCount": 293,
    "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
@@ -252,7 +252,7 @@
    "hotelNo": 188402,
    "name": "ＢＬＩＳＳＴＩＡ箱根仙石原",
    "kana": "ぶりすてぃあ はこねせんごくはら",
-   "minCharge": 15400,
+   "minCharge": 17600,
    "reviewAverage": 4.59,
    "reviewCount": 310,
    "access": "バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間",
@@ -320,7 +320,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 18000,
+   "minCharge": 8500,
    "reviewAverage": 4.55,
    "reviewCount": 6729,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2800,
-  "medianPrice": 9700,
+  "medianPrice": 10175,
   "reviewAvgMean": 4.36,
   "pricedCount": 34
  },
@@ -235,7 +235,7 @@
    "hotelNo": 30691,
    "name": "別府温泉　竹と椿のお宿　花べっぷ",
    "kana": "たけとつばきのおやど　なはべっぷ",
-   "minCharge": 20262,
+   "minCharge": 20207,
    "reviewAverage": 4.48,
    "reviewCount": 1256,
    "access": "ＪＲ別府駅より徒歩６分／高速道路別府ＩＣより５．３ｋｍ",

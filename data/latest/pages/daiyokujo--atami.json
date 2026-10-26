@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 52,
-  "matchRate": 18.8,
+  "matchRate": 18.7,
   "denominator": {
    "type": "area_total",
-   "value": 277,
+   "value": 278,
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 11250,
+  "medianPrice": 12410,
   "reviewAvgMean": 4.25,
   "pricedCount": 48
  },
@@ -135,7 +135,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20687,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 341,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -356,7 +356,7 @@
    "hotelNo": 149439,
    "name": "絶景掛け流しの宿　熱海月右衛門",
    "kana": "ぜっけいかけながしのやど　あたみつきえもん",
-   "minCharge": 16100,
+   "minCharge": 12700,
    "reviewAverage": 4.34,
    "reviewCount": 8046,
    "access": "来宮駅よりタクシーで約5分です。 熱海駅よりタクシーで約10分です",

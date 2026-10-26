@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 38,
-  "matchRate": 21.0,
+  "matchRate": 20.9,
   "denominator": {
    "type": "area_total",
-   "value": 181,
+   "value": 182,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 2050,
-  "medianPrice": 5775,
+  "minPrice": 2150,
+  "medianPrice": 5725,
   "reviewAvgMean": 4.28,
   "pricedCount": 33
  },
@@ -288,7 +288,7 @@
    "hotelNo": 199434,
    "name": "ホテルルートイン松山北",
    "kana": "ほてるるーといんまつやまきた",
-   "minCharge": 5775,
+   "minCharge": 5725,
    "reviewAverage": 4.3,
    "reviewCount": 53,
    "access": "JR予讃線　伊予和気駅よりお車で約7分、松山自動車道　松山ICから車で約30分",

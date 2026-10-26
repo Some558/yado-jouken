@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11970,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.3,
   "pricedCount": 65
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 41030,
+   "minCharge": 39930,
    "reviewAverage": 4.85,
    "reviewCount": 574,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -184,7 +184,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20687,
+   "minCharge": 19843,
    "reviewAverage": 4.61,
    "reviewCount": 341,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -337,7 +337,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10200,
+   "minCharge": 11200,
    "reviewAverage": 4.51,
    "reviewCount": 1108,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",

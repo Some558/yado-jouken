@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-26",
+ "dataAsOf": "2026-10-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -322,7 +322,7 @@
    "hotelNo": 142918,
    "name": "那須いちやホテル",
    "kana": "なすいちやほてる",
-   "minCharge": 9570,
+   "minCharge": 9020,
    "reviewAverage": 4.47,
    "reviewCount": 547,
    "access": "JR那須塩原駅より路線バス、お車にて約４０分",
@@ -356,7 +356,7 @@
    "hotelNo": 192958,
    "name": "フォレストグランピングリゾート稜「ＩＴＵ」",
    "kana": "フォレストグランピングリゾートイツ「イツ」",
-   "minCharge": 17605,
+   "minCharge": 15012,
    "reviewAverage": 4.43,
    "reviewCount": 11,
    "access": "那須塩原駅よりお車で約３０分。フォレストリゾート『ホテルグリーンパール那須』がすぐ近く！",
