@@ -4,7 +4,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "recordCount": 157,
  "conditions": [
   {
@@ -58,7 +58,7 @@
    "hotelNo": 158400,
    "name": "草津温泉　草明庵",
    "kana": "くさつおんせん　そうめいあん",
-   "minCharge": 13200,
+   "minCharge": 14300,
    "reviewAverage": 4.9,
    "reviewCount": 51,
    "access": "長野原草津口駅よりお車にて約２０分",
@@ -437,7 +437,7 @@
    "hotelNo": 38838,
    "name": "草津温泉　香旬の宿　長楽",
    "kana": "くさつおんせん　こうしゅんのやど　ちょうらく",
-   "minCharge": 16200,
+   "minCharge": 16500,
    "reviewAverage": 4.67,
    "reviewCount": 380,
    "access": "草津温泉バスターミナルより車にて３分、徒歩６～７分",
@@ -543,7 +543,7 @@
    "hotelNo": 189254,
    "name": "草津温泉　湯畑泉水",
    "kana": "くさつおんせん　ゆばたけせんすい",
-   "minCharge": 18250,
+   "minCharge": 23250,
    "reviewAverage": 4.65,
    "reviewCount": 327,
    "access": "長野原草津口駅より路線バスで約２約５分、草津温泉バスターミナルより徒歩約５分",
@@ -737,7 +737,7 @@
    "hotelNo": 139908,
    "name": "草津温泉　湯畑草菴（そうあん）",
    "kana": "くさつおんせん　ゆばたけそうあん",
-   "minCharge": 7000,
+   "minCharge": 11000,
    "reviewAverage": 4.55,
    "reviewCount": 458,
    "access": "ＪＲ吾妻線　長野原草津口駅下車、接続ＪＲバス草津行きバスにて草津温泉下車、バスターミナルより徒歩5分※送迎なし",
@@ -1387,7 +1387,7 @@
    "hotelNo": 195645,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　草津温泉",
    "kana": null,
-   "minCharge": 6560,
+   "minCharge": 8000,
    "reviewAverage": 4.28,
    "reviewCount": 69,
    "access": "草津温泉バスターミナルより車で6分／湯畑から車で5分",
@@ -1475,27 +1475,6 @@
    ]
   },
   {
-   "hotelNo": 25817,
-   "name": "ペットと泊まれる宿　コンドミニアム　フラットレット草津",
-   "kana": "ぺっとととまれるやど　こんどみにあむ　ふらっとれっと　くさつ",
-   "minCharge": 7605,
-   "reviewAverage": 4.24,
-   "reviewCount": 110,
-   "access": "関越道渋川伊香保ＩＣよりＲ353、145、292経由で草津へ60ｋｍ/ＪＲ吾妻線長野原草津口駅～バス25分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-1211",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25817",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25817%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25817",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25817.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
-   "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。",
-   "conditions": [
-    "kinen",
-    "pet-ok"
-   ]
-  },
-  {
    "hotelNo": 149296,
    "name": "草津温泉　ふたばや",
    "kana": "くさつおんせん　ふたばや",
@@ -1512,6 +1491,27 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149296/149296.jpg",
    "special": "湯畑から徒歩１分♪2024年、湯畑源泉貸切風呂を新設♪無料温泉も複数有り、外湯めぐりに最適です♪",
    "conditions": []
+  },
+  {
+   "hotelNo": 25817,
+   "name": "ペットと泊まれる宿　コンドミニアム　フラットレット草津",
+   "kana": "ぺっとととまれるやど　こんどみにあむ　ふらっとれっと　くさつ",
+   "minCharge": 8080,
+   "reviewAverage": 4.24,
+   "reviewCount": 110,
+   "access": "関越道渋川伊香保ＩＣよりＲ353、145、292経由で草津へ60ｋｍ/ＪＲ吾妻線長野原草津口駅～バス25分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-1211",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25817",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25817%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25817",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25817.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
+   "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。",
+   "conditions": [
+    "kinen",
+    "pet-ok"
+   ]
   },
   {
    "hotelNo": 16556,
@@ -1768,7 +1768,7 @@
    "hotelNo": 136296,
    "name": "草津温泉　菊水荘",
    "kana": "きくすいそう",
-   "minCharge": 8300,
+   "minCharge": 7900,
    "reviewAverage": 4.03,
    "reviewCount": 110,
    "access": "長野原草津口駅（JR吾妻線）⇒JRバス⇒草津温泉バスターミナル駅（終着）⇒徒歩2分 ※都内近郊なら高速バスもお勧めです。",

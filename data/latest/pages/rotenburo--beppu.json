@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3240,
-  "medianPrice": 10560,
+  "minPrice": 3600,
+  "medianPrice": 10735,
   "reviewAvgMean": 4.36,
   "pricedCount": 57
  },
@@ -150,7 +150,7 @@
    "hotelNo": 184851,
    "name": "ＭＵＲＥ　Ｂｅｐｐｕ",
    "kana": "むれ　べっぷ",
-   "minCharge": 10450,
+   "minCharge": 9500,
    "reviewAverage": 4.62,
    "reviewCount": 68,
    "access": "別府駅より徒歩にて約１１分、別府ICよりお車にて約１６分",
@@ -337,7 +337,7 @@
    "hotelNo": 158425,
    "name": "別府鉄輪温泉　山荘　神和苑",
    "kana": "さんそう　かんなわえん",
-   "minCharge": 15950,
+   "minCharge": 19250,
    "reviewAverage": 4.52,
    "reviewCount": 781,
    "access": "JR別府駅から車・20分／鉄輪口バス停・徒歩５分／別府IC・車で５分　※送迎サービス有（定期便／条件・注意事項 要確認）",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 6600,
-  "medianPrice": 18275,
+  "minPrice": 5500,
+  "medianPrice": 18075,
   "reviewAvgMean": 4.48,
   "pricedCount": 74
  },
@@ -354,7 +354,7 @@
    "hotelNo": 54134,
    "name": "源泉掛け流しの離れ宿　由布院別邸　風の森",
    "kana": "げんせんかけながしのはなれやど　ゆふいんべってい　かぜのもり",
-   "minCharge": 35860,
+   "minCharge": 36960,
    "reviewAverage": 4.71,
    "reviewCount": 130,
    "access": "◆ 由布院駅より徒歩15分　",

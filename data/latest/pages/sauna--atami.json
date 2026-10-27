@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 2900,
-  "medianPrice": 13270,
+  "minPrice": 3000,
+  "medianPrice": 14365,
   "reviewAvgMean": 4.23,
   "pricedCount": 34
  },
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 57600,
+   "minCharge": 60800,
    "reviewAverage": 4.68,
    "reviewCount": 80,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -201,7 +201,7 @@
    "hotelNo": 1656,
    "name": "熱海温泉　熱海後楽園ホテル",
    "kana": "あたみおんせん　あたみこうらくえんほてる",
-   "minCharge": 12320,
+   "minCharge": 13530,
    "reviewAverage": 4.39,
    "reviewCount": 3262,
    "access": "東京から新幹線で50分！熱海駅よりタクシーで約10分。送迎バス　9:40～19:00まで40分毎",
@@ -320,7 +320,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14220,
+   "minCharge": 15670,
    "reviewAverage": 4.22,
    "reviewCount": 1195,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

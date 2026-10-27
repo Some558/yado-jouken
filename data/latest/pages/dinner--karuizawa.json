@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -101,7 +101,7 @@
    "hotelNo": 196141,
    "name": "グランディスタイル旧軽井沢ホテル＆リゾート",
    "kana": "ぐらんでぃすたいるきゅうかるいざわほてるあんどりぞーと",
-   "minCharge": 24750,
+   "minCharge": 24497,
    "reviewAverage": 4.7,
    "reviewCount": 219,
    "access": "軽井沢駅より車で約５分",

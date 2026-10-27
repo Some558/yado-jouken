@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 165194,
    "name": "道後御湯",
    "kana": "どうごみゆ",
-   "minCharge": 30000,
+   "minCharge": 32200,
    "reviewAverage": 4.94,
    "reviewCount": 327,
    "access": "伊予鉄道　道後温泉駅より徒歩にて約５分",
@@ -116,7 +116,7 @@
    "hotelNo": 142928,
    "name": "大和屋別荘",
    "kana": "やまとやべっそう",
-   "minCharge": 19300,
+   "minCharge": 19900,
    "reviewAverage": 4.65,
    "reviewCount": 219,
    "access": "市電　道後温泉駅にて下車、徒歩にて５分",
@@ -354,7 +354,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 12800,
+   "minCharge": 16500,
    "reviewAverage": 4.41,
    "reviewCount": 2736,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",

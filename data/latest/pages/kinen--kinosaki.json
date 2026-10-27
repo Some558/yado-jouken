@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 9900,
+  "medianPrice": 10100,
   "reviewAvgMean": 4.43,
   "pricedCount": 29
  },
@@ -135,7 +135,7 @@
    "hotelNo": 16082,
    "name": "日和山海岸・気比の浜　海辺の宿　みはら荘",
    "kana": "ひよりやまかいがん　けいのはま　うみべのやど　みはらそう",
-   "minCharge": 6600,
+   "minCharge": 19800,
    "reviewAverage": 4.73,
    "reviewCount": 205,
    "access": "ＪＲ山陰本線城崎温泉駅よりバスにて１０分／タクシーにて約7分道路事情送迎で駅迎えのできない場合があります。",

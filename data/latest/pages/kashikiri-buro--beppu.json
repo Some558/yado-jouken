@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "facility"
  },
@@ -167,7 +167,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 15257,
+   "minCharge": 12565,
    "reviewAverage": 4.56,
    "reviewCount": 212,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -252,7 +252,7 @@
    "hotelNo": 72876,
    "name": "別府観海寺温泉　旅亭　松葉屋",
    "kana": "べっぷかんかいじおんせん　りょてい　まつばや",
-   "minCharge": 21750,
+   "minCharge": 22770,
    "reviewAverage": 4.48,
    "reviewCount": 388,
    "access": "別府駅よりお車にて７分",

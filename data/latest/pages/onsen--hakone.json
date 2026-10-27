@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 17450,
+  "medianPrice": 17380,
   "reviewAvgMean": 4.35,
   "pricedCount": 50
  },
@@ -50,7 +50,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 50850,
+   "minCharge": 54240,
    "reviewAverage": 4.88,
    "reviewCount": 663,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -118,7 +118,7 @@
    "hotelNo": 158501,
    "name": "箱根小涌園　天悠（藤田観光リゾート）",
    "kana": "はこねこわきえん　てんゆう（ふじたかんこうりぞーと）",
-   "minCharge": 40700,
+   "minCharge": 42900,
    "reviewAverage": 4.69,
    "reviewCount": 908,
    "access": "「天悠」バス停　徒歩すぐ（伊豆箱根バスor観光施設めぐりバス）／箱根登山鉄道「強羅」からシャトルバス有",
@@ -169,7 +169,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 58930,
+   "minCharge": 54980,
    "reviewAverage": 4.6,
    "reviewCount": 124,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -339,7 +339,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 17300,
+   "minCharge": 21060,
    "reviewAverage": 4.47,
    "reviewCount": 315,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",

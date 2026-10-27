@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -20,11 +20,11 @@
   "matchRate": 11.9,
   "denominator": {
    "type": "area_total",
-   "value": 354,
+   "value": 352,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 9980,
+  "medianPrice": 10252,
   "reviewAvgMean": 4.32,
   "pricedCount": 34
  },
@@ -197,7 +197,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25121",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25121.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25121/25121.jpg",
-   "special": "エアコン完備で夏でも快適！ゲルで過ごす特別な時間★馬頭琴が彩る感動のひとときを♪"
+   "special": "エアコン完備で冬でもポカポカ！ゲルで過ごす特別な時間★馬頭琴が彩る感動のひとときを♪"
   },
   {
    "hotelNo": 192854,

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 74,
-  "matchRate": 20.9,
+  "matchRate": 21.0,
   "denominator": {
    "type": "area_total",
-   "value": 354,
+   "value": 352,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 3000,
-  "medianPrice": 9927,
+  "medianPrice": 9980,
   "reviewAvgMean": 4.38,
   "pricedCount": 40
  },
@@ -67,7 +67,7 @@
    "hotelNo": 184640,
    "name": "那須高原　山小屋",
    "kana": "なすこうげん　やまごや",
-   "minCharge": 5720,
+   "minCharge": 6160,
    "reviewAverage": 4.71,
    "reviewCount": 21,
    "access": "那須塩原駅よりお車にて約45分・東北自動車道那須ICよりお車にて30分",
@@ -299,7 +299,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25121",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25121.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25121/25121.jpg",
-   "special": "エアコン完備で夏でも快適！ゲルで過ごす特別な時間★馬頭琴が彩る感動のひとときを♪"
+   "special": "エアコン完備で冬でもポカポカ！ゲルで過ごす特別な時間★馬頭琴が彩る感動のひとときを♪"
   },
   {
    "hotelNo": 192854,

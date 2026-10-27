@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-27",
+ "dataAsOf": "2026-10-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 12100,
+  "medianPrice": 12870,
   "reviewAvgMean": 4.35,
   "pricedCount": 17
  },
@@ -67,7 +67,7 @@
    "hotelNo": 188387,
    "name": "時地人－　ＪＩＪＩＪＩＮ　Ｍａｔｓｕｙａｍａ（旧：ＴＯＢＥオーベルジュリゾート）",
    "kana": "じじじん　まつやま",
-   "minCharge": 12100,
+   "minCharge": 18150,
    "reviewAverage": 4.64,
    "reviewCount": 20,
    "access": "松山空港より車で約20分",
@@ -186,7 +186,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 12800,
+   "minCharge": 16500,
    "reviewAverage": 4.41,
    "reviewCount": 2736,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",
