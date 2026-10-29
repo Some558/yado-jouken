@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4200,
-  "medianPrice": 11100,
+  "medianPrice": 11372,
   "reviewAvgMean": 4.41,
   "pricedCount": 21
  },
@@ -167,7 +167,7 @@
    "hotelNo": 50468,
    "name": "ドーミー倶楽部　軽井沢",
    "kana": "どーみーくらぶ　かるいざわ",
-   "minCharge": 11000,
+   "minCharge": 14000,
    "reviewAverage": 4.56,
    "reviewCount": 1530,
    "access": "＜車＞碓氷軽井沢ＩＣ２５分。ハルニレテラス・野鳥の森：３分　＜電車＞無料送迎：しなの鉄道中軽井沢駅：５分（事前予約制）",
@@ -303,7 +303,7 @@
    "hotelNo": 20144,
    "name": "湯の丸高原ホテル",
    "kana": "ゆのまるこうげんほてる",
-   "minCharge": 6000,
+   "minCharge": 7000,
    "reviewAverage": 4.25,
    "reviewCount": 48,
    "access": "長野新幹線・佐久平駅／上信越自動車道・東部湯の丸ＩＣより２０分",

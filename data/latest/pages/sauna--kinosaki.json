@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 30900,
+   "minCharge": 32900,
    "reviewAverage": 4.68,
    "reviewCount": 789,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",
@@ -116,7 +116,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 5760,
+   "minCharge": 6400,
    "reviewAverage": 4.67,
    "reviewCount": 78,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -235,7 +235,7 @@
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
-   "minCharge": 18400,
+   "minCharge": 20900,
    "reviewAverage": 4.12,
    "reviewCount": 2620,
    "access": "城崎温泉駅⇒当館　旅館組合の送迎バス（詳しい出発時間は駅舎の係員にお尋ね下さい）",

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 4765,
    "name": "別府温泉　ホテル好楽",
    "kana": "べっぷおんせん　こうらく",
-   "minCharge": 5900,
+   "minCharge": 6400,
    "reviewAverage": 3.83,
    "reviewCount": 744,
    "access": "別府駅から徒歩10分、北浜バス停（福岡からの高速バス降り口）から2分",

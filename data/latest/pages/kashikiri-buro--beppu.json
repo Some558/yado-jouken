@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2800,
-  "medianPrice": 10175,
+  "medianPrice": 10475,
   "reviewAvgMean": 4.36,
   "pricedCount": 34
  },
@@ -133,7 +133,7 @@
    "hotelNo": 172768,
    "name": "灯りの宿　燈月",
    "kana": "あかりのやど　とうげつ",
-   "minCharge": 13200,
+   "minCharge": 15620,
    "reviewAverage": 4.6,
    "reviewCount": 955,
    "access": "別府駅より車で２０分",
@@ -167,7 +167,7 @@
    "hotelNo": 136033,
    "name": "別府鉄輪温泉　割烹旅館　かんな和別邸",
    "kana": "べっぷかんなわおんせん　かっぽうりょかん　かんなわべってい",
-   "minCharge": 12565,
+   "minCharge": 35550,
    "reviewAverage": 4.56,
    "reviewCount": 212,
    "access": "ＪＲ　別府駅より亀の井バスにて海地獄で降りてかんなわ交番側にくだる　",
@@ -286,7 +286,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 6600,
+   "minCharge": 8800,
    "reviewAverage": 4.42,
    "reviewCount": 634,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",
@@ -354,7 +354,7 @@
    "hotelNo": 74798,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　別邸はる樹",
    "kana": "せきや　りぞーと　べっていはるき",
-   "minCharge": 23110,
+   "minCharge": 24210,
    "reviewAverage": 4.34,
    "reviewCount": 179,
    "access": "ＪＲ　別府駅よりお車で１２分",

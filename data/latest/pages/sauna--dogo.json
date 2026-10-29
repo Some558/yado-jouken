@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "facility"
  },
@@ -286,7 +286,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 5600,
+   "minCharge": 5400,
    "reviewAverage": 4.22,
    "reviewCount": 2447,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",

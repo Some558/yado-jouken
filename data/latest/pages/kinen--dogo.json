@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -67,7 +67,7 @@
    "hotelNo": 188387,
    "name": "時地人－　ＪＩＪＩＪＩＮ　Ｍａｔｓｕｙａｍａ（旧：ＴＯＢＥオーベルジュリゾート）",
    "kana": "じじじん　まつやま",
-   "minCharge": 18150,
+   "minCharge": 24200,
    "reviewAverage": 4.64,
    "reviewCount": 20,
    "access": "松山空港より車で約20分",
@@ -271,7 +271,7 @@
    "hotelNo": 179221,
    "name": "ホテルビスタ松山",
    "kana": "ほてるびすたまつやま",
-   "minCharge": 4600,
+   "minCharge": 4400,
    "reviewAverage": 4.31,
    "reviewCount": 746,
    "access": "■松山空港→リムジンバス約３０分→大街道電停徒歩１分　／　■ＪＲ松山駅→伊予電鉄 約１５分→大街道駅徒歩２分",

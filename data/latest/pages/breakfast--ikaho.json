@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 11616,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.14,
   "pricedCount": 19
  },
@@ -84,7 +84,7 @@
    "hotelNo": 15996,
    "name": "伊香保温泉　市川別館　晴観荘",
    "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
-   "minCharge": 11000,
+   "minCharge": 8500,
    "reviewAverage": 4.49,
    "reviewCount": 952,
    "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",
@@ -166,23 +166,6 @@
    "special": "自然溢れる敷地内で楽しむ休日の気持ち良さはたまらない！ペットＯＫのログハウスも予約受付中！"
   },
   {
-   "hotelNo": 7050,
-   "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
-   "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 11550,
-   "reviewAverage": 4.27,
-   "reviewCount": 1538,
-   "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保591",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7050",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7050%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7050",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7050.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7050/7050.jpg",
-   "special": "ケーブルカーで、四季を感じながら玄関へ☆彡 大自然に囲まれた静かな宿♪石段街や河鹿橋まで徒歩5分"
-  },
-  {
    "hotelNo": 17741,
    "name": "伊香保温泉　森秋旅館",
    "kana": "いかほおんせん　もりあきりょかん",
@@ -198,6 +181,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/17741.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17741/17741.jpg",
    "special": "★名湯「黄金の湯」源泉掛け流しが自慢の宿♪ ★観光名所「石段街」まで徒歩３分♪"
+  },
+  {
+   "hotelNo": 7050,
+   "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
+   "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
+   "minCharge": 17325,
+   "reviewAverage": 4.27,
+   "reviewCount": 1538,
+   "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保591",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7050",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7050%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7050",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7050.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7050/7050.jpg",
+   "special": "ケーブルカーで、四季を感じながら玄関へ☆彡 大自然に囲まれた静かな宿♪石段街や河鹿橋まで徒歩5分"
   },
   {
    "hotelNo": 38250,

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-28",
+ "dataAsOf": "2026-10-29",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 20144,
    "name": "湯の丸高原ホテル",
    "kana": "ゆのまるこうげんほてる",
-   "minCharge": 6000,
+   "minCharge": 7000,
    "reviewAverage": 4.25,
    "reviewCount": 48,
    "access": "長野新幹線・佐久平駅／上信越自動車道・東部湯の丸ＩＣより２０分",
