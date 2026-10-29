@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -167,7 +167,7 @@
    "hotelNo": 31202,
    "name": "由布院温泉　御宿　一禅",
    "kana": "ゆふいんおんせん　おやど　いちぜん",
-   "minCharge": 30000,
+   "minCharge": 35500,
    "reviewAverage": 4.33,
    "reviewCount": 310,
    "access": "JR由布院駅より車で５分／湯布院ICより車で１０分／大分空港より車で50分／別府より40分／福岡より1時間30分",
@@ -184,7 +184,7 @@
    "hotelNo": 166507,
    "name": "和モダンな温泉旅館　湯布院らんぷの宿",
    "kana": "わもだんなおんせんりょかん　ゆふいんらんぷのやど",
-   "minCharge": 11100,
+   "minCharge": 12200,
    "reviewAverage": 4.12,
    "reviewCount": 148,
    "access": "由布院駅より徒歩にて約5分",

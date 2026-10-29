@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -186,7 +186,7 @@
    "hotelNo": 151213,
    "name": "ダイワロイネットホテル松山",
    "kana": "だいわろいねっとほてるまつやま",
-   "minCharge": 4930,
+   "minCharge": 4840,
    "reviewAverage": 4.43,
    "reviewCount": 2319,
    "access": "市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分",
@@ -305,7 +305,7 @@
    "hotelNo": 199434,
    "name": "ホテルルートイン松山北",
    "kana": "ほてるるーといんまつやまきた",
-   "minCharge": 5725,
+   "minCharge": 5775,
    "reviewAverage": 4.3,
    "reviewCount": 53,
    "access": "JR予讃線　伊予和気駅よりお車で約7分、松山自動車道　松山ICから車で約30分",

@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 6147,
+  "medianPrice": 6172,
   "reviewAvgMean": 4.29,
   "pricedCount": 18
  },
@@ -203,7 +203,7 @@
    "hotelNo": 199434,
    "name": "ホテルルートイン松山北",
    "kana": "ほてるるーといんまつやまきた",
-   "minCharge": 5725,
+   "minCharge": 5775,
    "reviewAverage": 4.3,
    "reviewCount": 53,
    "access": "JR予讃線　伊予和気駅よりお車で約7分、松山自動車道　松山ICから車で約30分",
@@ -288,7 +288,7 @@
    "hotelNo": 7520,
    "name": "道後温泉　ホテルルナパーク",
    "kana": "どうごおんせん　るなぱーく",
-   "minCharge": 8662,
+   "minCharge": 9240,
    "reviewAverage": 3.86,
    "reviewCount": 650,
    "access": "JR松山駅から私鉄乗り継ぎ伊予鉄道後温泉駅下車、徒歩5分。",

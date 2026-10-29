@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 20,
-  "matchRate": 12.8,
+  "matchRate": 12.7,
   "denominator": {
    "type": "area_total",
-   "value": 156,
+   "value": 157,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
-  "minPrice": 6400,
-  "medianPrice": 12100,
+  "minPrice": 6732,
+  "medianPrice": 14100,
   "reviewAvgMean": 4.39,
   "pricedCount": 17
  },
@@ -101,7 +101,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 6400,
+   "minCharge": 7680,
    "reviewAverage": 4.67,
    "reviewCount": 78,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -203,7 +203,7 @@
    "hotelNo": 54668,
    "name": "休暇村　竹野海岸",
    "kana": "きゅうかむら　たけのかいがん",
-   "minCharge": 11500,
+   "minCharge": 16500,
    "reviewAverage": 4.28,
    "reviewCount": 541,
    "access": "ＪＲ　竹野駅より車で５分（送迎有り）",
@@ -220,7 +220,7 @@
    "hotelNo": 72798,
    "name": "城崎温泉　泉都",
    "kana": "きのさきおんせん　せんと",
-   "minCharge": 8415,
+   "minCharge": 9350,
    "reviewAverage": 4.16,
    "reviewCount": 633,
    "access": "ＪＲ　城崎温泉より徒歩１０分",
@@ -254,7 +254,7 @@
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
-   "minCharge": 20900,
+   "minCharge": 21700,
    "reviewAverage": 4.12,
    "reviewCount": 2620,
    "access": "城崎温泉駅⇒当館　旅館組合の送迎バス（詳しい出発時間は駅舎の係員にお尋ね下さい）",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 11780,
+  "medianPrice": 12780,
   "reviewAvgMean": 4.37,
   "pricedCount": 11
  },
@@ -65,7 +65,7 @@
    "hotelNo": 7616,
    "name": "熱海温泉　味と湯の宿　ニューとみよし",
    "kana": "あたみおんせん　あじとゆのやど　にゅーとみよし",
-   "minCharge": 28600,
+   "minCharge": 30800,
    "reviewAverage": 4.57,
    "reviewCount": 2324,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ、長浜海岸前",
@@ -82,7 +82,7 @@
    "hotelNo": 186096,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　熱海",
    "kana": null,
-   "minCharge": 6587,
+   "minCharge": 6162,
    "reviewAverage": 4.44,
    "reviewCount": 473,
    "access": "JR上野東京ライン 熱海駅から徒歩約20分、車約10分/路線バス「大野屋前」バス停下車徒歩1分。",
@@ -116,7 +116,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 11780,
+   "minCharge": 12780,
    "reviewAverage": 4.36,
    "reviewCount": 1411,
    "access": "ＪＲ伊東線網代駅徒歩４分",
@@ -133,7 +133,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.34,
    "reviewCount": 199,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 15250,
+   "minCharge": 14450,
    "reviewAverage": 4.01,
    "reviewCount": 524,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 5400,
+   "minCharge": 8200,
    "reviewAverage": 4.82,
    "reviewCount": 19,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
@@ -82,7 +82,7 @@
    "hotelNo": 167941,
    "name": "レジーナリゾート旧軽井沢",
    "kana": "れじーなりぞーときゅうかるいざわ",
-   "minCharge": 19800,
+   "minCharge": 22000,
    "reviewAverage": 4.71,
    "reviewCount": 130,
    "access": "ＪＲ軽井沢駅よりお車にて８分（送迎あり）",

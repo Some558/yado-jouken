@@ -4,7 +4,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "recordCount": 157,
  "conditions": [
   {
@@ -966,7 +966,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 18800,
+   "minCharge": 20800,
    "reviewAverage": 4.43,
    "reviewCount": 3379,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -993,7 +993,7 @@
    "hotelNo": 6092,
    "name": "草津温泉　ヴァンベール",
    "kana": "くさつおんせん　ヴぁんべーる",
-   "minCharge": 9350,
+   "minCharge": 11000,
    "reviewAverage": 4.42,
    "reviewCount": 172,
    "access": "関越自動車道伊香保ICより車にて90分。草津温泉『道の駅』でお尋ね下さい。",
@@ -1051,7 +1051,7 @@
    "hotelNo": 107756,
    "name": "湯宿　季の庭（共立リゾート）",
    "kana": "ゆやど　ときのにわ",
-   "minCharge": 29590,
+   "minCharge": 31570,
    "reviewAverage": 4.41,
    "reviewCount": 1825,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そちらから専用シャトルバスで5分。",
@@ -1205,30 +1205,6 @@
    ]
   },
   {
-   "hotelNo": 2108,
-   "name": "草津温泉　ペンション五郎次",
-   "kana": "くさつおんせん　ごろうじ",
-   "minCharge": 6990,
-   "reviewAverage": 4.33,
-   "reviewCount": 371,
-   "access": "草津温泉バスターミナルより徒歩8分。関越自動車道渋川伊香保IC下車90分、上信越自動車道碓氷軽井沢IC下車70 分。",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津322-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2108",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2108%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2108",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2108.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2108/2108.jpg",
-   "special": "湯畑源泉100％かけ流し貸切風呂の宿。湯畑へ徒歩３分。温泉散策に最適な家族で営む小さな宿です",
-   "conditions": [
-    "onsen",
-    "kinen",
-    "breakfast",
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 68060,
    "name": "たびやど喜平",
    "kana": "たびやどきへい",
@@ -1247,6 +1223,30 @@
    "conditions": [
     "onsen",
     "kinen"
+   ]
+  },
+  {
+   "hotelNo": 2108,
+   "name": "草津温泉　ペンション五郎次",
+   "kana": "くさつおんせん　ごろうじ",
+   "minCharge": 8990,
+   "reviewAverage": 4.33,
+   "reviewCount": 371,
+   "access": "草津温泉バスターミナルより徒歩8分。関越自動車道渋川伊香保IC下車90分、上信越自動車道碓氷軽井沢IC下車70 分。",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津322-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D2108",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D2108%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D2108",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/2108.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2108/2108.jpg",
+   "special": "湯畑源泉100％かけ流し貸切風呂の宿。湯畑へ徒歩３分。温泉散策に最適な家族で営む小さな宿です",
+   "conditions": [
+    "onsen",
+    "kinen",
+    "breakfast",
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -1335,7 +1335,7 @@
    "hotelNo": 108128,
    "name": "お宿　木の葉（共立リゾート）",
    "kana": "おやど　このは",
-   "minCharge": 21780,
+   "minCharge": 24530,
    "reviewAverage": 4.3,
    "reviewCount": 1249,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そこから専用シャトルバスで5分。",
@@ -1411,7 +1411,7 @@
    "hotelNo": 16110,
    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
-   "minCharge": 8946,
+   "minCharge": 9870,
    "reviewAverage": 4.27,
    "reviewCount": 1354,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",
@@ -1475,6 +1475,27 @@
    ]
   },
   {
+   "hotelNo": 25817,
+   "name": "ペットと泊まれる宿　コンドミニアム　フラットレット草津",
+   "kana": "ぺっとととまれるやど　こんどみにあむ　ふらっとれっと　くさつ",
+   "minCharge": 7605,
+   "reviewAverage": 4.24,
+   "reviewCount": 110,
+   "access": "関越道渋川伊香保ＩＣよりＲ353、145、292経由で草津へ60ｋｍ/ＪＲ吾妻線長野原草津口駅～バス25分",
+   "address1": "群馬県",
+   "address2": "吾妻郡草津町草津464-1211",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25817",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25817%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25817",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25817.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
+   "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。",
+   "conditions": [
+    "kinen",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 149296,
    "name": "草津温泉　ふたばや",
    "kana": "くさつおんせん　ふたばや",
@@ -1491,27 +1512,6 @@
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149296/149296.jpg",
    "special": "湯畑から徒歩１分♪2024年、湯畑源泉貸切風呂を新設♪無料温泉も複数有り、外湯めぐりに最適です♪",
    "conditions": []
-  },
-  {
-   "hotelNo": 25817,
-   "name": "ペットと泊まれる宿　コンドミニアム　フラットレット草津",
-   "kana": "ぺっとととまれるやど　こんどみにあむ　ふらっとれっと　くさつ",
-   "minCharge": 8080,
-   "reviewAverage": 4.24,
-   "reviewCount": 110,
-   "access": "関越道渋川伊香保ＩＣよりＲ353、145、292経由で草津へ60ｋｍ/ＪＲ吾妻線長野原草津口駅～バス25分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町草津464-1211",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25817",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25817%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25817",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25817.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25817/25817.jpg",
-   "special": "貸マンションスタイルのペットと泊まれる宿。外出時はワンちゃんの一時預かりもＯＫ。",
-   "conditions": [
-    "kinen",
-    "pet-ok"
-   ]
   },
   {
    "hotelNo": 16556,
@@ -1558,7 +1558,7 @@
    "hotelNo": 181654,
    "name": "和える宿　高松",
    "kana": "あえるやど　たかまつ",
-   "minCharge": 15400,
+   "minCharge": 15950,
    "reviewAverage": 4.18,
    "reviewCount": 643,
    "access": "JR吾妻線長野原草津口駅より路線バスで約30分",

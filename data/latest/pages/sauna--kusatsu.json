@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3250,
-  "medianPrice": 14850,
+  "medianPrice": 15125,
   "reviewAvgMean": 4.36,
   "pricedCount": 14
  },
@@ -116,7 +116,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 18800,
+   "minCharge": 20800,
    "reviewAverage": 4.43,
    "reviewCount": 3379,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -133,7 +133,7 @@
    "hotelNo": 107756,
    "name": "湯宿　季の庭（共立リゾート）",
    "kana": "ゆやど　ときのにわ",
-   "minCharge": 29590,
+   "minCharge": 31570,
    "reviewAverage": 4.41,
    "reviewCount": 1825,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そちらから専用シャトルバスで5分。",
@@ -150,7 +150,7 @@
    "hotelNo": 108128,
    "name": "お宿　木の葉（共立リゾート）",
    "kana": "おやど　このは",
-   "minCharge": 21780,
+   "minCharge": 24530,
    "reviewAverage": 4.3,
    "reviewCount": 1249,
    "access": "ＪＲ吾妻線『長野原草津口駅』より路線バスにて『草津温泉バスターミナル』25分、そこから専用シャトルバスで5分。",
@@ -167,7 +167,7 @@
    "hotelNo": 16110,
    "name": "亀の井ホテル　草津リゾート（旧：草津温泉ホテルリゾート）",
    "kana": "かめのいほてる　くさつりぞーと（きゅう：くさつおんせんほてるりぞーと）",
-   "minCharge": 8946,
+   "minCharge": 9870,
    "reviewAverage": 4.27,
    "reviewCount": 1354,
    "access": "ＪＲ吾妻線「長野原草津口駅」下車、JRバス「草津温泉行」約３０分、バスターミナル下車、無料送迎バスにてホテルへ",
@@ -184,7 +184,7 @@
    "hotelNo": 181654,
    "name": "和える宿　高松",
    "kana": "あえるやど　たかまつ",
-   "minCharge": 15400,
+   "minCharge": 15950,
    "reviewAverage": 4.18,
    "reviewCount": 643,
    "access": "JR吾妻線長野原草津口駅より路線バスで約30分",

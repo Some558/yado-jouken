@@ -9,16 +9,16 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
  "stats": {
   "matchCount": 6,
-  "matchRate": 8.5,
+  "matchRate": 8.3,
   "denominator": {
    "type": "listed_top",
-   "value": 71,
+   "value": 72,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4980,

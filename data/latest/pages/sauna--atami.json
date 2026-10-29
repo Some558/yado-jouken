@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3000,
+  "minPrice": 4840,
   "medianPrice": 13875,
   "reviewAvgMean": 4.23,
   "pricedCount": 34
@@ -82,7 +82,7 @@
    "hotelNo": 142952,
    "name": "ホテルグランバッハ熱海クレッシェンド",
    "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 59200,
+   "minCharge": 57600,
    "reviewAverage": 4.68,
    "reviewCount": 80,
    "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
@@ -150,7 +150,7 @@
    "hotelNo": 7616,
    "name": "熱海温泉　味と湯の宿　ニューとみよし",
    "kana": "あたみおんせん　あじとゆのやど　にゅーとみよし",
-   "minCharge": 28600,
+   "minCharge": 30800,
    "reviewAverage": 4.57,
    "reviewCount": 2324,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ、長浜海岸前",
@@ -252,7 +252,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.34,
    "reviewCount": 199,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",

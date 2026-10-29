@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 15300,
+  "medianPrice": 16500,
   "reviewAvgMean": 4.5,
   "pricedCount": 41
  },
@@ -184,7 +184,7 @@
    "hotelNo": 7597,
    "name": "城崎温泉　泉翠（せんすい）",
    "kana": "きのさきおんせん　せんすい",
-   "minCharge": 14300,
+   "minCharge": 23100,
    "reviewAverage": 4.72,
    "reviewCount": 817,
    "access": "ＪＲ西日本　山陰本線　城崎温泉駅下車徒歩８分。北近畿豊岡道（豊岡出石IC)より約20分",
@@ -201,7 +201,7 @@
    "hotelNo": 31103,
    "name": "「山の季」きゃら",
    "kana": "「やまのき」きゃら",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.67,
    "reviewCount": 49,
    "access": "北近畿豊岡道「但馬空港IC」～R178経由で竹野方面へ～森本交差点を左～R1神鍋高原方面へ１０分　カーナビ等信用NG",
@@ -218,7 +218,7 @@
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 17600,
+   "minCharge": 18700,
    "reviewAverage": 4.67,
    "reviewCount": 234,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
@@ -235,7 +235,7 @@
    "hotelNo": 138019,
    "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
    "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 15300,
+   "minCharge": 23100,
    "reviewAverage": 4.66,
    "reviewCount": 138,
    "access": "城崎温泉駅から徒歩７分",
@@ -269,7 +269,7 @@
    "hotelNo": 144559,
    "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
    "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
-   "minCharge": 20350,
+   "minCharge": 22550,
    "reviewAverage": 4.65,
    "reviewCount": 297,
    "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",
@@ -320,7 +320,7 @@
    "hotelNo": 8766,
    "name": "城崎温泉　つちや旅館",
    "kana": "きのさきおんせん　つちやりょかん",
-   "minCharge": 13200,
+   "minCharge": 16500,
    "reviewAverage": 4.61,
    "reviewCount": 255,
    "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり",
@@ -332,23 +332,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8766.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8766/8766.jpg",
    "special": "2025年温泉宿総選挙全国3位　 活松葉蟹はじめ、旬を極める料理旅館"
-  },
-  {
-   "hotelNo": 147569,
-   "name": "城崎温泉　風月魚匠（ふうげつぎょしょう）",
-   "kana": "きのさきおんせん　ふうげつ　ぎょしょう",
-   "minCharge": 16500,
-   "reviewAverage": 4.61,
-   "reviewCount": 817,
-   "access": "ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい",
-   "address1": "兵庫県",
-   "address2": "豊岡市城崎町湯島636-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147569",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147569%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147569",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147569.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147569/147569.jpg",
-   "special": "2022年11月貸切風呂＆離れ特別室リニューアル！老舗鮮魚店プロデュース　大人だけの料理旅館！"
   },
   {
    "hotelNo": 56951,
@@ -366,6 +349,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/56951.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56951/56951.jpg",
    "special": "癒しをテーマに土壁、古木、竹、炭を用いた和モダンな城崎温泉の小粋なお宿。３ヶ所の貸切温泉は大人気"
+  },
+  {
+   "hotelNo": 147569,
+   "name": "城崎温泉　風月魚匠（ふうげつぎょしょう）",
+   "kana": "きのさきおんせん　ふうげつ　ぎょしょう",
+   "minCharge": 25300,
+   "reviewAverage": 4.61,
+   "reviewCount": 817,
+   "access": "ＪＲ：城崎温泉駅より徒歩20分/旅館組合乗合送迎バスあり　お車：北近畿豊岡道 豊岡出石ICでお降り下さい",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島636-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D147569",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D147569%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D147569",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147569.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147569/147569.jpg",
+   "special": "2022年11月貸切風呂＆離れ特別室リニューアル！老舗鮮魚店プロデュース　大人だけの料理旅館！"
   }
  ],
  "listedMatchCount": 41

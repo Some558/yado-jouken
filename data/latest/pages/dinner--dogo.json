@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 12870,
+  "medianPrice": 11862,
   "reviewAvgMean": 4.35,
   "pricedCount": 17
  },
@@ -271,7 +271,7 @@
    "hotelNo": 158312,
    "name": "リブマックスリゾート奥道後",
    "kana": "りぶまっくすりぞーとおくどうご",
-   "minCharge": 15350,
+   "minCharge": 11862,
    "reviewAverage": 3.91,
    "reviewCount": 590,
    "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",
@@ -288,7 +288,7 @@
    "hotelNo": 7520,
    "name": "道後温泉　ホテルルナパーク",
    "kana": "どうごおんせん　るなぱーく",
-   "minCharge": 8662,
+   "minCharge": 9240,
    "reviewAverage": 3.86,
    "reviewCount": 650,
    "access": "JR松山駅から私鉄乗り継ぎ伊予鉄道後温泉駅下車、徒歩5分。",

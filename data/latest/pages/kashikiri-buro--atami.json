@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 11780,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.33,
   "pricedCount": 29
  },
@@ -133,7 +133,7 @@
    "hotelNo": 7616,
    "name": "熱海温泉　味と湯の宿　ニューとみよし",
    "kana": "あたみおんせん　あじとゆのやど　にゅーとみよし",
-   "minCharge": 28600,
+   "minCharge": 30800,
    "reviewAverage": 4.57,
    "reviewCount": 2324,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ、長浜海岸前",
@@ -269,7 +269,7 @@
    "hotelNo": 1855,
    "name": "熱海・網代温泉　網代観光ホテル",
    "kana": "あたみあじろおんせん　あじろかんこうほてる",
-   "minCharge": 11780,
+   "minCharge": 12780,
    "reviewAverage": 4.36,
    "reviewCount": 1411,
    "access": "ＪＲ伊東線網代駅徒歩４分",
@@ -286,7 +286,7 @@
    "hotelNo": 18976,
    "name": "熱海温泉　ほり多",
    "kana": "あたみおんせん　ほりた",
-   "minCharge": 16500,
+   "minCharge": 20900,
    "reviewAverage": 4.35,
    "reviewCount": 207,
    "access": "熱海駅より伊東線来宮駅（二分）下車、来宮神社方向に徒歩５分。",

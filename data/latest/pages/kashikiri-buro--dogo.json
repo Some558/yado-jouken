@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 165673,
    "name": "道後温泉　あたたかい宿　谷屋",
    "kana": "どうごおんせん　あたたかいやど　たにや",
-   "minCharge": 17200,
+   "minCharge": 18300,
    "reviewAverage": 4.72,
    "reviewCount": 162,
    "access": "道後温泉駅より徒歩にて約１分",

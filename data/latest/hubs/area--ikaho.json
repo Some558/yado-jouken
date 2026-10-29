@@ -4,8 +4,8 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-29",
- "recordCount": 71,
+ "dataAsOf": "2026-10-30",
+ "recordCount": 72,
  "conditions": [
   {
    "condition": "onsen",
@@ -204,7 +204,7 @@
    "hotelNo": 8079,
    "name": "伊香保温泉　あかりの宿　おかべ",
    "kana": "いかほおんせん　あかりのやど　おかべ",
-   "minCharge": 16500,
+   "minCharge": 19800,
    "reviewAverage": 4.59,
    "reviewCount": 188,
    "access": "東京駅よりJR上越新幹線で約50分→高崎駅乗り換え、JR上越線で約20分→渋川駅下車、バスで約30分。",
@@ -351,7 +351,7 @@
    "hotelNo": 15996,
    "name": "伊香保温泉　市川別館　晴観荘",
    "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
-   "minCharge": 8500,
+   "minCharge": 11000,
    "reviewAverage": 4.49,
    "reviewCount": 952,
    "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",
@@ -464,7 +464,7 @@
    "hotelNo": 197407,
    "name": "ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　渋川",
    "kana": "ほてる あーるないん ざ やーど しぶかわ",
-   "minCharge": 3900,
+   "minCharge": 3600,
    "reviewAverage": 4.4,
    "reviewCount": 154,
    "access": "【電車】渋川駅より徒歩10分、タクシーで4分。【お車】渋川伊香保ICより車で5分。",
@@ -484,7 +484,7 @@
    "hotelNo": 7170,
    "name": "伊香保温泉　温泉宿　塚越屋七兵衛",
    "kana": "いかほおんせん　おんせんやど　つかごしやしちべえ",
-   "minCharge": 11165,
+   "minCharge": 14850,
    "reviewAverage": 4.4,
    "reviewCount": 934,
    "access": "関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）",
@@ -658,6 +658,27 @@
    "conditions": []
   },
   {
+   "hotelNo": 38692,
+   "name": "伊香保温泉　旅館　さくらい",
+   "kana": "いかほおんせん　りょかん　さくらい",
+   "minCharge": 7700,
+   "reviewAverage": 4.28,
+   "reviewCount": 1227,
+   "access": "JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。",
+   "address1": "群馬県",
+   "address2": "渋川市伊香保町伊香保210-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38692",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38692%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38692",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38692.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg",
+   "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
    "hotelNo": 80783,
    "name": "伊香保温泉　いかほ秀水園",
    "kana": "いかほおんせん　いかほしゅうすいえん",
@@ -676,27 +697,6 @@
    "conditions": [
     "rotenburo",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 38692,
-   "name": "伊香保温泉　旅館　さくらい",
-   "kana": "いかほおんせん　りょかん　さくらい",
-   "minCharge": 13300,
-   "reviewAverage": 4.28,
-   "reviewCount": 1227,
-   "access": "JR上越線　渋川駅より伊香保温泉行きバス、又は車で２０分。関越自動車道 渋川伊香保ＩＣより３０分。",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保210-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38692",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38692%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38692",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38692.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38692/38692.jpg",
-   "special": "喧騒を離れた小宿。4名まで夕食お部屋出し。小ぶりながら上州の山々を一望する展望露天風呂",
-   "conditions": [
-    "rotenburo",
-    "kashikiri-buro"
    ]
   },
   {
@@ -728,7 +728,7 @@
    "hotelNo": 7050,
    "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
    "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 17325,
+   "minCharge": 17820,
    "reviewAverage": 4.27,
    "reviewCount": 1538,
    "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
@@ -775,7 +775,7 @@
    "hotelNo": 38250,
    "name": "伊香保温泉　如心の里　ひびき野",
    "kana": "じょしんのさと　ひびきの",
-   "minCharge": 12100,
+   "minCharge": 9350,
    "reviewAverage": 4.19,
    "reviewCount": 2646,
    "access": "JR上越線「渋川駅」よりバスまたはタクシーで15分",
@@ -922,7 +922,7 @@
    "hotelNo": 68663,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
-   "minCharge": 14400,
+   "minCharge": 15800,
    "reviewAverage": 4.0,
    "reviewCount": 980,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",
@@ -948,7 +948,7 @@
    "hotelNo": 167324,
    "name": "ヘルシーパル赤城",
    "kana": "へるしーぱるあかぎ",
-   "minCharge": 8300,
+   "minCharge": 8800,
    "reviewAverage": 3.93,
    "reviewCount": 199,
    "access": "電車、ＪＲ上越線 敷島駅より徒歩にて約１０分　車、関越自動車道 赤城ICより約７分。又は渋川伊香保ICより約１５分。　",
@@ -1465,6 +1465,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/202349.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/202349/202349.jpg",
    "special": "赤城の自然に包まれる、癒やしのひととき。",
+   "conditions": []
+  },
+  {
+   "hotelNo": 201395,
+   "name": "【１５０平米を貸切】築１８０年の古民家／民泊",
+   "kana": null,
+   "minCharge": null,
+   "reviewAverage": null,
+   "reviewCount": null,
+   "access": "津久田駅から徒歩で7分",
+   "address1": "群馬県",
+   "address2": "渋川市赤城町棚下347-1　",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D201395",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D201395%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D201395",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/201395.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/201395/201395.jpg",
+   "special": "築180年の古民家を貸切◎Wi-Fiもテレビもない環境で、四柱推命や滝行を体験できる宿。",
    "conditions": []
   },
   {

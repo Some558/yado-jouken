@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 7616,
    "name": "熱海温泉　味と湯の宿　ニューとみよし",
    "kana": "あたみおんせん　あじとゆのやど　にゅーとみよし",
-   "minCharge": 28600,
+   "minCharge": 30800,
    "reviewAverage": 4.57,
    "reviewCount": 2324,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ、長浜海岸前",

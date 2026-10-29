@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 43,
-  "matchRate": 27.6,
+  "matchRate": 27.4,
   "denominator": {
    "type": "area_total",
-   "value": 156,
+   "value": 157,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
@@ -169,7 +169,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 6400,
+   "minCharge": 7680,
    "reviewAverage": 4.67,
    "reviewCount": 78,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",
@@ -186,7 +186,7 @@
    "hotelNo": 31103,
    "name": "「山の季」きゃら",
    "kana": "「やまのき」きゃら",
-   "minCharge": 12100,
+   "minCharge": 13200,
    "reviewAverage": 4.67,
    "reviewCount": 49,
    "access": "北近畿豊岡道「但馬空港IC」～R178経由で竹野方面へ～森本交差点を左～R1神鍋高原方面へ１０分　カーナビ等信用NG",
@@ -339,7 +339,7 @@
    "hotelNo": 54668,
    "name": "休暇村　竹野海岸",
    "kana": "きゅうかむら　たけのかいがん",
-   "minCharge": 11500,
+   "minCharge": 16500,
    "reviewAverage": 4.28,
    "reviewCount": 541,
    "access": "ＪＲ　竹野駅より車で５分（送迎有り）",

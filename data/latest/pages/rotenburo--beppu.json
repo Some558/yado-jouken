@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3600,
-  "medianPrice": 10735,
+  "medianPrice": 10560,
   "reviewAvgMean": 4.36,
   "pricedCount": 57
  },
@@ -82,7 +82,7 @@
    "hotelNo": 78242,
    "name": "ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）",
    "kana": "しおさいのやど　せいかい",
-   "minCharge": 22770,
+   "minCharge": 25300,
    "reviewAverage": 4.68,
    "reviewCount": 701,
    "access": "別府大学駅より徒歩１０分",
@@ -116,7 +116,7 @@
    "hotelNo": 136161,
    "name": "癒しの宿　彩葉",
    "kana": "いやしのやど　いろは",
-   "minCharge": 14750,
+   "minCharge": 15500,
    "reviewAverage": 4.64,
    "reviewCount": 313,
    "access": "別府駅よりお車で１５分",
@@ -286,7 +286,7 @@
    "hotelNo": 12660,
    "name": "別府温泉　ホテル白菊",
    "kana": "べっぷおんせん　しらぎく",
-   "minCharge": 20350,
+   "minCharge": 21450,
    "reviewAverage": 4.54,
    "reviewCount": 1505,
    "access": "JR日豊本線別府駅西口より徒歩7分／別府ICより車で13分／大分空港より車で50分／博多駅より2時間10分（別府駅下車）",
@@ -303,7 +303,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 10735,
+   "minCharge": 9040,
    "reviewAverage": 4.53,
    "reviewCount": 827,
    "access": "別府駅東口より徒歩約1分！",

@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-29",
+ "dataAsOf": "2026-10-30",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 15,
-  "matchRate": 21.1,
+  "matchRate": 20.8,
   "denominator": {
    "type": "area_total",
-   "value": 71,
+   "value": 72,
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 11616,
+  "medianPrice": 11000,
   "reviewAvgMean": 4.15,
   "pricedCount": 15
  },
@@ -67,7 +67,7 @@
    "hotelNo": 15996,
    "name": "伊香保温泉　市川別館　晴観荘",
    "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
-   "minCharge": 8500,
+   "minCharge": 11000,
    "reviewAverage": 4.49,
    "reviewCount": 952,
    "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",
@@ -169,7 +169,7 @@
    "hotelNo": 7050,
    "name": "伊香保温泉　人気の露天風呂付客室と美味に和む宿　かのうや",
    "kana": "いかほおんせん　にんきのろてんぶろつききゃくしつとびみになごむやど　かのうや",
-   "minCharge": 17325,
+   "minCharge": 17820,
    "reviewAverage": 4.27,
    "reviewCount": 1538,
    "access": "関越自動車道「渋川伊香保IC」より30分　※電車・高速バスでお越しの際は伊香保町内お迎えいたします（14～18時）",
@@ -186,7 +186,7 @@
    "hotelNo": 38250,
    "name": "伊香保温泉　如心の里　ひびき野",
    "kana": "じょしんのさと　ひびきの",
-   "minCharge": 12100,
+   "minCharge": 9350,
    "reviewAverage": 4.19,
    "reviewCount": 2646,
    "access": "JR上越線「渋川駅」よりバスまたはタクシーで15分",
@@ -220,7 +220,7 @@
    "hotelNo": 68663,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
-   "minCharge": 14400,
+   "minCharge": 15800,
    "reviewAverage": 4.0,
    "reviewCount": 980,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",
