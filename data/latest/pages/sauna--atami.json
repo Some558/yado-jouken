@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 13875,
+  "medianPrice": 12150,
   "reviewAvgMean": 4.23,
   "pricedCount": 34
  },
@@ -320,7 +320,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14220,
+   "minCharge": 11650,
    "reviewAverage": 4.22,
    "reviewCount": 1195,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",

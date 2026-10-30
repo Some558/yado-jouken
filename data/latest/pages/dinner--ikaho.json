@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -203,7 +203,7 @@
    "hotelNo": 68663,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
-   "minCharge": 15800,
+   "minCharge": 15100,
    "reviewAverage": 4.0,
    "reviewCount": 980,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",
@@ -271,7 +271,7 @@
    "hotelNo": 14324,
    "name": "伊香保温泉　山陽ホテル",
    "kana": "さんようほてる",
-   "minCharge": 9900,
+   "minCharge": 9350,
    "reviewAverage": 3.2,
    "reviewCount": 336,
    "access": "上越線 渋川駅より伊香保へバスで約２０分 / 関越自動車道 渋川ICより２０分",

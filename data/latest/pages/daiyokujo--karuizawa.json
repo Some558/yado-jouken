@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -20,11 +20,11 @@
   "matchRate": 8.2,
   "denominator": {
    "type": "area_total",
-   "value": 279,
+   "value": 280,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4200,
-  "medianPrice": 12770,
+  "medianPrice": 12165,
   "reviewAvgMean": 4.42,
   "pricedCount": 22
  },
@@ -33,7 +33,7 @@
    "hotelNo": 38419,
    "name": "軽井沢つるや旅館",
    "kana": "かるいざわつるやりょかん",
-   "minCharge": 13310,
+   "minCharge": 12100,
    "reviewAverage": 4.75,
    "reviewCount": 143,
    "access": "ＪＲ軽井沢駅より車で５分",
@@ -67,7 +67,7 @@
    "hotelNo": 167027,
    "name": "旧軽井沢ＫＩＫＹＯキュリオ・コレクションｂｙヒルトン",
    "kana": "きゅうかるいざわききょうきゅりおこれくしょんばいひるとん",
-   "minCharge": 24203,
+   "minCharge": 23892,
    "reviewAverage": 4.69,
    "reviewCount": 213,
    "access": "軽井沢駅より送迎車で約５分（無料送迎サービスはご宿泊者限定）／徒歩にて約１５分",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3438,
-  "medianPrice": 10625,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.54,
   "pricedCount": 17
  },
@@ -48,7 +48,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 8200,
+   "minCharge": 5400,
    "reviewAverage": 4.82,
    "reviewCount": 19,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
@@ -65,7 +65,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 10980,
+   "minCharge": 9855,
    "reviewAverage": 4.76,
    "reviewCount": 134,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -133,7 +133,7 @@
    "hotelNo": 165025,
    "name": "レジーナリゾート軽井沢御影用水",
    "kana": "れじーなりぞーとかるいざわみかげようすい",
-   "minCharge": 22000,
+   "minCharge": 19800,
    "reviewAverage": 4.64,
    "reviewCount": 162,
    "access": "御代田駅より送迎車にて約５分※要予約",

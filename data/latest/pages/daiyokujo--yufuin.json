@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9580,
-  "medianPrice": 23100,
+  "medianPrice": 26000,
   "reviewAvgMean": 4.46,
   "pricedCount": 17
  },
@@ -50,7 +50,7 @@
    "hotelNo": 72871,
    "name": "由布院温泉　湯富里の宿　一壷天",
    "kana": "ゆとりのやど　いっこてん",
-   "minCharge": 35800,
+   "minCharge": 44600,
    "reviewAverage": 4.83,
    "reviewCount": 268,
    "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
@@ -84,7 +84,7 @@
    "hotelNo": 38277,
    "name": "由布院温泉　旅亭　田乃倉",
    "kana": "たのくら",
-   "minCharge": 36900,
+   "minCharge": 42900,
    "reviewAverage": 4.78,
    "reviewCount": 110,
    "access": "駅よりタクシーで5分  金鱗湖徒歩２分",
@@ -101,7 +101,7 @@
    "hotelNo": 129936,
    "name": "旅籠Ｈａｔａｇｏ　香乃蔵　（旧名：湯亭　香乃蔵）",
    "kana": "はたご　こうのくら",
-   "minCharge": 28200,
+   "minCharge": 27100,
    "reviewAverage": 4.67,
    "reviewCount": 81,
    "access": "由布院駅からお車で１０分",
@@ -186,7 +186,7 @@
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
-   "minCharge": 23100,
+   "minCharge": 29700,
    "reviewAverage": 4.43,
    "reviewCount": 359,
    "access": "ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分",

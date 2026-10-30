@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -286,7 +286,7 @@
    "hotelNo": 674,
    "name": "ホテルアーサー　ＫＩＴＡＨＡＭＡ　ＢＡＳＥ",
    "kana": "ほてるあーさー　きたはまべーす",
-   "minCharge": 5270,
+   "minCharge": 4632,
    "reviewAverage": 4.31,
    "reviewCount": 1818,
    "access": "ＪＲ「別府駅」より徒歩３分 　大分空港より「北浜停留所」徒歩５分　大分自動車道別府I.Cより15分",
@@ -303,7 +303,7 @@
    "hotelNo": 16101,
    "name": "海乃ホテル　はじめ",
    "kana": "うみのほてる　はじめ",
-   "minCharge": 10500,
+   "minCharge": 10000,
    "reviewAverage": 4.28,
    "reviewCount": 250,
    "access": "ＪＲ別府駅下車徒歩１0分、九州道別府Ｉ・Ｃより車で15分、別府北浜バスより徒歩3分。",

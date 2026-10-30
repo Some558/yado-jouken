@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -135,7 +135,7 @@
    "hotelNo": 16082,
    "name": "日和山海岸・気比の浜　海辺の宿　みはら荘",
    "kana": "ひよりやまかいがん　けいのはま　うみべのやど　みはらそう",
-   "minCharge": 19800,
+   "minCharge": 25400,
    "reviewAverage": 4.73,
    "reviewCount": 205,
    "access": "ＪＲ山陰本線城崎温泉駅よりバスにて１０分／タクシーにて約7分道路事情送迎で駅迎えのできない場合があります。",
@@ -169,7 +169,7 @@
    "hotelNo": 199940,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＴＥＲＲＡＣＥ　城崎リバーサイド",
    "kana": null,
-   "minCharge": 7680,
+   "minCharge": 6400,
    "reviewAverage": 4.67,
    "reviewCount": 78,
    "access": "城崎温泉駅から車で7分／コウノトリ但馬空港から車で21分／鳥取コナン空港から車で1時間15分",

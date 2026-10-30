@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-10-31",
@@ -135,7 +135,7 @@
    "hotelNo": 183045,
    "name": "レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）",
    "kana": "れふまつやましえき　ばい　べっせるほてるず",
-   "minCharge": 6570,
+   "minCharge": 5800,
    "reviewAverage": 4.48,
    "reviewCount": 1143,
    "access": "伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分",
@@ -336,6 +336,23 @@
    "special": "【疲労回復・美肌・快眠】源泉かけ流し天然温泉大浴場オールナイト営業^^/　高速Wi-Fi完備♪"
   },
   {
+   "hotelNo": 199177,
+   "name": "アパホテル〈松山市駅前〉（２０２６年７月ＯＰＥＮ）",
+   "kana": "あぱほてる　まつやましえきまえ",
+   "minCharge": 3960,
+   "reviewAverage": 4.23,
+   "reviewCount": 149,
+   "access": "伊予鉄道松山市駅北口から徒歩3分",
+   "address1": "愛媛県",
+   "address2": "松山市湊町6-3-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199177",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199177%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199177",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199177.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199177/199177.jpg",
+   "special": "四国で初の新築のアパホテルです！！道後温泉・大街道・ビジネス街へのアクセスも抜群！"
+  },
+  {
    "hotelNo": 180563,
    "name": "コンフォートホテル松山",
    "kana": "こんふぉーとほてる　まつやま",
@@ -351,23 +368,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/180563.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180563/180563.jpg",
    "special": "日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆小学6年生まで添い寝無料"
-  },
-  {
-   "hotelNo": 199177,
-   "name": "アパホテル〈松山市駅前〉（２０２６年７月ＯＰＥＮ）",
-   "kana": "あぱほてる　まつやましえきまえ",
-   "minCharge": 4500,
-   "reviewAverage": 4.23,
-   "reviewCount": 149,
-   "access": "伊予鉄道松山市駅北口から徒歩3分",
-   "address1": "愛媛県",
-   "address2": "松山市湊町6-3-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199177",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199177%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199177",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199177.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199177/199177.jpg",
-   "special": "四国で初の新築のアパホテルです！！道後温泉・大街道・ビジネス街へのアクセスも抜群！"
   }
  ],
  "listedMatchCount": 35

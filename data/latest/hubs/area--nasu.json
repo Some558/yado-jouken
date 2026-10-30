@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "recordCount": 353,
  "conditions": [
   {
@@ -228,7 +228,7 @@
    "hotelNo": 184640,
    "name": "那須高原　山小屋",
    "kana": "なすこうげん　やまごや",
-   "minCharge": 6600,
+   "minCharge": 5720,
    "reviewAverage": 4.71,
    "reviewCount": 21,
    "access": "那須塩原駅よりお車にて約45分・東北自動車道那須ICよりお車にて30分",
@@ -921,7 +921,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 26460,
+   "minCharge": 23460,
    "reviewAverage": 4.48,
    "reviewCount": 36,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",
@@ -1520,10 +1520,28 @@
    ]
   },
   {
+   "hotelNo": 78180,
+   "name": "那須ミッドシティホテル",
+   "kana": "なすみっどしてぃほてる",
+   "minCharge": 6450,
+   "reviewAverage": 4.22,
+   "reviewCount": 2440,
+   "access": "那須塩原駅西口から徒歩３分",
+   "address1": "栃木県",
+   "address2": "那須塩原市方京1-1-10 ",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D78180",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D78180%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D78180",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/78180.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78180/78180.jpg",
+   "special": "ワンランク上の客室がリーズナブルプライスで。 ビジネスや観光でご利用頂けるホテルです",
+   "conditions": []
+  },
+  {
    "hotelNo": 31077,
    "name": "グランドメルキュール那須高原リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるなすこうげんりぞーとあんどすぱ",
-   "minCharge": 5742,
+   "minCharge": 9342,
    "reviewAverage": 4.22,
    "reviewCount": 4121,
    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",
@@ -1544,24 +1562,6 @@
     "rotenburo",
     "sauna"
    ]
-  },
-  {
-   "hotelNo": 78180,
-   "name": "那須ミッドシティホテル",
-   "kana": "なすみっどしてぃほてる",
-   "minCharge": 6450,
-   "reviewAverage": 4.22,
-   "reviewCount": 2440,
-   "access": "那須塩原駅西口から徒歩３分",
-   "address1": "栃木県",
-   "address2": "那須塩原市方京1-1-10 ",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D78180",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D78180%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D78180",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/78180.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78180/78180.jpg",
-   "special": "ワンランク上の客室がリーズナブルプライスで。 ビジネスや観光でご利用頂けるホテルです",
-   "conditions": []
   },
   {
    "hotelNo": 20574,
@@ -1638,30 +1638,10 @@
    ]
   },
   {
-   "hotelNo": 183740,
-   "name": "フォレストリゾート　ホテルグリーンパール那須",
-   "kana": "ふぉれすとりぞーと　ほてるぐりーんぱーるなす",
-   "minCharge": 10500,
-   "reviewAverage": 4.18,
-   "reviewCount": 301,
-   "access": "東北新幹線　那須塩原駅よりバスで45分　新那須バス亭下車　徒歩7分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本213",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183740",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183740%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183740",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183740.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183740/183740.jpg",
-   "special": "2022年4月15日〜のご予約はこちら！　自慢の源泉掛け流しのにごり湯が自慢の宿！",
-   "conditions": [
-    "rotenburo"
-   ]
-  },
-  {
    "hotelNo": 68157,
    "name": "フォートリート＋那須高原",
    "kana": "ふぉーとりーとぷらすなすこうげん",
-   "minCharge": 11000,
+   "minCharge": 9900,
    "reviewAverage": 4.18,
    "reviewCount": 1153,
    "access": "東北自動車道那須ICより車で約20分／那須塩原駅より路線バス有り（有料／要予約）詳しくはホテルまでお問い合わせ下さい",
@@ -1679,6 +1659,26 @@
     "kinen",
     "breakfast",
     "dinner",
+    "rotenburo"
+   ]
+  },
+  {
+   "hotelNo": 183740,
+   "name": "フォレストリゾート　ホテルグリーンパール那須",
+   "kana": "ふぉれすとりぞーと　ほてるぐりーんぱーるなす",
+   "minCharge": 10500,
+   "reviewAverage": 4.18,
+   "reviewCount": 301,
+   "access": "東北新幹線　那須塩原駅よりバスで45分　新那須バス亭下車　徒歩7分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本213",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D183740",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D183740%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183740",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183740.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183740/183740.jpg",
+   "special": "2022年4月15日〜のご予約はこちら！　自慢の源泉掛け流しのにごり湯が自慢の宿！",
+   "conditions": [
     "rotenburo"
    ]
   },

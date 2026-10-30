@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 10400,
-  "medianPrice": 17450,
+  "medianPrice": 19550,
   "reviewAvgMean": 4.55,
   "pricedCount": 10
  },
@@ -31,7 +31,7 @@
    "hotelNo": 72871,
    "name": "由布院温泉　湯富里の宿　一壷天",
    "kana": "ゆとりのやど　いっこてん",
-   "minCharge": 35800,
+   "minCharge": 44600,
    "reviewAverage": 4.83,
    "reviewCount": 268,
    "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
@@ -184,7 +184,7 @@
    "hotelNo": 166507,
    "name": "和モダンな温泉旅館　湯布院らんぷの宿",
    "kana": "わもだんなおんせんりょかん　ゆふいんらんぷのやど",
-   "minCharge": 12200,
+   "minCharge": 18200,
    "reviewAverage": 4.12,
    "reviewCount": 148,
    "access": "由布院駅より徒歩にて約5分",

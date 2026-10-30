@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3250,
-  "medianPrice": 8595,
+  "minPrice": 4200,
+  "medianPrice": 7880,
   "reviewAvgMean": 4.0,
   "pricedCount": 6
  },
@@ -65,7 +65,7 @@
    "hotelNo": 199396,
    "name": "Ｂ／Ｃ　ＨＯＴＥＬ　草津",
    "kana": "びーばいしーほてるくさつ",
-   "minCharge": 3250,
+   "minCharge": 4200,
    "reviewAverage": 4.12,
    "reviewCount": 142,
    "access": "JR長野原草津口駅→バス約25分→草津温泉BT→徒歩約10分（無料送迎あり）",
@@ -82,7 +82,7 @@
    "hotelNo": 129576,
    "name": "草津温泉　大東舘",
    "kana": "くさつおんせん　だいとうかん",
-   "minCharge": 9190,
+   "minCharge": 7760,
    "reviewAverage": 3.85,
    "reviewCount": 2984,
    "access": "草津温泉バスターミナルから徒歩５分",
@@ -99,7 +99,7 @@
    "hotelNo": 172893,
    "name": "リブマックスリゾート草津温泉",
    "kana": "りぶまっくすりぞーとくさつおんせん",
-   "minCharge": 13000,
+   "minCharge": 12500,
    "reviewAverage": 3.78,
    "reviewCount": 625,
    "access": "湯畑から徒歩約10分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 12780,
+  "medianPrice": 12650,
   "reviewAvgMean": 4.37,
   "pricedCount": 11
  },
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 14450,
+   "minCharge": 12650,
    "reviewAverage": 4.01,
    "reviewCount": 524,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",

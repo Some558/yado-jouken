@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-10-30",
+ "dataAsOf": "2026-10-31",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 16500,
+  "medianPrice": 15870,
   "reviewAvgMean": 4.5,
   "pricedCount": 41
  },
@@ -184,7 +184,7 @@
    "hotelNo": 7597,
    "name": "城崎温泉　泉翠（せんすい）",
    "kana": "きのさきおんせん　せんすい",
-   "minCharge": 23100,
+   "minCharge": 29700,
    "reviewAverage": 4.72,
    "reviewCount": 817,
    "access": "ＪＲ西日本　山陰本線　城崎温泉駅下車徒歩８分。北近畿豊岡道（豊岡出石IC)より約20分",
@@ -269,7 +269,7 @@
    "hotelNo": 144559,
    "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
    "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
-   "minCharge": 22550,
+   "minCharge": 19250,
    "reviewAverage": 4.65,
    "reviewCount": 297,
    "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",
