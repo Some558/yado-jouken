@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,11 +24,28 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2650,
-  "medianPrice": 9181,
-  "reviewAvgMean": 4.28,
-  "pricedCount": 24
+  "medianPrice": 8820,
+  "reviewAvgMean": 4.3,
+  "pricedCount": 25
  },
  "hotels": [
+  {
+   "hotelNo": 76483,
+   "name": "那須高原　ペットと泊まれる宿　ペンション　ハロハロｉｎｎ那須",
+   "kana": "はろはろいんなす",
+   "minCharge": 6820,
+   "reviewAverage": 4.77,
+   "reviewCount": 80,
+   "access": "黒磯駅より車で２０分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町湯本722-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76483",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76483%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76483",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76483.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76483/76483.jpg",
+   "special": "大切なワンちゃんとわが家のようにくつろげる宿"
+  },
   {
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
@@ -101,7 +118,7 @@
    "hotelNo": 32111,
    "name": "新那須高原温泉　こころのおやど　自在荘",
    "kana": "しんなすこうげんおんせん　こころのおやど　じざいそう",
-   "minCharge": 15400,
+   "minCharge": 14300,
    "reviewAverage": 4.51,
    "reviewCount": 507,
    "access": "那須高原黒磯駅／東北新幹線→那須高原→バス（新那須下車）徒歩５分",
@@ -135,7 +152,7 @@
    "hotelNo": 25121,
    "name": "モンゴリアビレッジ　テンゲル",
    "kana": "もんごりあびれっじ　てんげる",
-   "minCharge": 8140,
+   "minCharge": 7040,
    "reviewAverage": 4.48,
    "reviewCount": 1215,
    "access": "【電車】那須塩原駅or黒磯駅より那須湯本方面のバス　友愛の森下車　友愛の森から無料送迎致します（要予約）",
@@ -254,7 +271,7 @@
    "hotelNo": 31077,
    "name": "グランドメルキュール那須高原リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるなすこうげんりぞーとあんどすぱ",
-   "minCharge": 9342,
+   "minCharge": 8820,
    "reviewAverage": 4.22,
    "reviewCount": 4155,
    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",
@@ -271,7 +288,7 @@
    "hotelNo": 20574,
    "name": "那須温泉　ホテルサンバレー那須",
    "kana": "ほてるさんばれーなす",
-   "minCharge": 12650,
+   "minCharge": 12100,
    "reviewAverage": 4.22,
    "reviewCount": 9210,
    "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183690.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183690/183690.jpg",
    "special": "豊富な湯量と絶景が自慢の宿。美肌成分たっぷりの温泉をお楽しみください。"
-  },
-  {
-   "hotelNo": 17519,
-   "name": "ペーパームーン＜栃木県＞",
-   "kana": "ぺーぱーむーん",
-   "minCharge": 8000,
-   "reviewAverage": 4.17,
-   "reviewCount": 759,
-   "access": "ＪＲ黒磯駅前より那須温泉行き、バス停「一軒茶屋」より徒歩７分／那須ＩＣより一軒茶屋方面へ１５分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本206-537",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D17519",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D17519%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D17519",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/17519.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/17519/17519.jpg",
-   "special": "お楽しみの選べる夕食・全館Ｗｉｆｉ完備、大浴場でお寛ぎ♪"
   }
  ],
- "listedMatchCount": 24
+ "listedMatchCount": 25
 }

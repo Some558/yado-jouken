@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 10285,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.47,
   "pricedCount": 12
  },
@@ -31,7 +31,7 @@
    "hotelNo": 106036,
    "name": "旅館　常磐荘",
    "kana": "ときわそう",
-   "minCharge": 16500,
+   "minCharge": 11000,
    "reviewAverage": 4.75,
    "reviewCount": 83,
    "access": "伊予鉄道市内線道後温泉駅より徒歩約5分 / 松山自動車道川内ICより車で約40分／松山」ICより車で30分",
@@ -82,7 +82,7 @@
    "hotelNo": 176808,
    "name": "道後温泉　ホテル古湧園　遥",
    "kana": "どうごおんせん　こわくえん　はるか",
-   "minCharge": 12870,
+   "minCharge": 11880,
    "reviewAverage": 4.64,
    "reviewCount": 802,
    "access": "道後温泉駅より徒歩にて約５分",

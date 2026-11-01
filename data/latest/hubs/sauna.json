@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "areas": [
   {
    "area": {
@@ -14,9 +14,9 @@
    "slug": "sauna--hakone",
    "matchCount": 40,
    "matchRate": 44.4,
-   "minPrice": 6430,
-   "medianPrice": 18150,
-   "reviewAvgMean": 4.37
+   "minPrice": 6330,
+   "medianPrice": 17600,
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -40,9 +40,9 @@
    "slug": "sauna--atami",
    "matchCount": 34,
    "matchRate": 37.8,
-   "minPrice": 4000,
+   "minPrice": 3000,
    "medianPrice": 12150,
-   "reviewAvgMean": 4.23
+   "reviewAvgMean": 4.24
   },
   {
    "area": {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "sauna--beppu",
-   "matchCount": 28,
-   "matchRate": 31.1,
+   "matchCount": 27,
+   "matchRate": 30.0,
    "minPrice": 2800,
-   "medianPrice": 9040,
-   "reviewAvgMean": 4.35
+   "medianPrice": 8800,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "sauna--yufuin",
-   "matchCount": 11,
-   "matchRate": 12.2,
-   "minPrice": 10400,
-   "medianPrice": 11997,
-   "reviewAvgMean": 4.5
+   "matchCount": 9,
+   "matchRate": 10.0,
+   "minPrice": 9300,
+   "medianPrice": 12700,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 21,
    "matchRate": 29.2,
    "minPrice": 4500,
-   "medianPrice": 9662,
+   "medianPrice": 9295,
    "reviewAvgMean": 4.25
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "sauna--karuizawa",
-   "matchCount": 20,
-   "matchRate": 22.2,
+   "matchCount": 18,
+   "matchRate": 20.0,
    "minPrice": 4200,
-   "medianPrice": 14203,
-   "reviewAvgMean": 4.44
+   "medianPrice": 11480,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "sauna--dogo",
-   "matchCount": 27,
-   "matchRate": 30.0,
+   "matchCount": 29,
+   "matchRate": 32.2,
    "minPrice": 3500,
    "medianPrice": 5800,
-   "reviewAvgMean": 4.28
+   "reviewAvgMean": 4.31
   }
  ]
 }

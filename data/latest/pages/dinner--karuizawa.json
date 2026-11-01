@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -23,17 +23,34 @@
    "value": 280,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
-  "minPrice": 3438,
-  "medianPrice": 10600,
-  "reviewAvgMean": 4.48,
-  "pricedCount": 26
+  "minPrice": 2915,
+  "medianPrice": 11372,
+  "reviewAvgMean": 4.5,
+  "pricedCount": 27
  },
  "hotels": [
+  {
+   "hotelNo": 178384,
+   "name": "Ｖｉｌｌａ　Ｍｅｔｓａ　ＫＡＲＵＩＺＡＷＡ",
+   "kana": "ヴぃらめっさ　かるいざわ",
+   "minCharge": 19000,
+   "reviewAverage": 5.0,
+   "reviewCount": 6,
+   "access": "しなの鉄道　信濃追分駅よりお車にて約１０分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町長倉大日向5595-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D178384",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D178384%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D178384",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/178384.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178384/178384.jpg",
+   "special": "軽井沢の自然の中で非日常を贅沢に愉しむ北欧風ヴィラ"
+  },
   {
    "hotelNo": 187920,
    "name": "ふふ　軽井沢　ー陽光の風ー",
    "kana": "ふふ かるいざわ ようこうのかぜ",
-   "minCharge": 47050,
+   "minCharge": 43200,
    "reviewAverage": 4.89,
    "reviewCount": 60,
    "access": "軽井沢駅よりお車で約10分",
@@ -67,7 +84,7 @@
    "hotelNo": 28308,
    "name": "万平ホテル",
    "kana": "まんぺいほてる",
-   "minCharge": 24035,
+   "minCharge": 22348,
    "reviewAverage": 4.73,
    "reviewCount": 536,
    "access": "JR北陸新幹線軽井沢駅よりタクシーで約5分／上信越道碓氷軽井沢ICより車で約20分",
@@ -169,7 +186,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 14203,
+   "minCharge": 12861,
    "reviewAverage": 4.62,
    "reviewCount": 448,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -251,27 +268,10 @@
    "special": "食事評価★4.8　緑あふれる自然に包まれた一軒宿・ペットと泊まれるホテル【全室レストランもペット可】"
   },
   {
-   "hotelNo": 135384,
-   "name": "リフレッシュエッセンシャルリゾートIN軽井沢",
-   "kana": "りふれっしゅえっせんしゃるりぞーといんかるいざわ",
-   "minCharge": 8075,
-   "reviewAverage": 4.5,
-   "reviewCount": 136,
-   "access": "軽井沢駅からお車で２０分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町追分94-25",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D135384",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D135384%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D135384",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/135384.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/135384/135384.jpg",
-   "special": "全室ペットと宿泊OK！軽井沢でペットとの絆が深まる休日♪愛犬も私もリラックスできる宿。"
-  },
-  {
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 19142,
+   "minCharge": 16886,
    "reviewAverage": 4.47,
    "reviewCount": 192,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",
@@ -288,7 +288,7 @@
    "hotelNo": 162641,
    "name": "トレーラーハウスホテル・ジェニー",
    "kana": "とれーらーはうすほてる・じぇにー",
-   "minCharge": 3438,
+   "minCharge": 2915,
    "reviewAverage": 4.46,
    "reviewCount": 85,
    "access": "しなの鉄道　御代田駅よりお車にて約5分　事前予約7日前まで送迎可",
@@ -370,5 +370,5 @@
    "special": "四季を通じ多彩なスタイルで親子三代が楽しめる一大リゾートエリア"
   }
  ],
- "listedMatchCount": 26
+ "listedMatchCount": 27
 }

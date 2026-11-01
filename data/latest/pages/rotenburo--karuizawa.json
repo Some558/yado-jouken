@@ -9,13 +9,13 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 21,
-  "matchRate": 23.3,
+  "matchCount": 20,
+  "matchRate": 22.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
@@ -116,7 +116,7 @@
    "hotelNo": 67270,
    "name": "軽井沢浅間プリンスホテル",
    "kana": "かるいざわあさまぷりんすほてる",
-   "minCharge": 14203,
+   "minCharge": 12861,
    "reviewAverage": 4.62,
    "reviewCount": 448,
    "access": "上信越道　碓氷軽井沢Ｉ.Ｃ.から5ｋｍ（約6分）/ＪＲ軽井沢駅より7km.車にて約12分・（シャトルバスあり）",
@@ -184,7 +184,7 @@
    "hotelNo": 74000,
    "name": "ホテルハーヴェスト旧軽井沢",
    "kana": "はーヴぇすときゅうかるいざわ",
-   "minCharge": 21400,
+   "minCharge": 17700,
    "reviewAverage": 4.5,
    "reviewCount": 1212,
    "access": "軽井沢駅より徒歩11分",
@@ -201,7 +201,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 18767,
+   "minCharge": 18167,
    "reviewAverage": 4.48,
    "reviewCount": 370,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -218,7 +218,7 @@
    "hotelNo": 153419,
    "name": "軽井沢マリオットホテル",
    "kana": "かるいざわまりおっとほてる",
-   "minCharge": 19142,
+   "minCharge": 16886,
    "reviewAverage": 4.47,
    "reviewCount": 192,
    "access": "JR軽井沢駅よりタクシーで約15分。しなの鉄道中軽井沢駅よりタクシーで約５分。",
@@ -230,23 +230,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/153419.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/153419/153419.jpg",
    "special": "世界中で愛されるマリオットのサービスで、快適な軽井沢の滞在を提供いたします。"
-  },
-  {
-   "hotelNo": 20144,
-   "name": "湯の丸高原ホテル",
-   "kana": "ゆのまるこうげんほてる",
-   "minCharge": null,
-   "reviewAverage": 4.4,
-   "reviewCount": 49,
-   "access": "長野新幹線・佐久平駅／上信越自動車道・東部湯の丸ＩＣより２０分",
-   "address1": "長野県",
-   "address2": "東御市新張湯の丸",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D20144",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D20144%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D20144",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/20144.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/20144/20144.jpg",
-   "special": "★標高1750mの大自然の中にあるホテル★"
   },
   {
    "hotelNo": 177441,
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/4792.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/4792/4792.jpg",
    "special": "楽天トラベル ブロンズアワード2025受賞☆24時迄入れる7種類のお風呂＆2種類のサウナ無料"
+  },
+  {
+   "hotelNo": 182619,
+   "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
+   "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
+   "minCharge": 5100,
+   "reviewAverage": 3.92,
+   "reviewCount": 803,
+   "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",
+   "address1": "長野県",
+   "address2": "佐久市中込3150-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D182619",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D182619%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D182619",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182619.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182619/182619.jpg",
+   "special": "☆8種類の浴槽と2種類のサウナが自慢の天然温泉☆信州佐久平の中心地☆駐車場200台完備（大型OK）"
   }
  ],
- "listedMatchCount": 21
+ "listedMatchCount": 20
 }

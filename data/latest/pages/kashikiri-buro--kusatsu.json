@@ -9,29 +9,29 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 39,
-  "matchRate": 43.3,
+  "matchCount": 38,
+  "matchRate": 42.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5000,
-  "medianPrice": 12350,
-  "reviewAvgMean": 4.43,
-  "pricedCount": 39
+  "minPrice": 4390,
+  "medianPrice": 12100,
+  "reviewAvgMean": 4.42,
+  "pricedCount": 38
  },
  "hotels": [
   {
    "hotelNo": 188147,
    "name": "民宿　ひょうたん",
    "kana": "　ひょうたん",
-   "minCharge": 12700,
+   "minCharge": 19700,
    "reviewAverage": 4.87,
    "reviewCount": 31,
    "access": "草津温泉バスターミナルから徒歩約７分",
@@ -65,7 +65,7 @@
    "hotelNo": 162719,
    "name": "尻焼温泉　星ヶ岡山荘",
    "kana": "ほしがおかさんそう",
-   "minCharge": 20300,
+   "minCharge": 19900,
    "reviewAverage": 4.83,
    "reviewCount": 226,
    "access": "【車】関越自動車道 渋川伊香保ICより90分【公共交通】吾妻線長野原草津口よりバスにて30分花敷温泉バス停",
@@ -269,7 +269,7 @@
    "hotelNo": 44931,
    "name": "草津温泉ほしかわ（旧：草津温泉　和風ペンション　ほしかわ）",
    "kana": "くさつおんせんほしかわ",
-   "minCharge": 11000,
+   "minCharge": 10000,
    "reviewAverage": 4.53,
    "reviewCount": 27,
    "access": "ＪＲ吾妻線　長野原草津口からＪＲバスで２５分「草津温泉」",
@@ -286,7 +286,7 @@
    "hotelNo": 5878,
    "name": "草津温泉　昔心の宿　金みどり",
    "kana": "くさつおんせん　しゃくしんのやど　かねみどり",
-   "minCharge": 13200,
+   "minCharge": 12100,
    "reviewAverage": 4.52,
    "reviewCount": 872,
    "access": "ＪＲ吾妻線長野原草津口駅よりバスにて２５分後、草津温泉バスターミナルから徒歩５分。　関越道渋川伊香保ＩＣより８５分",
@@ -303,7 +303,7 @@
    "hotelNo": 7052,
    "name": "草津温泉　旅館たむら",
    "kana": "くさつおんせん　りょかんたむら",
-   "minCharge": 21500,
+   "minCharge": 18500,
    "reviewAverage": 4.52,
    "reviewCount": 182,
    "access": "ＪＲ長野原草津口駅よりバスで２５分。渋川ＩＣより車で９０分。",
@@ -354,7 +354,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 18800,
+   "minCharge": 17800,
    "reviewAverage": 4.43,
    "reviewCount": 3409,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -368,5 +368,5 @@
    "special": "自然豊かな森に囲まれたリゾートホテル。草津の名湯と高原ならではのアクティビティが一度に満喫できる。"
   }
  ],
- "listedMatchCount": 39
+ "listedMatchCount": 38
 }

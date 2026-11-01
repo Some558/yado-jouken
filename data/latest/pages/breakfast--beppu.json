@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,9 +24,9 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 9160,
-  "reviewAvgMean": 4.38,
-  "pricedCount": 36
+  "medianPrice": 8500,
+  "reviewAvgMean": 4.37,
+  "pricedCount": 35
  },
  "hotels": [
   {
@@ -45,23 +45,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/78242.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78242/78242.jpg",
    "special": "青い海、青い空。美味しいお食事、多彩なお部屋。あなただけの旅スタイル、きっと、見つかる。"
-  },
-  {
-   "hotelNo": 184378,
-   "name": "グランヴェルデリゾート",
-   "kana": "ぐらんヴぇるでりぞーと",
-   "minCharge": 13400,
-   "reviewAverage": 4.67,
-   "reviewCount": 20,
-   "access": "由布岳スマートICよりお車にて約5分、JR由布院駅よりお車にて約15分",
-   "address1": "大分県",
-   "address2": "別府市天間字松塚2-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184378",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184378%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184378",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184378.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184378/184378.jpg",
-   "special": "まるで天と地の間の別世界。 大自然に浸るかつてないプライベートグランピングへようこそ"
   },
   {
    "hotelNo": 84758,
@@ -152,7 +135,7 @@
    "hotelNo": 172768,
    "name": "灯りの宿　燈月",
    "kana": "あかりのやど　とうげつ",
-   "minCharge": 15620,
+   "minCharge": 11550,
    "reviewAverage": 4.59,
    "reviewCount": 964,
    "access": "別府駅より車で２０分",
@@ -186,7 +169,7 @@
    "hotelNo": 12660,
    "name": "別府温泉　ホテル白菊",
    "kana": "べっぷおんせん　しらぎく",
-   "minCharge": 21450,
+   "minCharge": 20350,
    "reviewAverage": 4.55,
    "reviewCount": 1510,
    "access": "JR日豊本線別府駅西口より徒歩7分／別府ICより車で13分／大分空港より車で50分／博多駅より2時間10分（別府駅下車）",
@@ -203,7 +186,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.53,
    "reviewCount": 686,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
@@ -237,7 +220,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 9040,
+   "minCharge": 8000,
    "reviewAverage": 4.52,
    "reviewCount": 836,
    "access": "別府駅東口より徒歩約1分！",
@@ -305,7 +288,7 @@
    "hotelNo": 30691,
    "name": "別府温泉　竹と椿のお宿　花べっぷ",
    "kana": "たけとつばきのおやど　なはべっぷ",
-   "minCharge": 20207,
+   "minCharge": 17787,
    "reviewAverage": 4.47,
    "reviewCount": 1262,
    "access": "ＪＲ別府駅より徒歩６分／高速道路別府ＩＣより５．３ｋｍ",
@@ -322,7 +305,7 @@
    "hotelNo": 183136,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　ＧＡＬＬＥＲＩＡ　ＭＩＤＯＢＡＲＵ",
    "kana": "せきや　りぞーと　がれりあ　みどうばる",
-   "minCharge": 22983,
+   "minCharge": 22250,
    "reviewAverage": 4.45,
    "reviewCount": 141,
    "access": "別府駅西口（山側）よりタクシーで約15分／別府ICより約3分",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/5120.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5120/5120.jpg",
    "special": "海と朝日眺めて露天風呂♪料理自慢の温泉宿☆全館無料ＷｉＦｉ【源泉掛け流し温泉「美肌の湯」】♪駐車無料"
+  },
+  {
+   "hotelNo": 167075,
+   "name": "コスタ・デル・ソル　ひじ",
+   "kana": "こすた　でる　そる　ひじ",
+   "minCharge": 6000,
+   "reviewAverage": 4.36,
+   "reviewCount": 192,
+   "access": "◯日出ICより車で約25分　◯別府駅から日出駅までJRで340円　◯日出駅から当館までタクシーで約1500円",
+   "address1": "大分県",
+   "address2": "速見郡日出町川崎4144-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167075",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167075%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167075",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167075.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167075/167075.jpg",
+   "special": "別府湾を一望できる南国風リゾート施設。全室オーシャンビューコテージで＆源泉かけ流し温泉内湯を満喫！"
   }
  ],
- "listedMatchCount": 36
+ "listedMatchCount": 35
 }

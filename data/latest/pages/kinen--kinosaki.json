@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -25,27 +25,10 @@
   },
   "minPrice": 3000,
   "medianPrice": 14100,
-  "reviewAvgMean": 4.43,
-  "pricedCount": 31
+  "reviewAvgMean": 4.41,
+  "pricedCount": 29
  },
  "hotels": [
-  {
-   "hotelNo": 8021,
-   "name": "ペンション　スノーランド",
-   "kana": "ペンション　すのーらんど",
-   "minCharge": 9900,
-   "reviewAverage": 5.0,
-   "reviewCount": 42,
-   "access": "中国自動車道吉川ＩＣ・若狭自動車道春日ＩＣ、近畿豊岡自動車道日高神鍋高原ＩＣより車で20分。",
-   "address1": "兵庫県",
-   "address2": "豊岡市日高町山田113-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D8021",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D8021%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8021",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8021.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8021/8021.jpg",
-   "special": "星降る神鍋高原☆澄んだ空気と新鮮な自家米&野菜が自慢！ママシェフ特製フルコースが美味しいペンション♪"
-  },
   {
    "hotelNo": 50907,
    "name": "ファームハウス　のの花",
@@ -98,21 +81,21 @@
    "special": "城崎１５分全室オーシャンビュー♪美と健康の女子力ＵＰの宿★時を気にしない贅沢なひと時★カニ＆但馬牛"
   },
   {
-   "hotelNo": 16082,
-   "name": "日和山海岸・気比の浜　海辺の宿　みはら荘",
-   "kana": "ひよりやまかいがん　けいのはま　うみべのやど　みはらそう",
-   "minCharge": 25400,
-   "reviewAverage": 4.73,
-   "reviewCount": 205,
-   "access": "ＪＲ山陰本線城崎温泉駅よりバスにて１０分／タクシーにて約7分道路事情送迎で駅迎えのできない場合があります。",
+   "hotelNo": 191681,
+   "name": "神鍋高原　煙神キャンプヴィレッジ",
+   "kana": "かんなべこうげん　えんじんきゃんぷヴぃれっじ",
+   "minCharge": 5460,
+   "reviewAverage": 4.75,
+   "reviewCount": 17,
+   "access": "ＪＲ山陰線　江原駅からバスで約１５分",
    "address1": "兵庫県",
-   "address2": "豊岡市気比3880-10",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D16082",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D16082%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16082",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16082.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16082/16082.jpg",
-   "special": "城崎温泉駅から無料送迎・気比の浜徒歩2分♪WiFi無料！女性柄浴衣あり。"
+   "address2": "豊岡市日高町栗栖野60-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D191681",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D191681%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D191681",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/191681.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/191681/191681.jpg",
+   "special": "燻製工房が手掛ける手ぶらキャンプ場"
   },
   {
    "hotelNo": 7597,
@@ -135,7 +118,7 @@
    "hotelNo": 70709,
    "name": "城崎　円山川温泉　銀花（共立リゾート）",
    "kana": "きのさき　まるやまがわおんせん　ぎんか",
-   "minCharge": 16500,
+   "minCharge": 14300,
    "reviewAverage": 4.69,
    "reviewCount": 466,
    "access": "JR城崎温泉駅より車10分（14：15～21：45まで送迎有。※予約制）。北近畿豊岡道【豊岡・出石IC】より約30分",
@@ -152,7 +135,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 32900,
+   "minCharge": 36900,
    "reviewAverage": 4.69,
    "reviewCount": 790,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",
@@ -183,27 +166,10 @@
    "special": "★2026年6月新規OPEN★客室専用の天然温泉を存分に堪能、日常を離れた贅沢なプライベート空間"
   },
   {
-   "hotelNo": 31103,
-   "name": "「山の季」きゃら",
-   "kana": "「やまのき」きゃら",
-   "minCharge": 13200,
-   "reviewAverage": 4.67,
-   "reviewCount": 49,
-   "access": "北近畿豊岡道「但馬空港IC」～R178経由で竹野方面へ～森本交差点を左～R1神鍋高原方面へ１０分　カーナビ等信用NG",
-   "address1": "兵庫県",
-   "address2": "豊岡市竹野町椒1883",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D31103",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D31103%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D31103",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/31103.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/31103/31103.jpg",
-   "special": "全館禁煙。たった５室の小さな山里のお宿。大自然のなかでゆっくりと落ち着いた時間をお過ごし下さい。"
-  },
-  {
    "hotelNo": 165044,
    "name": "城崎温泉　花小路　彩月",
    "kana": "きのさきおんせん　はなこうじ　さいげつ",
-   "minCharge": 18700,
+   "minCharge": 19800,
    "reviewAverage": 4.67,
    "reviewCount": 235,
    "access": "ＪＲ　城崎温泉駅より徒歩にて約３分",
@@ -339,7 +305,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 8990,
+   "minCharge": 7590,
    "reviewAverage": 4.4,
    "reviewCount": 446,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",
@@ -368,7 +334,41 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8468.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8468/8468.jpg",
    "special": "天体観測、アウトドア体験が楽しめるホテル"
+  },
+  {
+   "hotelNo": 7835,
+   "name": "城崎温泉　美術と歴史の宿　つたや旅館",
+   "kana": "きのさきおんせん　びじゅつとれきしのやど　つたやりょかん",
+   "minCharge": 9800,
+   "reviewAverage": 4.32,
+   "reviewCount": 152,
+   "access": "JR城崎温泉駅より送迎バス５分　または　豊岡自動車　豊岡出石I.Cよりお車で30分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島485",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D7835",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D7835%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7835",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7835.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7835/7835.jpg",
+   "special": "幕末の維新志士桂小五郎が潜居していた、城崎温泉の情緒に溶け込んだ宿"
+  },
+  {
+   "hotelNo": 38674,
+   "name": "城崎温泉　四季香る宿　いちだや",
+   "kana": "きのさきおんせん　いちだや",
+   "minCharge": 22000,
+   "reviewAverage": 4.32,
+   "reviewCount": 65,
+   "access": "ＪＲ　城崎温泉駅から徒歩6分",
+   "address1": "兵庫県",
+   "address2": "豊岡市城崎町湯島810",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D38674",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D38674%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38674",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38674.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38674/38674.jpg",
+   "special": "城崎の川沿いに佇むこだわりの宿。季節の料理と無料貸切風呂が自慢です。"
   }
  ],
- "listedMatchCount": 31
+ "listedMatchCount": 29
 }

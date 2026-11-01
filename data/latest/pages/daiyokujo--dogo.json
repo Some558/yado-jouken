@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,9 +24,9 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 5800,
-  "reviewAvgMean": 4.3,
-  "pricedCount": 19
+  "medianPrice": 5787,
+  "reviewAvgMean": 4.31,
+  "pricedCount": 20
  },
  "hotels": [
   {
@@ -67,7 +67,7 @@
    "hotelNo": 13653,
    "name": "道後温泉　ホテル椿館",
    "kana": "どうごおんせん　つばきかん",
-   "minCharge": 11000,
+   "minCharge": 9900,
    "reviewAverage": 4.53,
    "reviewCount": 2253,
    "access": "JR松山駅より伊予鉄道にて道後温泉駅下車 / 松山自動車道 松山ICより３０分",
@@ -183,10 +183,27 @@
    "special": "地下２０００ｍから湧き出る天然温泉〜野天風呂は西日本最大級！"
   },
   {
+   "hotelNo": 19527,
+   "name": "花の森ホテル",
+   "kana": "はなのもり　ほてる",
+   "minCharge": 5720,
+   "reviewAverage": 4.4,
+   "reviewCount": 370,
+   "access": "松山市より国道56号線を車で約50分、松山自動車道中山スマートICより車で約10分／JR伊予中山駅より徒歩で約40分",
+   "address1": "愛媛県",
+   "address2": "伊予市中山町中山11-405-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D19527",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D19527%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D19527",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/19527.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19527/19527.jpg",
+   "special": "大自然の中で過ごす、寛ぎの空間"
+  },
+  {
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7627,
+   "minCharge": 6500,
    "reviewAverage": 4.36,
    "reviewCount": 1529,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -305,7 +322,7 @@
    "hotelNo": 15420,
    "name": "ホテル泰平　松山城下の天然温泉「橄欖の湯」―奥道後温泉引き湯―",
    "kana": "ほてるたいへい　まつやまじょうかのてんねんおんせん「かんらんのゆ」",
-   "minCharge": 5000,
+   "minCharge": 4700,
    "reviewAverage": 3.92,
    "reviewCount": 3561,
    "access": "ＪＲ松山駅より市内電車で約２０分（車で約５分）",
@@ -353,5 +370,5 @@
    "special": "道後温泉の高台から松山城下の夜景が一望できる露天風呂が自慢の温泉宿"
   }
  ],
- "listedMatchCount": 19
+ "listedMatchCount": 20
 }

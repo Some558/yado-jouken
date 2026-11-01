@@ -9,22 +9,22 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 26,
-  "matchRate": 28.9,
+  "matchCount": 25,
+  "matchRate": 27.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3280,
-  "medianPrice": 9725,
-  "reviewAvgMean": 4.37,
-  "pricedCount": 26
+  "medianPrice": 9000,
+  "reviewAvgMean": 4.4,
+  "pricedCount": 25
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "展望大浴場から那須高原が一望できる宿。大正ロマンの館内で安らぎのひとときをお過ごしください。"
   }
  ],
- "listedMatchCount": 26
+ "listedMatchCount": 25
 }

@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "pet-ok--hakone",
-   "matchCount": 15,
-   "matchRate": 16.7,
+   "matchCount": 17,
+   "matchRate": 18.9,
    "minPrice": 5440,
-   "medianPrice": 11900,
-   "reviewAvgMean": 4.23
+   "medianPrice": 12000,
+   "reviewAvgMean": 4.25
   },
   {
    "area": {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "pet-ok--beppu",
-   "matchCount": 5,
-   "matchRate": 5.6,
+   "matchCount": 4,
+   "matchRate": 4.4,
    "minPrice": 1500,
-   "medianPrice": 7700,
-   "reviewAvgMean": 4.17
+   "medianPrice": 7050,
+   "reviewAvgMean": 4.05
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "pet-ok--yufuin",
-   "matchCount": 10,
-   "matchRate": 11.1,
-   "minPrice": 10400,
-   "medianPrice": 19550,
-   "reviewAvgMean": 4.55
+   "matchCount": 9,
+   "matchRate": 10.0,
+   "minPrice": 10710,
+   "medianPrice": 20900,
+   "reviewAvgMean": 4.53
   },
   {
    "area": {
@@ -103,11 +103,11 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "pet-ok--nasu",
-   "matchCount": 26,
-   "matchRate": 28.9,
+   "matchCount": 25,
+   "matchRate": 27.8,
    "minPrice": 3280,
-   "medianPrice": 9725,
-   "reviewAvgMean": 4.37
+   "medianPrice": 9000,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "pet-ok--karuizawa",
-   "matchCount": 18,
-   "matchRate": 20.0,
-   "minPrice": 3438,
-   "medianPrice": 9855,
-   "reviewAvgMean": 4.54
+   "matchCount": 16,
+   "matchRate": 17.8,
+   "minPrice": 2915,
+   "medianPrice": 9800,
+   "reviewAvgMean": 4.51
   },
   {
    "area": {

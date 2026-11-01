@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "areas": [
   {
    "area": {
@@ -15,8 +15,8 @@
    "matchCount": 66,
    "matchRate": 18.0,
    "minPrice": 5440,
-   "medianPrice": 19855,
-   "reviewAvgMean": 4.38
+   "medianPrice": 18700,
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -27,9 +27,9 @@
    "slug": "dinner--kusatsu",
    "matchCount": 24,
    "matchRate": 15.3,
-   "minPrice": 7300,
-   "medianPrice": 14500,
-   "reviewAvgMean": 4.35
+   "minPrice": 4390,
+   "medianPrice": 13980,
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -41,7 +41,7 @@
    "matchCount": 56,
    "matchRate": 20.0,
    "minPrice": 4600,
-   "medianPrice": 12020,
+   "medianPrice": 12075,
    "reviewAvgMean": 4.27
   },
   {
@@ -54,8 +54,8 @@
    "matchCount": 38,
    "matchRate": 14.7,
    "minPrice": 3600,
-   "medianPrice": 9900,
-   "reviewAvgMean": 4.39
+   "medianPrice": 9350,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -66,9 +66,9 @@
    "slug": "dinner--yufuin",
    "matchCount": 37,
    "matchRate": 11.6,
-   "minPrice": 10400,
-   "medianPrice": 20900,
-   "reviewAvgMean": 4.42
+   "minPrice": 10710,
+   "medianPrice": 20035,
+   "reviewAvgMean": 4.39
   },
   {
    "area": {
@@ -80,7 +80,7 @@
    "matchCount": 47,
    "matchRate": 29.9,
    "minPrice": 3900,
-   "medianPrice": 15155,
+   "medianPrice": 14900,
    "reviewAvgMean": 4.48
   },
   {
@@ -106,8 +106,8 @@
    "matchCount": 79,
    "matchRate": 22.4,
    "minPrice": 2650,
-   "medianPrice": 9621,
-   "reviewAvgMean": 4.37
+   "medianPrice": 8820,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -118,9 +118,9 @@
    "slug": "dinner--karuizawa",
    "matchCount": 36,
    "matchRate": 12.9,
-   "minPrice": 3438,
-   "medianPrice": 10600,
-   "reviewAvgMean": 4.48
+   "minPrice": 2915,
+   "medianPrice": 11372,
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -132,8 +132,8 @@
    "matchCount": 20,
    "matchRate": 11.0,
    "minPrice": 2900,
-   "medianPrice": 11281,
-   "reviewAvgMean": 4.3
+   "medianPrice": 10700,
+   "reviewAvgMean": 4.32
   }
  ]
 }

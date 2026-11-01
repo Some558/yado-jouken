@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -23,12 +23,29 @@
    "value": 280,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 2780,
-  "medianPrice": 12390,
-  "reviewAvgMean": 4.27,
-  "pricedCount": 53
+  "minPrice": 4600,
+  "medianPrice": 12100,
+  "reviewAvgMean": 4.29,
+  "pricedCount": 51
  },
  "hotels": [
+  {
+   "hotelNo": 198716,
+   "name": "珀－ＨａＫｕ－熱海来宮　〜夜を愉しむ湯宿〜",
+   "kana": "はくあたみきのみや　よるをたのしむゆやど",
+   "minCharge": 11600,
+   "reviewAverage": 4.86,
+   "reviewCount": 7,
+   "access": "来宮駅より700m  ■徒歩15分上り坂　■タクシー3分の為タクシー推奨",
+   "address1": "静岡県",
+   "address2": "熱海市西山町35-5",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198716",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198716%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198716",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198716.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198716/198716.jpg",
+   "special": "源泉かけ流し貸切風呂２箇所、露天風呂付客室、アルコール飲み放題、カラオケ、サウナ、ゲームコーナーあり"
+  },
   {
    "hotelNo": 38893,
    "name": "伊豆山温泉　ホテルニューさがみや",
@@ -79,23 +96,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/197709.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/197709/197709.jpg",
    "special": "2025年11月、熱海に新章。“美味眺望”の渚館。九階の展望湯と海景会席で、海と心がほどける至福を。"
-  },
-  {
-   "hotelNo": 142952,
-   "name": "ホテルグランバッハ熱海クレッシェンド",
-   "kana": "ほてるぐらんばっはあたみくれっしぇんど",
-   "minCharge": 57600,
-   "reviewAverage": 4.68,
-   "reviewCount": 80,
-   "access": "ＪＲ熱海駅よりお車にて約１５分  タクシーで１,５００円程度　　　改装　：2024年8月1日リニューアルOPEN",
-   "address1": "静岡県",
-   "address2": "熱海市伊豆山1048-4",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D142952",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D142952%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D142952",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/142952.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/142952/142952.jpg",
-   "special": "温泉付客室からは相模湾と熱海の街並みを見下ろす絶景。 旬の食材を使用した四季折々のお料理を心ゆくまで"
   },
   {
    "hotelNo": 147152,
@@ -370,5 +370,5 @@
    "special": "■全館禁煙（喫煙所あり）■　熱海の老舗旅館で心休まる寛ぎの時間をごゆっくりお過ごしください。"
   }
  ],
- "listedMatchCount": 53
+ "listedMatchCount": 51
 }

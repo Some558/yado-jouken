@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 23,
-  "matchRate": 25.6,
+  "matchCount": 24,
+  "matchRate": 26.7,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5440,
-  "medianPrice": 20760,
-  "reviewAvgMean": 4.43,
-  "pricedCount": 23
+  "medianPrice": 19590,
+  "reviewAvgMean": 4.42,
+  "pricedCount": 24
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 34100,
+   "minCharge": 33000,
    "reviewAverage": 4.78,
    "reviewCount": 918,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -113,21 +113,21 @@
    "special": "櫻休庵の別邸凛を2021年全客室改装オープン！全５室露天風呂付き客室。お食事は個室又はお部屋で"
   },
   {
-   "hotelNo": 130716,
-   "name": "箱根湯本温泉　喜仙荘",
-   "kana": "はこねゆもとおんせん　きせんそう",
-   "minCharge": 12650,
-   "reviewAverage": 4.56,
-   "reviewCount": 295,
-   "access": "【駅チカ】箱根湯本駅より徒歩にて8分、新宿からロマンスカーで80分◎バスに乗るのも電車に乗るのも便利です◎",
+   "hotelNo": 137346,
+   "name": "箱根七瀬（旧真奈邸箱根）",
+   "kana": "はこねななせ",
+   "minCharge": 18420,
+   "reviewAverage": 4.47,
+   "reviewCount": 316,
+   "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
    "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本509",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D130716",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D130716%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D130716",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130716.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130716/130716.jpg",
-   "special": "家族でも広々【貸切露天風呂♪】で箱根湯本温泉★満喫！"
+   "address2": "足柄下郡箱根町宮ノ下469-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137346",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137346%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137346",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137346.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137346/137346.jpg",
+   "special": "3種の源泉貸切風呂【無料】と、季節の食材を使った和食会席料理が人気！非日常を楽しめる隠れ宿！"
   },
   {
    "hotelNo": 31681,
@@ -147,23 +147,6 @@
    "special": "日本庭園露天と貸切温泉を満喫。季節替りの和食膳はお部屋食で。2018年より全室禁煙。"
   },
   {
-   "hotelNo": 137346,
-   "name": "箱根七瀬（旧真奈邸箱根）",
-   "kana": "はこねななせ",
-   "minCharge": 27200,
-   "reviewAverage": 4.47,
-   "reviewCount": 316,
-   "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町宮ノ下469-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137346",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137346%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137346",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137346.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137346/137346.jpg",
-   "special": "3種の源泉貸切風呂【無料】と、季節の食材を使った和食会席料理が人気！非日常を楽しめる隠れ宿！"
-  },
-  {
    "hotelNo": 29488,
    "name": "箱根温泉　鶴井の宿　紫雲荘",
    "kana": "はこねおんせん　かくいのやど　しうんそう",
@@ -179,6 +162,23 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29488.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29488/29488.jpg",
    "special": "渓流沿い×部屋食×露付客室｜おこもりステイの叶う宿★ベビーフレンドリー三世代旅行人気宿"
+  },
+  {
+   "hotelNo": 137410,
+   "name": "仙石原温泉　きたの風茶寮",
+   "kana": "せんごくばらおんせん　きたのかぜさりょう",
+   "minCharge": 57000,
+   "reviewAverage": 4.46,
+   "reviewCount": 106,
+   "access": "箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「仙郷楼前」徒歩1分。駐車場13台無料",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町仙石原934-29",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137410",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137410%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137410",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137410.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137410/137410.jpg",
+   "special": "北海道より箱根に吹き込む和のオーベルジュ。北海道と箱根の食材が織成す和会席を心行くまでご堪能下さい。"
   },
   {
    "hotelNo": 149477,
@@ -218,7 +218,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 19910,
+   "minCharge": 17600,
    "reviewAverage": 4.41,
    "reviewCount": 544,
    "access": "箱根湯本駅から徒歩で７分",
@@ -235,7 +235,7 @@
    "hotelNo": 31207,
    "name": "仙石原温泉　箱根高原ホテル",
    "kana": "はこねこうげんほてる",
-   "minCharge": 9900,
+   "minCharge": 8525,
    "reviewAverage": 4.38,
    "reviewCount": 889,
    "access": "JR東海道線小田原駅よりバスで５０分・小田急線箱根湯本駅よりバスで３０分・新宿より高速バスで白百合バス停まで直通１３０分",
@@ -269,7 +269,7 @@
    "hotelNo": 184829,
    "name": "箱根ホテル小涌園（藤田観光リゾート）",
    "kana": "はこねほてるこわきえん（ふじたかんこうりぞーと）",
-   "minCharge": 21450,
+   "minCharge": 17160,
    "reviewAverage": 4.37,
    "reviewCount": 741,
    "access": "「小涌園」バス停徒歩すぐ／箱根登山鉄道「強羅」からシャトルバス有",
@@ -286,7 +286,7 @@
    "hotelNo": 13791,
    "name": "箱根湯本温泉　あうら橘",
    "kana": "はこねゆもとおんせん　あうらたちばな",
-   "minCharge": 34800,
+   "minCharge": 20970,
    "reviewAverage": 4.37,
    "reviewCount": 1831,
    "access": "小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由",
@@ -320,7 +320,7 @@
    "hotelNo": 9669,
    "name": "箱根湯本温泉　箱根パークス吉野",
    "kana": "はこねゆもとおんせん　はこねぱーくすよしの",
-   "minCharge": 11770,
+   "minCharge": 9092,
    "reviewAverage": 4.28,
    "reviewCount": 1552,
    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",
@@ -337,7 +337,7 @@
    "hotelNo": 84721,
    "name": "箱根湯本温泉　天成園",
    "kana": "はこねゆもとおんせん　てんせいえん",
-   "minCharge": 12947,
+   "minCharge": 10769,
    "reviewAverage": 4.26,
    "reviewCount": 4777,
    "access": "箱根湯本駅から徒歩で15分。または旅館協同組合の送迎バス（有料200円）Aコース『滝通り行き』にて5分。",
@@ -368,5 +368,5 @@
    "special": "楽天シルバーアワード＆日本の宿2024受賞★お食事好評価♪全10室の強羅のにごり湯宿を満喫！"
   }
  ],
- "listedMatchCount": 23
+ "listedMatchCount": 24
 }

@@ -9,22 +9,22 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 10,
-  "matchRate": 11.1,
+  "matchCount": 9,
+  "matchRate": 10.0,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 10400,
-  "medianPrice": 19550,
-  "reviewAvgMean": 4.55,
-  "pricedCount": 10
+  "minPrice": 10710,
+  "medianPrice": 20900,
+  "reviewAvgMean": 4.53,
+  "pricedCount": 9
  },
  "hotels": [
   {
@@ -59,24 +59,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D144993",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/144993.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144993/144993.jpg",
-   "special": "2022アワード受賞。福岡市内・銀座に生け簀料理店と会員制寿司店を構える鷹勝の「和風旅館」。"
-  },
-  {
-   "hotelNo": 187187,
-   "name": "由布院グランピング　天の庭",
-   "kana": "ゆふいんぐらんぴんぐ　てんのにわ",
-   "minCharge": 10400,
-   "reviewAverage": 4.67,
-   "reviewCount": 22,
-   "access": "湯布院ＩＣよりお車にて約１０分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上186-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187187",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187187%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187187",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187187.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187187/187187.jpg",
-   "special": "幼児無料！3組限定の広々グランピングでお肉自慢のバーベキューとプライベートサウナをお楽しみください"
+   "special": "秘湯・秘境＜湯平温泉＞福岡市内・銀座に生け簀料理店と会員制寿司店を構える鷹勝の「和風旅館」。"
   },
   {
    "hotelNo": 28502,
@@ -198,5 +181,5 @@
    "special": "らんぷの宿は築１７５年の茅葺屋根が特徴の和モダンな宿"
   }
  ],
- "listedMatchCount": 10
+ "listedMatchCount": 9
 }

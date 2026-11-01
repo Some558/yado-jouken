@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-01",
+ "dataAsOf": "2026-11-02",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -23,7 +23,7 @@
    "value": 72,
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
-  "minPrice": 3900,
+  "minPrice": 3600,
   "medianPrice": 10000,
   "reviewAvgMean": 4.11,
   "pricedCount": 11
@@ -67,7 +67,7 @@
    "hotelNo": 197407,
    "name": "ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　渋川",
    "kana": "ほてる あーるないん ざ やーど しぶかわ",
-   "minCharge": 3900,
+   "minCharge": 3600,
    "reviewAverage": 4.39,
    "reviewCount": 156,
    "access": "【電車】渋川駅より徒歩10分、タクシーで4分。【お車】渋川伊香保ICより車で5分。",
