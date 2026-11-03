@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5980,
-  "medianPrice": 11812,
+  "medianPrice": 11900,
   "reviewAvgMean": 4.39,
   "pricedCount": 22
  },
@@ -65,7 +65,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 12075,
+   "minCharge": 12995,
    "reviewAverage": 4.66,
    "reviewCount": 379,
    "access": "那須塩原駅／新白河駅からお車で約３０分",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5440,
-  "medianPrice": 19590,
+  "minPrice": 6400,
+  "medianPrice": 19330,
   "reviewAvgMean": 4.42,
   "pricedCount": 24
  },
@@ -99,7 +99,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 17400,
+   "minCharge": 21800,
    "reviewAverage": 4.61,
    "reviewCount": 70,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -150,7 +150,7 @@
    "hotelNo": 29488,
    "name": "箱根温泉　鶴井の宿　紫雲荘",
    "kana": "はこねおんせん　かくいのやど　しうんそう",
-   "minCharge": 20760,
+   "minCharge": 20240,
    "reviewAverage": 4.46,
    "reviewCount": 1176,
    "access": "用賀I.C.より車で約1時間。箱根湯本駅より徒歩15分（箱根湯本駅より路線バスにて５分「上塔ノ沢下車」）",
@@ -286,7 +286,7 @@
    "hotelNo": 13791,
    "name": "箱根湯本温泉　あうら橘",
    "kana": "はこねゆもとおんせん　あうらたちばな",
-   "minCharge": 20970,
+   "minCharge": 18110,
    "reviewAverage": 4.37,
    "reviewCount": 1831,
    "access": "小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由",

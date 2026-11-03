@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "recordCount": 280,
  "conditions": [
   {
@@ -332,31 +332,6 @@
    ]
   },
   {
-   "hotelNo": 25164,
-   "name": "島崎藤村ゆかりの宿　中棚荘",
-   "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 13700,
-   "reviewAverage": 4.68,
-   "reviewCount": 547,
-   "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
-   "address1": "長野県",
-   "address2": "小諸市乙1210",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25164",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25164%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25164",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25164.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25164/25164.jpg",
-   "special": "文豪・島崎藤村が愛した創業百年の老舗宿。源泉かけ流し天然温泉で自然を感じるひと時を＜軽井沢観光にも＞",
-   "conditions": [
-    "onsen",
-    "daiyokujo",
-    "kinen",
-    "breakfast",
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 136825,
    "name": "軽井沢　ホテル鹿島ノ森（オークラホテルズ＆リゾーツ）",
    "kana": "かじまのもりおーくらほてるずあんどりぞーつ",
@@ -375,6 +350,31 @@
    "conditions": [
     "kinen",
     "breakfast"
+   ]
+  },
+  {
+   "hotelNo": 25164,
+   "name": "島崎藤村ゆかりの宿　中棚荘",
+   "kana": "しまざきとうそんゆかりのやど　なかだなそう",
+   "minCharge": 19000,
+   "reviewAverage": 4.68,
+   "reviewCount": 547,
+   "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
+   "address1": "長野県",
+   "address2": "小諸市乙1210",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D25164",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D25164%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D25164",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/25164.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/25164/25164.jpg",
+   "special": "文豪・島崎藤村が愛した創業百年の老舗宿。源泉かけ流し天然温泉で自然を感じるひと時を＜軽井沢観光にも＞",
+   "conditions": [
+    "onsen",
+    "daiyokujo",
+    "kinen",
+    "breakfast",
+    "rotenburo",
+    "kashikiri-buro"
    ]
   },
   {
@@ -424,7 +424,7 @@
    "hotelNo": 168201,
    "name": "ホテル　ベルリネッタ軽井沢",
    "kana": "べるりねったかるいざわ",
-   "minCharge": 8300,
+   "minCharge": 6800,
    "reviewAverage": 4.65,
    "reviewCount": 357,
    "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 3分・軽井沢タリアセン（塩沢湖）10分",
@@ -467,6 +467,29 @@
    ]
   },
   {
+   "hotelNo": 165025,
+   "name": "レジーナリゾート軽井沢御影用水",
+   "kana": "れじーなりぞーとかるいざわみかげようすい",
+   "minCharge": 15400,
+   "reviewAverage": 4.64,
+   "reviewCount": 162,
+   "access": "御代田駅より送迎車にて約５分※要予約",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町追分49-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165025",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165025%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165025",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165025.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165025/165025.jpg",
+   "special": "【軽井沢の四季をゆっくり堪能】愛犬と過ごす水と森のリゾート♪",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner",
+    "pet-ok"
+   ]
+  },
+  {
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
@@ -489,29 +512,6 @@
     "breakfast",
     "rotenburo",
     "sauna"
-   ]
-  },
-  {
-   "hotelNo": 165025,
-   "name": "レジーナリゾート軽井沢御影用水",
-   "kana": "れじーなりぞーとかるいざわみかげようすい",
-   "minCharge": 16500,
-   "reviewAverage": 4.64,
-   "reviewCount": 162,
-   "access": "御代田駅より送迎車にて約５分※要予約",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町追分49-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D165025",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D165025%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D165025",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/165025.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165025/165025.jpg",
-   "special": "【軽井沢の四季をゆっくり堪能】愛犬と過ごす水と森のリゾート♪",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner",
-    "pet-ok"
    ]
   },
   {
@@ -787,7 +787,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 18167,
+   "minCharge": 17867,
    "reviewAverage": 4.48,
    "reviewCount": 370,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -1192,7 +1192,7 @@
    "hotelNo": 84553,
    "name": "ＤＥＳＩＧＮ　ＨＯＴＥＬ　ＦＯＬＯＮ",
    "kana": "でざいんほてる　ふぉろん",
-   "minCharge": null,
+   "minCharge": 7000,
    "reviewAverage": 4.33,
    "reviewCount": 187,
    "access": "ＪＲ長野新幹線　軽井沢駅より　徒歩１８分、タクシー３分",

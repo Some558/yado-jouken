@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 12650,
+  "medianPrice": 12780,
   "reviewAvgMean": 4.37,
   "pricedCount": 11
  },
@@ -150,7 +150,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 15200,
+   "minCharge": 15500,
    "reviewAverage": 4.29,
    "reviewCount": 3666,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",
@@ -184,7 +184,7 @@
    "hotelNo": 167646,
    "name": "リブマックスリゾート熱海シーフロント",
    "kana": "りぶまっくすりぞーとあたみしーふろんと",
-   "minCharge": 12650,
+   "minCharge": 13500,
    "reviewAverage": 4.02,
    "reviewCount": 528,
    "access": "熱海駅よりバスで約7分／東京駅から熱海駅までこだまで約47分！",

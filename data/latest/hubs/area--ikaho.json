@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "recordCount": 72,
  "conditions": [
   {
@@ -237,7 +237,7 @@
    "hotelNo": 147464,
    "name": "伊香保温泉　千明仁泉亭（ちぎらじんせんてい）",
    "kana": "いかほおんせん　ちぎらじんせんてい",
-   "minCharge": 17600,
+   "minCharge": 16500,
    "reviewAverage": 4.58,
    "reviewCount": 622,
    "access": "伊香保石段街から徒歩1分☆渋川伊香保IC〜車で約２５分♪東京方面からは新宿駅新南口より高速バス約2時間♪",
@@ -865,7 +865,7 @@
    "hotelNo": 68663,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
-   "minCharge": 12600,
+   "minCharge": 13200,
    "reviewAverage": 4.01,
    "reviewCount": 983,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",
@@ -886,7 +886,7 @@
    "hotelNo": 18838,
    "name": "伊香保温泉　吉田屋旅館",
    "kana": "いかほおんせん　よしだやりょかん",
-   "minCharge": 3500,
+   "minCharge": 3670,
    "reviewAverage": 4.0,
    "reviewCount": 239,
    "access": "渋川駅よりバスで約30分／渋川伊香保I.Cより約２0分",

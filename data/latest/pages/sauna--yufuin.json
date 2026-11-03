@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 144993,
    "name": "湯平温泉　癒しの宿　鷹勝",
    "kana": "いやしのやど　たかしょう",
-   "minCharge": 26000,
+   "minCharge": 21000,
    "reviewAverage": 4.82,
    "reviewCount": 691,
    "access": "湯布院ICよりお車で30分＜ＪＲ湯平駅への送迎サービス有り。※5日前までのご予約を＞",
@@ -65,7 +65,7 @@
    "hotelNo": 187963,
    "name": "ＥＮＯＷＡ　ＹＵＦＵＩＮ",
    "kana": "えのわ　ゆふいん",
-   "minCharge": 45834,
+   "minCharge": 50723,
    "reviewAverage": 4.6,
    "reviewCount": 15,
    "access": "由布院駅よりお車にて約5分",
@@ -150,7 +150,7 @@
    "hotelNo": 28141,
    "name": "由布院温泉　ゆふいんホテル秀峰館",
    "kana": "ゆふいんおんせん　ゆふいんほてる　しゅうほうかん",
-   "minCharge": 11395,
+   "minCharge": 10900,
    "reviewAverage": 4.24,
    "reviewCount": 320,
    "access": "■由布院駅～徒歩１２分■湯布院ＩＣより車で１０分",

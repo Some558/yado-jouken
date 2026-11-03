@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -23,7 +23,7 @@
    "value": 319,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
-  "minPrice": 4032,
+  "minPrice": 4896,
   "medianPrice": 20570,
   "reviewAvgMean": 4.42,
   "pricedCount": 25
@@ -84,7 +84,7 @@
    "hotelNo": 144993,
    "name": "湯平温泉　癒しの宿　鷹勝",
    "kana": "いやしのやど　たかしょう",
-   "minCharge": 26000,
+   "minCharge": 21000,
    "reviewAverage": 4.82,
    "reviewCount": 691,
    "access": "湯布院ICよりお車で30分＜ＪＲ湯平駅への送迎サービス有り。※5日前までのご予約を＞",

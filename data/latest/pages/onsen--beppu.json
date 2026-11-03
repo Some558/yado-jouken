@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -84,7 +84,7 @@
    "hotelNo": 136161,
    "name": "癒しの宿　彩葉",
    "kana": "いやしのやど　いろは",
-   "minCharge": 15500,
+   "minCharge": 14750,
    "reviewAverage": 4.64,
    "reviewCount": 313,
    "access": "別府駅よりお車で１５分",
@@ -186,7 +186,7 @@
    "hotelNo": 12660,
    "name": "別府温泉　ホテル白菊",
    "kana": "べっぷおんせん　しらぎく",
-   "minCharge": 20350,
+   "minCharge": 18150,
    "reviewAverage": 4.55,
    "reviewCount": 1510,
    "access": "JR日豊本線別府駅西口より徒歩7分／別府ICより車で13分／大分空港より車で50分／博多駅より2時間10分（別府駅下車）",

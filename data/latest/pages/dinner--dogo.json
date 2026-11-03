@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 10700,
+  "medianPrice": 9900,
   "reviewAvgMean": 4.32,
   "pricedCount": 15
  },
@@ -118,7 +118,7 @@
    "hotelNo": 27716,
    "name": "奥道後　壱湯の守（いちゆのもり）",
    "kana": "おくどうご",
-   "minCharge": 16500,
+   "minCharge": 15000,
    "reviewAverage": 4.42,
    "reviewCount": 2749,
    "access": "ＪＲ松山駅よりお車もしくは伊予鉄バス(奥道後行)で３０分／松山ＩＣから国道３１７号線を通って今治方面に４０分",
@@ -237,7 +237,7 @@
    "hotelNo": 158312,
    "name": "リブマックスリゾート奥道後",
    "kana": "りぶまっくすりぞーとおくどうご",
-   "minCharge": 11862,
+   "minCharge": 14242,
    "reviewAverage": 3.9,
    "reviewCount": 594,
    "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",
@@ -271,7 +271,7 @@
    "hotelNo": 147473,
    "name": "大江戸温泉物語　道後",
    "kana": "おおえどおんせんものがたり　どうご",
-   "minCharge": 10700,
+   "minCharge": 9900,
    "reviewAverage": 3.82,
    "reviewCount": 1103,
    "access": "道後温泉駅からお車にて約３分",

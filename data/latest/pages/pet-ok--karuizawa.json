@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2915,
-  "medianPrice": 9800,
+  "medianPrice": 9575,
   "reviewAvgMean": 4.51,
-  "pricedCount": 15
+  "pricedCount": 16
  },
  "hotels": [
   {
@@ -116,7 +116,7 @@
    "hotelNo": 165025,
    "name": "レジーナリゾート軽井沢御影用水",
    "kana": "れじーなりぞーとかるいざわみかげようすい",
-   "minCharge": 16500,
+   "minCharge": 15400,
    "reviewAverage": 4.64,
    "reviewCount": 162,
    "access": "御代田駅より送迎車にて約５分※要予約",
@@ -252,7 +252,7 @@
    "hotelNo": 84553,
    "name": "ＤＥＳＩＧＮ　ＨＯＴＥＬ　ＦＯＬＯＮ",
    "kana": "でざいんほてる　ふぉろん",
-   "minCharge": null,
+   "minCharge": 7000,
    "reviewAverage": 4.33,
    "reviewCount": 187,
    "access": "ＪＲ長野新幹線　軽井沢駅より　徒歩１８分、タクシー３分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 11875,
+  "medianPrice": 12245,
   "reviewAvgMean": 4.28,
   "pricedCount": 54
  },
@@ -33,7 +33,7 @@
    "hotelNo": 198716,
    "name": "珀－ＨａＫｕ－熱海来宮　〜夜を愉しむ湯宿〜",
    "kana": "はくあたみきのみや　よるをたのしむゆやど",
-   "minCharge": 11600,
+   "minCharge": 10800,
    "reviewAverage": 4.86,
    "reviewCount": 7,
    "access": "来宮駅より700m  ■徒歩15分上り坂　■タクシー3分の為タクシー推奨",

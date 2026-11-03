@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-02",
+ "dataAsOf": "2026-11-03",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 7597,
    "name": "城崎温泉　泉翠（せんすい）",
    "kana": "きのさきおんせん　せんすい",
-   "minCharge": 29700,
+   "minCharge": 33000,
    "reviewAverage": 4.72,
    "reviewCount": 818,
    "access": "ＪＲ西日本　山陰本線　城崎温泉駅下車徒歩８分。北近畿豊岡道（豊岡出石IC)より約20分",
@@ -99,7 +99,7 @@
    "hotelNo": 176571,
    "name": "城崎温泉　きのさきの宿　緑風閣",
    "kana": "きのさきおんせん　きのさきのやど　りょくふうかく",
-   "minCharge": 36900,
+   "minCharge": 38900,
    "reviewAverage": 4.69,
    "reviewCount": 790,
    "access": "城崎温泉駅より徒歩にて約３分、専用駐車場は徒歩1分",
@@ -201,7 +201,7 @@
    "hotelNo": 128351,
    "name": "ホテルシルク温泉やまびこ",
    "kana": "しるくおんせん　やまびこ",
-   "minCharge": 7590,
+   "minCharge": 7060,
    "reviewAverage": 4.4,
    "reviewCount": 446,
    "access": "☆1泊2食の方に限り福知山駅送迎OK♪13時福知山駅発　翌11時10分当館発要予約",
