@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-03",
+ "dataAsOf": "2026-11-04",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 187963,
    "name": "ＥＮＯＷＡ　ＹＵＦＵＩＮ",
    "kana": "えのわ　ゆふいん",
-   "minCharge": 50723,
+   "minCharge": 48278,
    "reviewAverage": 4.6,
    "reviewCount": 15,
    "access": "由布院駅よりお車にて約5分",

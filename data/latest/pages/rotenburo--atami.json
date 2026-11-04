@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-03",
+ "dataAsOf": "2026-11-04",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 147152,
    "name": "南熱海網代山温泉　竹林庵　みずの",
    "kana": "みなみあたみあじろやまおんせん　ちくりんあん　みずの",
-   "minCharge": 28600,
+   "minCharge": 30800,
    "reviewAverage": 4.66,
    "reviewCount": 187,
    "access": "網代駅よりお車にて約7分",
@@ -218,7 +218,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20312,
+   "minCharge": 20687,
    "reviewAverage": 4.59,
    "reviewCount": 344,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -337,7 +337,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 9200,
+   "minCharge": 8200,
    "reviewAverage": 4.51,
    "reviewCount": 1111,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",

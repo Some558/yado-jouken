@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-03",
+ "dataAsOf": "2026-11-04",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 8079,
    "name": "伊香保温泉　あかりの宿　おかべ",
    "kana": "いかほおんせん　あかりのやど　おかべ",
-   "minCharge": 19800,
+   "minCharge": 15400,
    "reviewAverage": 4.69,
    "reviewCount": 188,
    "access": "東京駅よりJR上越新幹線で約50分→高崎駅乗り換え、JR上越線で約20分→渋川駅下車、バスで約30分。",
@@ -133,7 +133,7 @@
    "hotelNo": 15996,
    "name": "伊香保温泉　市川別館　晴観荘",
    "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
-   "minCharge": 11000,
+   "minCharge": 8700,
    "reviewAverage": 4.48,
    "reviewCount": 953,
    "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",
@@ -150,7 +150,7 @@
    "hotelNo": 19468,
    "name": "伊香保温泉　横手館",
    "kana": "いかほおんせん　よこてかん",
-   "minCharge": 15400,
+   "minCharge": 13200,
    "reviewAverage": 4.46,
    "reviewCount": 324,
    "access": "ＪＲ上越線・渋川駅／関越道・渋川伊香保ＩＣ～Ｒ１７経由２０分",

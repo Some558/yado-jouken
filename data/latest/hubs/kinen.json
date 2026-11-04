@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-11-03",
+ "dataAsOf": "2026-11-04",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 114,
    "matchRate": 31.1,
    "minPrice": 5500,
-   "medianPrice": 18700,
+   "medianPrice": 17600,
    "reviewAvgMean": 4.38
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 43,
    "matchRate": 27.4,
    "minPrice": 4200,
-   "medianPrice": 10750,
+   "medianPrice": 10250,
    "reviewAvgMean": 4.33
   },
   {
@@ -39,9 +39,9 @@
    },
    "slug": "kinen--atami",
    "matchCount": 103,
-   "matchRate": 36.8,
+   "matchRate": 36.9,
    "minPrice": 4600,
-   "medianPrice": 12390,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.29
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 79,
    "matchRate": 30.6,
    "minPrice": 2800,
-   "medianPrice": 8500,
+   "medianPrice": 9280,
    "reviewAvgMean": 4.39
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 42,
    "matchRate": 26.8,
    "minPrice": 3000,
-   "medianPrice": 14300,
+   "medianPrice": 14000,
    "reviewAvgMean": 4.41
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 11,
    "matchRate": 15.3,
    "minPrice": 3600,
-   "medianPrice": 10000,
+   "medianPrice": 9350,
    "reviewAvgMean": 4.11
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 129,
    "matchRate": 36.5,
    "minPrice": 2650,
-   "medianPrice": 8272,
+   "medianPrice": 8125,
    "reviewAvgMean": 4.37
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 59,
    "matchRate": 32.4,
    "minPrice": 1950,
-   "medianPrice": 5710,
+   "medianPrice": 5747,
    "reviewAvgMean": 4.26
   }
  ]

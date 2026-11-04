@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-03",
+ "dataAsOf": "2026-11-04",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 8500,
+  "medianPrice": 9280,
   "reviewAvgMean": 4.39,
   "pricedCount": 39
  },
@@ -33,7 +33,7 @@
    "hotelNo": 202061,
    "name": "Ｂｌｉｓｓ９　東荘園",
    "kana": "ぶりすないん　ひがしそうえん",
-   "minCharge": 8000,
+   "minCharge": 6750,
    "reviewAverage": 5.0,
    "reviewCount": 7,
    "access": "別府ICより車で約１０分",
@@ -203,7 +203,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 8800,
+   "minCharge": 9900,
    "reviewAverage": 4.53,
    "reviewCount": 686,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",
@@ -237,7 +237,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 8000,
+   "minCharge": 9500,
    "reviewAverage": 4.52,
    "reviewCount": 836,
    "access": "別府駅東口より徒歩約1分！",
@@ -339,7 +339,7 @@
    "hotelNo": 183136,
    "name": "ＳＥＫＩＹＡ　ＲＥＳＯＲＴ　ＧＡＬＬＥＲＩＡ　ＭＩＤＯＢＡＲＵ",
    "kana": "せきや　りぞーと　がれりあ　みどうばる",
-   "minCharge": 22250,
+   "minCharge": 22983,
    "reviewAverage": 4.45,
    "reviewCount": 141,
    "access": "別府駅西口（山側）よりタクシーで約15分／別府ICより約3分",
