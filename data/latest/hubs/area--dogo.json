@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "recordCount": 182,
  "conditions": [
   {
@@ -142,7 +142,7 @@
    "hotelNo": 184795,
    "name": "山の手別邸葉隠れ",
    "kana": "やまのてべっていはがくれ",
-   "minCharge": 26400,
+   "minCharge": 25850,
    "reviewAverage": 4.74,
    "reviewCount": 131,
    "access": "松山空港より車にて約50分",
@@ -1421,7 +1421,7 @@
    "hotelNo": 17668,
    "name": "道後温泉　茶玻瑠",
    "kana": "どうごおんせん　ちゃはる",
-   "minCharge": 8800,
+   "minCharge": 9900,
    "reviewAverage": 4.08,
    "reviewCount": 2862,
    "access": "私鉄伊予鉄道線道後温泉下車徒歩５分／ＪＲ予讃線松山駅下車タクシー１５分／松山空港から車で３０分",
@@ -1564,7 +1564,7 @@
    "hotelNo": 147840,
    "name": "ネストホテル松山",
    "kana": "ねすとほてるまつやま",
-   "minCharge": 1950,
+   "minCharge": 1850,
    "reviewAverage": 3.98,
    "reviewCount": 1998,
    "access": "■大街道より徒歩５分　■松山空港より車で２５分　■市内電車勝山町電停より徒歩３分",

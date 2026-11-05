@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "breakfast--hakone",
    "matchCount": 72,
    "matchRate": 19.6,
-   "minPrice": 5500,
+   "minPrice": 5760,
    "medianPrice": 17380,
    "reviewAvgMean": 4.38
   },
@@ -54,7 +54,7 @@
    "matchCount": 44,
    "matchRate": 17.1,
    "minPrice": 2800,
-   "medianPrice": 9500,
+   "medianPrice": 9280,
    "reviewAvgMean": 4.37
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 41,
    "matchRate": 12.9,
    "minPrice": 9500,
-   "medianPrice": 20035,
+   "medianPrice": 20735,
    "reviewAvgMean": 4.39
   },
   {
@@ -79,8 +79,8 @@
    "slug": "breakfast--kinosaki",
    "matchCount": 48,
    "matchRate": 30.6,
-   "minPrice": 5900,
-   "medianPrice": 14900,
+   "minPrice": 4800,
+   "medianPrice": 15400,
    "reviewAvgMean": 4.48
   },
   {
@@ -104,9 +104,9 @@
    },
    "slug": "breakfast--nasu",
    "matchCount": 84,
-   "matchRate": 23.8,
+   "matchRate": 23.9,
    "minPrice": 2650,
-   "medianPrice": 8382,
+   "medianPrice": 8485,
    "reviewAvgMean": 4.36
   },
   {
@@ -131,7 +131,7 @@
    "slug": "breakfast--dogo",
    "matchCount": 43,
    "matchRate": 23.6,
-   "minPrice": 1950,
+   "minPrice": 1850,
    "medianPrice": 5710,
    "reviewAvgMean": 4.24
   }

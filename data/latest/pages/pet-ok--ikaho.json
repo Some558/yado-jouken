@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4980,
-  "medianPrice": 8837,
+  "medianPrice": 7700,
   "reviewAvgMean": 4.0,
-  "pricedCount": 4
+  "pricedCount": 5
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 18861,
    "name": "一冨士ホテル",
    "kana": "いちふじほてる",
-   "minCharge": null,
+   "minCharge": 5000,
    "reviewAverage": 3.86,
    "reviewCount": 13,
    "access": "ＪＲ上越線渋川駅より伊香保温泉行バスで３０分／関越自動車道渋川伊香保ＩＣよりお車で約２５分",

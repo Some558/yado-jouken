@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3000,
-  "medianPrice": 9240,
+  "medianPrice": 9350,
   "reviewAvgMean": 4.35,
   "pricedCount": 35
  },

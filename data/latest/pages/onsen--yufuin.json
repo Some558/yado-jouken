@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 4896,
-  "medianPrice": 19150,
+  "medianPrice": 19685,
   "reviewAvgMean": 4.38,
   "pricedCount": 24
  },
@@ -50,7 +50,7 @@
    "hotelNo": 72871,
    "name": "由布院温泉　湯富里の宿　一壷天",
    "kana": "ゆとりのやど　いっこてん",
-   "minCharge": 44600,
+   "minCharge": 41300,
    "reviewAverage": 4.87,
    "reviewCount": 268,
    "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
@@ -271,7 +271,7 @@
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
-   "minCharge": 23100,
+   "minCharge": 25300,
    "reviewAverage": 4.41,
    "reviewCount": 359,
    "access": "ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分",
@@ -305,7 +305,7 @@
    "hotelNo": 108997,
    "name": "由布院温泉　杜の湯　ゆふいん泰葉",
    "kana": "もりのゆ　ゆふいんやすは",
-   "minCharge": 19500,
+   "minCharge": 21700,
    "reviewAverage": 4.3,
    "reviewCount": 222,
    "access": "◆JR由布院駅より車で5分、徒歩40分。送迎有り（15：00～17：00)◆湯布院ＩＣより車で１５分",

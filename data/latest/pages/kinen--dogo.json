@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -23,7 +23,7 @@
    "value": 182,
    "label": "松山・道後エリアの掲載施設数"
   },
-  "minPrice": 1950,
+  "minPrice": 1850,
   "medianPrice": 5747,
   "reviewAvgMean": 4.26,
   "pricedCount": 40
@@ -50,7 +50,7 @@
    "hotelNo": 184795,
    "name": "山の手別邸葉隠れ",
    "kana": "やまのてべっていはがくれ",
-   "minCharge": 26400,
+   "minCharge": 25850,
    "reviewAverage": 4.74,
    "reviewCount": 131,
    "access": "松山空港より車にて約50分",

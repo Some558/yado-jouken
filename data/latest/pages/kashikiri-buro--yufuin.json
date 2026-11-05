@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4896,
-  "medianPrice": 18800,
+  "medianPrice": 18400,
   "reviewAvgMean": 4.46,
   "pricedCount": 35
  },
@@ -48,7 +48,7 @@
    "hotelNo": 72871,
    "name": "由布院温泉　湯富里の宿　一壷天",
    "kana": "ゆとりのやど　いっこてん",
-   "minCharge": 44600,
+   "minCharge": 41300,
    "reviewAverage": 4.87,
    "reviewCount": 268,
    "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
@@ -65,7 +65,7 @@
    "hotelNo": 29253,
    "name": "ゆのひら　上柳屋",
    "kana": "ゆのひら　かみやなぎや",
-   "minCharge": 20350,
+   "minCharge": 19250,
    "reviewAverage": 4.84,
    "reviewCount": 77,
    "access": "JR久大線 湯平駅よりバス又はタクシーで10分／大分自動車道 湯布院I.Cより車で20分",
@@ -116,7 +116,7 @@
    "hotelNo": 76917,
    "name": "草屋根の宿　龍のひげ／別邸　ゆむた",
    "kana": "くさやねのやどりゅうのひげ　べっそう　ゆむた",
-   "minCharge": 23000,
+   "minCharge": 24000,
    "reviewAverage": 4.81,
    "reviewCount": 385,
    "access": "湯布院ＩＣからお車で3分。由布院駅からお車で10分程です。駅と宿の間で無料送迎あります（電話にて要予約）",
@@ -337,7 +337,7 @@
    "hotelNo": 68226,
    "name": "湯布院温泉　御宿　由府両築",
    "kana": "おんやど　ゆふりょうちく",
-   "minCharge": 13140,
+   "minCharge": 11160,
    "reviewAverage": 4.5,
    "reviewCount": 218,
    "access": "■JR由布院駅から徒歩10分程、お車で3分■湯布院 ICより車で7分■湯布院の中心・湯の坪街道まで徒歩30秒",

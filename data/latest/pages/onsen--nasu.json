@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -20,11 +20,11 @@
   "matchRate": 11.9,
   "denominator": {
    "type": "area_total",
-   "value": 353,
+   "value": 352,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2650,
-  "medianPrice": 8500,
+  "medianPrice": 8621,
   "reviewAvgMean": 4.29,
   "pricedCount": 31
  },
@@ -220,7 +220,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 7770,
+   "minCharge": 9450,
    "reviewAverage": 4.42,
    "reviewCount": 8823,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",

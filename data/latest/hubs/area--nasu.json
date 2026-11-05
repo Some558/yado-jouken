@@ -4,8 +4,8 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-04",
- "recordCount": 353,
+ "dataAsOf": "2026-11-05",
+ "recordCount": 352,
  "conditions": [
   {
    "condition": "onsen",
@@ -1057,7 +1057,7 @@
    "hotelNo": 7335,
    "name": "那須温泉　ホテルエピナール那須",
    "kana": "なすおんせん　えぴなーる　なす",
-   "minCharge": 7770,
+   "minCharge": 9450,
    "reviewAverage": 4.42,
    "reviewCount": 8823,
    "access": "【お車で】那須I.Cより10分、【JRで】東北新幹線・東北本線　那須塩原駅から無料シャトルバスで30分（要予約）",

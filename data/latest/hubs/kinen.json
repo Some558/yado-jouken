@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "kinen--hakone",
    "matchCount": 114,
    "matchRate": 31.1,
-   "minPrice": 5500,
+   "minPrice": 5760,
    "medianPrice": 17600,
    "reviewAvgMean": 4.38
   },
@@ -41,7 +41,7 @@
    "matchCount": 103,
    "matchRate": 36.9,
    "minPrice": 4600,
-   "medianPrice": 12100,
+   "medianPrice": 12390,
    "reviewAvgMean": 4.29
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 79,
    "matchRate": 30.6,
    "minPrice": 2800,
-   "medianPrice": 9280,
+   "medianPrice": 9270,
    "reviewAvgMean": 4.39
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 59,
    "matchRate": 18.5,
    "minPrice": 4896,
-   "medianPrice": 20570,
+   "medianPrice": 20900,
    "reviewAvgMean": 4.42
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 42,
    "matchRate": 26.8,
    "minPrice": 3000,
-   "medianPrice": 14000,
+   "medianPrice": 14900,
    "reviewAvgMean": 4.41
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 11,
    "matchRate": 15.3,
    "minPrice": 3600,
-   "medianPrice": 9350,
+   "medianPrice": 10000,
    "reviewAvgMean": 4.11
   },
   {
@@ -104,9 +104,9 @@
    },
    "slug": "kinen--nasu",
    "matchCount": 129,
-   "matchRate": 36.5,
+   "matchRate": 36.6,
    "minPrice": 2650,
-   "medianPrice": 8125,
+   "medianPrice": 8272,
    "reviewAvgMean": 4.37
   },
   {
@@ -131,7 +131,7 @@
    "slug": "kinen--dogo",
    "matchCount": 59,
    "matchRate": 32.4,
-   "minPrice": 1950,
+   "minPrice": 1850,
    "medianPrice": 5747,
    "reviewAvgMean": 4.26
   }

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 12100,
+  "medianPrice": 12390,
   "reviewAvgMean": 4.29,
   "pricedCount": 51
  },
@@ -84,7 +84,7 @@
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
    "kana": "あたみ　ほてるなぎさかん",
-   "minCharge": 13721,
+   "minCharge": 15246,
    "reviewAverage": 4.68,
    "reviewCount": 111,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -220,7 +220,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20900,
+   "minCharge": 20790,
    "reviewAverage": 4.53,
    "reviewCount": 340,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -237,7 +237,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 8200,
+   "minCharge": 9200,
    "reviewAverage": 4.51,
    "reviewCount": 1111,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -322,7 +322,7 @@
    "hotelNo": 151233,
    "name": "オーベルジュ　フォンテーヌ・ブロー熱海",
    "kana": "ふぉんてーぬ・ぶろーあたみ",
-   "minCharge": 19800,
+   "minCharge": 21600,
    "reviewAverage": 4.43,
    "reviewCount": 353,
    "access": "事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2915,
-  "medianPrice": 9575,
+  "medianPrice": 9827,
   "reviewAvgMean": 4.51,
   "pricedCount": 16
  },
@@ -133,7 +133,7 @@
    "hotelNo": 184094,
    "name": "のぞみグランピング＆スパ佐久×軽井沢",
    "kana": "のぞみぐらんぴんぐあんどすぱさくかるいざわ",
-   "minCharge": 20680,
+   "minCharge": 19740,
    "reviewAverage": 4.57,
    "reviewCount": 94,
    "access": "上信越道小諸ジャンクションから中部横断道を経由して、佐久南ＩＣからお車で約３分",
@@ -201,7 +201,7 @@
    "hotelNo": 172066,
    "name": "ＭＯＲＩＨＡＫＵ",
    "kana": "もりはく",
-   "minCharge": 9350,
+   "minCharge": 10285,
    "reviewAverage": 4.43,
    "reviewCount": 19,
    "access": "軽井沢駅よりお車にて約9分",

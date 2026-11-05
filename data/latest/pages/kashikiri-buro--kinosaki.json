@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "facility"
  },
@@ -22,16 +22,16 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 17325,
+  "medianPrice": 20570,
   "reviewAvgMean": 4.48,
-  "pricedCount": 40
+  "pricedCount": 39
  },
  "hotels": [
   {
    "hotelNo": 50907,
    "name": "ファームハウス　のの花",
    "kana": "ふぁーむはうすののか",
-   "minCharge": 18150,
+   "minCharge": 20570,
    "reviewAverage": 5.0,
    "reviewCount": 9,
    "access": "ＪＲ山陰本線　城崎温泉駅よりバスで三原行き銅鐸史跡前下車または車で７分",
@@ -48,7 +48,7 @@
    "hotelNo": 8509,
    "name": "城崎温泉　小林屋",
    "kana": "きのさきおんせん　こばやしや",
-   "minCharge": 16500,
+   "minCharge": 52800,
    "reviewAverage": 4.92,
    "reviewCount": 145,
    "access": "車：北近畿豊岡自動車道　但馬空港ICより約30分／電車・バス：城崎温泉駅より徒歩約7分",
@@ -150,7 +150,7 @@
    "hotelNo": 14007,
    "name": "城崎温泉　西村屋ホテル招月庭",
    "kana": "きのさきおんせん　にしむらやほてる　しょうげつてい",
-   "minCharge": 35200,
+   "minCharge": 59400,
    "reviewAverage": 4.73,
    "reviewCount": 1196,
    "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分",
@@ -184,7 +184,7 @@
    "hotelNo": 144559,
    "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
    "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
-   "minCharge": 19250,
+   "minCharge": 17050,
    "reviewAverage": 4.67,
    "reviewCount": 300,
    "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",
@@ -320,7 +320,7 @@
    "hotelNo": 56951,
    "name": "城崎温泉　但馬屋（たじまや）",
    "kana": "きのさきおんせん　たじまや",
-   "minCharge": 24200,
+   "minCharge": 33000,
    "reviewAverage": 4.61,
    "reviewCount": 350,
    "access": "ＪＲ　城崎温泉駅より徒歩１３分, 車　大阪より　中国道→吉川JCT→舞鶴若狭自動車道→春日JCT→北近畿豊岡自動車道",

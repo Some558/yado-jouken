@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -23,7 +23,7 @@
    "value": 367,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5500,
+  "minPrice": 6600,
   "medianPrice": 17600,
   "reviewAvgMean": 4.36,
   "pricedCount": 39
@@ -84,7 +84,7 @@
    "hotelNo": 19985,
    "name": "箱根湯本温泉　箱根　花紋",
    "kana": "はこねゆもとおんせん　はこね　かもん",
-   "minCharge": 25300,
+   "minCharge": 31900,
    "reviewAverage": 4.74,
    "reviewCount": 849,
    "access": "箱根湯本駅より車で5分・徒歩15分、東名厚木ＩＣより車で30分　送迎は１５：００以降（ご宿泊の方のみ湯本駅到着後要電話）",
@@ -152,7 +152,7 @@
    "hotelNo": 16106,
    "name": "小田急　山のホテル",
    "kana": "おだきゅう　やまのほてる",
-   "minCharge": 19800,
+   "minCharge": 17600,
    "reviewAverage": 4.5,
    "reviewCount": 1355,
    "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
@@ -322,7 +322,7 @@
    "hotelNo": 183100,
    "name": "ホテル四季の館箱根芦ノ湖",
    "kana": "ほてるしきのやかたはこねあしのこ",
-   "minCharge": 30608,
+   "minCharge": 28298,
    "reviewAverage": 4.43,
    "reviewCount": 51,
    "access": "小田原駅よりバス　ホテルより無料送迎あり（要予約）",

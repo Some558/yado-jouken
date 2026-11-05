@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-04",
+ "dataAsOf": "2026-11-05",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 184094,
    "name": "のぞみグランピング＆スパ佐久×軽井沢",
    "kana": "のぞみぐらんぴんぐあんどすぱさくかるいざわ",
-   "minCharge": 20680,
+   "minCharge": 19740,
    "reviewAverage": 4.57,
    "reviewCount": 94,
    "access": "上信越道小諸ジャンクションから中部横断道を経由して、佐久南ＩＣからお車で約３分",
@@ -184,7 +184,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 17867,
+   "minCharge": 18167,
    "reviewAverage": 4.48,
    "reviewCount": 370,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
