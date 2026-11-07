@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "areas": [
   {
    "area": {
@@ -13,9 +13,9 @@
    },
    "slug": "dinner--hakone",
    "matchCount": 66,
-   "matchRate": 18.0,
-   "minPrice": 5760,
-   "medianPrice": 17600,
+   "matchRate": 17.9,
+   "minPrice": 5500,
+   "medianPrice": 17160,
    "reviewAvgMean": 4.37
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 24,
    "matchRate": 15.3,
    "minPrice": 4390,
-   "medianPrice": 13385,
+   "medianPrice": 13485,
    "reviewAvgMean": 4.33
   },
   {
@@ -39,7 +39,7 @@
    },
    "slug": "dinner--atami",
    "matchCount": 56,
-   "matchRate": 20.1,
+   "matchRate": 20.0,
    "minPrice": 4600,
    "medianPrice": 12445,
    "reviewAvgMean": 4.27
@@ -54,7 +54,7 @@
    "matchCount": 38,
    "matchRate": 14.7,
    "minPrice": 3600,
-   "medianPrice": 10230,
+   "medianPrice": 9700,
    "reviewAvgMean": 4.38
   },
   {
@@ -65,9 +65,9 @@
    },
    "slug": "dinner--yufuin",
    "matchCount": 37,
-   "matchRate": 11.6,
+   "matchRate": 11.5,
    "minPrice": 10710,
-   "medianPrice": 20735,
+   "medianPrice": 20800,
    "reviewAvgMean": 4.39
   },
   {
@@ -79,8 +79,8 @@
    "slug": "dinner--kinosaki",
    "matchCount": 47,
    "matchRate": 29.9,
-   "minPrice": 4800,
-   "medianPrice": 15400,
+   "minPrice": 6400,
+   "medianPrice": 14900,
    "reviewAvgMean": 4.48
   },
   {
@@ -104,7 +104,7 @@
    },
    "slug": "dinner--nasu",
    "matchCount": 79,
-   "matchRate": 22.4,
+   "matchRate": 22.3,
    "minPrice": 2650,
    "medianPrice": 8621,
    "reviewAvgMean": 4.38

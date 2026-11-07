@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 45,
-  "matchRate": 14.1,
+  "matchRate": 14.0,
   "denominator": {
    "type": "area_total",
-   "value": 319,
+   "value": 322,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
-  "minPrice": 4896,
-  "medianPrice": 19685,
+  "minPrice": 7200,
+  "medianPrice": 19080,
   "reviewAvgMean": 4.38,
   "pricedCount": 24
  },
@@ -237,7 +237,7 @@
    "hotelNo": 75289,
    "name": "由布院温泉　東匠庵",
    "kana": "ゆふいんおんせん　とうしょうあん",
-   "minCharge": 20570,
+   "minCharge": 19360,
    "reviewAverage": 4.48,
    "reviewCount": 815,
    "access": "湯布院ＩＣから6分　大分空港から高速バスで55分",
@@ -271,7 +271,7 @@
    "hotelNo": 20453,
    "name": "由布院温泉　柚富の郷　彩岳館",
    "kana": "ゆふいんおんせん　ゆふのごう　さいがくかん",
-   "minCharge": 25300,
+   "minCharge": 27500,
    "reviewAverage": 4.41,
    "reviewCount": 359,
    "access": "ＪＲ由布院駅より車で５分。14：30から17：30まで無料送迎有（駅着後要TEL）／大分自動車道湯布院ＩＣより車で１２分",
@@ -305,7 +305,7 @@
    "hotelNo": 108997,
    "name": "由布院温泉　杜の湯　ゆふいん泰葉",
    "kana": "もりのゆ　ゆふいんやすは",
-   "minCharge": 21700,
+   "minCharge": 20700,
    "reviewAverage": 4.3,
    "reviewCount": 222,
    "access": "◆JR由布院駅より車で5分、徒歩40分。送迎有り（15：00～17：00)◆湯布院ＩＣより車で１５分",
@@ -356,7 +356,7 @@
    "hotelNo": 172859,
    "name": "ＥＴＡＶＩＡ湯布院金鱗湖",
    "kana": "えたびあ　ゆふいんきんりんこ",
-   "minCharge": 4896,
+   "minCharge": 7200,
    "reviewAverage": 3.95,
    "reviewCount": 108,
    "access": "由布院駅より徒歩にて約１８分／お車にて約５分",

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2650,
-  "medianPrice": 11025,
+  "medianPrice": 10500,
   "reviewAvgMean": 4.4,
   "pricedCount": 52
  },
@@ -82,7 +82,7 @@
    "hotelNo": 167732,
    "name": "ホテル四季の館那須",
    "kana": "ほてるしきのやかたなす",
-   "minCharge": 15015,
+   "minCharge": 13755,
    "reviewAverage": 4.8,
    "reviewCount": 83,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より無料送迎バスにて30分（要予約）",
@@ -133,7 +133,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 12995,
+   "minCharge": 11730,
    "reviewAverage": 4.66,
    "reviewCount": 379,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -269,7 +269,7 @@
    "hotelNo": 32051,
    "name": "那須温泉　大丸温泉旅館",
    "kana": "なすおんせん　おおまるおんせんりょかん",
-   "minCharge": 15700,
+   "minCharge": 14600,
    "reviewAverage": 4.58,
    "reviewCount": 494,
    "access": "那須塩原駅・黒磯駅より、路線バス有料送迎サービス有約70分(2日前迄に要予約）／東北自動車道《那須IC》より車で約30分",
@@ -320,7 +320,7 @@
    "hotelNo": 193295,
    "name": "ＨＡＭＩＲＵ’Ｓ　ＦＯＲＥＳＴ　ＷＩＴＨ　ＤＯＧ（ハミルズフォレストウィズドッグ）",
    "kana": "はみるずふぉれすとうぃずどっぐ",
-   "minCharge": 17550,
+   "minCharge": 18200,
    "reviewAverage": 4.56,
    "reviewCount": 21,
    "access": "東北自動車道 那須ＩＣより車で約１０分  那須塩原駅より車で約２５分",

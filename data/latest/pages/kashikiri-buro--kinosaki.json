@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 20570,
+  "medianPrice": 20185,
   "reviewAvgMean": 4.48,
-  "pricedCount": 39
+  "pricedCount": 40
  },
  "hotels": [
   {
@@ -99,7 +99,7 @@
    "hotelNo": 79381,
    "name": "城崎温泉　料理旅館　よしはる",
    "kana": "きのさきおんせん　りょうりりょかん　よしはる",
-   "minCharge": 20889,
+   "minCharge": 24200,
    "reviewAverage": 4.8,
    "reviewCount": 263,
    "access": "ＪＲ　城崎温泉駅より徒歩にて３分",
@@ -167,7 +167,7 @@
    "hotelNo": 7597,
    "name": "城崎温泉　泉翠（せんすい）",
    "kana": "きのさきおんせん　せんすい",
-   "minCharge": 33000,
+   "minCharge": 28600,
    "reviewAverage": 4.72,
    "reviewCount": 818,
    "access": "ＪＲ西日本　山陰本線　城崎温泉駅下車徒歩８分。北近畿豊岡道（豊岡出石IC)より約20分",
@@ -269,7 +269,7 @@
    "hotelNo": 50571,
    "name": "城崎温泉　富士見屋",
    "kana": "きのさきおんせん　ふじみや",
-   "minCharge": 15400,
+   "minCharge": 16500,
    "reviewAverage": 4.63,
    "reviewCount": 98,
    "access": "ＪＲ城崎駅より徒歩8分",
@@ -303,7 +303,7 @@
    "hotelNo": 8766,
    "name": "城崎温泉　つちや旅館",
    "kana": "きのさきおんせん　つちやりょかん",
-   "minCharge": 16500,
+   "minCharge": 17600,
    "reviewAverage": 4.61,
    "reviewCount": 255,
    "access": "【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～10分【車】北近畿豊岡自動車道・豊岡出石ICから約20分　無料Pあり",

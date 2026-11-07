@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 184774,
    "name": "ととのいの宿　春燈庵",
    "kana": "ととのいのやど　しゅんとうあん",
-   "minCharge": 13700,
+   "minCharge": 13150,
    "reviewAverage": 4.64,
    "reviewCount": 96,
    "access": "別府ICよりお車で5分 扇山町バス停より徒歩４分 自衛隊前バス停より徒歩10分 別府駅→車で13分 大分空港→車で45分",
@@ -303,7 +303,7 @@
    "hotelNo": 674,
    "name": "ホテルアーサー　ＫＩＴＡＨＡＭＡ　ＢＡＳＥ",
    "kana": "ほてるあーさー　きたはまべーす",
-   "minCharge": 4632,
+   "minCharge": 4887,
    "reviewAverage": 4.31,
    "reviewCount": 1828,
    "access": "ＪＲ「別府駅」より徒歩３分 　大分空港より「北浜停留所」徒歩５分　大分自動車道別府I.Cより15分",
@@ -337,7 +337,7 @@
    "hotelNo": 8950,
    "name": "グランドメルキュール別府湾リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるべっぷわんりぞーとあんどすぱ",
-   "minCharge": 7160,
+   "minCharge": 8221,
    "reviewAverage": 4.2,
    "reviewCount": 3534,
    "access": "東九州自動車道『速見IC』より車で10分 / 大分空港より車で30分 / JR日豊本線別府駅より車で約20分",

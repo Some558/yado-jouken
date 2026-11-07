@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 9300,
-  "medianPrice": 12700,
+  "minPrice": 9500,
+  "medianPrice": 13200,
   "reviewAvgMean": 4.44,
   "pricedCount": 9
  },
@@ -65,7 +65,7 @@
    "hotelNo": 187963,
    "name": "ＥＮＯＷＡ　ＹＵＦＵＩＮ",
    "kana": "えのわ　ゆふいん",
-   "minCharge": 48278,
+   "minCharge": 50723,
    "reviewAverage": 4.6,
    "reviewCount": 15,
    "access": "由布院駅よりお車にて約5分",
@@ -116,7 +116,7 @@
    "hotelNo": 177044,
    "name": "ゆふいんグランピング　ＣＯＭＯＲＥＢＩ",
    "kana": "ゆふいんぐらんぴんぐ　こもれび",
-   "minCharge": 9300,
+   "minCharge": 12000,
    "reviewAverage": 4.35,
    "reviewCount": 320,
    "access": "【大分空港→当施設】車で約1時間／ 【JR大分駅→JR向之原駅】電車で21分／【JR向之原駅→当施設】車で約15分",
@@ -133,7 +133,7 @@
    "hotelNo": 129463,
    "name": "湯布院温泉　由布院ユウベルホテル",
    "kana": "ゆふいんゆうべる",
-   "minCharge": 12700,
+   "minCharge": 13700,
    "reviewAverage": 4.27,
    "reviewCount": 576,
    "access": "■金鱗湖まで徒歩で５分■由布院駅からお車で１０分■由布院駅からの無料送迎もございます（要予約）",

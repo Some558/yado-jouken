@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3600,
-  "medianPrice": 10230,
+  "medianPrice": 9700,
   "reviewAvgMean": 4.38,
   "pricedCount": 30
  },
@@ -237,7 +237,7 @@
    "hotelNo": 5543,
    "name": "別府最大級の露天風呂の宿　おにやまホテル",
    "kana": "かんなわおんせん　おにやまほてる",
-   "minCharge": 13200,
+   "minCharge": 12050,
    "reviewAverage": 4.47,
    "reviewCount": 1967,
    "access": "高速道別府ＩＣより右折、地獄めぐり方面へ約５分　大分空港より４５分　別府駅よりタクシーで１５分",

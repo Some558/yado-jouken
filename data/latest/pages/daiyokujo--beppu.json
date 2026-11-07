@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 9150,
+  "medianPrice": 9075,
   "reviewAvgMean": 4.32,
   "pricedCount": 28
  },
@@ -169,7 +169,7 @@
    "hotelNo": 5543,
    "name": "別府最大級の露天風呂の宿　おにやまホテル",
    "kana": "かんなわおんせん　おにやまほてる",
-   "minCharge": 13200,
+   "minCharge": 12050,
    "reviewAverage": 4.47,
    "reviewCount": 1967,
    "access": "高速道別府ＩＣより右折、地獄めぐり方面へ約５分　大分空港より４５分　別府駅よりタクシーで１５分",
@@ -203,7 +203,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 3520,
+   "minCharge": 4158,
    "reviewAverage": 4.42,
    "reviewCount": 1382,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",
@@ -339,7 +339,7 @@
    "hotelNo": 8950,
    "name": "グランドメルキュール別府湾リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるべっぷわんりぞーとあんどすぱ",
-   "minCharge": 7160,
+   "minCharge": 8221,
    "reviewAverage": 4.2,
    "reviewCount": 3534,
    "access": "東九州自動車道『速見IC』より車で10分 / 大分空港より車で30分 / JR日豊本線別府駅より車で約20分",

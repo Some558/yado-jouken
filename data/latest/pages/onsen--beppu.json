@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-07",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 2800,
-  "medianPrice": 9900,
+  "medianPrice": 9500,
   "reviewAvgMean": 4.39,
   "pricedCount": 35
  },
@@ -67,7 +67,7 @@
    "hotelNo": 184774,
    "name": "ととのいの宿　春燈庵",
    "kana": "ととのいのやど　しゅんとうあん",
-   "minCharge": 13700,
+   "minCharge": 13150,
    "reviewAverage": 4.64,
    "reviewCount": 96,
    "access": "別府ICよりお車で5分 扇山町バス停より徒歩４分 自衛隊前バス停より徒歩10分 別府駅→車で13分 大分空港→車で45分",
@@ -271,7 +271,7 @@
    "hotelNo": 5543,
    "name": "別府最大級の露天風呂の宿　おにやまホテル",
    "kana": "かんなわおんせん　おにやまほてる",
-   "minCharge": 13200,
+   "minCharge": 12050,
    "reviewAverage": 4.47,
    "reviewCount": 1967,
    "access": "高速道別府ＩＣより右折、地獄めぐり方面へ約５分　大分空港より４５分　別府駅よりタクシーで１５分",
@@ -322,7 +322,7 @@
    "hotelNo": 683,
    "name": "別府温泉　野上本館",
    "kana": "べっぷおんせん　のがみほんかん",
-   "minCharge": 3520,
+   "minCharge": 4158,
    "reviewAverage": 4.42,
    "reviewCount": 1382,
    "access": "ＪＲ＝別府駅下車、徒歩８分。大分空港から＝空港特急バス「別府北浜」下車、徒歩３分。",

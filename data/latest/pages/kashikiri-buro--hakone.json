@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 54240,
+   "minCharge": 50850,
    "reviewAverage": 4.88,
    "reviewCount": 663,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -167,7 +167,7 @@
    "hotelNo": 137410,
    "name": "仙石原温泉　きたの風茶寮",
    "kana": "せんごくばらおんせん　きたのかぜさりょう",
-   "minCharge": 57000,
+   "minCharge": 55250,
    "reviewAverage": 4.46,
    "reviewCount": 106,
    "access": "箱根湯本駅より箱根登山バスで約40分、新宿駅より高速バスで約2時間、「仙郷楼前」徒歩1分。駐車場13台無料",
@@ -320,7 +320,7 @@
    "hotelNo": 9669,
    "name": "箱根湯本温泉　箱根パークス吉野",
    "kana": "はこねゆもとおんせん　はこねぱーくすよしの",
-   "minCharge": 8470,
+   "minCharge": 9092,
    "reviewAverage": 4.28,
    "reviewCount": 1552,
    "access": "箱根湯本駅より徒歩12分。お車では小田原厚木道路小田原西ICから国道1号線経由約12分。無料駐車場併設。",

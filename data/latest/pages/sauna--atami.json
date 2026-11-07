@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-05",
+ "dataAsOf": "2026-11-07",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3500,
+  "minPrice": 4840,
   "medianPrice": 13790,
   "reviewAvgMean": 4.24,
   "pricedCount": 34
@@ -167,7 +167,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20790,
+   "minCharge": 19800,
    "reviewAverage": 4.53,
    "reviewCount": 340,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -184,7 +184,7 @@
    "hotelNo": 196679,
    "name": "ラビスタ熱海テラス（共立リゾート）（２０２６年３月３１日グランドＯＰＥＮ）",
    "kana": "らびすたあたみてらす",
-   "minCharge": 16500,
+   "minCharge": 15400,
    "reviewAverage": 4.49,
    "reviewCount": 254,
    "access": "JR熱海駅より徒歩8分",
@@ -320,7 +320,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 16750,
+   "minCharge": 15050,
    "reviewAverage": 4.22,
    "reviewCount": 1208,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
