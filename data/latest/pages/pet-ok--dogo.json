@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-07",
+ "dataAsOf": "2026-11-08",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 13750,
   "medianPrice": 14242,
-  "reviewAvgMean": 4.29,
+  "reviewAvgMean": 4.32,
   "pricedCount": 3
  },
  "hotels": [
@@ -32,8 +32,8 @@
    "name": "ｐｒｉｖａｔｅ　ｙｏｕｒ　ｒｅｓｏｒｔ　ＩＴＴＥＫＵＲＡｉ　松山",
    "kana": "プライベート　ユア　リゾート　イッテクライ　マツヤマ",
    "minCharge": 19300,
-   "reviewAverage": 4.56,
-   "reviewCount": 48,
+   "reviewAverage": 4.58,
+   "reviewCount": 49,
    "access": "川内インターよりお車にて5分　松山空港、松山観光港よりお車にて約４０分 松山駅よりお車にて約３０分",
    "address1": "愛媛県",
    "address2": "東温市松瀬川乙1020-132",
@@ -49,8 +49,8 @@
    "name": "ホテル　ルナパーク　別邸やすらぎ",
    "kana": "るなぱーく　べっていやすらぎ",
    "minCharge": 13750,
-   "reviewAverage": 4.42,
-   "reviewCount": 179,
+   "reviewAverage": 4.46,
+   "reviewCount": 183,
    "access": "市電　道後温泉駅より徒歩にて約10分",
    "address1": "愛媛県",
    "address2": "松山市道後鷺谷町434-3",
@@ -66,8 +66,8 @@
    "name": "リブマックスリゾート奥道後",
    "kana": "りぶまっくすりぞーとおくどうご",
    "minCharge": 14242,
-   "reviewAverage": 3.9,
-   "reviewCount": 594,
+   "reviewAverage": 3.91,
+   "reviewCount": 598,
    "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",
    "address1": "愛媛県",
    "address2": "松山市末町300-1",

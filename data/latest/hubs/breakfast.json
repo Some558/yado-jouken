@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-11-07",
+ "dataAsOf": "2026-11-08",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "breakfast--hakone",
-   "matchCount": 72,
-   "matchRate": 19.5,
-   "minPrice": 5500,
-   "medianPrice": 17017,
-   "reviewAvgMean": 4.38
+   "matchCount": 53,
+   "matchRate": 14.4,
+   "minPrice": 5280,
+   "medianPrice": 15400,
+   "reviewAvgMean": 4.33
   },
   {
    "area": {
@@ -28,8 +28,8 @@
    "matchCount": 26,
    "matchRate": 16.6,
    "minPrice": 4200,
-   "medianPrice": 12650,
-   "reviewAvgMean": 4.3
+   "medianPrice": 10750,
+   "reviewAvgMean": 4.32
   },
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "breakfast--atami",
-   "matchCount": 69,
-   "matchRate": 24.6,
+   "matchCount": 50,
+   "matchRate": 17.9,
    "minPrice": 4600,
-   "medianPrice": 12500,
-   "reviewAvgMean": 4.27
+   "medianPrice": 13102,
+   "reviewAvgMean": 4.31
   },
   {
    "area": {
@@ -51,11 +51,11 @@
     "officialName": "別府・日出"
    },
    "slug": "breakfast--beppu",
-   "matchCount": 44,
-   "matchRate": 17.1,
-   "minPrice": 2800,
-   "medianPrice": 9280,
-   "reviewAvgMean": 4.37
+   "matchCount": 25,
+   "matchRate": 9.7,
+   "minPrice": 5405,
+   "medianPrice": 11800,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "breakfast--yufuin",
-   "matchCount": 41,
-   "matchRate": 12.7,
+   "matchCount": 24,
+   "matchRate": 7.5,
    "minPrice": 9500,
-   "medianPrice": 20800,
-   "reviewAvgMean": 4.39
+   "medianPrice": 19350,
+   "reviewAvgMean": 4.34
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "breakfast--kinosaki",
-   "matchCount": 48,
-   "matchRate": 30.6,
-   "minPrice": 6400,
-   "medianPrice": 14900,
-   "reviewAvgMean": 4.48
+   "matchCount": 38,
+   "matchRate": 24.2,
+   "minPrice": 5700,
+   "medianPrice": 14000,
+   "reviewAvgMean": 4.49
   },
   {
    "area": {
@@ -90,11 +90,11 @@
     "officialName": "伊香保温泉・渋川"
    },
    "slug": "breakfast--ikaho",
-   "matchCount": 11,
-   "matchRate": 15.3,
-   "minPrice": 4980,
-   "medianPrice": 9350,
-   "reviewAvgMean": 3.82
+   "matchCount": 13,
+   "matchRate": 18.1,
+   "minPrice": 4500,
+   "medianPrice": 8250,
+   "reviewAvgMean": 3.84
   },
   {
    "area": {
@@ -103,10 +103,10 @@
     "officialName": "那須・板室・黒磯"
    },
    "slug": "breakfast--nasu",
-   "matchCount": 84,
-   "matchRate": 23.7,
+   "matchCount": 86,
+   "matchRate": 24.3,
    "minPrice": 2650,
-   "medianPrice": 8485,
+   "medianPrice": 8375,
    "reviewAvgMean": 4.36
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "breakfast--karuizawa",
-   "matchCount": 51,
-   "matchRate": 18.2,
+   "matchCount": 64,
+   "matchRate": 22.9,
    "minPrice": 2915,
-   "medianPrice": 12780,
-   "reviewAvgMean": 4.5
+   "medianPrice": 9900,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "breakfast--dogo",
-   "matchCount": 43,
-   "matchRate": 23.6,
+   "matchCount": 38,
+   "matchRate": 20.9,
    "minPrice": 1850,
-   "medianPrice": 5710,
-   "reviewAvgMean": 4.24
+   "medianPrice": 5625,
+   "reviewAvgMean": 4.25
   }
  ]
 }
