@@ -9,22 +9,22 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 18,
-  "matchRate": 20.0,
+  "matchCount": 17,
+  "matchRate": 18.9,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 11600,
-  "reviewAvgMean": 4.27,
-  "pricedCount": 18
+  "medianPrice": 12000,
+  "reviewAvgMean": 4.26,
+  "pricedCount": 17
  },
  "hotels": [
   {
@@ -65,7 +65,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 19700,
+   "minCharge": 18600,
    "reviewAverage": 4.44,
    "reviewCount": 53,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -128,23 +128,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183100.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183100/183100.jpg",
    "special": "芦ノ湖を見眼下に見下ろす抜群のロケーションと檜の香りに包まれた全30室の露天風呂の宿。"
-  },
-  {
-   "hotelNo": 168152,
-   "name": "サンダンス・リゾート箱根宮城野",
-   "kana": "さんだんすりぞーとはこねみやぎの",
-   "minCharge": 7000,
-   "reviewAverage": 4.4,
-   "reviewCount": 205,
-   "access": "強羅駅よりお車にて約１０分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町宮城野大東6-6",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168152",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D168152%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D168152",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168152.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168152/168152.jpg",
-   "special": "サンダンス唯一のオーベルジュ。　自慢の美食と、露天風呂でゆったりと。"
   },
   {
    "hotelNo": 192238,
@@ -334,5 +317,5 @@
    "special": "和モダンがテーマの全室露天風呂付温宿。秋野菜グラタンやイクラ、熱々ステーキを楽しむ秋ビュッフェ開催。"
   }
  ],
- "listedMatchCount": 18
+ "listedMatchCount": 17
 }

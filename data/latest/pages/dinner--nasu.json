@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -25,10 +25,27 @@
   },
   "minPrice": 2650,
   "medianPrice": 8820,
-  "reviewAvgMean": 4.39,
+  "reviewAvgMean": 4.4,
   "pricedCount": 41
  },
  "hotels": [
+  {
+   "hotelNo": 76484,
+   "name": "ログコテージ茶臼の森",
+   "kana": "ろぐこてーじちゃうすのもり",
+   "minCharge": 10400,
+   "reviewAverage": 4.85,
+   "reviewCount": 142,
+   "access": "車：東北自動車道・那須ＩＣより１５分　　ＪＲ：東北本線・黒磯駅よりお車にて２０分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久丙2622-6",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D76484",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D76484%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76484",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76484.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76484/76484.jpg",
+   "special": "本格ログハウス。 直結テラスでBBQ。 温泉「紺碧の湯」無料優待付き。 全棟JBL完備。"
+  },
   {
    "hotelNo": 136100,
    "name": "那須別邸　回",
@@ -152,7 +169,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 31900,
+   "minCharge": 29700,
    "reviewAverage": 4.65,
    "reviewCount": 396,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -288,7 +305,7 @@
    "hotelNo": 197628,
    "name": "リブマックスリゾート那須高原",
    "kana": "リブマックスリゾートナスコウゲン",
-   "minCharge": 7650,
+   "minCharge": 5950,
    "reviewAverage": 4.54,
    "reviewCount": 93,
    "access": "JR那須塩原駅から 車：約40分 東北自動車道那須 I.C.から 約15km 約30分",
@@ -317,23 +334,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/177431.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/177431/177431.jpg",
    "special": "24時間いつでも貸切で那須七湯の高雄温泉が楽しめる♪お子様連れも安心☆"
-  },
-  {
-   "hotelNo": 29770,
-   "name": "那須高原の貸し切り温泉　ペンション　タム！（TAM！）",
-   "kana": "なすこうげんのかしきりおんせん　ぺんしょん　たむ！",
-   "minCharge": 6210,
-   "reviewAverage": 4.53,
-   "reviewCount": 383,
-   "access": "東北自動車道・那須ＩＣよりお車で２０分。那須湯本方面へ、一軒茶屋前交差点左折約３ｋｍ先右折。",
-   "address1": "栃木県",
-   "address2": "那須郡那須町湯本213-1428",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29770",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29770%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29770",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29770.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29770/29770.jpg",
-   "special": "ペンションタムは楽しさいっぱいの宿です！"
   },
   {
    "hotelNo": 192389,

@@ -9,22 +9,22 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 36,
-  "matchRate": 40.0,
+  "matchCount": 35,
+  "matchRate": 38.9,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4896,
-  "medianPrice": 18175,
-  "reviewAvgMean": 4.43,
-  "pricedCount": 36
+  "minPrice": 7200,
+  "medianPrice": 18200,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 35
  },
  "hotels": [
   {
@@ -368,5 +368,5 @@
    "special": "◆大正14年創業◆湯の坪街道沿いに佇む、全7室の癒しの湯宿。4つの家族湯と大分の美食が楽しめる"
   }
  ],
- "listedMatchCount": 36
+ "listedMatchCount": 35
 }

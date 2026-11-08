@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,16 +24,16 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 12300,
-  "reviewAvgMean": 4.31,
-  "pricedCount": 42
+  "medianPrice": 12000,
+  "reviewAvgMean": 4.3,
+  "pricedCount": 41
  },
  "hotels": [
   {
    "hotelNo": 199079,
    "name": "全室露天風呂付　熱海　さんが",
    "kana": "ぜんしつろてんぶろつき　あたみ　さんが",
-   "minCharge": 36000,
+   "minCharge": 39900,
    "reviewAverage": 5.0,
    "reviewCount": 5,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車タクシー10分",
@@ -81,27 +81,10 @@
    "special": "源泉かけ流し貸切風呂２箇所、露天風呂付客室、アルコール飲み放題、カラオケ、サウナ、ゲームコーナーあり"
   },
   {
-   "hotelNo": 137049,
-   "name": "民宿　作五郎丸",
-   "kana": "さくごろうまる",
-   "minCharge": 13800,
-   "reviewAverage": 4.83,
-   "reviewCount": 269,
-   "access": "網代駅よりお車にて５分、徒歩にて１５分（送迎有）",
-   "address1": "静岡県",
-   "address2": "熱海市網代453-8",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137049",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137049%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137049",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137049.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137049/137049.jpg",
-   "special": "漁師町網代、路地裏の隠れ宿。海鮮料理と源泉露天風呂をお楽しみください。"
-  },
-  {
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 53900,
+   "minCharge": 57750,
    "reviewAverage": 4.73,
    "reviewCount": 175,
    "access": "ＪＲ　熱海駅",
@@ -271,7 +254,7 @@
    "hotelNo": 32113,
    "name": "熱海温泉　お部屋食と源泉かけ流しの宿　ホテル貫一",
    "kana": "あたみおんせん　おへやしょくとげんせんかけながしのやど　ほてるかんいち",
-   "minCharge": 12500,
+   "minCharge": 12000,
    "reviewAverage": 4.44,
    "reviewCount": 1862,
    "access": "熱海駅よりタクシー（１メーター）　徒歩13分　駐車場有（1泊1,650円）",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/5417.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5417/5417.jpg",
    "special": "全352室がオーシャンビュー 海上リゾートで唯一無二の絶景体験を"
+  },
+  {
+   "hotelNo": 198719,
+   "name": "ヴィラージュ熱海",
+   "kana": "ヴぃらーじゅあたみ",
+   "minCharge": 15320,
+   "reviewAverage": 4.28,
+   "reviewCount": 141,
+   "access": "【JR】東海道線「熱海駅」徒歩14分、【JR】伊東線「来宮駅」徒歩12分",
+   "address1": "静岡県",
+   "address2": "熱海市中央町11-10",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D198719",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D198719%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D198719",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198719.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198719/198719.jpg",
+   "special": "忙しい日常から離れて、ゆったりとした時間を。"
   }
  ],
- "listedMatchCount": 42
+ "listedMatchCount": 41
 }

@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "areas": [
   {
    "area": {
@@ -41,8 +41,8 @@
    "matchCount": 42,
    "matchRate": 15.0,
    "minPrice": 4600,
-   "medianPrice": 12800,
-   "reviewAvgMean": 4.29
+   "medianPrice": 12100,
+   "reviewAvgMean": 4.28
   },
   {
    "area": {
@@ -67,8 +67,8 @@
    "matchCount": 24,
    "matchRate": 7.5,
    "minPrice": 9500,
-   "medianPrice": 19350,
-   "reviewAvgMean": 4.34
+   "medianPrice": 21000,
+   "reviewAvgMean": 4.39
   },
   {
    "area": {
@@ -79,7 +79,7 @@
    "slug": "dinner--kinosaki",
    "matchCount": 36,
    "matchRate": 22.9,
-   "minPrice": 5700,
+   "minPrice": 6000,
    "medianPrice": 14345,
    "reviewAvgMean": 4.5
   },
@@ -107,7 +107,7 @@
    "matchRate": 22.0,
    "minPrice": 2650,
    "medianPrice": 8820,
-   "reviewAvgMean": 4.39
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -132,7 +132,7 @@
    "matchCount": 17,
    "matchRate": 9.3,
    "minPrice": 2900,
-   "medianPrice": 7750,
+   "medianPrice": 7300,
    "reviewAvgMean": 4.36
   }
  ]

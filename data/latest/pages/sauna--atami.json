@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4000,
+  "minPrice": 3500,
   "medianPrice": 13500,
   "reviewAvgMean": 4.26,
   "pricedCount": 35
@@ -82,7 +82,7 @@
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 53900,
+   "minCharge": 57750,
    "reviewAverage": 4.73,
    "reviewCount": 175,
    "access": "ＪＲ　熱海駅",
@@ -199,7 +199,7 @@
   },
   {
    "hotelNo": 196679,
-   "name": "ラビスタ熱海テラス（共立リゾート）（２０２６年３月３１日グランドＯＰＥＮ）",
+   "name": "ラビスタ熱海テラス（共立リゾート）",
    "kana": "らびすたあたみてらす",
    "minCharge": 15400,
    "reviewAverage": 4.47,

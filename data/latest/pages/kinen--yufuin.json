@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,9 +24,9 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9500,
-  "medianPrice": 18100,
-  "reviewAvgMean": 4.39,
-  "pricedCount": 16
+  "medianPrice": 18700,
+  "reviewAvgMean": 4.45,
+  "pricedCount": 15
  },
  "hotels": [
   {
@@ -283,24 +283,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/145331.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/145331/145331.jpg",
    "special": "全室源泉かけ流し半露天風呂付き。滞在中はサワー＆ソフトドリンク飲み放題で寛ぎのひとときを。"
-  },
-  {
-   "hotelNo": 84878,
-   "name": "湯布院温泉　ひすいの宿　黎明",
-   "kana": "ゆふいんおんせん　ひすいのやど　れいめい",
-   "minCharge": 15500,
-   "reviewAverage": 3.5,
-   "reviewCount": 345,
-   "access": "ＪＲ　由布院駅よりお車にて５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2212-35",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D84878",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D84878%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D84878",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/84878.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/84878/84878.jpg",
-   "special": "湯布院山麓に包まれた大自然の中で快適な客室と天然温泉、四季折々の料理をリーズナブルな料金で楽しめる宿"
   }
  ],
- "listedMatchCount": 16
+ "listedMatchCount": 15
 }

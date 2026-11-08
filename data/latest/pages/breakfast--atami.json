@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,16 +24,16 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 13102,
-  "reviewAvgMean": 4.31,
-  "pricedCount": 38
+  "medianPrice": 12705,
+  "reviewAvgMean": 4.3,
+  "pricedCount": 37
  },
  "hotels": [
   {
    "hotelNo": 199079,
    "name": "全室露天風呂付　熱海　さんが",
    "kana": "ぜんしつろてんぶろつき　あたみ　さんが",
-   "minCharge": 36000,
+   "minCharge": 39900,
    "reviewAverage": 5.0,
    "reviewCount": 5,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車タクシー10分",
@@ -81,27 +81,10 @@
    "special": "源泉かけ流し貸切風呂２箇所、露天風呂付客室、アルコール飲み放題、カラオケ、サウナ、ゲームコーナーあり"
   },
   {
-   "hotelNo": 137049,
-   "name": "民宿　作五郎丸",
-   "kana": "さくごろうまる",
-   "minCharge": 13800,
-   "reviewAverage": 4.83,
-   "reviewCount": 269,
-   "access": "網代駅よりお車にて５分、徒歩にて１５分（送迎有）",
-   "address1": "静岡県",
-   "address2": "熱海市網代453-8",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137049",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137049%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137049",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137049.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137049/137049.jpg",
-   "special": "漁師町網代、路地裏の隠れ宿。海鮮料理と源泉露天風呂をお楽しみください。"
-  },
-  {
    "hotelNo": 165597,
    "name": "ふふ　熱海",
    "kana": "ふふ　あたみ",
-   "minCharge": 53900,
+   "minCharge": 57750,
    "reviewAverage": 4.73,
    "reviewCount": 175,
    "access": "ＪＲ　熱海駅",
@@ -368,7 +351,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/182519.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182519/182519.jpg",
    "special": "目前に広がる圧巻の大パノラマオーシャンビュー　全客室オーシャンビュー・天然温泉露天風呂付"
+  },
+  {
+   "hotelNo": 108981,
+   "name": "熱海伊豆山温泉　ハートピア熱海",
+   "kana": "あたみいずさんおんせん　はーとぴああたみ",
+   "minCharge": 9900,
+   "reviewAverage": 4.21,
+   "reviewCount": 483,
+   "access": "熱海駅前バスロータリー⑥～⑨番乗り場　10:50～16：40の間で無料送迎バスあり（マクドナルド・ファミリーマート前）",
+   "address1": "静岡県",
+   "address2": "熱海市伊豆山717-18",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108981",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108981%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108981",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108981.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108981/108981.jpg",
+   "special": "相模灘の絶景と新鮮な海の幸を満喫！源泉2本の天然温泉など魅力満載♪"
   }
  ],
- "listedMatchCount": 38
+ "listedMatchCount": 37
 }

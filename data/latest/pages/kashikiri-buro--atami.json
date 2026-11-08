@@ -9,22 +9,22 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 30,
-  "matchRate": 33.3,
+  "matchCount": 29,
+  "matchRate": 32.2,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 10900,
-  "reviewAvgMean": 4.34,
-  "pricedCount": 30
+  "medianPrice": 10200,
+  "reviewAvgMean": 4.32,
+  "pricedCount": 29
  },
  "hotels": [
   {
@@ -43,23 +43,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198716.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198716/198716.jpg",
    "special": "源泉かけ流し貸切風呂２箇所、露天風呂付客室、アルコール飲み放題、カラオケ、サウナ、ゲームコーナーあり"
-  },
-  {
-   "hotelNo": 137049,
-   "name": "民宿　作五郎丸",
-   "kana": "さくごろうまる",
-   "minCharge": 13800,
-   "reviewAverage": 4.83,
-   "reviewCount": 269,
-   "access": "網代駅よりお車にて５分、徒歩にて１５分（送迎有）",
-   "address1": "静岡県",
-   "address2": "熱海市網代453-8",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137049",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137049%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137049",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137049.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137049/137049.jpg",
-   "special": "漁師町網代、路地裏の隠れ宿。海鮮料理と源泉露天風呂をお楽しみください。"
   },
   {
    "hotelNo": 38893,
@@ -218,7 +201,7 @@
    "hotelNo": 32113,
    "name": "熱海温泉　お部屋食と源泉かけ流しの宿　ホテル貫一",
    "kana": "あたみおんせん　おへやしょくとげんせんかけながしのやど　ほてるかんいち",
-   "minCharge": 12500,
+   "minCharge": 12000,
    "reviewAverage": 4.44,
    "reviewCount": 1862,
    "access": "熱海駅よりタクシー（１メーター）　徒歩13分　駐車場有（1泊1,650円）",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/72738.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/72738/72738.jpg",
    "special": "2013年全室リニューアル完了！更に快適になった客室は全室オーシャンビュー！貸切風呂のご利用は無料！"
+  },
+  {
+   "hotelNo": 28514,
+   "name": "貸切温泉のコンドミニアム　グランビュー熱海",
+   "kana": "かしきりおんせんのこんどみにあむ　ぐらんびゅー　あたみ",
+   "minCharge": 5000,
+   "reviewAverage": 4.13,
+   "reviewCount": 1353,
+   "access": "熱海駅から徒歩7分！熱海サンビーチまで徒歩3分！熱海滞在に便利な立地で飲食店は周辺に多数あり♪",
+   "address1": "静岡県",
+   "address2": "熱海市咲見町8-9",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28514",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28514%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28514",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28514.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28514/28514.jpg",
+   "special": "熱海駅徒歩7分☆海まで3分！3室限定の半露天風呂客室と７つの開発業務が人気のコンドミニアムホテル！"
   }
  ],
- "listedMatchCount": 30
+ "listedMatchCount": 29
 }

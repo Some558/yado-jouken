@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-11-08",
+ "dataAsOf": "2026-11-09",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4200,
+  "minPrice": 4550,
   "medianPrice": 13530,
   "reviewAvgMean": 4.38,
   "pricedCount": 38
@@ -337,7 +337,7 @@
    "hotelNo": 108587,
    "name": "草津温泉　湯畑展望露天の宿　ぬ志勇旅館（ぬしゆうりょかん）",
    "kana": "くさつおんせん　ゆばたけてんぼうろてんのやど　ぬしゆうりょかん",
-   "minCharge": 10500,
+   "minCharge": 10000,
    "reviewAverage": 4.39,
    "reviewCount": 578,
    "access": "長野原草津口駅から草津温泉行きバスで約２０分",
