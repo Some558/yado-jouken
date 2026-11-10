@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 3500,
+  "minPrice": 3200,
   "medianPrice": 13500,
   "reviewAvgMean": 4.26,
   "pricedCount": 35
@@ -184,7 +184,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 19800,
+   "minCharge": 18810,
    "reviewAverage": 4.53,
    "reviewCount": 341,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -286,7 +286,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 15200,
+   "minCharge": 14600,
    "reviewAverage": 4.28,
    "reviewCount": 3701,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",

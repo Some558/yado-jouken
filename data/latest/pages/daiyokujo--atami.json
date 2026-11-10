@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 12100,
+  "medianPrice": 13100,
   "reviewAvgMean": 4.24,
   "pricedCount": 33
  },
@@ -135,7 +135,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 19800,
+   "minCharge": 18810,
    "reviewAverage": 4.53,
    "reviewCount": 341,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -237,7 +237,7 @@
    "hotelNo": 5417,
    "name": "ホテルニューアカオ",
    "kana": "ほてるにゅーあかお",
-   "minCharge": 15200,
+   "minCharge": 14600,
    "reviewAverage": 4.28,
    "reviewCount": 3701,
    "access": "宿泊棟によりフロントが異なります。【ホライゾン】⇒ホライゾン・ウイング【オーシャン】⇒オーシャン・ウイング",
@@ -339,7 +339,7 @@
    "hotelNo": 84856,
    "name": "亀の井ホテル　熱海",
    "kana": "かめのいほてる　あたみ",
-   "minCharge": 14070,
+   "minCharge": 13335,
    "reviewAverage": 4.19,
    "reviewCount": 2475,
    "access": "JR熱海駅より無料送迎（要予約）あり、又は路線バス、厚木ICより車で約60分・駐車場無料",

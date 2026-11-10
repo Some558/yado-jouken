@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "facility"
  },
@@ -65,7 +65,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 33000,
+   "minCharge": 31900,
    "reviewAverage": 4.76,
    "reviewCount": 919,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -235,7 +235,7 @@
    "hotelNo": 162753,
    "name": "箱根風雅",
    "kana": "はこねふうが",
-   "minCharge": 11000,
+   "minCharge": 12100,
    "reviewAverage": 4.47,
    "reviewCount": 1827,
    "access": "バス停「仙石高原」より徒歩約7分／小田原駅より箱根登山バスにて約50分／バスタ新宿より高速バスにて約2時間",
@@ -354,7 +354,7 @@
    "hotelNo": 19684,
    "name": "箱根湯本温泉　ホテル　おかだ",
    "kana": "はこねゆもとおんせん　おかだ",
-   "minCharge": 11200,
+   "minCharge": 11400,
    "reviewAverage": 4.41,
    "reviewCount": 1880,
    "access": "箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分",

@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 199079,
    "name": "全室露天風呂付　熱海　さんが",
    "kana": "ぜんしつろてんぶろつき　あたみ　さんが",
-   "minCharge": 39900,
+   "minCharge": 36000,
    "reviewAverage": 5.0,
    "reviewCount": 5,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車タクシー10分",
@@ -82,7 +82,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 41030,
+   "minCharge": 39930,
    "reviewAverage": 4.85,
    "reviewCount": 575,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -354,7 +354,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 19800,
+   "minCharge": 18810,
    "reviewAverage": 4.53,
    "reviewCount": 341,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",

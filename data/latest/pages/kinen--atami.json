@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 12705,
+  "medianPrice": 13100,
   "reviewAvgMean": 4.32,
   "pricedCount": 41
  },
@@ -33,7 +33,7 @@
    "hotelNo": 199079,
    "name": "全室露天風呂付　熱海　さんが",
    "kana": "ぜんしつろてんぶろつき　あたみ　さんが",
-   "minCharge": 39900,
+   "minCharge": 36000,
    "reviewAverage": 5.0,
    "reviewCount": 5,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車タクシー10分",
@@ -203,7 +203,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 19800,
+   "minCharge": 18810,
    "reviewAverage": 4.53,
    "reviewCount": 341,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -339,7 +339,7 @@
    "hotelNo": 181341,
    "name": "プリンス　スマート　イン　熱海",
    "kana": "ぷりんす　すまーと　いん　あたみ",
-   "minCharge": 5604,
+   "minCharge": 6157,
    "reviewAverage": 4.34,
    "reviewCount": 538,
    "access": "JR熱海駅より徒歩約3分",

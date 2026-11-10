@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5280,
-  "medianPrice": 15730,
+  "medianPrice": 15400,
   "reviewAvgMean": 4.3,
   "pricedCount": 29
  },
@@ -220,7 +220,7 @@
    "hotelNo": 158555,
    "name": "箱根リトリートｆｏｒｅ",
    "kana": "はこね　りとりーと　ふぉーれ",
-   "minCharge": 16875,
+   "minCharge": 13730,
    "reviewAverage": 4.41,
    "reviewCount": 348,
    "access": "小田原駅よりお車で約40分（週末は混雑しますので余裕をもってお越しください）",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-09",
+ "dataAsOf": "2026-11-10",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5280,
-  "medianPrice": 15565,
+  "medianPrice": 15075,
   "reviewAvgMean": 4.34,
   "pricedCount": 36
  },
@@ -152,7 +152,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 10200,
+   "minCharge": 11900,
    "reviewAverage": 4.48,
    "reviewCount": 175,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -288,7 +288,7 @@
    "hotelNo": 158555,
    "name": "箱根リトリートｆｏｒｅ",
    "kana": "はこね　りとりーと　ふぉーれ",
-   "minCharge": 16875,
+   "minCharge": 13730,
    "reviewAverage": 4.41,
    "reviewCount": 348,
    "access": "小田原駅よりお車で約40分（週末は混雑しますので余裕をもってお越しください）",
