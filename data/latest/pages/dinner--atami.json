@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-10",
+ "dataAsOf": "2026-11-11",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4600,
-  "medianPrice": 13100,
+  "medianPrice": 12600,
   "reviewAvgMean": 4.28,
   "pricedCount": 33
  },
@@ -67,7 +67,7 @@
    "hotelNo": 198716,
    "name": "珀－ＨａＫｕ－熱海来宮　〜夜を愉しむ湯宿〜",
    "kana": "はくあたみきのみや　よるをたのしむゆやど",
-   "minCharge": 11600,
+   "minCharge": 10800,
    "reviewAverage": 4.86,
    "reviewCount": 7,
    "access": "来宮駅より700m  ■徒歩15分上り坂　■タクシー3分の為タクシー推奨",
@@ -237,7 +237,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 9900,
+   "minCharge": 12100,
    "reviewAverage": 4.32,
    "reviewCount": 205,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",

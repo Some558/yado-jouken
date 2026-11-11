@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-10",
+ "dataAsOf": "2026-11-11",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 70231,
    "name": "懐郷ノ宿　喜楽",
    "kana": "かいきょうのやど　きらく",
-   "minCharge": 16843,
+   "minCharge": 16520,
    "reviewAverage": 4.65,
    "reviewCount": 429,
    "access": "日豊本線　別府駅より車にて１５分",
@@ -286,7 +286,7 @@
    "hotelNo": 72876,
    "name": "別府観海寺温泉　旅亭　松葉屋",
    "kana": "べっぷかんかいじおんせん　りょてい　まつばや",
-   "minCharge": 20740,
+   "minCharge": 21750,
    "reviewAverage": 4.45,
    "reviewCount": 393,
    "access": "別府駅よりお車にて７分",
@@ -320,7 +320,7 @@
    "hotelNo": 28628,
    "name": "別府温泉　天空湯房　清海荘",
    "kana": "べっぷおんせん　てんくうとうぼう　せいかいそう",
-   "minCharge": 6050,
+   "minCharge": 7700,
    "reviewAverage": 4.39,
    "reviewCount": 638,
    "access": "ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分",

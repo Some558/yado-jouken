@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-10",
+ "dataAsOf": "2026-11-11",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4980,
-  "medianPrice": 7700,
+  "medianPrice": 7150,
   "reviewAvgMean": 4.01,
   "pricedCount": 5
  },
@@ -82,7 +82,7 @@
    "hotelNo": 29387,
    "name": "伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら",
    "kana": "いかほおんせん　きむら",
-   "minCharge": 7700,
+   "minCharge": 7150,
    "reviewAverage": 3.69,
    "reviewCount": 2151,
    "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",

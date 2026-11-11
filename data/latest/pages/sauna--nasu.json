@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-10",
+ "dataAsOf": "2026-11-11",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5980,
-  "medianPrice": 11295,
+  "medianPrice": 11270,
   "reviewAvgMean": 4.39,
   "pricedCount": 22
  },
@@ -252,7 +252,7 @@
    "hotelNo": 73998,
    "name": "那須温泉　ホテルハーヴェスト那須",
    "kana": "はーヴぇすとなす",
-   "minCharge": 12500,
+   "minCharge": 11500,
    "reviewAverage": 4.37,
    "reviewCount": 711,
    "access": "那須塩原駅より無料シャトルバス運行（定期・前日までの完全予約制）",

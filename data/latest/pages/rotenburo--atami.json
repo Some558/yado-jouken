@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-10",
+ "dataAsOf": "2026-11-11",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 12050,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.33,
   "pricedCount": 66
  },
@@ -65,7 +65,7 @@
    "hotelNo": 198716,
    "name": "珀－ＨａＫｕ－熱海来宮　〜夜を愉しむ湯宿〜",
    "kana": "はくあたみきのみや　よるをたのしむゆやど",
-   "minCharge": 11600,
+   "minCharge": 10800,
    "reviewAverage": 4.86,
    "reviewCount": 7,
    "access": "来宮駅より700m  ■徒歩15分上り坂　■タクシー3分の為タクシー推奨",
@@ -235,7 +235,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20875,
+   "minCharge": 20687,
    "reviewAverage": 4.59,
    "reviewCount": 347,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
