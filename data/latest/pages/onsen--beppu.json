@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -20,7 +20,7 @@
   "matchRate": 8.9,
   "denominator": {
    "type": "area_total",
-   "value": 258,
+   "value": 259,
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 5405,
@@ -135,7 +135,7 @@
    "hotelNo": 158425,
    "name": "別府鉄輪温泉　山荘　神和苑",
    "kana": "さんそう　かんなわえん",
-   "minCharge": 17600,
+   "minCharge": 15950,
    "reviewAverage": 4.51,
    "reviewCount": 794,
    "access": "JR別府駅から車・20分／鉄輪口バス停・徒歩５分／別府IC・車で５分　※送迎サービス有（定期便／条件・注意事項 要確認）",

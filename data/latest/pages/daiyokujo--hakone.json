@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -17,14 +17,14 @@
  },
  "stats": {
   "matchCount": 38,
-  "matchRate": 10.3,
+  "matchRate": 10.2,
   "denominator": {
    "type": "area_total",
-   "value": 369,
+   "value": 371,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5280,
-  "medianPrice": 15400,
+  "medianPrice": 16500,
   "reviewAvgMean": 4.3,
   "pricedCount": 29
  },
@@ -339,7 +339,7 @@
    "hotelNo": 146134,
    "name": "大人の隠れ家　箱根　別邸今宵",
    "kana": "おとなのかくれが　はこね　べっていこよい",
-   "minCharge": 12100,
+   "minCharge": 16500,
    "reviewAverage": 4.26,
    "reviewCount": 524,
    "access": "強羅駅より無料送迎車で約3分／徒歩約10分",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 24,
-  "matchRate": 7.5,
+  "matchRate": 7.4,
   "denominator": {
    "type": "area_total",
-   "value": 322,
+   "value": 324,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 9500,
@@ -33,7 +33,7 @@
    "hotelNo": 187285,
    "name": "由布院温泉グランピング　風の響き",
    "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 23460,
+   "minCharge": 18900,
    "reviewAverage": 4.88,
    "reviewCount": 48,
    "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",

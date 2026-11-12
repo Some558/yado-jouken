@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "facility"
  },
@@ -269,7 +269,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 8800,
+   "minCharge": 11000,
    "reviewAverage": 4.05,
    "reviewCount": 135,
    "access": "上強羅駅より徒歩約１分",

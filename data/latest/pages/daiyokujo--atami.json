@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -20,10 +20,10 @@
   "matchRate": 13.2,
   "denominator": {
    "type": "area_total",
-   "value": 280,
+   "value": 281,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 4600,
+  "minPrice": 4900,
   "medianPrice": 12600,
   "reviewAvgMean": 4.24,
   "pricedCount": 33
@@ -50,7 +50,7 @@
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
    "kana": "あたみ　ほてるなぎさかん",
-   "minCharge": 13721,
+   "minCharge": 15246,
    "reviewAverage": 4.68,
    "reviewCount": 114,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",
@@ -152,7 +152,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 10200,
+   "minCharge": 11200,
    "reviewAverage": 4.52,
    "reviewCount": 1117,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",

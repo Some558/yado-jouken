@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 1850,
-  "medianPrice": 5910,
+  "medianPrice": 6050,
   "reviewAvgMean": 4.27,
   "pricedCount": 38
  },
@@ -169,7 +169,7 @@
    "hotelNo": 20469,
    "name": "道後温泉　オールドイングランド　道後山の手ホテル",
    "kana": "どうごおんせん　おーるどいんぐらんど　どうご　やまのてほてる",
-   "minCharge": 5500,
+   "minCharge": 6000,
    "reviewAverage": 4.47,
    "reviewCount": 4256,
    "access": "道後温泉駅より徒歩約5分／空港からリムジンバスで３５分／ＪＲ松山駅より電車又はバスで２０分／松山観光港よりバスで５０分",
@@ -339,7 +339,7 @@
    "hotelNo": 180563,
    "name": "コンフォートホテル松山",
    "kana": "こんふぉーとほてる　まつやま",
-   "minCharge": 4600,
+   "minCharge": 4350,
    "reviewAverage": 4.24,
    "reviewCount": 1266,
    "access": "伊予鉄「松山市駅」徒歩約４分◆松山空港リムジンバス約30分◆松山自動車道「松山IC」車約20分◆",

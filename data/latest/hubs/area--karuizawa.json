@@ -4,8 +4,8 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-11",
- "recordCount": 280,
+ "dataAsOf": "2026-11-12",
+ "recordCount": 281,
  "conditions": [
   {
    "condition": "onsen",
@@ -119,7 +119,7 @@
    "hotelNo": 197497,
    "name": "Ｓｕｎｎｙ　Ｇｏ　軽井沢・御代田",
    "kana": "さにーごー　かるいざわ・みよた",
-   "minCharge": 5880,
+   "minCharge": 6080,
    "reviewAverage": 4.88,
    "reviewCount": 16,
    "access": "・佐久ICから車で７分　・軽井沢ICから車で25分　・北陸新幹線「軽井沢駅」→しなの鉄道「御代田駅」から徒歩約10分",
@@ -444,7 +444,7 @@
    "hotelNo": 167023,
    "name": "ルグラン軽井沢ホテル＆リゾート（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらん　かるいざわほてる　あんど　りぞーと",
-   "minCharge": 16170,
+   "minCharge": 18480,
    "reviewAverage": 4.65,
    "reviewCount": 376,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅・碓氷軽井沢ICより車で約15分（駅から無料送迎バス有）",
@@ -488,7 +488,7 @@
    "hotelNo": 153367,
    "name": "ルグラン旧軽井沢（グランベルホテルズ＆リゾーツ）",
    "kana": "るぐらんきゅうかるいざわ",
-   "minCharge": 11100,
+   "minCharge": 12900,
    "reviewAverage": 4.64,
    "reviewCount": 475,
    "access": "東京より北陸新幹線にて約1時間。軽井沢駅から徒歩15分。駐車場45台無料／先着順（送迎車サービス有）",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "facility"
  },
@@ -48,7 +48,7 @@
    "hotelNo": 72871,
    "name": "由布院温泉　湯富里の宿　一壷天",
    "kana": "ゆとりのやど　いっこてん",
-   "minCharge": 41300,
+   "minCharge": 38000,
    "reviewAverage": 4.87,
    "reviewCount": 268,
    "access": "車/湯布院ICから県道216号。湯布院幹部交番を左折（7分）電車/JR由布院駅下車、車で約5分（2.5km）",
@@ -150,7 +150,7 @@
    "hotelNo": 139452,
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
-   "minCharge": 20322,
+   "minCharge": 22089,
    "reviewAverage": 4.76,
    "reviewCount": 233,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",

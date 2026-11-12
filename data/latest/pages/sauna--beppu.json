@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-11",
+ "dataAsOf": "2026-11-12",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 187531,
    "name": "別館　うみね",
    "kana": "べっかん　うみね",
-   "minCharge": 23920,
+   "minCharge": 11820,
    "reviewAverage": 4.6,
    "reviewCount": 392,
    "access": "交通アクセスJR別府駅からタクシーで20分／鉄輪口バス停から徒歩15分（急坂有り）／別府ICから車で10分",
@@ -201,7 +201,7 @@
    "hotelNo": 188238,
    "name": "別府八湯　御宿　野乃別府（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "べっぷはっとう　おんやどののべっぷ",
-   "minCharge": 10925,
+   "minCharge": 9500,
    "reviewAverage": 4.52,
    "reviewCount": 843,
    "access": "別府駅東口より徒歩約1分！",
