@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 12000,
+  "medianPrice": 12100,
   "reviewAvgMean": 4.26,
   "pricedCount": 17
  },
@@ -48,7 +48,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 11900,
+   "minCharge": 12750,
    "reviewAverage": 4.48,
    "reviewCount": 175,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -218,7 +218,7 @@
    "hotelNo": 142874,
    "name": "箱根強羅グアムドッグ本店",
    "kana": "はこねごうらぐあむどっぐほんてん",
-   "minCharge": 21870,
+   "minCharge": 20970,
    "reviewAverage": 4.18,
    "reviewCount": 108,
    "access": "早雲山駅より徒歩にて１５分。ＪＲ　小田原駅より伊豆箱根バス「大涌谷経由湖尻行き」早雲山上バス停で下車、徒歩５分",

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5280,
-  "medianPrice": 15950,
+  "medianPrice": 15675,
   "reviewAvgMean": 4.34,
   "pricedCount": 36
  },
@@ -118,7 +118,7 @@
    "hotelNo": 19786,
    "name": "箱根湯本温泉　女性に優しい癒しの宿　ホテルマイユクール祥月",
    "kana": "はこねゆもとおんせん　じょせいにやさしいいやしのやど　ほてるまいゆくーるしょうげつ",
-   "minCharge": 11500,
+   "minCharge": 14750,
    "reviewAverage": 4.55,
    "reviewCount": 6743,
    "access": "箱根湯本駅下車徒歩１２分／小田原厚木道路箱根口ＩＣから2ｋｍ　箱根神社約40分／箱根ターンパイク約10分",
@@ -152,7 +152,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 11900,
+   "minCharge": 12750,
    "reviewAverage": 4.48,
    "reviewCount": 175,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -169,7 +169,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 21120,
+   "minCharge": 20350,
    "reviewAverage": 4.46,
    "reviewCount": 1073,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",

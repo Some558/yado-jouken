@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -23,7 +23,7 @@
    "value": 353,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
-  "minPrice": 2650,
+  "minPrice": 2240,
   "medianPrice": 7770,
   "reviewAvgMean": 4.33,
   "pricedCount": 23
@@ -339,7 +339,7 @@
    "hotelNo": 183690,
    "name": "ほったらかしの宿　ゆうふり那須高雄温泉ロッジ",
    "kana": "ほったらかしのやど　ゆうふりなすたかおおんせんろっじ（２０２５ねん１０がつ１にちおーぷん）",
-   "minCharge": 2650,
+   "minCharge": 2240,
    "reviewAverage": 4.17,
    "reviewCount": 337,
    "access": "東北自動車道那須IC～東北自動車道、那須IC～県道17号（那須街道）湯本方面へ、ICから約30分",

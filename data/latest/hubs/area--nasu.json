@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "recordCount": 353,
  "conditions": [
   {
@@ -532,7 +532,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D16139",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/16139.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/16139/16139.jpg",
-   "special": "秋のグルメフェア特典満載★サービス・料理高評価★栃木和牛プランが好評",
+   "special": "14・28土曜日空室有★秋は特典満載★サービス・料理高評価★和牛プラン人気",
    "conditions": [
     "kinen",
     "breakfast",
@@ -1717,7 +1717,7 @@
    "hotelNo": 183690,
    "name": "ほったらかしの宿　ゆうふり那須高雄温泉ロッジ",
    "kana": "ほったらかしのやど　ゆうふりなすたかおおんせんろっじ（２０２５ねん１０がつ１にちおーぷん）",
-   "minCharge": 2650,
+   "minCharge": 2240,
    "reviewAverage": 4.17,
    "reviewCount": 337,
    "access": "東北自動車道那須IC～東北自動車道、那須IC～県道17号（那須街道）湯本方面へ、ICから約30分",

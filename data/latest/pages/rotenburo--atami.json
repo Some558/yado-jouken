@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 199079,
    "name": "全室露天風呂付　熱海　さんが",
    "kana": "ぜんしつろてんぶろつき　あたみ　さんが",
-   "minCharge": 36000,
+   "minCharge": 39900,
    "reviewAverage": 5.0,
    "reviewCount": 5,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車タクシー10分",

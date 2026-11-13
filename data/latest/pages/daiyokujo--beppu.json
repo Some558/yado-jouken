@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -20,10 +20,10 @@
   "matchRate": 6.9,
   "denominator": {
    "type": "area_total",
-   "value": 259,
+   "value": 260,
    "label": "別府・日出エリアの掲載施設数"
   },
-  "minPrice": 5405,
+  "minPrice": 4620,
   "medianPrice": 10900,
   "reviewAvgMean": 4.32,
   "pricedCount": 17
@@ -186,7 +186,7 @@
    "hotelNo": 172910,
    "name": "ＡＮＡインターコンチネンタル別府リゾート＆スパ　ｂｙ　ＩＨＧ",
    "kana": "えいえぬえー　いんたーこんちねんたるべっぷりぞーとあんどすぱ",
-   "minCharge": 31250,
+   "minCharge": 29350,
    "reviewAverage": 4.35,
    "reviewCount": 113,
    "access": "別府駅より車で約20分、大分空港より車で約50分。別府駅⇒ホテル間の送迎サービス有（ご予約制・11時〜17時・1時間毎）",
@@ -271,7 +271,7 @@
    "hotelNo": 8725,
    "name": "ホテル　サンバリー　アネックス",
    "kana": "ほてる　さんばりー　あねっくす",
-   "minCharge": 5405,
+   "minCharge": 4620,
    "reviewAverage": 4.09,
    "reviewCount": 2148,
    "access": "別府駅より車で10分（無料送迎有）／別府大学駅より徒歩15分／福岡発着高速バス停（横断道路観光港入口）より徒歩3分",

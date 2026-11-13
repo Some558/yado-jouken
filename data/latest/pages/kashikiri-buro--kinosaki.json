@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6000,
-  "medianPrice": 17600,
+  "medianPrice": 17875,
   "reviewAvgMean": 4.48,
-  "pricedCount": 43
+  "pricedCount": 42
  },
  "hotels": [
   {
@@ -82,7 +82,7 @@
    "hotelNo": 41857,
    "name": "城崎温泉　みつわ旅館",
    "kana": "きのさきおんせん　みつわりょかん",
-   "minCharge": 10200,
+   "minCharge": null,
    "reviewAverage": 4.85,
    "reviewCount": 213,
    "access": "山陰本線　城崎温泉駅より徒歩２～３分",
@@ -133,7 +133,7 @@
    "hotelNo": 19956,
    "name": "漁火の見える宿　日の出荘",
    "kana": "いさりびのみえるやど　ひのでそう",
-   "minCharge": 36700,
+   "minCharge": 38700,
    "reviewAverage": 4.8,
    "reviewCount": 37,
    "access": "ＪＲ竹野駅より送迎あり／中国自動車道　福崎ＩＣより播但有料道路→Ｒ３１２豊岡→Ｒ１７８にて竹野",
@@ -218,7 +218,7 @@
    "hotelNo": 144559,
    "name": "城崎温泉　但馬牛極みの宿　小宿　縁",
    "kana": "きのさきおんせん　たじまうしきわみのやど　こやど　えん",
-   "minCharge": 20350,
+   "minCharge": 18150,
    "reviewAverage": 4.67,
    "reviewCount": 301,
    "access": "JR城崎温泉駅より徒歩で３分 。北近畿豊岡道但馬空港ICより国道３１２号線、県道３号線経由で城崎温泉まで約３０分。",

@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-12",
+ "dataAsOf": "2026-11-13",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -23,7 +23,7 @@
    "value": 157,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
-  "minPrice": 6000,
+  "minPrice": 4800,
   "medianPrice": 13200,
   "reviewAvgMean": 4.49,
   "pricedCount": 23
@@ -339,7 +339,7 @@
    "hotelNo": 177593,
    "name": "ザ　グラン　リゾート城崎",
    "kana": "ざ　ぐらん　りぞーときのさき",
-   "minCharge": 7400,
+   "minCharge": 4800,
    "reviewAverage": 4.13,
    "reviewCount": 94,
    "access": "ＪＲ　城崎温泉駅よりお車にて約１０分",

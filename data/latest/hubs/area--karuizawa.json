@@ -4,8 +4,8 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-12",
- "recordCount": 281,
+ "dataAsOf": "2026-11-13",
+ "recordCount": 282,
  "conditions": [
   {
    "condition": "onsen",
@@ -347,7 +347,7 @@
    "hotelNo": 25164,
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
-   "minCharge": 17130,
+   "minCharge": 15800,
    "reviewAverage": 4.68,
    "reviewCount": 547,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
@@ -725,7 +725,7 @@
    "hotelNo": 1816,
    "name": "ホテルマロウド軽井沢",
    "kana": "まろうど　かるいざわ",
-   "minCharge": 6600,
+   "minCharge": 5500,
    "reviewAverage": 4.55,
    "reviewCount": 417,
    "access": "長野行新幹線軽井沢駅下車徒歩１０分 (9:00～18:00送迎あり/到着時要連絡)",
@@ -1579,7 +1579,7 @@
    "hotelNo": 191694,
    "name": "コンフォートイン軽井沢",
    "kana": "こんふぉーといんかるいざわ",
-   "minCharge": 3500,
+   "minCharge": 3300,
    "reviewAverage": 4.04,
    "reviewCount": 346,
    "access": "上信越自動車道「碓氷軽井沢ＩＣ」より約１４分◆ＪＲ「軽井沢］駅南口より車で約５分◆無料駐車場完備",
