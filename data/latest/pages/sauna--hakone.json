@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 179644,
    "name": "箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）",
    "kana": "はこね・ごうら　からく（おりっくすほてるず＆りぞーと）",
-   "minCharge": 40870,
+   "minCharge": 39180,
    "reviewAverage": 4.57,
    "reviewCount": 125,
    "access": "強羅駅より徒歩約3分／箱根湯本駅よりタクシー約20分",
@@ -354,7 +354,7 @@
    "hotelNo": 19684,
    "name": "箱根湯本温泉　ホテル　おかだ",
    "kana": "はこねゆもとおんせん　おかだ",
-   "minCharge": 11600,
+   "minCharge": 11100,
    "reviewAverage": 4.41,
    "reviewCount": 1880,
    "access": "箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分",

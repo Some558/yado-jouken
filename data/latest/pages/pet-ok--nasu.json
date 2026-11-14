@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3280,
-  "medianPrice": 7822,
+  "medianPrice": 7735,
   "reviewAvgMean": 4.41,
   "pricedCount": 26
  },
@@ -99,7 +99,7 @@
    "hotelNo": 167732,
    "name": "ホテル四季の館那須",
    "kana": "ほてるしきのやかたなす",
-   "minCharge": 13755,
+   "minCharge": 13440,
    "reviewAverage": 4.68,
    "reviewCount": 85,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より無料送迎バスにて30分（要予約）",

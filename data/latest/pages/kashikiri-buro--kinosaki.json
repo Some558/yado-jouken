@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -24,7 +24,7 @@
   "minPrice": 6000,
   "medianPrice": 17875,
   "reviewAvgMean": 4.48,
-  "pricedCount": 42
+  "pricedCount": 44
  },
  "hotels": [
   {

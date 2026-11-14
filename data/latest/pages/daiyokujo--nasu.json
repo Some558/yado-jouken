@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-14",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 2240,
-  "medianPrice": 7770,
+  "medianPrice": 7665,
   "reviewAvgMean": 4.33,
   "pricedCount": 23
  },
@@ -67,7 +67,7 @@
    "hotelNo": 56935,
    "name": "那須温泉山楽",
    "kana": "なすおんせん　さんらく",
-   "minCharge": 29700,
+   "minCharge": 27720,
    "reviewAverage": 4.65,
    "reviewCount": 396,
    "access": "那須塩原駅より車で約３５分／東北自動車道　那須ＩＣより約１５分/無料送迎バスあり。要事前予約",
@@ -305,7 +305,7 @@
    "hotelNo": 167733,
    "name": "ホテル森の風那須",
    "kana": "もりのかぜなす",
-   "minCharge": 7875,
+   "minCharge": 7665,
    "reviewAverage": 4.18,
    "reviewCount": 293,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",

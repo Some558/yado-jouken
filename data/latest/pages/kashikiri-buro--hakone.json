@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 5760,
-  "medianPrice": 18735,
+  "medianPrice": 19210,
   "reviewAvgMean": 4.42,
   "pricedCount": 24
  },
@@ -286,7 +286,7 @@
    "hotelNo": 13791,
    "name": "箱根湯本温泉　あうら橘",
    "kana": "はこねゆもとおんせん　あうらたちばな",
-   "minCharge": 18110,
+   "minCharge": 19060,
    "reviewAverage": 4.37,
    "reviewCount": 1832,
    "access": "小田急線「箱根湯本駅」より徒歩１５分 / 小田原厚木道路 箱根ICより国道1号線→県道732号線経由",

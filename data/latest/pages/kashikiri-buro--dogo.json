@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3500,
-  "medianPrice": 11000,
+  "medianPrice": 10890,
   "reviewAvgMean": 4.48,
   "pricedCount": 13
  },
@@ -62,6 +62,23 @@
    "special": "露天風呂を含む3種の貸切風呂が入り放題。温泉付離れを含む全6室。ご友人や夫婦で水入らずの癒しの旅を。"
   },
   {
+   "hotelNo": 176808,
+   "name": "道後温泉　ホテル古湧園　遥",
+   "kana": "どうごおんせん　こわくえん　はるか",
+   "minCharge": 10890,
+   "reviewAverage": 4.62,
+   "reviewCount": 808,
+   "access": "道後温泉駅より徒歩にて約５分",
+   "address1": "愛媛県",
+   "address2": "松山市道後鷺谷町1-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176808",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D176808%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D176808",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176808.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176808/176808.jpg",
+   "special": "２０１９年１０月グランドオープン♪『人と環境に優しいホテル』をコンセプトに快適な滞在をご提供します。"
+  },
+  {
    "hotelNo": 14270,
    "name": "権現山荘",
    "kana": "ごんげんさんそう",
@@ -77,23 +94,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14270.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14270/14270.jpg",
    "special": "海の見える温泉宿です。食事は瀬戸内の魚を使った会席料理で部屋食です。※当館に看板猫はいません。"
-  },
-  {
-   "hotelNo": 176808,
-   "name": "道後温泉　ホテル古湧園　遥",
-   "kana": "どうごおんせん　こわくえん　はるか",
-   "minCharge": 11880,
-   "reviewAverage": 4.62,
-   "reviewCount": 808,
-   "access": "道後温泉駅より徒歩にて約５分",
-   "address1": "愛媛県",
-   "address2": "松山市道後鷺谷町1-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D176808",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D176808%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D176808",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/176808.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/176808/176808.jpg",
-   "special": "２０１９年１０月グランドオープン♪『人と環境に優しいホテル』をコンセプトに快適な滞在をご提供します。"
   },
   {
    "hotelNo": 52143,

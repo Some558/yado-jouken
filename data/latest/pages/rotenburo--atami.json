@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4840,
-  "medianPrice": 12100,
+  "medianPrice": 12050,
   "reviewAvgMean": 4.33,
   "pricedCount": 66
  },
@@ -31,7 +31,7 @@
    "hotelNo": 199079,
    "name": "全室露天風呂付　熱海　さんが",
    "kana": "ぜんしつろてんぶろつき　あたみ　さんが",
-   "minCharge": 39900,
+   "minCharge": 42000,
    "reviewAverage": 5.0,
    "reviewCount": 5,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車タクシー10分",
@@ -212,7 +212,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】本日11/7(土)当日キャンセル有！お早めに！"
+   "special": "【旅館甲子園優勝の宿】3連休11/22(日)貴賓室キャンセル有！【基本お部屋食】"
   },
   {
    "hotelNo": 130641,
@@ -235,7 +235,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20687,
+   "minCharge": 20875,
    "reviewAverage": 4.59,
    "reviewCount": 347,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -354,7 +354,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 18810,
+   "minCharge": 17820,
    "reviewAverage": 4.53,
    "reviewCount": 341,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",

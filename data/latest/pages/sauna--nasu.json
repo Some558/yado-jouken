@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "detection": {
   "type": "facility"
  },
@@ -354,7 +354,7 @@
    "hotelNo": 167733,
    "name": "ホテル森の風那須",
    "kana": "もりのかぜなす",
-   "minCharge": 7875,
+   "minCharge": 7665,
    "reviewAverage": 4.18,
    "reviewCount": 293,
    "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",

@@ -4,7 +4,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-13",
+ "dataAsOf": "2026-11-14",
  "recordCount": 72,
  "conditions": [
   {
@@ -121,7 +121,7 @@
    "hotelNo": 111190,
    "name": "伊香保　明野屋",
    "kana": "いかほ　あけのや",
-   "minCharge": 5800,
+   "minCharge": null,
    "reviewAverage": 4.69,
    "reviewCount": 132,
    "access": "関越道渋川伊香保ICより約３０分。渋川駅から伊香保温泉行バスで「見晴下」下車、徒歩５分.。新宿から高速バス。",
@@ -946,7 +946,7 @@
    "hotelNo": 31082,
    "name": "備長炭の湯　ホテル渋川ヒルズ（ＢＢＨホテルグループ）",
    "kana": "びんちょうたんのゆ　ほてるしぶかわひるず（びーびーえいちほてるぐるーぷ）",
-   "minCharge": 4500,
+   "minCharge": 4350,
    "reviewAverage": 3.86,
    "reviewCount": 1307,
    "access": "渋川駅より徒歩３分／渋川インターより１ｋｍ",
