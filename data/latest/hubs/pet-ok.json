@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-11-14",
+ "dataAsOf": "2026-11-15",
  "areas": [
   {
    "area": {
@@ -29,7 +29,7 @@
    "matchRate": 6.7,
    "minPrice": 4400,
    "medianPrice": 7322,
-   "reviewAvgMean": 4.03
+   "reviewAvgMean": 4.01
   },
   {
    "area": {

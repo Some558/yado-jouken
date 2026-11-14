@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-11-14",
+ "dataAsOf": "2026-11-15",
  "areas": [
   {
    "area": {
@@ -14,9 +14,9 @@
    "slug": "rotenburo--hakone",
    "matchCount": 68,
    "matchRate": 75.6,
-   "minPrice": 6756,
+   "minPrice": 6550,
    "medianPrice": 16500,
-   "reviewAvgMean": 4.37
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -67,8 +67,8 @@
    "matchCount": 78,
    "matchRate": 86.7,
    "minPrice": 8000,
-   "medianPrice": 18900,
-   "reviewAvgMean": 4.49
+   "medianPrice": 18800,
+   "reviewAvgMean": 4.48
   },
   {
    "area": {
@@ -80,8 +80,8 @@
    "matchCount": 25,
    "matchRate": 27.8,
    "minPrice": 7060,
-   "medianPrice": 17600,
-   "reviewAvgMean": 4.43
+   "medianPrice": 17500,
+   "reviewAvgMean": 4.44
   },
   {
    "area": {

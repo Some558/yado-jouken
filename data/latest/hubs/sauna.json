@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-11-14",
+ "dataAsOf": "2026-11-15",
  "areas": [
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "sauna--atami",
    "matchCount": 35,
    "matchRate": 38.9,
-   "minPrice": 4500,
+   "minPrice": 4840,
    "medianPrice": 13500,
    "reviewAvgMean": 4.26
   },
@@ -54,7 +54,7 @@
    "matchCount": 27,
    "matchRate": 30.0,
    "minPrice": 2800,
-   "medianPrice": 9500,
+   "medianPrice": 9558,
    "reviewAvgMean": 4.38
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 17,
    "matchRate": 18.9,
    "minPrice": 3000,
-   "medianPrice": 14000,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.4
   },
   {
@@ -94,7 +94,7 @@
    "matchRate": 29.2,
    "minPrice": 4350,
    "medianPrice": 9350,
-   "reviewAvgMean": 4.25
+   "reviewAvgMean": 4.26
   },
   {
    "area": {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "sauna--karuizawa",
-   "matchCount": 19,
-   "matchRate": 21.1,
+   "matchCount": 20,
+   "matchRate": 22.2,
    "minPrice": 3700,
-   "medianPrice": 12861,
-   "reviewAvgMean": 4.41
+   "medianPrice": 11480,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -132,7 +132,7 @@
    "matchCount": 29,
    "matchRate": 32.2,
    "minPrice": 3500,
-   "medianPrice": 6250,
+   "medianPrice": 6570,
    "reviewAvgMean": 4.31
   }
  ]

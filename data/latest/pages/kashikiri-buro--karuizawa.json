@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-14",
+ "dataAsOf": "2026-11-15",
  "detection": {
   "type": "facility"
  },
@@ -23,7 +23,7 @@
   },
   "minPrice": 8250,
   "medianPrice": 14400,
-  "reviewAvgMean": 4.49,
+  "reviewAvgMean": 4.47,
   "pricedCount": 6
  },
  "hotels": [
@@ -32,8 +32,8 @@
    "name": "軽井沢森のいえ　晴れたらいいね",
    "kana": "かるいざわ　もりのいえ　はれたらいいね",
    "minCharge": 8250,
-   "reviewAverage": 4.8,
-   "reviewCount": 81,
+   "reviewAverage": 4.73,
+   "reviewCount": 82,
    "access": "しなの鉄道　みよた駅より車で５分／上信越道　佐久ＩＣより２０分",
    "address1": "長野県",
    "address2": "北佐久郡御代田町塩野4312",
@@ -49,8 +49,8 @@
    "name": "島崎藤村ゆかりの宿　中棚荘",
    "kana": "しまざきとうそんゆかりのやど　なかだなそう",
    "minCharge": 15800,
-   "reviewAverage": 4.68,
-   "reviewCount": 547,
+   "reviewAverage": 4.66,
+   "reviewCount": 548,
    "access": "しなの鉄道「小諸駅」又はJR小海線「小諸駅」／上信越自動車道 小諸ＩＣより車で10分",
    "address1": "長野県",
    "address2": "小諸市乙1210",
@@ -101,7 +101,7 @@
    "kana": "はーヴぇすとかるいざわ",
    "minCharge": 19900,
    "reviewAverage": 4.39,
-   "reviewCount": 260,
+   "reviewCount": 261,
    "access": "軽井沢駅よりお車にて約１５分",
    "address1": "長野県",
    "address2": "北佐久郡軽井沢町長倉291-1",
@@ -118,7 +118,7 @@
    "kana": "かるいざわほてる　ろんぎんぐはうす",
    "minCharge": 8800,
    "reviewAverage": 4.1,
-   "reviewCount": 1556,
+   "reviewCount": 1570,
    "access": "北陸新幹線・軽井沢駅～バスにて約５分・泉の里下車、徒歩１分　（軽井沢駅まで無料送迎あり※前日までの完全予約制・時間指定）",
    "address1": "長野県",
    "address2": "北佐久郡軽井沢町軽井沢泉の里",

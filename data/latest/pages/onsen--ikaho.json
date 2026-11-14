@@ -9,66 +9,32 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-14",
+ "dataAsOf": "2026-11-15",
  "detection": {
   "type": "vacant",
-  "checkinDate": "2026-11-14",
-  "checkoutDate": "2026-11-15"
+  "checkinDate": "2026-11-21",
+  "checkoutDate": "2026-11-22"
  },
  "stats": {
-  "matchCount": 7,
-  "matchRate": 9.7,
+  "matchCount": 3,
+  "matchRate": 4.2,
   "denominator": {
    "type": "area_total",
    "value": 72,
    "label": "伊香保温泉・渋川エリアの掲載施設数"
   },
   "minPrice": 4980,
-  "medianPrice": 8250,
-  "reviewAvgMean": 3.9,
-  "pricedCount": 7
+  "medianPrice": 9975,
+  "reviewAvgMean": 3.91,
+  "pricedCount": 3
  },
  "hotels": [
-  {
-   "hotelNo": 6213,
-   "name": "伊香保温泉　心に咲く花　古久家（こくや）",
-   "kana": "いかほおんせん　こころにさくはな　こくや",
-   "minCharge": 10500,
-   "reviewAverage": 4.33,
-   "reviewCount": 1565,
-   "access": "JR上越線渋川駅下車より関越交通バス25分伊香保温泉下車徒歩1分、関越自動車道渋川伊香保ＩＣより１０ｋｍ",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保52",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D6213",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D6213%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D6213",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/6213.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/6213/6213.jpg",
-   "special": "源泉かけ流し「黄金の湯」湯上がりは徒歩1分石段街を色浴衣で散策！敷地内に駐車場で車も安心！"
-  },
-  {
-   "hotelNo": 80783,
-   "name": "伊香保温泉　いかほ秀水園",
-   "kana": "いかほおんせん　いかほしゅうすいえん",
-   "minCharge": 8250,
-   "reviewAverage": 4.29,
-   "reviewCount": 597,
-   "access": "ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保557",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D80783",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D80783%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D80783",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/80783.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80783/80783.jpg",
-   "special": "どこかなつかしい横丁のような雰囲気の館内。上州牛すきやきと地酒がたのしめる心地よい宿"
-  },
   {
    "hotelNo": 147842,
    "name": "フォレストリゾート　コニファーいわびつ",
    "kana": "ふぉれすとりぞーと　こにふぁーいわびつ",
    "minCharge": 9975,
-   "reviewAverage": 4.28,
+   "reviewAverage": 4.26,
    "reviewCount": 437,
    "access": "ＪＲ吾妻線　群馬原町より無料送迎にて約8分（駅の送迎は18時までです）　不定期に阿佐ヶ谷からの無料バス送迎もあり♪",
    "address1": "群馬県",
@@ -85,8 +51,8 @@
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　伊香保",
    "kana": "おおえどおんせんものがたりぷれみあむ　いかほ",
    "minCharge": 11600,
-   "reviewAverage": 4.0,
-   "reviewCount": 987,
+   "reviewAverage": 4.02,
+   "reviewCount": 990,
    "access": "ＪＲ　渋川駅より関越交通バス伊香保榛名口行に乗車、終点下車で徒歩にて約1分",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保592-1",
@@ -98,29 +64,12 @@
    "special": "黄金の湯と白銀の湯を同時に楽しめる温泉と、プレミアムラウンジでくつろぎのひと時をお楽しみください。"
   },
   {
-   "hotelNo": 29387,
-   "name": "伊香保温泉　名物畳風呂と料理自慢の宿　ホテルきむら",
-   "kana": "いかほおんせん　きむら",
-   "minCharge": 7150,
-   "reviewAverage": 3.69,
-   "reviewCount": 2151,
-   "access": "ＪＲ渋川駅→路線バス（30分）→伊香保バスターミナル下車、またはタクシー（15分）／関越自動車道・渋川伊香保ＩＣ～20分",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保557-32",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D29387",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D29387%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D29387",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/29387.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29387/29387.jpg",
-   "special": "【北関東最大級の畳風呂とメガ貸切露天風呂】伊香保の綺麗な景色を一望！お料理とお風呂自慢の宿"
-  },
-  {
    "hotelNo": 7517,
    "name": "伊香保温泉　ホテルいかほ銀水",
    "kana": "いかほおんせん　いかほぎんすい",
    "minCharge": 4980,
-   "reviewAverage": 3.46,
-   "reviewCount": 351,
+   "reviewAverage": 3.44,
+   "reviewCount": 352,
    "access": "関越道 伊香保・渋川ＩＣより１５分。ＪＲ上越線「渋川駅」から乗り継ぎバス２０分。",
    "address1": "群馬県",
    "address2": "渋川市伊香保町伊香保557-23",
@@ -130,24 +79,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7517.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7517/7517.jpg",
    "special": "ペットと泊まれます♪上州三山や関東平野一望（谷川・白根・赤城）。新潟米と山海の幸を満喫。"
-  },
-  {
-   "hotelNo": 14324,
-   "name": "伊香保温泉　山陽ホテル",
-   "kana": "さんようほてる",
-   "minCharge": 8250,
-   "reviewAverage": 3.25,
-   "reviewCount": 340,
-   "access": "上越線 渋川駅より伊香保へバスで約２０分 / 関越自動車道 渋川ICより２０分",
-   "address1": "群馬県",
-   "address2": "渋川市伊香保町伊香保557-13",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D14324",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D14324%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D14324",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/14324.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/14324/14324.jpg",
-   "special": "囲炉裏で焼く名物“炭火焼き料理”と美肌効果のある“白銀の湯”が自慢の伊香保温泉でリーズナブルな宿"
   }
  ],
- "listedMatchCount": 7
+ "listedMatchCount": 3
 }
