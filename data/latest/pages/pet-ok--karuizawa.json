@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 2915,
-  "medianPrice": 9627,
+  "medianPrice": 9375,
   "reviewAvgMean": 4.51,
   "pricedCount": 16
  },
@@ -184,7 +184,7 @@
    "hotelNo": 172066,
    "name": "ＭＯＲＩＨＡＫＵ",
    "kana": "もりはく",
-   "minCharge": 10285,
+   "minCharge": 9350,
    "reviewAverage": 4.43,
    "reviewCount": 19,
    "access": "軽井沢駅よりお車にて約9分",

@@ -9,22 +9,22 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 78,
-  "matchRate": 86.7,
+  "matchCount": 79,
+  "matchRate": 87.8,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8000,
-  "medianPrice": 18800,
-  "reviewAvgMean": 4.48,
-  "pricedCount": 77
+  "medianPrice": 18850,
+  "reviewAvgMean": 4.49,
+  "pricedCount": 78
  },
  "hotels": [
   {
@@ -334,6 +334,23 @@
    "special": "お客様の声☆5つ　人に優しいお宿です"
   },
   {
+   "hotelNo": 158617,
+   "name": "由布院温泉　ゆふいん宿　清孔苑",
+   "kana": "ゆふいんやど　せいこうえん",
+   "minCharge": 20000,
+   "reviewAverage": 4.73,
+   "reviewCount": 253,
+   "access": "由布院駅よりお車にて約５分",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上鳥越1208-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D158617",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D158617%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D158617",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158617.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158617/158617.jpg",
+   "special": "とろっとろの温泉を楽しめる★源泉100％かけ流しの温泉自慢の宿！"
+  },
+  {
    "hotelNo": 70800,
    "name": "由布院温泉　御宿　なか屋",
    "kana": "ゆふういんおんせん　おんやど　なかや",
@@ -349,24 +366,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/70800.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70800/70800.jpg",
    "special": "■□全部屋から豊後富士『由布岳』を眺望！□■故郷の我が家に戻ってきたように気兼ねなく寛げる宿。"
-  },
-  {
-   "hotelNo": 130594,
-   "name": "由布院温泉　すみか",
-   "kana": "ゆふいんおんせん　すみか",
-   "minCharge": 24200,
-   "reviewAverage": 4.71,
-   "reviewCount": 984,
-   "access": "ＪＲ由布院駅よりお車で５分",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上2059-3",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D130594",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D130594%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D130594",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/130594.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/130594/130594.jpg",
-   "special": "由布岳を望む　全室源泉かけ流し露天風呂付き離れ （全面禁煙・非喫煙者専用の宿）"
   }
  ],
- "listedMatchCount": 78
+ "listedMatchCount": 79
 }

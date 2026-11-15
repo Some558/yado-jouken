@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -101,7 +101,7 @@
    "hotelNo": 108176,
    "name": "別府温泉　美湯の宿　両築別邸",
    "kana": "びゆのやど　りょうちくべってい",
-   "minCharge": 8160,
+   "minCharge": 7650,
    "reviewAverage": 4.35,
    "reviewCount": 1830,
    "access": "JR別府駅より車で10分（無料送迎あり・前日12時までの要予約）／大分自動車道別府ICより8分／大分空港より車で50分",
@@ -135,7 +135,7 @@
    "hotelNo": 31206,
    "name": "スパ&リゾート　ホテルソラージュ　大分・日出",
    "kana": "すぱあんどりぞーと　ほてるそらーじゅおおいたひじ",
-   "minCharge": 8800,
+   "minCharge": 6800,
    "reviewAverage": 4.17,
    "reviewCount": 1803,
    "access": "日豊線　日出駅より車で７分。大分自動車道日出ＩＣより約20分。",

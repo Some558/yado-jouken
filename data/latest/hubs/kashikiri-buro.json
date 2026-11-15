@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "areas": [
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kashikiri-buro--yufuin",
-   "matchCount": 35,
-   "matchRate": 38.9,
+   "matchCount": 36,
+   "matchRate": 40.0,
    "minPrice": 7200,
-   "medianPrice": 18150,
-   "reviewAvgMean": 4.44
+   "medianPrice": 18175,
+   "reviewAvgMean": 4.45
   },
   {
    "area": {
@@ -77,11 +77,11 @@
     "officialName": "城崎温泉・豊岡・出石・神鍋"
    },
    "slug": "kashikiri-buro--kinosaki",
-   "matchCount": 46,
-   "matchRate": 51.1,
+   "matchCount": 45,
+   "matchRate": 50.0,
    "minPrice": 6000,
    "medianPrice": 17600,
-   "reviewAvgMean": 4.48
+   "reviewAvgMean": 4.49
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 20,
    "matchRate": 27.8,
    "minPrice": 5600,
-   "medianPrice": 10725,
+   "medianPrice": 10450,
    "reviewAvgMean": 4.34
   },
   {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "kashikiri-buro--dogo",
-   "matchCount": 13,
-   "matchRate": 14.4,
+   "matchCount": 12,
+   "matchRate": 13.3,
    "minPrice": 3500,
-   "medianPrice": 10890,
-   "reviewAvgMean": 4.48
+   "medianPrice": 9295,
+   "reviewAvgMean": 4.46
   }
  ]
 }

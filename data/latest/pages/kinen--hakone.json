@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -23,7 +23,7 @@
    "value": 371,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5500,
+  "minPrice": 5760,
   "medianPrice": 15615,
   "reviewAvgMean": 4.36,
   "pricedCount": 10
@@ -84,7 +84,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 26300,
+   "minCharge": 25200,
    "reviewAverage": 4.46,
    "reviewCount": 320,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -186,7 +186,7 @@
    "hotelNo": 196301,
    "name": "フォートリート箱根仙石原",
    "kana": "ふぉーとりーとはこねせんごくはら",
-   "minCharge": 5500,
+   "minCharge": 6600,
    "reviewAverage": 3.87,
    "reviewCount": 114,
    "access": "箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分",

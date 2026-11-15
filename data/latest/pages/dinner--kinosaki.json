@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -23,10 +23,10 @@
    "value": 157,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
-  "minPrice": 6400,
-  "medianPrice": 16050,
-  "reviewAvgMean": 4.42,
-  "pricedCount": 6
+  "minPrice": 4400,
+  "medianPrice": 13000,
+  "reviewAvgMean": 4.15,
+  "pricedCount": 7
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 130498,
    "name": "大江戸温泉物語Ｐｒｅｍｉｕｍ　きのさき",
    "kana": "おおえどおんせんものがたりぷれみあむ　きのさき",
-   "minCharge": 19100,
+   "minCharge": 17600,
    "reviewAverage": 4.11,
    "reviewCount": 2654,
    "access": "城崎温泉駅⇒当館　旅館組合の送迎バス（詳しい出発時間は駅舎の係員にお尋ね下さい）",
@@ -130,7 +130,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/147534.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147534/147534.jpg",
    "special": "但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。"
+  },
+  {
+   "hotelNo": 187332,
+   "name": "出石温泉　ウインブルドン",
+   "kana": "いずしおんせんういんぶるどん",
+   "minCharge": 4400,
+   "reviewAverage": 2.48,
+   "reviewCount": 41,
+   "access": "国府駅または八鹿駅より車で約15分！養父ICより車で約30分！",
+   "address1": "兵庫県",
+   "address2": "豊岡市出石町福住1217-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D187332",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D187332%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D187332",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/187332.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187332/187332.jpg",
+   "special": "ウインブルドンは天然温泉と当館自慢のお料理でゆったり過ごせるリーズナブルな価格のお宿でございます"
   }
  ],
- "listedMatchCount": 6
+ "listedMatchCount": 7
 }

@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -24,7 +24,7 @@
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 5280,
-  "medianPrice": 8720,
+  "medianPrice": 8285,
   "reviewAvgMean": 4.32,
   "pricedCount": 14
  },
@@ -33,7 +33,7 @@
    "hotelNo": 136100,
    "name": "那須別邸　回",
    "kana": "なすべってい　かい",
-   "minCharge": 41200,
+   "minCharge": 32200,
    "reviewAverage": 4.81,
    "reviewCount": 46,
    "access": "那須塩原駅よりロープウェイ方面行バスで４５分",
@@ -152,7 +152,7 @@
    "hotelNo": 31077,
    "name": "グランドメルキュール那須高原リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるなすこうげんりぞーとあんどすぱ",
-   "minCharge": 8820,
+   "minCharge": 7950,
    "reviewAverage": 4.23,
    "reviewCount": 4201,
    "access": "◆那須ICから車で約10分◆那須スマートIC(ETC専用)から車で約21分◆ご宿泊者様限定バスフリーパス有（事前予約制）",
@@ -169,7 +169,7 @@
    "hotelNo": 20574,
    "name": "那須温泉　ホテルサンバレー那須",
    "kana": "ほてるさんばれーなす",
-   "minCharge": 12100,
+   "minCharge": 11000,
    "reviewAverage": 4.22,
    "reviewCount": 9294,
    "access": "那須塩原駅西口よりホテルまで無料バスにて約40分【要予約】、東北自動車道那須ICより「那須街道」を湯本方面へ約20分",

@@ -9,46 +9,29 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 42,
-  "matchRate": 46.7,
+  "matchCount": 41,
+  "matchRate": 45.6,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6330,
-  "medianPrice": 16150,
-  "reviewAvgMean": 4.37,
-  "pricedCount": 42
+  "medianPrice": 15800,
+  "reviewAvgMean": 4.35,
+  "pricedCount": 41
  },
  "hotels": [
-  {
-   "hotelNo": 151465,
-   "name": "箱根・翠松園",
-   "kana": "はこね・すいしょうえん",
-   "minCharge": 48400,
-   "reviewAverage": 4.95,
-   "reviewCount": 94,
-   "access": "箱根登山鉄道「小涌谷駅」より送迎（要予約）",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町小涌谷519-9",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D151465",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D151465%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D151465",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/151465.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151465/151465.jpg",
-   "special": "箱根小涌谷温泉源泉かけ流しの自家温泉露天風呂を全23室の客室に完備。心ゆくまでお過ごしいただけます。"
-  },
   {
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 54240,
+   "minCharge": 48590,
    "reviewAverage": 4.88,
    "reviewCount": 666,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -65,7 +48,7 @@
    "hotelNo": 165555,
    "name": "雪月花別邸　翠雲（共立リゾート）",
    "kana": "せつげっかべってい　すいうん",
-   "minCharge": 29920,
+   "minCharge": 29260,
    "reviewAverage": 4.76,
    "reviewCount": 919,
    "access": "箱根登山鉄道、強羅駅より徒歩7分。ケーブルカー「公園下」より徒歩1分。",
@@ -201,7 +184,7 @@
    "hotelNo": 16106,
    "name": "小田急　山のホテル",
    "kana": "おだきゅう　やまのほてる",
-   "minCharge": 19800,
+   "minCharge": 17600,
    "reviewAverage": 4.48,
    "reviewCount": 1360,
    "access": "箱根湯本駅より路線バス箱根町行きにて約４０分、元箱根港下車。小田急バスタ新宿から直通高速バス有",
@@ -269,7 +252,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 26300,
+   "minCharge": 25200,
    "reviewAverage": 4.46,
    "reviewCount": 320,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -337,7 +320,7 @@
    "hotelNo": 19684,
    "name": "箱根湯本温泉　ホテル　おかだ",
    "kana": "はこねゆもとおんせん　おかだ",
-   "minCharge": 11200,
+   "minCharge": 11300,
    "reviewAverage": 4.41,
    "reviewCount": 1891,
    "access": "箱根湯本駅～徒歩２０分（温泉郷共同バス有料（詳細は公式ＨＰをご参照下さい）／小田原厚木道路・箱根口～国道１号線経由１５分",
@@ -366,7 +349,24 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/1817.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1817/1817.jpg",
    "special": "四季の彩り豊かな自然に包まれ源泉掛け流し・白濁の温泉、お食事は美食フレンチのリゾートホテル"
+  },
+  {
+   "hotelNo": 162650,
+   "name": "箱根・芦ノ湖　はなをり（オリックスホテルズ＆リゾーツ）",
+   "kana": "はこね・あしのこ　はなをり（おりっくすほてるず＆りぞーと）",
+   "minCharge": 22350,
+   "reviewAverage": 4.39,
+   "reviewCount": 1543,
+   "access": "桃源台駅より徒歩にて約2分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町元箱根桃源台160",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D162650",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D162650%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D162650",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/162650.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162650/162650.jpg",
+   "special": "SNSで話題の水盤テラス＆足湯♪ 色浴衣を身にまとい、五感が喜ぶ温泉リゾートでフォトジェニックな旅を"
   }
  ],
- "listedMatchCount": 42
+ "listedMatchCount": 41
 }

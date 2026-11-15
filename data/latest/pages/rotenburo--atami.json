@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 147152,
    "name": "南熱海網代山温泉　竹林庵　みずの",
    "kana": "みなみあたみあじろやまおんせん　ちくりんあん　みずの",
-   "minCharge": 28600,
+   "minCharge": 13000,
    "reviewAverage": 4.72,
    "reviewCount": 187,
    "access": "網代駅よりお車にて約7分",
@@ -320,7 +320,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 17820,
+   "minCharge": 18810,
    "reviewAverage": 4.56,
    "reviewCount": 343,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",

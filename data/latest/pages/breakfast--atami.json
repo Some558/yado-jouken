@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4900,
-  "medianPrice": 14160,
+  "medianPrice": 14923,
   "reviewAvgMean": 4.31,
   "pricedCount": 14
  },
@@ -50,7 +50,7 @@
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
    "kana": "あたみ　ほてるなぎさかん",
-   "minCharge": 13721,
+   "minCharge": 15246,
    "reviewAverage": 4.68,
    "reviewCount": 117,
    "access": "熱海駅3・6・7番乗り場から乗車し、7分ほどの「銀座(海岸)」バス停にて下車、徒歩1分",

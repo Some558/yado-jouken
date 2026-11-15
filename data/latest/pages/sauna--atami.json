@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-15",
+ "dataAsOf": "2026-11-16",
  "detection": {
   "type": "facility"
  },
@@ -184,7 +184,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 17820,
+   "minCharge": 18810,
    "reviewAverage": 4.56,
    "reviewCount": 343,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -320,7 +320,7 @@
    "hotelNo": 182519,
    "name": "リブマックスリゾート熱海Ｏｃｅａｎ",
    "kana": "りぶまっくすりぞーとあたみおーしゃん",
-   "minCharge": 14350,
+   "minCharge": 15050,
    "reviewAverage": 4.23,
    "reviewCount": 1230,
    "access": "JR東海道本線/東海道新幹線「熱海」駅より車で約10分",
@@ -354,7 +354,7 @@
    "hotelNo": 16527,
    "name": "熱海温泉　ＫＫＲホテル熱海（国家公務員共済組合連合会熱海共済会館）",
    "kana": "あたみおんせん　けーけーあーる　ほてる　あたみ",
-   "minCharge": 15000,
+   "minCharge": 16000,
    "reviewAverage": 4.22,
    "reviewCount": 829,
    "access": "熱海駅より徒歩７分、熱海駅バスターミナルより乗車路線バス「大学病院前」下車徒歩1分",
