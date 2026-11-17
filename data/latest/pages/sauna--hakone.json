@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 48590,
+   "minCharge": 55370,
    "reviewAverage": 4.88,
    "reviewCount": 666,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",

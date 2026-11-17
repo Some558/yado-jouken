@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "areas": [
   {
    "area": {
@@ -39,7 +39,7 @@
    },
    "slug": "breakfast--atami",
    "matchCount": 17,
-   "matchRate": 6.0,
+   "matchRate": 6.1,
    "minPrice": 4900,
    "medianPrice": 14923,
    "reviewAvgMean": 4.31
@@ -54,7 +54,7 @@
    "matchCount": 15,
    "matchRate": 5.8,
    "minPrice": 3060,
-   "medianPrice": 9950,
+   "medianPrice": 9500,
    "reviewAvgMean": 4.24
   },
   {
@@ -67,7 +67,7 @@
    "matchCount": 5,
    "matchRate": 1.5,
    "minPrice": 10512,
-   "medianPrice": 18900,
+   "medianPrice": 23460,
    "reviewAvgMean": 4.49
   },
   {
@@ -105,7 +105,7 @@
    "slug": "breakfast--nasu",
    "matchCount": 37,
    "matchRate": 10.5,
-   "minPrice": 4800,
+   "minPrice": 4600,
    "medianPrice": 8621,
    "reviewAvgMean": 4.38
   },
@@ -132,7 +132,7 @@
    "matchCount": 12,
    "matchRate": 6.6,
    "minPrice": 1850,
-   "medianPrice": 5187,
+   "medianPrice": 5100,
    "reviewAvgMean": 4.15
   }
  ]

@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3060,
-  "medianPrice": 11212,
+  "medianPrice": 11250,
   "reviewAvgMean": 4.37,
   "pricedCount": 58
  },
@@ -99,7 +99,7 @@
    "hotelNo": 136161,
    "name": "癒しの宿　彩葉",
    "kana": "いやしのやど　いろは",
-   "minCharge": 15500,
+   "minCharge": 14750,
    "reviewAverage": 4.66,
    "reviewCount": 315,
    "access": "別府駅よりお車で１５分",
@@ -184,7 +184,7 @@
    "hotelNo": 183018,
    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
    "kana": "ぐらんヴぃりおほてるべっぷわん　わくら　るーといんほてるず",
-   "minCharge": 6500,
+   "minCharge": 6000,
    "reviewAverage": 4.61,
    "reviewCount": 1229,
    "access": "■別府駅より無料送迎バスあり（要予約）■別府湾スマートICより車で約10分　■大分空港より車で約35分　■駐車場無料",
@@ -235,7 +235,7 @@
    "hotelNo": 166919,
    "name": "日本旅館　器　別府鉄輪",
    "kana": "にほんりょかん　うつわ　べっぷかんなわ",
-   "minCharge": 9350,
+   "minCharge": 11000,
    "reviewAverage": 4.57,
    "reviewCount": 339,
    "access": "鉄輪バスターミナルより徒歩5分・別府ICより車で10分・別府駅より車で15分・大分空港より車で50分",
@@ -303,7 +303,7 @@
    "hotelNo": 54697,
    "name": "別府温泉　悠彩の宿　望海",
    "kana": "ゆうさいのやど　ぼうかい",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.53,
    "reviewCount": 696,
    "access": "JR別府駅より徒歩15分またはタクシーで3分。別府ＩＣより車で15分。大分空港よりバスで45分-バス停より徒歩5分。",

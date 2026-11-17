@@ -4,8 +4,8 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-16",
- "recordCount": 281,
+ "dataAsOf": "2026-11-17",
+ "recordCount": 280,
  "conditions": [
   {
    "condition": "onsen",
@@ -143,7 +143,7 @@
    "hotelNo": 16668,
    "name": "熱海温泉　古屋旅館",
    "kana": "あたみおんせん　ふるやりょかん",
-   "minCharge": 41030,
+   "minCharge": 39930,
    "reviewAverage": 4.84,
    "reviewCount": 577,
    "access": "ＪＲ熱海駅からタクシーで５分。徒歩１３分。熱海サンビーチまでは徒歩３分♪",
@@ -332,7 +332,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D7666",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/7666.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7666/7666.jpg",
-   "special": "【旅館甲子園優勝の宿】11/19(木)空室わずか！海と夜景を望む温泉宿【基本お部屋食】",
+   "special": "【旅館甲子園優勝の宿】11/24、26空室わずか！海と夜景を望む温泉宿【基本お部屋食】",
    "conditions": [
     "rotenburo"
    ]
@@ -341,7 +341,7 @@
    "hotelNo": 179729,
    "name": "ＳＯＫＩ　ＡＴＡＭＩ（そき　あたみ）",
    "kana": "そき　あたみ",
-   "minCharge": 20875,
+   "minCharge": 21062,
    "reviewAverage": 4.59,
    "reviewCount": 350,
    "access": "JR熱海駅よりお車・タクシーで約１０分",
@@ -516,7 +516,7 @@
    "hotelNo": 8223,
    "name": "熱海温泉　熱海の癒（ゆ）　新かどや",
    "kana": "あたみおんせん　あたみのゆ　しんかどや",
-   "minCharge": 18900,
+   "minCharge": 15650,
    "reviewAverage": 4.54,
    "reviewCount": 237,
    "access": "★交通手段をお知らせください　車：小田原厚木道路より国道135号線にて約30分　電車：熱海駅よりタクシーで8分",
@@ -1570,7 +1570,7 @@
    "hotelNo": 147565,
    "name": "レクトーレ熱海小嵐（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "れくとーれあたみこあらし　てぃーけーぴーほてるあんどりぞーと",
-   "minCharge": 4840,
+   "minCharge": 5142,
    "reviewAverage": 4.0,
    "reviewCount": 175,
    "access": "JR東海道線・熱海駅よりお車にて約15分/JR東海道線来宮駅よりお車にて約8分。",
@@ -1692,7 +1692,7 @@
    "hotelNo": 160921,
    "name": "ＴＡＯＹＡ熱海（旧：大江戸温泉物語　ホテル水葉亭）（２０２６年７月１８日リブランドオープン）",
    "kana": "たおや　あたみ",
-   "minCharge": 19600,
+   "minCharge": 18800,
    "reviewAverage": 3.93,
    "reviewCount": 1348,
    "access": "熱海駅よりシャトルバスあり",

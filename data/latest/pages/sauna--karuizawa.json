@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 12151,
+  "medianPrice": 11801,
   "reviewAvgMean": 4.4,
   "pricedCount": 20
  },
@@ -184,7 +184,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 18167,
+   "minCharge": 19834,
    "reviewAverage": 4.48,
    "reviewCount": 374,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -269,7 +269,7 @@
    "hotelNo": 31166,
    "name": "ホテル　サイプレス軽井沢",
    "kana": "さいぷれす　かるいざわ",
-   "minCharge": 10100,
+   "minCharge": 8450,
    "reviewAverage": 4.2,
    "reviewCount": 2032,
    "access": "JR北陸新幹線軽井沢駅より徒歩12分／上信越自動車道・碓氷軽井沢ICより約15km",

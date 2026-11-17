@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -20,7 +20,7 @@
   "matchRate": 5.1,
   "denominator": {
    "type": "area_total",
-   "value": 353,
+   "value": 354,
    "label": "那須・板室・黒磯エリアの掲載施設数"
   },
   "minPrice": 5280,
@@ -135,7 +135,7 @@
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 6477,
+   "minCharge": 5461,
    "reviewAverage": 4.23,
    "reviewCount": 1958,
    "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",

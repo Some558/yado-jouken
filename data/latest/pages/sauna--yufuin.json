@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 9500,
-  "medianPrice": 13200,
+  "medianPrice": 12000,
   "reviewAvgMean": 4.44,
   "pricedCount": 9
  },
@@ -150,7 +150,7 @@
    "hotelNo": 129463,
    "name": "湯布院温泉　由布院ユウベルホテル",
    "kana": "ゆふいんゆうべる",
-   "minCharge": 13700,
+   "minCharge": 11700,
    "reviewAverage": 4.25,
    "reviewCount": 582,
    "access": "■金鱗湖まで徒歩で５分■由布院駅からお車で１０分■由布院駅からの無料送迎もございます（要予約）",

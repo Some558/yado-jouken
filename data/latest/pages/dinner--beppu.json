@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3060,
-  "medianPrice": 10400,
+  "medianPrice": 9950,
   "reviewAvgMean": 4.22,
   "pricedCount": 10
  },
@@ -186,7 +186,7 @@
    "hotelNo": 158807,
    "name": "大江戸温泉物語　別府清風",
    "kana": "おおえどおんせんものがたり　べっぷせいふう",
-   "minCharge": 9900,
+   "minCharge": 9000,
    "reviewAverage": 3.75,
    "reviewCount": 1914,
    "access": "別府駅より徒歩にて約１０分。お車にて約３分。",

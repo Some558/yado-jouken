@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8000,
-  "medianPrice": 18850,
+  "medianPrice": 18700,
   "reviewAvgMean": 4.49,
   "pricedCount": 78
  },
@@ -48,7 +48,7 @@
    "hotelNo": 109136,
    "name": "由布院温泉　御宿　たまゆら",
    "kana": "ゆふいんおんせん　おんやど　たまゆら",
-   "minCharge": 18900,
+   "minCharge": 19900,
    "reviewAverage": 4.92,
    "reviewCount": 77,
    "access": "ＪＲ由布院駅よりお車で５、６分。徒歩では約３５分程です。",
@@ -99,7 +99,7 @@
    "hotelNo": 187285,
    "name": "由布院温泉グランピング　風の響き",
    "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 18900,
+   "minCharge": 23460,
    "reviewAverage": 4.88,
    "reviewCount": 48,
    "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",

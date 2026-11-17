@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-16",
+ "dataAsOf": "2026-11-17",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 48590,
+   "minCharge": 55370,
    "reviewAverage": 4.88,
    "reviewCount": 666,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -218,7 +218,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 17600,
+   "minCharge": 15400,
    "reviewAverage": 4.4,
    "reviewCount": 545,
    "access": "箱根湯本駅から徒歩で７分",
@@ -252,7 +252,7 @@
    "hotelNo": 73891,
    "name": "ホテルハーヴェスト箱根甲子園",
    "kana": "はーヴぇすとはこねこうしえん",
-   "minCharge": 14300,
+   "minCharge": 14850,
    "reviewAverage": 4.38,
    "reviewCount": 732,
    "access": "小田原駅東口より箱根登山バス「桃源台行き」で約50分、箱根湯本駅より約30分、仙石案内所前下車徒歩約6分",
