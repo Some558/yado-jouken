@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-11-17",
+ "dataAsOf": "2026-11-18",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 31451,
    "name": "草津温泉　湯の宿　みさご",
    "kana": "くさつおんせん　ゆのやど　みさご",
-   "minCharge": 10600,
+   "minCharge": 9500,
    "reviewAverage": 4.76,
    "reviewCount": 178,
    "access": "草津温泉バスターミナルより徒歩１０分 関越道渋川・伊香保ＩＣよりＲ３５３～１４５～２９２（約９０分）",

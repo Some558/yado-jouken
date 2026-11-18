@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-11-17",
+ "dataAsOf": "2026-11-18",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "breakfast--hakone",
    "matchCount": 13,
    "matchRate": 3.5,
-   "minPrice": 5760,
+   "minPrice": 5500,
    "medianPrice": 15615,
    "reviewAvgMean": 4.36
   },
@@ -40,7 +40,7 @@
    "slug": "breakfast--atami",
    "matchCount": 17,
    "matchRate": 6.1,
-   "minPrice": 4900,
+   "minPrice": 4600,
    "medianPrice": 14923,
    "reviewAvgMean": 4.31
   },
@@ -66,8 +66,8 @@
    "slug": "breakfast--yufuin",
    "matchCount": 5,
    "matchRate": 1.5,
-   "minPrice": 10512,
-   "medianPrice": 23460,
+   "minPrice": 11168,
+   "medianPrice": 18900,
    "reviewAvgMean": 4.49
   },
   {
@@ -105,7 +105,7 @@
    "slug": "breakfast--nasu",
    "matchCount": 37,
    "matchRate": 10.5,
-   "minPrice": 4600,
+   "minPrice": 3750,
    "medianPrice": 8621,
    "reviewAvgMean": 4.38
   },

@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-17",
+ "dataAsOf": "2026-11-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -23,7 +23,7 @@
    "value": 371,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5760,
+  "minPrice": 5500,
   "medianPrice": 15615,
   "reviewAvgMean": 4.36,
   "pricedCount": 10
@@ -50,7 +50,7 @@
    "hotelNo": 173084,
    "name": "レジーナリゾート箱根仙石原",
    "kana": "れじーなりぞーとはこねせんごくはら",
-   "minCharge": 32400,
+   "minCharge": 29100,
    "reviewAverage": 4.65,
    "reviewCount": 183,
    "access": "【箱根登山バス「台ヶ岳」バス停より徒歩約5分/無料送迎あり】強羅駅よりお車にて約30分/東名高速御殿場ICより車約20分",
@@ -101,7 +101,7 @@
    "hotelNo": 170212,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原",
    "kana": null,
-   "minCharge": 9600,
+   "minCharge": 8800,
    "reviewAverage": 4.44,
    "reviewCount": 272,
    "access": "御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30",
@@ -169,7 +169,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 11000,
+   "minCharge": 9900,
    "reviewAverage": 4.05,
    "reviewCount": 140,
    "access": "上強羅駅より徒歩約１分",
@@ -186,7 +186,7 @@
    "hotelNo": 196301,
    "name": "フォートリート箱根仙石原",
    "kana": "ふぉーとりーとはこねせんごくはら",
-   "minCharge": 6600,
+   "minCharge": 5500,
    "reviewAverage": 3.87,
    "reviewCount": 114,
    "access": "箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分",

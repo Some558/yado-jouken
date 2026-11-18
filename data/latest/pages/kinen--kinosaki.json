@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-17",
+ "dataAsOf": "2026-11-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -20,7 +20,7 @@
   "matchRate": 8.9,
   "denominator": {
    "type": "area_total",
-   "value": 157,
+   "value": 158,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 4400,
@@ -50,7 +50,7 @@
    "hotelNo": 138019,
    "name": "城崎温泉　旨し隠れ家　湯宿　山よし",
    "kana": "うましかくれが　ゆやど　やまよし",
-   "minCharge": 46000,
+   "minCharge": 35000,
    "reviewAverage": 4.69,
    "reviewCount": 141,
    "access": "城崎温泉駅から徒歩７分",

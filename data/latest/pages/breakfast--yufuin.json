@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-17",
+ "dataAsOf": "2026-11-18",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -23,8 +23,8 @@
    "value": 324,
    "label": "湯布院・湯平エリアの掲載施設数"
   },
-  "minPrice": 10512,
-  "medianPrice": 23460,
+  "minPrice": 11168,
+  "medianPrice": 18900,
   "reviewAvgMean": 4.49,
   "pricedCount": 5
  },
@@ -33,7 +33,7 @@
    "hotelNo": 187285,
    "name": "由布院温泉グランピング　風の響き",
    "kana": "ユフインオンセングランピング　カゼノヒビキ",
-   "minCharge": 23460,
+   "minCharge": 18900,
    "reviewAverage": 4.88,
    "reviewCount": 48,
    "access": "ＪＲ由布院駅よりお車にて約7分/金鱗湖から車で5分",
@@ -84,7 +84,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 10512,
+   "minCharge": 11168,
    "reviewAverage": 4.55,
    "reviewCount": 226,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
