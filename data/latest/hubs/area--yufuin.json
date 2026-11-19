@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-18",
+ "dataAsOf": "2026-11-19",
  "recordCount": 324,
  "conditions": [
   {
@@ -409,7 +409,7 @@
    "hotelNo": 139452,
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
-   "minCharge": 20322,
+   "minCharge": 22089,
    "reviewAverage": 4.77,
    "reviewCount": 236,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",
@@ -1083,27 +1083,6 @@
    ]
   },
   {
-   "hotelNo": 68226,
-   "name": "湯布院温泉　御宿　由府両築",
-   "kana": "おんやど　ゆふりょうちく",
-   "minCharge": 15120,
-   "reviewAverage": 4.5,
-   "reviewCount": 218,
-   "access": "■JR由布院駅から徒歩10分程、お車で3分■湯布院 ICより車で7分■湯布院の中心・湯の坪街道まで徒歩30秒",
-   "address1": "大分県",
-   "address2": "由布市湯布院町川上1097-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D68226",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68226%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D68226",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68226.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68226/68226.jpg",
-   "special": "◆大正14年創業◆湯の坪街道沿いに佇む、全7室の癒しの湯宿。4つの家族湯と大分の美食が楽しめる",
-   "conditions": [
-    "rotenburo",
-    "kashikiri-buro"
-   ]
-  },
-  {
    "hotelNo": 108557,
    "name": "由布の里　旅荘　牧場の家",
    "kana": "ゆふのさと　りょそう　まきばのいえ",
@@ -1119,6 +1098,27 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108557.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108557/108557.jpg",
    "special": "お子様にも優しい宿です。全室離れなので安心です★大露天風呂と家族風呂で日頃の疲れを癒してください♪",
+   "conditions": [
+    "rotenburo",
+    "kashikiri-buro"
+   ]
+  },
+  {
+   "hotelNo": 68226,
+   "name": "湯布院温泉　御宿　由府両築",
+   "kana": "おんやど　ゆふりょうちく",
+   "minCharge": 26500,
+   "reviewAverage": 4.5,
+   "reviewCount": 218,
+   "access": "■JR由布院駅から徒歩10分程、お車で3分■湯布院 ICより車で7分■湯布院の中心・湯の坪街道まで徒歩30秒",
+   "address1": "大分県",
+   "address2": "由布市湯布院町川上1097-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D68226",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D68226%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D68226",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/68226.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68226/68226.jpg",
+   "special": "◆大正14年創業◆湯の坪街道沿いに佇む、全7室の癒しの湯宿。4つの家族湯と大分の美食が楽しめる",
    "conditions": [
     "rotenburo",
     "kashikiri-buro"
@@ -1330,7 +1330,7 @@
    "hotelNo": 1678,
    "name": "由布院温泉　ゆふいん山水館",
    "kana": "ゆふいんおんせん　ゆふいんさんすいかん",
-   "minCharge": 13200,
+   "minCharge": 11000,
    "reviewAverage": 4.4,
    "reviewCount": 920,
    "access": "ＪＲ由布院駅より徒歩約８分。大分自動車道湯布院ＩＣより車で約１５分。",
@@ -1743,7 +1743,7 @@
    "hotelNo": 141911,
    "name": "湯布院別荘　四季彩ホテル",
    "kana": "ゆふいんべっそう しきさいほてる",
-   "minCharge": 8800,
+   "minCharge": 9200,
    "reviewAverage": 3.89,
    "reviewCount": 343,
    "access": "JR由布院駅より車5分、徒歩25分、湯布院インターより車7分。",

@@ -4,7 +4,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-18",
+ "dataAsOf": "2026-11-19",
  "recordCount": 282,
  "conditions": [
   {
@@ -58,7 +58,7 @@
    "hotelNo": 178384,
    "name": "Ｖｉｌｌａ　Ｍｅｔｓａ　ＫＡＲＵＩＺＡＷＡ",
    "kana": "ヴぃらめっさ　かるいざわ",
-   "minCharge": 12700,
+   "minCharge": 11500,
    "reviewAverage": 5.0,
    "reviewCount": 6,
    "access": "しなの鉄道　信濃追分駅よりお車にて約１０分",
@@ -240,7 +240,7 @@
    "hotelNo": 187919,
    "name": "ふふ　旧軽井沢　ー静養の森ー",
    "kana": "ふふ かるいざわ せいようのもり",
-   "minCharge": 62700,
+   "minCharge": 66550,
    "reviewAverage": 4.73,
    "reviewCount": 19,
    "access": "軽井沢駅よりお車にて約5分",
@@ -467,28 +467,6 @@
    ]
   },
   {
-   "hotelNo": 168201,
-   "name": "ホテル　ベルリネッタ軽井沢",
-   "kana": "べるりねったかるいざわ",
-   "minCharge": 8300,
-   "reviewAverage": 4.64,
-   "reviewCount": 365,
-   "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 3分・軽井沢タリアセン（塩沢湖）10分",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町長倉531-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168201",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D168201%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D168201",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168201.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168201/168201.jpg",
-   "special": "【楽天トラベルシルバーアワード2025受賞】ウィリアム・モリスの美に包まれて、ワインを愉しむ大人旅",
-   "conditions": [
-    "kinen",
-    "breakfast",
-    "dinner"
-   ]
-  },
-  {
    "hotelNo": 179282,
    "name": "高峰マウンテンホテル",
    "kana": "たかみねまうんてんほてる",
@@ -531,6 +509,28 @@
     "dinner",
     "sauna",
     "pet-ok"
+   ]
+  },
+  {
+   "hotelNo": 168201,
+   "name": "ホテル　ベルリネッタ軽井沢",
+   "kana": "べるりねったかるいざわ",
+   "minCharge": 9500,
+   "reviewAverage": 4.64,
+   "reviewCount": 365,
+   "access": "お車｜軽井沢駅 約10分・中軽井沢駅 約5分　　徒歩｜塩沢バス停 3分・軽井沢タリアセン（塩沢湖）10分",
+   "address1": "長野県",
+   "address2": "北佐久郡軽井沢町長倉531-1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D168201",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D168201%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D168201",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/168201.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168201/168201.jpg",
+   "special": "【楽天トラベルシルバーアワード2025受賞】ウィリアム・モリスの美に包まれて、ワインを愉しむ大人旅",
+   "conditions": [
+    "kinen",
+    "breakfast",
+    "dinner"
    ]
   },
   {
@@ -1317,7 +1317,7 @@
    "hotelNo": 31166,
    "name": "ホテル　サイプレス軽井沢",
    "kana": "さいぷれす　かるいざわ",
-   "minCharge": 8450,
+   "minCharge": 10700,
    "reviewAverage": 4.2,
    "reviewCount": 2032,
    "access": "JR北陸新幹線軽井沢駅より徒歩12分／上信越自動車道・碓氷軽井沢ICより約15km",
@@ -1416,7 +1416,7 @@
    "hotelNo": 16784,
    "name": "ホテル軽井沢エレガンス",
    "kana": "かるいざわ　えれがんす",
-   "minCharge": 5860,
+   "minCharge": 6200,
    "reviewAverage": 4.14,
    "reviewCount": 257,
    "access": "JR軽井沢駅より徒歩１０分、上信越自動車道碓井・軽井沢I.C.より約１５分",
@@ -1458,7 +1458,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 5500,
+   "minCharge": 5200,
    "reviewAverage": 4.11,
    "reviewCount": 292,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -1658,7 +1658,7 @@
    "hotelNo": 67463,
    "name": "東横ＩＮＮ佐久平駅浅間口",
    "kana": "とうよこいんさくだいらえきあさまぐち",
-   "minCharge": 6195,
+   "minCharge": 5761,
    "reviewAverage": 3.99,
    "reviewCount": 1067,
    "access": "ＪＲ北陸新幹線　佐久平駅から浅間口出口より徒歩１分",
@@ -1755,7 +1755,7 @@
    "hotelNo": 182619,
    "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
    "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
-   "minCharge": 4750,
+   "minCharge": 5100,
    "reviewAverage": 3.92,
    "reviewCount": 828,
    "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",
@@ -1874,7 +1874,7 @@
    "hotelNo": 75251,
    "name": "軽井沢ホテルパイプのけむり",
    "kana": "かるいざわほてるぱいぷのけむり",
-   "minCharge": 5850,
+   "minCharge": 4850,
    "reviewAverage": 3.73,
    "reviewCount": 1181,
    "access": "【車】上信越自動車道碓井軽井沢ICより約20分【電車】長野新幹線軽井沢駅よりタクシーで10分（中軽井沢駅より車で5分）",

@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-18",
+ "dataAsOf": "2026-11-19",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 8000,
-  "medianPrice": 18700,
+  "medianPrice": 18750,
   "reviewAvgMean": 4.49,
   "pricedCount": 78
  },
@@ -303,7 +303,7 @@
    "hotelNo": 139452,
    "name": "由布院温泉　草庵秋桜",
    "kana": "ゆふいんおんせん　そうあんこすもす",
-   "minCharge": 20322,
+   "minCharge": 22089,
    "reviewAverage": 4.77,
    "reviewCount": 236,
    "access": "大分空港より車or高速バスで約50分。福岡空港より車or高速バスで約1時間30分。由布院駅より徒歩約15分or車約5分。",

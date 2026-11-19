@@ -3,7 +3,7 @@
   "slug": "dinner",
   "label": "夕食付きプラン"
  },
- "dataAsOf": "2026-11-18",
+ "dataAsOf": "2026-11-19",
  "areas": [
   {
    "area": {
@@ -27,8 +27,8 @@
    "slug": "dinner--kusatsu",
    "matchCount": 8,
    "matchRate": 5.1,
-   "minPrice": 6951,
-   "medianPrice": 15260,
+   "minPrice": 6006,
+   "medianPrice": 15920,
    "reviewAvgMean": 4.42
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 37,
    "matchRate": 10.5,
    "minPrice": 3750,
-   "medianPrice": 8285,
+   "medianPrice": 9035,
    "reviewAvgMean": 4.37
   },
   {

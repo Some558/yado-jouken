@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-18",
+ "dataAsOf": "2026-11-19",
  "detection": {
   "type": "facility"
  },
@@ -133,7 +133,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 19800,
+   "minCharge": 23100,
    "reviewAverage": 4.56,
    "reviewCount": 343,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -167,7 +167,7 @@
    "hotelNo": 1854,
    "name": "熱海温泉　湯の宿　平鶴（ひらつる）",
    "kana": "あたみおんせん　ゆのやど　ひらつる　",
-   "minCharge": 9200,
+   "minCharge": 10200,
    "reviewAverage": 4.52,
    "reviewCount": 1120,
    "access": "国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館",
@@ -337,7 +337,7 @@
    "hotelNo": 72738,
    "name": "ブリーズベイシーサイドリゾート熱海（ＢＢＨホテルグループ）",
    "kana": "ぶりーずべいしーさいどりぞーとあたみ　ぶりーずべいぐるーぷ",
-   "minCharge": 10300,
+   "minCharge": 10500,
    "reviewAverage": 4.18,
    "reviewCount": 985,
    "access": "熱海駅より徒歩20分。車５分。",

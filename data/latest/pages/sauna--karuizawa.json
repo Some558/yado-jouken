@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-18",
+ "dataAsOf": "2026-11-19",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 11801,
+  "medianPrice": 12451,
   "reviewAvgMean": 4.4,
   "pricedCount": 20
  },
@@ -269,7 +269,7 @@
    "hotelNo": 31166,
    "name": "ホテル　サイプレス軽井沢",
    "kana": "さいぷれす　かるいざわ",
-   "minCharge": 8450,
+   "minCharge": 10700,
    "reviewAverage": 4.2,
    "reviewCount": 2032,
    "access": "JR北陸新幹線軽井沢駅より徒歩12分／上信越自動車道・碓氷軽井沢ICより約15km",
@@ -286,7 +286,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 5500,
+   "minCharge": 5200,
    "reviewAverage": 4.11,
    "reviewCount": 292,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -320,7 +320,7 @@
    "hotelNo": 182619,
    "name": "天然温泉佐久の湯　佐久一萬里温泉ホテル（ＢＢＨホテルグループ）",
    "kana": "てんねんおんせんさくのゆ　さくいちまんりおんせんほてる",
-   "minCharge": 4750,
+   "minCharge": 5100,
    "reviewAverage": 3.92,
    "reviewCount": 828,
    "access": "JR小海線北中込駅より徒歩約10分、北陸新幹線佐久平駅から車で約10分♪",
