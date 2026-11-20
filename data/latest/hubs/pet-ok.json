@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-11-19",
+ "dataAsOf": "2026-11-20",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 18,
    "matchRate": 20.0,
    "minPrice": 5760,
-   "medianPrice": 11050,
+   "medianPrice": 11150,
    "reviewAvgMean": 4.27
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 5,
    "matchRate": 5.6,
    "minPrice": 3500,
-   "medianPrice": 6400,
+   "medianPrice": 7360,
    "reviewAvgMean": 4.44
   },
   {
@@ -92,7 +92,7 @@
    "slug": "pet-ok--ikaho",
    "matchCount": 6,
    "matchRate": 8.3,
-   "minPrice": 4980,
+   "minPrice": 4000,
    "medianPrice": 7150,
    "reviewAvgMean": 4.01
   },
@@ -106,7 +106,7 @@
    "matchCount": 26,
    "matchRate": 28.9,
    "minPrice": 3280,
-   "medianPrice": 8160,
+   "medianPrice": 8220,
    "reviewAvgMean": 4.41
   },
   {

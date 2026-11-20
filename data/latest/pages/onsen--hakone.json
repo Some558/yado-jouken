@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-19",
+ "dataAsOf": "2026-11-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -24,7 +24,7 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 5500,
-  "medianPrice": 15615,
+  "medianPrice": 15190,
   "reviewAvgMean": 4.36,
   "pricedCount": 10
  },
@@ -67,7 +67,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 12750,
+   "minCharge": 11900,
    "reviewAverage": 4.48,
    "reviewCount": 176,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -101,7 +101,7 @@
    "hotelNo": 170212,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根仙石原",
    "kana": null,
-   "minCharge": 9600,
+   "minCharge": 8800,
    "reviewAverage": 4.44,
    "reviewCount": 272,
    "access": "御殿場IC20分、「東京放送入口」バス停すぐ、マップコード北館57 300 219*17南館57 300 098*30",
@@ -169,7 +169,7 @@
    "hotelNo": 192229,
    "name": "ゆるり箱根ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりはこねうぃずどっぐず",
-   "minCharge": 9900,
+   "minCharge": 8800,
    "reviewAverage": 4.05,
    "reviewCount": 140,
    "access": "上強羅駅より徒歩約１分",

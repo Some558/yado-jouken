@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-19",
+ "dataAsOf": "2026-11-20",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -220,7 +220,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 15267,
+   "minCharge": 15000,
    "reviewAverage": 4.48,
    "reviewCount": 374,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",

@@ -9,7 +9,7 @@
   "label": "伊香保",
   "officialName": "伊香保温泉・渋川"
  },
- "dataAsOf": "2026-11-19",
+ "dataAsOf": "2026-11-20",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 72,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4620,
-  "medianPrice": 9475,
+  "minPrice": 4000,
+  "medianPrice": 9295,
   "reviewAvgMean": 4.23,
   "pricedCount": 32
  },
@@ -127,7 +127,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D10737",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/10737.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10737/10737.jpg",
-   "special": "口コミサービス部門「4.7点」石段まで徒歩5分、標高800mの絶景露天風呂・貸切風呂あり"
+   "special": "口コミサービス4.7点、石段へ徒歩5分、標高800mの絶景露天あり、11/30〜12/25館内工事中"
   },
   {
    "hotelNo": 19271,
@@ -150,7 +150,7 @@
    "hotelNo": 15996,
    "name": "伊香保温泉　市川別館　晴観荘",
    "kana": "いかほおんせん　いちかわべっかん　せいかんそう",
-   "minCharge": 11000,
+   "minCharge": 7700,
    "reviewAverage": 4.5,
    "reviewCount": 957,
    "access": "ＪＲ渋川駅下車／関越自動車道　渋川・伊香保ＩＣより伊香保方面約２０分",

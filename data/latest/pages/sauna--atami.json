@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-19",
+ "dataAsOf": "2026-11-20",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4840,
+  "minPrice": 4000,
   "medianPrice": 12320,
   "reviewAvgMean": 4.26,
   "pricedCount": 35
@@ -269,7 +269,7 @@
    "hotelNo": 193293,
    "name": "ゆるり熱海ｗｉｔｈＤＯＧＳ",
    "kana": "ゆるりあたみうぃずどっぐず",
-   "minCharge": 9900,
+   "minCharge": 6600,
    "reviewAverage": 4.33,
    "reviewCount": 208,
    "access": "お車：熱海駅より約20分／公共：熱海駅より七尾原循環バスで約20分",
