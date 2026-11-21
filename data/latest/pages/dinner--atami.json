@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-20",
+ "dataAsOf": "2026-11-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -17,13 +17,13 @@
  },
  "stats": {
   "matchCount": 13,
-  "matchRate": 4.6,
+  "matchRate": 4.7,
   "denominator": {
    "type": "area_total",
-   "value": 280,
+   "value": 279,
    "label": "熱海エリアの掲載施設数"
   },
-  "minPrice": 4600,
+  "minPrice": 4400,
   "medianPrice": 13967,
   "reviewAvgMean": 4.26,
   "pricedCount": 12
@@ -203,7 +203,7 @@
    "hotelNo": 50212,
    "name": "ホテルリゾーピア　熱海",
    "kana": "りぞーぴあ　あたみ",
-   "minCharge": 4600,
+   "minCharge": 4400,
    "reviewAverage": 3.96,
    "reviewCount": 2507,
    "access": "ＪＲ熱海駅より徒歩約１０分（無料シャトルバスが定時運行）※無料シャトルバス乗り場はフォトギャラリーでご確認下さいませ。",

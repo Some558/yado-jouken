@@ -3,7 +3,7 @@
   "slug": "daiyokujo",
   "label": "大浴場"
  },
- "dataAsOf": "2026-11-20",
+ "dataAsOf": "2026-11-21",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "daiyokujo--hakone",
    "matchCount": 7,
    "matchRate": 1.9,
-   "minPrice": 5500,
+   "minPrice": 7700,
    "medianPrice": 18480,
    "reviewAvgMean": 4.28
   },
@@ -40,7 +40,7 @@
    "slug": "daiyokujo--atami",
    "matchCount": 15,
    "matchRate": 5.4,
-   "minPrice": 4600,
+   "minPrice": 4400,
    "medianPrice": 15283,
    "reviewAvgMean": 4.3
   },
@@ -67,7 +67,7 @@
    "matchCount": 7,
    "matchRate": 4.4,
    "minPrice": 4400,
-   "medianPrice": 12775,
+   "medianPrice": 13175,
    "reviewAvgMean": 3.99
   },
   {
@@ -106,7 +106,7 @@
    "matchCount": 22,
    "matchRate": 7.8,
    "minPrice": 5500,
-   "medianPrice": 14251,
+   "medianPrice": 14085,
    "reviewAvgMean": 4.47
   },
   {

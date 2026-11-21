@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-20",
+ "dataAsOf": "2026-11-21",
  "recordCount": 182,
  "conditions": [
   {
@@ -411,7 +411,7 @@
    "hotelNo": 179083,
    "name": "道後ｈａｋｕｒｏ",
    "kana": "どうごはくろ",
-   "minCharge": 6950,
+   "minCharge": 6850,
    "reviewAverage": 4.55,
    "reviewCount": 1462,
    "access": "道後温泉駅より徒歩にて約5分 ／ 松山自動車道 松山ICより車で約30分 ／ 道後温泉本館まで徒歩約3分",
@@ -773,6 +773,24 @@
    "conditions": []
   },
   {
+   "hotelNo": 181835,
+   "name": "ＨＯＴＥＬ　ＡＺ　愛媛伊予店",
+   "kana": "ほてるえーぜっとえひめいよてん",
+   "minCharge": 5280,
+   "reviewAverage": 4.29,
+   "reviewCount": 678,
+   "access": "電車：JR予讃線「伊予市駅」より車で約10分　飛行機：松山空港よりタクシーで約30分",
+   "address1": "愛媛県",
+   "address2": "伊予市稲荷字北田甲710番地1",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181835",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181835%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181835",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181835.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181835/181835.jpg",
+   "special": "【全室禁煙】朝食無料、Wi-Fi無料、駐車場無料（大・中型車除く）でコスパに優れたホテルです。",
+   "conditions": []
+  },
+  {
    "hotelNo": 184526,
    "name": "天然温泉「旅人の湯」ホテルルートイン松山中央－勝山通り－",
    "kana": "てんねんおんせんたびびとのゆ　ほてるるーといんまつやまちゅうおう　かつやまどおり",
@@ -788,24 +806,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184526.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184526/184526.jpg",
    "special": "天然温泉は奥道後の湯★朝食バイキング★全館Wi-Fi★コンビ二徒歩2分★繁華街近く",
-   "conditions": []
-  },
-  {
-   "hotelNo": 181835,
-   "name": "ＨＯＴＥＬ　ＡＺ　愛媛伊予店",
-   "kana": "ほてるえーぜっとえひめいよてん",
-   "minCharge": null,
-   "reviewAverage": 4.29,
-   "reviewCount": 678,
-   "access": "電車：JR予讃線「伊予市駅」より車で約10分　飛行機：松山空港よりタクシーで約30分",
-   "address1": "愛媛県",
-   "address2": "伊予市稲荷字北田甲710番地1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D181835",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D181835%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D181835",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/181835.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/181835/181835.jpg",
-   "special": "【全室禁煙】朝食無料、Wi-Fi無料、駐車場無料（大・中型車除く）でコスパに優れたホテルです。",
    "conditions": []
   },
   {

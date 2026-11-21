@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-20",
+ "dataAsOf": "2026-11-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -186,7 +186,7 @@
    "hotelNo": 4807,
    "name": "亀の井ホテル　別府",
    "kana": "かめのいほてるべっぷ",
-   "minCharge": 5770,
+   "minCharge": 5140,
    "reviewAverage": 4.03,
    "reviewCount": 5582,
    "access": "ＪＲ別府駅下車、徒歩5分。大分自動車道別府I.Cより車で15分。",

@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-20",
+ "dataAsOf": "2026-11-21",
  "detection": {
   "type": "facility"
  },
@@ -22,9 +22,9 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 1070,
-  "medianPrice": 9375,
+  "medianPrice": 9400,
   "reviewAvgMean": 4.51,
-  "pricedCount": 16
+  "pricedCount": 15
  },
  "hotels": [
   {
@@ -82,7 +82,7 @@
    "hotelNo": 164648,
    "name": "ルシアン旧軽井沢（共立リゾート）",
    "kana": "るしあんきゅうかるいざわ",
-   "minCharge": 14300,
+   "minCharge": 14950,
    "reviewAverage": 4.68,
    "reviewCount": 826,
    "access": "車/上信越自動車道「碓氷軽井沢IC」より20分　電車/しなの鉄道線または北陸新幹線のJR軽井沢駅下車徒歩15分",
@@ -252,7 +252,7 @@
    "hotelNo": 84553,
    "name": "ＤＥＳＩＧＮ　ＨＯＴＥＬ　ＦＯＬＯＮ",
    "kana": "でざいんほてる　ふぉろん",
-   "minCharge": 7000,
+   "minCharge": null,
    "reviewAverage": 4.34,
    "reviewCount": 189,
    "access": "ＪＲ長野新幹線　軽井沢駅より　徒歩１８分、タクシー３分",

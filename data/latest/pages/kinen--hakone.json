@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-20",
+ "dataAsOf": "2026-11-21",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-21",
@@ -20,10 +20,10 @@
   "matchRate": 5.1,
   "denominator": {
    "type": "area_total",
-   "value": 371,
+   "value": 370,
    "label": "箱根エリアの掲載施設数"
   },
-  "minPrice": 5500,
+  "minPrice": 4800,
   "medianPrice": 15190,
   "reviewAvgMean": 4.36,
   "pricedCount": 10
@@ -84,7 +84,7 @@
    "hotelNo": 137346,
    "name": "箱根七瀬（旧真奈邸箱根）",
    "kana": "はこねななせ",
-   "minCharge": 25200,
+   "minCharge": 24200,
    "reviewAverage": 4.46,
    "reviewCount": 320,
    "access": "【箱根登山鉄道】小涌谷駅より徒歩8分 ／ 【箱根登山バス・伊豆箱根バス】蛇骨野バス停よりすぐ",
@@ -152,7 +152,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 5760,
+   "minCharge": 4800,
    "reviewAverage": 4.16,
    "reviewCount": 241,
    "access": "箱根登山バス：仙石高原 から徒歩2分",
@@ -186,7 +186,7 @@
    "hotelNo": 196301,
    "name": "フォートリート箱根仙石原",
    "kana": "ふぉーとりーとはこねせんごくはら",
-   "minCharge": 5500,
+   "minCharge": 7700,
    "reviewAverage": 3.87,
    "reviewCount": 114,
    "access": "箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分",
