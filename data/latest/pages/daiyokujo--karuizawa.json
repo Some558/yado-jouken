@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 4500,
-  "medianPrice": 11565,
+  "medianPrice": 10900,
   "reviewAvgMean": 4.34,
-  "pricedCount": 32
+  "pricedCount": 31
  },
  "hotels": [
   {
@@ -254,7 +254,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 14734,
+   "minCharge": 14200,
    "reviewAverage": 4.45,
    "reviewCount": 381,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -370,5 +370,5 @@
    "special": "標高1050m。雲を見下ろす絶景露天のある旅館です。八ヶ岳のパノラマと東信の山の幸をご堪能ください。"
   }
  ],
- "listedMatchCount": 32
+ "listedMatchCount": 31
 }

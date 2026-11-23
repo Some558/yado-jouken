@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,9 +24,9 @@
    "label": "草津温泉・白根エリアの掲載施設数"
   },
   "minPrice": 4675,
-  "medianPrice": 12722,
-  "reviewAvgMean": 4.31,
-  "pricedCount": 20
+  "medianPrice": 13310,
+  "reviewAvgMean": 4.33,
+  "pricedCount": 19
  },
  "hotels": [
   {
@@ -50,7 +50,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 15048,
+   "minCharge": 14440,
    "reviewAverage": 4.64,
    "reviewCount": 64,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -152,7 +152,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 20800,
+   "minCharge": 18800,
    "reviewAverage": 4.42,
    "reviewCount": 3469,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -319,23 +319,6 @@
    "special": "当館専用通路『湯畑小路』利用で【湯畑】までわずか徒歩3分！三種の源泉を堪能出来る温泉宿"
   },
   {
-   "hotelNo": 184476,
-   "name": "草津セゾニエ",
-   "kana": "くさつせぞにえ",
-   "minCharge": 6006,
-   "reviewAverage": 3.95,
-   "reviewCount": 85,
-   "access": "ＪＲ　長野原草津口駅よりＪＲ関東バス草津温泉行き終点下車「草津温泉」より徒歩約16分",
-   "address1": "群馬県",
-   "address2": "吾妻郡草津町大字草津464-1",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D184476",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D184476%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184476",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184476.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184476/184476.jpg",
-   "special": "★草津温泉スキー場まで徒歩5分！！★万代鉱源泉掛け流しの温泉が自慢♪"
-  },
-  {
    "hotelNo": 109164,
    "name": "草津温泉　ペットと泊まれる宿　音雅",
    "kana": "くさつおんせん　ぺっととまれるやど　おんが",
@@ -370,5 +353,5 @@
    "special": "湯畑まで徒歩１分♪　 全１０室の静かな大人宿♪　人気の露天風呂付和室は４部屋あり♪"
   }
  ],
- "listedMatchCount": 20
+ "listedMatchCount": 19
 }

@@ -9,22 +9,22 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "facility"
  },
  "stats": {
-  "matchCount": 20,
-  "matchRate": 22.2,
+  "matchCount": 19,
+  "matchRate": 21.1,
   "denominator": {
    "type": "listed_top",
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 3700,
-  "medianPrice": 11484,
+  "medianPrice": 9400,
   "reviewAvgMean": 4.4,
-  "pricedCount": 20
+  "pricedCount": 19
  },
  "hotels": [
   {
@@ -184,7 +184,7 @@
    "hotelNo": 183829,
    "name": "ホテルインディゴ軽井沢　ｂｙ　ＩＨＧ",
    "kana": "ほてるいんでぃごかるいざわ",
-   "minCharge": 14734,
+   "minCharge": 14200,
    "reviewAverage": 4.45,
    "reviewCount": 381,
    "access": "JR北陸新幹線・しなの鉄道線「軽井沢」駅下車。南口よりタクシーもしくはホテルシャトルバスで約5分",
@@ -286,7 +286,7 @@
    "hotelNo": 177042,
    "name": "ザ　グラン　リゾート　エレガンテ軽井沢",
    "kana": "ざ　ぐらん　りぞーと　えれがんて　かるいざわ",
-   "minCharge": 4900,
+   "minCharge": 5200,
    "reviewAverage": 4.12,
    "reviewCount": 296,
    "access": "軽井沢駅北口よりタクシーにて３分  徒歩で12分　　お車利用の場合は、軽井沢駅を目指してください。　",
@@ -349,24 +349,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8651.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8651/8651.jpg",
    "special": "懐古園すぐ横！小諸駅徒歩約5分●軽井沢・上田まで車約35分●"
-  },
-  {
-   "hotelNo": 199165,
-   "name": "ＨＡＣＩＥＮＤＡ　ＫＡＲＵＩＺＡＷＡ　ＨＯＴＥＬ（ハシェンダ　軽井沢　ホテル）",
-   "kana": "はしぇんだ　かるいざわ　ほてる",
-   "minCharge": 33930,
-   "reviewAverage": null,
-   "reviewCount": 3,
-   "access": "軽井沢駅より徒歩1分（駅直結）",
-   "address1": "長野県",
-   "address2": "北佐久郡軽井沢町大字軽井沢字中谷地1178-1293",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D199165",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D199165%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D199165",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/199165.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199165/199165.jpg",
-   "special": "軽井沢駅直結のホテル。ザ・コンランショップ監修の特別な滞在"
   }
  ],
- "listedMatchCount": 20
+ "listedMatchCount": 19
 }

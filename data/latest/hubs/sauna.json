@@ -3,7 +3,7 @@
   "slug": "sauna",
   "label": "サウナ"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "sauna--hakone",
-   "matchCount": 41,
-   "matchRate": 45.6,
+   "matchCount": 42,
+   "matchRate": 46.7,
    "minPrice": 6330,
    "medianPrice": 16500,
-   "reviewAvgMean": 4.35
+   "reviewAvgMean": 4.37
   },
   {
    "area": {
@@ -40,7 +40,7 @@
    "slug": "sauna--atami",
    "matchCount": 35,
    "matchRate": 38.9,
-   "minPrice": 3500,
+   "minPrice": 3000,
    "medianPrice": 11000,
    "reviewAvgMean": 4.26
   },
@@ -54,7 +54,7 @@
    "matchCount": 27,
    "matchRate": 30.0,
    "minPrice": 2800,
-   "medianPrice": 9558,
+   "medianPrice": 9350,
    "reviewAvgMean": 4.38
   },
   {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "sauna--yufuin",
-   "matchCount": 9,
-   "matchRate": 10.0,
+   "matchCount": 10,
+   "matchRate": 11.1,
    "minPrice": 9500,
    "medianPrice": 11700,
-   "reviewAvgMean": 4.44
+   "reviewAvgMean": 4.5
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 21,
    "matchRate": 29.2,
    "minPrice": 4250,
-   "medianPrice": 9020,
+   "medianPrice": 8558,
    "reviewAvgMean": 4.25
   },
   {
@@ -116,10 +116,10 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "sauna--karuizawa",
-   "matchCount": 20,
-   "matchRate": 22.2,
+   "matchCount": 19,
+   "matchRate": 21.1,
    "minPrice": 3700,
-   "medianPrice": 11484,
+   "medianPrice": 9400,
    "reviewAvgMean": 4.4
   },
   {

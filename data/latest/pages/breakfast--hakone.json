@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,11 +24,28 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4800,
-  "medianPrice": 16800,
-  "reviewAvgMean": 4.35,
-  "pricedCount": 46
+  "medianPrice": 17600,
+  "reviewAvgMean": 4.36,
+  "pricedCount": 47
  },
  "hotels": [
+  {
+   "hotelNo": 172961,
+   "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
+   "kana": "ばーほてる　はこねかざん",
+   "minCharge": 32300,
+   "reviewAverage": 4.89,
+   "reviewCount": 67,
+   "access": "箱根湯本駅から箱根登山バスまたは伊豆箱根バスで「蓬莱園」バス停まで約20分／蓬莱園バス停から徒歩で約5分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町小涌谷507-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172961",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172961%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172961",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172961.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172961/172961.jpg",
+   "special": "箱根小涌谷の静かな谷間にひっそり佇む、bar hotel。大切な時間を大切な方と自由に過ごせる場所。"
+  },
   {
    "hotelNo": 1727,
    "name": "富士屋ホテル",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/158555.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158555/158555.jpg",
    "special": "【5と0のつく日】毎月5・10・15・20・25・30日はクーポン利用で5％OFF"
-  },
-  {
-   "hotelNo": 108157,
-   "name": "箱根湯本温泉　吉池旅館",
-   "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 15400,
-   "reviewAverage": 4.41,
-   "reviewCount": 545,
-   "access": "箱根湯本駅から徒歩で７分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町湯本597",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D108157",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D108157%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D108157",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108157.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108157/108157.jpg",
-   "special": "６本の自家源泉と広大な日本庭園「山月園」が魅力の宿。源泉かけ流し温泉と季節の和会席で心ほどける滞在を"
   }
  ],
- "listedMatchCount": 46
+ "listedMatchCount": 47
 }

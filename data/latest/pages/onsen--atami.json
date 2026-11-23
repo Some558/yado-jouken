@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,11 +24,28 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4400,
-  "medianPrice": 10000,
-  "reviewAvgMean": 4.28,
-  "pricedCount": 33
+  "medianPrice": 10100,
+  "reviewAvgMean": 4.29,
+  "pricedCount": 34
  },
  "hotels": [
+  {
+   "hotelNo": 137049,
+   "name": "民宿　作五郎丸",
+   "kana": "さくごろうまる",
+   "minCharge": 13800,
+   "reviewAverage": 4.84,
+   "reviewCount": 270,
+   "access": "網代駅よりお車にて５分、徒歩にて１５分（送迎有）",
+   "address1": "静岡県",
+   "address2": "熱海市網代453-8",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D137049",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D137049%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D137049",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/137049.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/137049/137049.jpg",
+   "special": "漁師町網代、路地裏の隠れ宿。海鮮料理と源泉露天風呂をお楽しみください。"
+  },
   {
    "hotelNo": 197709,
    "name": "熱海　ホテル渚館",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/198719.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198719/198719.jpg",
    "special": "忙しい日常から離れて、ゆったりとした時間を。"
-  },
-  {
-   "hotelNo": 32430,
-   "name": "熱海網代温泉　源泉の宿ホテル松風苑",
-   "kana": "あたみあじろおんせん　げんせんのやど　ほてる　しょうふうえん",
-   "minCharge": 6000,
-   "reviewAverage": 4.24,
-   "reviewCount": 1675,
-   "access": "網代駅への送迎は、定時運行です。 ※詳細は、当苑ホームページでご確認願います。",
-   "address1": "静岡県",
-   "address2": "熱海市下多賀966",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D32430",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D32430%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D32430",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/32430.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/32430/32430.jpg",
-   "special": "アルカリ性美肌温泉かけ流し露天風呂　豊富な海の幸　四千坪の庭園"
   }
  ],
- "listedMatchCount": 33
+ "listedMatchCount": 34
 }

@@ -3,7 +3,7 @@
   "slug": "kashikiri-buro",
   "label": "貸切風呂・家族風呂"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "areas": [
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "kashikiri-buro--atami",
-   "matchCount": 29,
-   "matchRate": 32.2,
+   "matchCount": 30,
+   "matchRate": 33.3,
    "minPrice": 4840,
-   "medianPrice": 10800,
-   "reviewAvgMean": 4.32
+   "medianPrice": 10900,
+   "reviewAvgMean": 4.34
   },
   {
    "area": {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "kashikiri-buro--yufuin",
-   "matchCount": 36,
-   "matchRate": 40.0,
+   "matchCount": 34,
+   "matchRate": 37.8,
    "minPrice": 7200,
    "medianPrice": 18175,
-   "reviewAvgMean": 4.45
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -93,7 +93,7 @@
    "matchCount": 20,
    "matchRate": 27.8,
    "minPrice": 4715,
-   "medianPrice": 9975,
+   "medianPrice": 9240,
    "reviewAvgMean": 4.33
   },
   {
@@ -116,11 +116,11 @@
     "officialName": "軽井沢・佐久・小諸"
    },
    "slug": "kashikiri-buro--karuizawa",
-   "matchCount": 6,
-   "matchRate": 6.7,
+   "matchCount": 7,
+   "matchRate": 7.8,
    "minPrice": 8250,
-   "medianPrice": 14400,
-   "reviewAvgMean": 4.46
+   "medianPrice": 13000,
+   "reviewAvgMean": 4.41
   },
   {
    "area": {
@@ -129,11 +129,11 @@
     "officialName": "松山・道後"
    },
    "slug": "kashikiri-buro--dogo",
-   "matchCount": 12,
-   "matchRate": 13.3,
+   "matchCount": 13,
+   "matchRate": 14.4,
    "minPrice": 3500,
-   "medianPrice": 9295,
-   "reviewAvgMean": 4.46
+   "medianPrice": 10890,
+   "reviewAvgMean": 4.49
   }
  ]
 }

@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "areas": [
   {
    "area": {
@@ -12,11 +12,11 @@
     "officialName": "箱根"
    },
    "slug": "rotenburo--hakone",
-   "matchCount": 68,
-   "matchRate": 75.6,
+   "matchCount": 69,
+   "matchRate": 76.7,
    "minPrice": 6550,
-   "medianPrice": 16326,
-   "reviewAvgMean": 4.35
+   "medianPrice": 16352,
+   "reviewAvgMean": 4.36
   },
   {
    "area": {
@@ -25,11 +25,11 @@
     "officialName": "草津温泉・白根"
    },
    "slug": "rotenburo--kusatsu",
-   "matchCount": 38,
-   "matchRate": 42.2,
+   "matchCount": 37,
+   "matchRate": 41.1,
    "minPrice": 4675,
-   "medianPrice": 13155,
-   "reviewAvgMean": 4.37
+   "medianPrice": 13310,
+   "reviewAvgMean": 4.38
   },
   {
    "area": {
@@ -38,11 +38,11 @@
     "officialName": "熱海"
    },
    "slug": "rotenburo--atami",
-   "matchCount": 66,
-   "matchRate": 73.3,
+   "matchCount": 67,
+   "matchRate": 74.4,
    "minPrice": 4840,
-   "medianPrice": 11500,
-   "reviewAvgMean": 4.33
+   "medianPrice": 12000,
+   "reviewAvgMean": 4.34
   },
   {
    "area": {
@@ -54,7 +54,7 @@
    "matchCount": 58,
    "matchRate": 64.4,
    "minPrice": 3060,
-   "medianPrice": 10912,
+   "medianPrice": 10962,
    "reviewAvgMean": 4.37
   },
   {
@@ -64,11 +64,11 @@
     "officialName": "湯布院・湯平"
    },
    "slug": "rotenburo--yufuin",
-   "matchCount": 79,
-   "matchRate": 87.8,
+   "matchCount": 76,
+   "matchRate": 84.4,
    "minPrice": 8000,
-   "medianPrice": 18800,
-   "reviewAvgMean": 4.49
+   "medianPrice": 19130,
+   "reviewAvgMean": 4.46
   },
   {
    "area": {
@@ -119,8 +119,8 @@
    "matchCount": 21,
    "matchRate": 23.3,
    "minPrice": 3700,
-   "medianPrice": 13569,
-   "reviewAvgMean": 4.42
+   "medianPrice": 12900,
+   "reviewAvgMean": 4.4
   },
   {
    "area": {
@@ -131,8 +131,8 @@
    "slug": "rotenburo--dogo",
    "matchCount": 35,
    "matchRate": 38.9,
-   "minPrice": 2800,
-   "medianPrice": 8400,
+   "minPrice": 3000,
+   "medianPrice": 8800,
    "reviewAvgMean": 4.35
   }
  ]

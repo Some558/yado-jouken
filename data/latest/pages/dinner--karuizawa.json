@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 2915,
-  "medianPrice": 11436,
+  "medianPrice": 11372,
   "reviewAvgMean": 4.43,
-  "pricedCount": 46
+  "pricedCount": 45
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "【7年連続楽天アワード受賞】食数限定フレンチ好評｜貸切風呂あり♪星野エリア車3分・結婚式前後泊も◎"
   }
  ],
- "listedMatchCount": 46
+ "listedMatchCount": 45
 }

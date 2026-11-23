@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "熱海エリアの掲載施設数"
   },
   "minPrice": 4400,
-  "medianPrice": 9895,
+  "medianPrice": 10100,
   "reviewAvgMean": 4.29,
   "pricedCount": 36
  },
@@ -288,7 +288,7 @@
    "hotelNo": 187532,
    "name": "ホテルブリーズベイ熱海ＡＮＮＥＸ",
    "kana": "ほてるぶりーずべいあたみあねっくす",
-   "minCharge": 9600,
+   "minCharge": 10600,
    "reviewAverage": 4.36,
    "reviewCount": 189,
    "access": "熱海駅より約徒歩12分、車にて5分",

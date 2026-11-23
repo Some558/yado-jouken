@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,9 +24,9 @@
    "label": "草津温泉・白根エリアの掲載施設数"
   },
   "minPrice": 2400,
-  "medianPrice": 11550,
-  "reviewAvgMean": 4.32,
-  "pricedCount": 36
+  "medianPrice": 12100,
+  "reviewAvgMean": 4.33,
+  "pricedCount": 35
  },
  "hotels": [
   {
@@ -101,7 +101,7 @@
    "hotelNo": 183529,
    "name": "川原湯温泉　山木館",
    "kana": "かわらゆおんせん　やまきかん",
-   "minCharge": 15048,
+   "minCharge": 14440,
    "reviewAverage": 4.64,
    "reviewCount": 64,
    "access": "川原湯温泉駅より徒歩15分(送迎バスあり）",
@@ -288,7 +288,7 @@
    "hotelNo": 9598,
    "name": "草津温泉　草津ナウリゾートホテル",
    "kana": "くさつおんせん　くさつなうりぞーとほてる",
-   "minCharge": 20800,
+   "minCharge": 18800,
    "reviewAverage": 4.42,
    "reviewCount": 3469,
    "access": "関越道　練馬ＩＣ～渋川伊香保ＩＣ又は信越道碓井・軽井沢ICから草津温泉／ＪＲ吾妻線　長野原草津口駅よりバスで２５分",
@@ -370,5 +370,5 @@
    "special": "湯畑源泉100％かけ流し貸切風呂の宿。湯畑へ徒歩３分。温泉散策に最適な家族で営む小さな宿です"
   }
  ],
- "listedMatchCount": 36
+ "listedMatchCount": 35
 }

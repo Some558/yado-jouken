@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 53110,
+   "minCharge": 44070,
    "reviewAverage": 4.88,
    "reviewCount": 667,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -99,7 +99,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 22800,
+   "minCharge": 19800,
    "reviewAverage": 4.56,
    "reviewCount": 73,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -218,7 +218,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 15400,
+   "minCharge": 17600,
    "reviewAverage": 4.41,
    "reviewCount": 545,
    "access": "箱根湯本駅から徒歩で７分",

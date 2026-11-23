@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,11 +24,28 @@
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4800,
-  "medianPrice": 17790,
-  "reviewAvgMean": 4.36,
-  "pricedCount": 42
+  "medianPrice": 18480,
+  "reviewAvgMean": 4.37,
+  "pricedCount": 43
  },
  "hotels": [
+  {
+   "hotelNo": 172961,
+   "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
+   "kana": "ばーほてる　はこねかざん",
+   "minCharge": 32300,
+   "reviewAverage": 4.89,
+   "reviewCount": 67,
+   "access": "箱根湯本駅から箱根登山バスまたは伊豆箱根バスで「蓬莱園」バス停まで約20分／蓬莱園バス停から徒歩で約5分",
+   "address1": "神奈川県",
+   "address2": "足柄下郡箱根町小涌谷507-4",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D172961",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D172961%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D172961",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/172961.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172961/172961.jpg",
+   "special": "箱根小涌谷の静かな谷間にひっそり佇む、bar hotel。大切な時間を大切な方と自由に過ごせる場所。"
+  },
   {
    "hotelNo": 1727,
    "name": "富士屋ホテル",
@@ -339,7 +356,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 15400,
+   "minCharge": 17600,
    "reviewAverage": 4.41,
    "reviewCount": 545,
    "access": "箱根湯本駅から徒歩で７分",
@@ -351,24 +368,7 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/108157.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108157/108157.jpg",
    "special": "６本の自家源泉と広大な日本庭園「山月園」が魅力の宿。源泉かけ流し温泉と季節の和会席で心ほどける滞在を"
-  },
-  {
-   "hotelNo": 195644,
-   "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　箱根強羅",
-   "kana": null,
-   "minCharge": 7680,
-   "reviewAverage": 4.4,
-   "reviewCount": 152,
-   "access": "箱根登山鉄道「強羅駅」より徒歩7分｜「箱根口IC」より車で約30分",
-   "address1": "神奈川県",
-   "address2": "足柄下郡箱根町強羅1320-299",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D195644",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D195644%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D195644",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/195644.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195644/195644.jpg",
-   "special": "★今年4月オープン★ 最大8名定員 プライベートヴィラ｜全室天然温泉付き◎"
   }
  ],
- "listedMatchCount": 42
+ "listedMatchCount": 43
 }

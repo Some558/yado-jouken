@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,11 +24,28 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 3200,
-  "medianPrice": 7675,
-  "reviewAvgMean": 4.35,
-  "pricedCount": 18
+  "medianPrice": 8400,
+  "reviewAvgMean": 4.37,
+  "pricedCount": 19
  },
  "hotels": [
+  {
+   "hotelNo": 106036,
+   "name": "旅館　常磐荘",
+   "kana": "ときわそう",
+   "minCharge": 11000,
+   "reviewAverage": 4.77,
+   "reviewCount": 88,
+   "access": "伊予鉄道市内線道後温泉駅より徒歩約5分 / 松山自動車道川内ICより車で約40分／松山」ICより車で30分",
+   "address1": "愛媛県",
+   "address2": "松山市道後湯月町4-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D106036",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D106036%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D106036",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/106036.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/106036/106036.jpg",
+   "special": "大正時代の造りを残した昔ながらの旅館にタイムスリップ！道後温泉本館と同じ温泉。源泉かけ流し貸切です"
+  },
   {
    "hotelNo": 142928,
    "name": "大和屋別荘",
@@ -186,7 +203,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 7187,
+   "minCharge": 9487,
    "reviewAverage": 4.36,
    "reviewCount": 1553,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -336,5 +353,5 @@
    "special": "道後温泉の高台から松山城下の夜景が一望できる露天風呂が自慢の温泉宿"
   }
  ],
- "listedMatchCount": 18
+ "listedMatchCount": 19
 }

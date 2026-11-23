@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-22",
+ "dataAsOf": "2026-11-23",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,9 +24,9 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 2915,
-  "medianPrice": 9855,
+  "medianPrice": 9602,
   "reviewAvgMean": 4.41,
-  "pricedCount": 61
+  "pricedCount": 60
  },
  "hotels": [
   {
@@ -370,5 +370,5 @@
    "special": "光と風のグランピング。　グランピング×スパで欲張りな休日を"
   }
  ],
- "listedMatchCount": 61
+ "listedMatchCount": 60
 }
