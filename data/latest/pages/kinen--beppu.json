@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -33,7 +33,7 @@
    "hotelNo": 202061,
    "name": "Ｂｌｉｓｓ９　東荘園",
    "kana": "ぶりすないん　ひがしそうえん",
-   "minCharge": 6750,
+   "minCharge": 6250,
    "reviewAverage": 5.0,
    "reviewCount": 8,
    "access": "別府ICより車で約１０分",
@@ -118,7 +118,7 @@
    "hotelNo": 196407,
    "name": "グランシア別府鉄輪",
    "kana": "ぐらんしあべっぷかんなわ",
-   "minCharge": 12960,
+   "minCharge": 12200,
    "reviewAverage": 4.57,
    "reviewCount": 59,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",

@@ -3,7 +3,7 @@
   "slug": "pet-ok",
   "label": "ペット同宿可"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "areas": [
   {
    "area": {
@@ -14,7 +14,7 @@
    "slug": "pet-ok--hakone",
    "matchCount": 19,
    "matchRate": 21.1,
-   "minPrice": 4800,
+   "minPrice": 5760,
    "medianPrice": 11900,
    "reviewAvgMean": 4.26
   },
@@ -80,7 +80,7 @@
    "matchCount": 6,
    "matchRate": 6.7,
    "minPrice": 3500,
-   "medianPrice": 6200,
+   "medianPrice": 6520,
    "reviewAvgMean": 4.11
   },
   {

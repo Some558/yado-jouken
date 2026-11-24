@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6550,
-  "medianPrice": 16352,
+  "medianPrice": 16200,
   "reviewAvgMean": 4.36,
   "pricedCount": 69
  },
@@ -235,7 +235,7 @@
    "hotelNo": 146841,
    "name": "強羅　月の泉",
    "kana": "ごうら　つきのいずみ",
-   "minCharge": 16300,
+   "minCharge": 15300,
    "reviewAverage": 4.55,
    "reviewCount": 415,
    "access": "強羅駅からはタクシー、またはケーブルカーで中強羅駅左側ホームを降り、徒歩約5分です。（当館では送迎を行っておりません。）",
@@ -320,7 +320,7 @@
    "hotelNo": 32024,
    "name": "箱根湯の花プリンスホテル",
    "kana": "はこね　ゆのはな　おんせんほてる",
-   "minCharge": 9172,
+   "minCharge": 7931,
    "reviewAverage": 4.48,
    "reviewCount": 624,
    "access": "東名高速道路厚木I.C.からお車で60分 東海道線 小田原駅より路線バスで50分 小田急線箱根湯本駅より路線バスで35分",

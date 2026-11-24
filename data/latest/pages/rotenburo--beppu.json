@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "detection": {
   "type": "facility"
  },
@@ -82,7 +82,7 @@
    "hotelNo": 136161,
    "name": "癒しの宿　彩葉",
    "kana": "いやしのやど　いろは",
-   "minCharge": 14750,
+   "minCharge": 13800,
    "reviewAverage": 4.68,
    "reviewCount": 317,
    "access": "別府駅よりお車で１５分",

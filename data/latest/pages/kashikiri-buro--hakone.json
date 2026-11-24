@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4800,
+  "minPrice": 5760,
   "medianPrice": 19210,
   "reviewAvgMean": 4.41,
   "pricedCount": 24
@@ -269,7 +269,7 @@
    "hotelNo": 184829,
    "name": "箱根ホテル小涌園（藤田観光リゾート）",
    "kana": "はこねほてるこわきえん（ふじたかんこうりぞーと）",
-   "minCharge": 18590,
+   "minCharge": 17160,
    "reviewAverage": 4.37,
    "reviewCount": 748,
    "access": "「小涌園」バス停徒歩すぐ／箱根登山鉄道「強羅」からシャトルバス有",

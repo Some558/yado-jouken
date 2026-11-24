@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "recordCount": 324,
  "conditions": [
   {
@@ -446,7 +446,7 @@
    "hotelNo": 31261,
    "name": "由布院温泉　吉祥開運亭　無尽蔵",
    "kana": "ゆふいんおんせん　きっしょうかいうんてい　むじんぞう",
-   "minCharge": 17600,
+   "minCharge": 16500,
    "reviewAverage": 4.69,
    "reviewCount": 215,
    "access": "■JR久大本線由布院駅より徒歩15分■車で５分■湯布院ICより15分程■湯の坪街道まで徒歩30秒",
@@ -1346,7 +1346,7 @@
    "hotelNo": 76428,
    "name": "由布院温泉　由布院　寛ぎの宿　なな川",
    "kana": "ゆふいんおんせん　ゆふいん　くつろぎのやど　ななかわ",
-   "minCharge": 46000,
+   "minCharge": 48500,
    "reviewAverage": 4.4,
    "reviewCount": 119,
    "access": "由布院駅よりタクシーで５分",
@@ -1387,7 +1387,7 @@
    "hotelNo": 80661,
    "name": "由布院温泉　由布岳一望の宿　美星〜きらら〜",
    "kana": "ゆふだけいちぼうのやど　きらら",
-   "minCharge": 28900,
+   "minCharge": 22400,
    "reviewAverage": 4.38,
    "reviewCount": 194,
    "access": "JR湯布院駅よりお車にて10分　",

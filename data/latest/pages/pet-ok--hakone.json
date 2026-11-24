@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 4800,
+  "minPrice": 5760,
   "medianPrice": 11900,
   "reviewAvgMean": 4.26,
   "pricedCount": 19
@@ -82,7 +82,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 17100,
+   "minCharge": 16200,
    "reviewAverage": 4.44,
    "reviewCount": 53,
    "access": "箱根湯本駅よりお車にて約20分",
@@ -116,7 +116,7 @@
    "hotelNo": 168152,
    "name": "サンダンス・リゾート箱根宮城野",
    "kana": "さんだんすりぞーとはこねみやぎの",
-   "minCharge": 8950,
+   "minCharge": 7850,
    "reviewAverage": 4.4,
    "reviewCount": 209,
    "access": "強羅駅よりお車にて約１０分",
@@ -252,7 +252,7 @@
    "hotelNo": 193942,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　箱根すすき草原",
    "kana": null,
-   "minCharge": 4800,
+   "minCharge": 5760,
    "reviewAverage": 4.18,
    "reviewCount": 246,
    "access": "箱根登山バス：仙石高原 から徒歩2分",

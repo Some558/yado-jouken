@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-23",
+ "dataAsOf": "2026-11-24",
  "recordCount": 356,
  "conditions": [
   {
@@ -832,7 +832,7 @@
    "hotelNo": 25121,
    "name": "モンゴリアビレッジ　テンゲル",
    "kana": "もんごりあびれっじ　てんげる",
-   "minCharge": 7040,
+   "minCharge": 6490,
    "reviewAverage": 4.5,
    "reviewCount": 1218,
    "access": "【電車】那須塩原駅or黒磯駅より那須湯本方面のバス　友愛の森下車　友愛の森から無料送迎致します（要予約）",
@@ -1518,6 +1518,27 @@
    ]
   },
   {
+   "hotelNo": 28442,
+   "name": "那須温泉　ホテル・フロラシオン那須",
+   "kana": "なすおんせん　ほてる・ふろらしおんなす",
+   "minCharge": 4515,
+   "reviewAverage": 4.22,
+   "reviewCount": 1963,
+   "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久丙1796",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28442",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28442%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28442",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28442.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28442/28442.jpg",
+   "special": "那須の滞在型ホテルへようこそ〜高原の自然に囲まれて、温泉とお食事をご堪能いただけます。",
+   "conditions": [
+    "rotenburo",
+    "sauna"
+   ]
+  },
+  {
    "hotelNo": 198329,
    "name": "東横ＩＮＮ那須塩原駅西口",
    "kana": "とうよこいんなすしおばらえきにしぐち",
@@ -1536,27 +1557,6 @@
    "conditions": [
     "kinen",
     "breakfast"
-   ]
-  },
-  {
-   "hotelNo": 28442,
-   "name": "那須温泉　ホテル・フロラシオン那須",
-   "kana": "なすおんせん　ほてる・ふろらしおんなす",
-   "minCharge": 5461,
-   "reviewAverage": 4.22,
-   "reviewCount": 1963,
-   "access": "東北新幹線那須塩原駅シャトルバスで約３５分（要予約：前日21時まで）/東北自動車道那須ICより車で約１０ｋｍ約１３分",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久丙1796",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D28442",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D28442%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D28442",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28442.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28442/28442.jpg",
-   "special": "那須の滞在型ホテルへようこそ〜高原の自然に囲まれて、温泉とお食事をご堪能いただけます。",
-   "conditions": [
-    "rotenburo",
-    "sauna"
    ]
   },
   {
