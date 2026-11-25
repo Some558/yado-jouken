@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4515,
-  "medianPrice": 11155,
+  "medianPrice": 11097,
   "reviewAvgMean": 4.38,
   "pricedCount": 22
  },
@@ -65,7 +65,7 @@
    "hotelNo": 187548,
    "name": "エンゼルフォレスト那須",
    "kana": "えんぜるふぉれすとなす",
-   "minCharge": 10810,
+   "minCharge": 10695,
    "reviewAverage": 4.67,
    "reviewCount": 398,
    "access": "那須塩原駅／新白河駅からお車で約３０分",
@@ -167,7 +167,7 @@
    "hotelNo": 188786,
    "name": "美肌と薬草の極楽湯　芦野温泉",
    "kana": "びはだとやくそうのごくらくゆ　あしのおんせん",
-   "minCharge": 10500,
+   "minCharge": 9500,
    "reviewAverage": 4.44,
    "reviewCount": 607,
    "access": "JR東北新幹線「那須塩原駅」よりお車で約３０分、東北自動車道「那須ＩＣ」より約２５分",

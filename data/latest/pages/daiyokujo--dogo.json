@@ -9,7 +9,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "松山・道後エリアの掲載施設数"
   },
   "minPrice": 2900,
-  "medianPrice": 6925,
+  "medianPrice": 6525,
   "reviewAvgMean": 4.3,
   "pricedCount": 24
  },
@@ -220,7 +220,7 @@
    "hotelNo": 165105,
    "name": "天然温泉　石手の湯　ドーミーイン松山（ドーミーイン・御宿野乃　ホテルズグループ）",
    "kana": "てんねんおんせん　いしてのゆ　どーみーいんまつやま",
-   "minCharge": 9487,
+   "minCharge": 7187,
    "reviewAverage": 4.36,
    "reviewCount": 1553,
    "access": "伊予鉄城南線「大街道」徒歩2分／伊予鉄「松山市駅」徒歩13分／空港リムジンバス30分／松山自動車道「松山ＩＣ」より25分",
@@ -288,7 +288,7 @@
    "hotelNo": 148952,
    "name": "ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道",
    "kana": "かんでおほてるずまつやまおおかいどう",
-   "minCharge": 5600,
+   "minCharge": 5400,
    "reviewAverage": 4.22,
    "reviewCount": 2498,
    "access": "松山空港よりリムジンバス乗車約25分、一番町下車徒歩約3分。松山市駅より伊予鉄道利用、大街道駅より徒歩1分。",
@@ -305,7 +305,7 @@
    "hotelNo": 70933,
    "name": "ウェルピア伊予",
    "kana": "うぇるぴあいよ",
-   "minCharge": 7000,
+   "minCharge": 6000,
    "reviewAverage": 4.2,
    "reviewCount": 624,
    "access": "伊予ICより10分。松山ICより15分。　ＪＲ　伊予市駅より車で１０分",

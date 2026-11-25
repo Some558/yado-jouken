@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 202061,
    "name": "Ｂｌｉｓｓ９　東荘園",
    "kana": "ぶりすないん　ひがしそうえん",
-   "minCharge": 6250,
+   "minCharge": 6750,
    "reviewAverage": 5.0,
    "reviewCount": 8,
    "access": "別府ICより車で約１０分",
@@ -286,7 +286,7 @@
    "hotelNo": 72876,
    "name": "別府観海寺温泉　旅亭　松葉屋",
    "kana": "べっぷかんかいじおんせん　りょてい　まつばや",
-   "minCharge": 19730,
+   "minCharge": 20740,
    "reviewAverage": 4.42,
    "reviewCount": 397,
    "access": "別府駅よりお車にて７分",

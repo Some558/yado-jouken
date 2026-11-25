@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5760,
+  "minPrice": 4800,
   "medianPrice": 19210,
   "reviewAvgMean": 4.41,
   "pricedCount": 24
@@ -99,7 +99,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 19800,
+   "minCharge": 20400,
    "reviewAverage": 4.56,
    "reviewCount": 73,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -280,7 +280,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D184829",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/184829.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184829/184829.jpg",
-   "special": "＼ユネッサン・森の湯入り放題／美食ビュッフェ！箱根で温泉＆プール三昧♪秋のご予約はお早めに！"
+   "special": "＼ユネッサン・森の湯入り放題／美食ビュッフェ！箱根で温泉＆プール三昧♪冬のご予約はお早めに！"
   },
   {
    "hotelNo": 13791,

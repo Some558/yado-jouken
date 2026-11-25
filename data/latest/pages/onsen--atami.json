@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -135,7 +135,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 20900,
+   "minCharge": 22000,
    "reviewAverage": 4.56,
    "reviewCount": 343,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",
@@ -305,7 +305,7 @@
    "hotelNo": 151233,
    "name": "オーベルジュ　フォンテーヌ・ブロー熱海",
    "kana": "ふぉんてーぬ・ぶろーあたみ",
-   "minCharge": 21600,
+   "minCharge": 20900,
    "reviewAverage": 4.35,
    "reviewCount": 358,
    "access": "事前予約でJR伊豆多賀駅から無料送迎あり♪　#フランス料理 #温泉 #ホテル #オーシャンビュー",

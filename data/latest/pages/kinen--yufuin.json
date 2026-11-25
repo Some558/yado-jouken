@@ -9,7 +9,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "湯布院・湯平エリアの掲載施設数"
   },
   "minPrice": 11168,
-  "medianPrice": 14250,
+  "medianPrice": 14750,
   "reviewAvgMean": 4.39,
   "pricedCount": 8
  },
@@ -67,7 +67,7 @@
    "hotelNo": 41833,
    "name": "由布院温泉　山荘　四季庵",
    "kana": "ゆふいんおんせん　さんそう　しきあん",
-   "minCharge": 15500,
+   "minCharge": 16500,
    "reviewAverage": 4.53,
    "reviewCount": 755,
    "access": "湯布院駅より車で１５分／湯布院ＩＣより車で２５分",

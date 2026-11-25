@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-24",
+ "dataAsOf": "2026-11-25",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3060,
-  "medianPrice": 9193,
+  "medianPrice": 9000,
   "reviewAvgMean": 4.35,
   "pricedCount": 33
  },
@@ -33,7 +33,7 @@
    "hotelNo": 202061,
    "name": "Ｂｌｉｓｓ９　東荘園",
    "kana": "ぶりすないん　ひがしそうえん",
-   "minCharge": 6250,
+   "minCharge": 6750,
    "reviewAverage": 5.0,
    "reviewCount": 8,
    "access": "別府ICより車で約１０分",
@@ -288,7 +288,7 @@
    "hotelNo": 180258,
    "name": "天然温泉　鉄輪の湯　スーパーホテル別府駅前",
    "kana": "すーぱーほてる　べっぷえきまえ　てんねんおんせん　かんなわのゆ",
-   "minCharge": 6460,
+   "minCharge": 6100,
    "reviewAverage": 4.38,
    "reviewCount": 1348,
    "access": "ＪＲ　別府駅　東口より徒歩にて約1分　/　大分空港よりバス(エアライナー)で約1時間　/　別府ICより車で15分",
