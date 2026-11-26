@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "facility"
  },
@@ -150,7 +150,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 21700,
+   "minCharge": 21300,
    "reviewAverage": 4.62,
    "reviewCount": 256,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",
@@ -218,7 +218,7 @@
    "hotelNo": 181751,
    "name": "那須ハミルの森",
    "kana": "なすはみるのもり",
-   "minCharge": 16800,
+   "minCharge": 18200,
    "reviewAverage": 4.56,
    "reviewCount": 142,
    "access": "那須塩原駅よりバスで30分　友愛の森バス停から徒歩1分",
@@ -320,7 +320,7 @@
    "hotelNo": 192854,
    "name": "那須温泉　森旬の籠／ヒューイットリゾート",
    "kana": "なすおんせん しんしゅんのかご／ひゅーいっとりぞーと",
-   "minCharge": 14600,
+   "minCharge": 15300,
    "reviewAverage": 4.47,
    "reviewCount": 37,
    "access": "那須塩原駅西口よりバスで約３５分「一軒茶屋」下車徒歩約１２分　那須ＩＣ東北自動車道より湯本・那須街道県道１７号を進む",

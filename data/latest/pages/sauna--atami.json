@@ -9,7 +9,7 @@
   "label": "熱海",
   "officialName": "熱海"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "facility"
  },
@@ -31,7 +31,7 @@
    "hotelNo": 196361,
    "name": "ＮＩＰＰＯＮ　ＲＥＳＯＲＴ　無為自然－ＡＴＡＭＩ－",
    "kana": "にっぽん　りぞーと　むいしぜん　あたみ",
-   "minCharge": 107000,
+   "minCharge": 93000,
    "reviewAverage": 4.93,
    "reviewCount": 20,
    "access": "JR熱海駅経由　JR伊東線「網代」駅下車、タクシー約10分",
@@ -184,7 +184,7 @@
    "hotelNo": 179717,
    "name": "ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）",
    "kana": "いしのやあたみ（てぃーけーぴーほてるずあんどりぞーつ）",
-   "minCharge": 22000,
+   "minCharge": 20900,
    "reviewAverage": 4.56,
    "reviewCount": 343,
    "access": "ＪＲ東海道線・熱海駅より車で約10分",

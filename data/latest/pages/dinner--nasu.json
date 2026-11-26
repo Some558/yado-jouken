@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -254,7 +254,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 21700,
+   "minCharge": 21300,
    "reviewAverage": 4.62,
    "reviewCount": 256,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",
@@ -288,7 +288,7 @@
    "hotelNo": 181751,
    "name": "那須ハミルの森",
    "kana": "なすはみるのもり",
-   "minCharge": 16800,
+   "minCharge": 18200,
    "reviewAverage": 4.56,
    "reviewCount": 142,
    "access": "那須塩原駅よりバスで30分　友愛の森バス停から徒歩1分",
@@ -333,7 +333,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D183550",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/183550.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183550/183550.jpg",
-   "special": "那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。"
+   "special": "那須・板室温泉の湯治宿。源泉かけ流し温泉×整体×薬草で整える、全6室の静かな癒しの宿。一人旅歓迎。"
   },
   {
    "hotelNo": 197628,

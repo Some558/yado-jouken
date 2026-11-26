@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6330,
-  "medianPrice": 16350,
+  "medianPrice": 15950,
   "reviewAvgMean": 4.37,
   "pricedCount": 42
  },
@@ -286,7 +286,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 16200,
+   "minCharge": 15400,
    "reviewAverage": 4.44,
    "reviewCount": 53,
    "access": "箱根湯本駅よりお車にて約20分",

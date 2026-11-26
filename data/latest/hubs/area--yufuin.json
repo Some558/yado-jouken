@@ -4,7 +4,7 @@
   "label": "由布院",
   "officialName": "湯布院・湯平"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "recordCount": 324,
  "conditions": [
   {
@@ -659,7 +659,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D38277",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/38277.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38277/38277.jpg",
-   "special": "■料理　温泉　由布院散策　■お部屋食　■静かな宿　■金鱗湖2分　■おおいた和牛堪能",
+   "special": "金鱗湖にほど近い数寄屋造りの宿。露天風呂付き客室と2種の大浴場、姉妹館の湯めぐり、部屋食も満喫",
    "conditions": [
     "rotenburo"
    ]
@@ -688,7 +688,7 @@
    "hotelNo": 14835,
    "name": "由布院温泉　旅館光の家",
    "kana": "ゆふいんおんせん　りょかんひかりのいえ",
-   "minCharge": 14300,
+   "minCharge": 13200,
    "reviewAverage": 4.6,
    "reviewCount": 122,
    "access": "由布院駅より車で５分／湯布院ＩＣから１０分",
@@ -926,7 +926,7 @@
    "hotelNo": 195540,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　由布院温泉",
    "kana": null,
-   "minCharge": 11168,
+   "minCharge": 11376,
    "reviewAverage": 4.53,
    "reviewCount": 229,
    "access": "大分自動車道 湯布院ICより車約３分／JR由布院駅より車約７分／大分空港より車約４５分",
@@ -1357,7 +1357,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D76428",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/76428.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76428/76428.jpg",
-   "special": "湯布院観光の中心部に在りながら静かな隠れ宿　露天付きメゾネット客室で寛ぎのひとときを",
+   "special": "全5室だけの隠れ宿で、お部屋には温泉露天と温泉内湯が。姉妹館の湯めぐりとおおいた和牛で至福のひと時を",
    "conditions": [
     "rotenburo"
    ]
@@ -1513,7 +1513,7 @@
    "hotelNo": 41834,
    "name": "由布院温泉　旅館　ほたるの宿　仙洞",
    "kana": "ゆふいんおんせん　りょかん　ほたるのやど　せんどう",
-   "minCharge": 11500,
+   "minCharge": 12500,
    "reviewAverage": 4.28,
    "reviewCount": 937,
    "access": "由布院駅より車で５分／湯布院ＩＣより車で１０分",

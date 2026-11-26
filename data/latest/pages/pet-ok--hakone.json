@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 11050,
+  "medianPrice": 11900,
   "reviewAvgMean": 4.26,
   "pricedCount": 19
  },
@@ -48,7 +48,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 11050,
+   "minCharge": 11900,
    "reviewAverage": 4.48,
    "reviewCount": 178,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -82,7 +82,7 @@
    "hotelNo": 188264,
    "name": "ｎｏｌ　ｈａｋｏｎｅ　ｍｙｏｊｉｎｄａｉ",
    "kana": "のる　はこね　みょうじんだい",
-   "minCharge": 16200,
+   "minCharge": 15400,
    "reviewAverage": 4.44,
    "reviewCount": 53,
    "access": "箱根湯本駅よりお車にて約20分",

@@ -9,7 +9,7 @@
   "label": "草津",
   "officialName": "草津温泉・白根"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "facility"
  },
@@ -99,7 +99,7 @@
    "hotelNo": 172893,
    "name": "リブマックスリゾート草津温泉",
    "kana": "りぶまっくすりぞーとくさつおんせん",
-   "minCharge": 9500,
+   "minCharge": 8000,
    "reviewAverage": 3.81,
    "reviewCount": 653,
    "access": "湯畑から徒歩約10分",

@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "recordCount": 182,
  "conditions": [
   {
@@ -58,7 +58,7 @@
    "hotelNo": 165194,
    "name": "道後御湯",
    "kana": "どうごみゆ",
-   "minCharge": 30000,
+   "minCharge": 32200,
    "reviewAverage": 4.92,
    "reviewCount": 336,
    "access": "伊予鉄道　道後温泉駅より徒歩にて約５分",
@@ -739,7 +739,7 @@
    "hotelNo": 226,
    "name": "道後温泉　ホテルパティオ・ドウゴ",
    "kana": "どうごおんせん　ほてるぱてぃお・どうご",
-   "minCharge": 6600,
+   "minCharge": 6000,
    "reviewAverage": 4.42,
    "reviewCount": 2046,
    "access": "先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。",

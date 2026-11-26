@@ -3,7 +3,7 @@
   "slug": "rotenburo",
   "label": "露天風呂"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 69,
    "matchRate": 76.7,
    "minPrice": 6550,
-   "medianPrice": 16200,
+   "medianPrice": 15400,
    "reviewAvgMean": 4.36
   },
   {
@@ -93,7 +93,7 @@
    "matchCount": 36,
    "matchRate": 50.0,
    "minPrice": 4000,
-   "medianPrice": 9295,
+   "medianPrice": 9475,
    "reviewAvgMean": 4.23
   },
   {

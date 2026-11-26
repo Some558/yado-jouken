@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-25",
+ "dataAsOf": "2026-11-26",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 6550,
-  "medianPrice": 16200,
+  "medianPrice": 15400,
   "reviewAvgMean": 4.36,
   "pricedCount": 69
  },
@@ -133,7 +133,7 @@
    "hotelNo": 49387,
    "name": "オーベルジュ　箱根フォンテーヌブロー仙石亭",
    "kana": "おーべるじゅ　はこね　ふぉんてーぬぶろー　せんごくてい",
-   "minCharge": 26400,
+   "minCharge": 25300,
    "reviewAverage": 4.72,
    "reviewCount": 695,
    "access": "箱根仙石原。お車で：東名御殿場ＩＣより車で３０分。ＪＲで：小田原駅下車湖尻桃源台行バス「箱根カントリー入口」下車",
@@ -218,7 +218,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 20400,
+   "minCharge": 22800,
    "reviewAverage": 4.56,
    "reviewCount": 73,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -320,7 +320,7 @@
    "hotelNo": 32024,
    "name": "箱根湯の花プリンスホテル",
    "kana": "はこね　ゆのはな　おんせんほてる",
-   "minCharge": 7931,
+   "minCharge": 7553,
    "reviewAverage": 4.48,
    "reviewCount": 624,
    "access": "東名高速道路厚木I.C.からお車で60分 東海道線 小田原駅より路線バスで50分 小田急線箱根湯本駅より路線バスで35分",
