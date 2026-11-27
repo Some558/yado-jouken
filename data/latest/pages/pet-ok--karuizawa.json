@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "facility"
  },
@@ -21,8 +21,8 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 1070,
-  "medianPrice": 9255,
+  "minPrice": 2915,
+  "medianPrice": 9075,
   "reviewAvgMean": 4.5,
   "pricedCount": 16
  },
@@ -31,7 +31,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 9160,
+   "minCharge": 7855,
    "reviewAverage": 4.76,
    "reviewCount": 134,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -48,7 +48,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 1070,
+   "minCharge": 5400,
    "reviewAverage": 4.74,
    "reviewCount": 29,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
@@ -269,7 +269,7 @@
    "hotelNo": 178462,
    "name": "ＳＯＲＡ　ＨＯＴＥＬ　ＫＡＲＵＩＺＡＷＡ　ＯＵＴＬＥＴ",
    "kana": "そら　ほてる　かるいざわ　あうとれっと",
-   "minCharge": 6300,
+   "minCharge": 6100,
    "reviewAverage": 4.25,
    "reviewCount": 161,
    "access": "長野新幹線　軽井沢駅よりお車にて約５分",

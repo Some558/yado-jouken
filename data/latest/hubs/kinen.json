@@ -3,7 +3,7 @@
   "slug": "kinen",
   "label": "禁煙ルーム"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "areas": [
   {
    "area": {
@@ -15,7 +15,7 @@
    "matchCount": 100,
    "matchRate": 27.0,
    "minPrice": 4800,
-   "medianPrice": 16830,
+   "medianPrice": 15950,
    "reviewAvgMean": 4.36
   },
   {
@@ -28,7 +28,7 @@
    "matchCount": 41,
    "matchRate": 26.1,
    "minPrice": 2400,
-   "medianPrice": 10355,
+   "medianPrice": 10855,
    "reviewAvgMean": 4.33
   },
   {
@@ -41,7 +41,7 @@
    "matchCount": 80,
    "matchRate": 28.7,
    "minPrice": 4400,
-   "medianPrice": 10100,
+   "medianPrice": 9695,
    "reviewAvgMean": 4.29
   },
   {
@@ -52,7 +52,7 @@
    },
    "slug": "kinen--beppu",
    "matchCount": 56,
-   "matchRate": 21.5,
+   "matchRate": 21.3,
    "minPrice": 3060,
    "medianPrice": 9000,
    "reviewAvgMean": 4.35
@@ -65,8 +65,8 @@
    },
    "slug": "kinen--yufuin",
    "matchCount": 31,
-   "matchRate": 9.6,
-   "minPrice": 11376,
+   "matchRate": 9.5,
+   "minPrice": 10944,
    "medianPrice": 14750,
    "reviewAvgMean": 4.39
   },
@@ -78,7 +78,7 @@
    },
    "slug": "kinen--kinosaki",
    "matchCount": 40,
-   "matchRate": 25.3,
+   "matchRate": 25.2,
    "minPrice": 3000,
    "medianPrice": 10400,
    "reviewAvgMean": 4.26
@@ -118,8 +118,8 @@
    "slug": "kinen--karuizawa",
    "matchCount": 117,
    "matchRate": 41.5,
-   "minPrice": 1070,
-   "medianPrice": 9000,
+   "minPrice": 2915,
+   "medianPrice": 8800,
    "reviewAvgMean": 4.41
   },
   {
@@ -132,7 +132,7 @@
    "matchCount": 62,
    "matchRate": 34.1,
    "minPrice": 1850,
-   "medianPrice": 5350,
+   "medianPrice": 5437,
    "reviewAvgMean": 4.27
   }
  ]

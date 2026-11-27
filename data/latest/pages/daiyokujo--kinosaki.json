@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 20,
-  "matchRate": 12.7,
+  "matchRate": 12.6,
   "denominator": {
    "type": "area_total",
-   "value": 158,
+   "value": 159,
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 3000,
@@ -237,7 +237,7 @@
    "hotelNo": 15315,
    "name": "リロステイＶＩＬＬＡ　城崎　ザ・コンドミニアム（旧レイセニット城崎スイートＶＩＬＬＡ）",
    "kana": "りろすていヴぃらきのさきざこんどみにあむ",
-   "minCharge": 6825,
+   "minCharge": 6732,
    "reviewAverage": 3.84,
    "reviewCount": 2023,
    "access": "ＪＲ山陰本線「城崎温泉」駅から車で約７分(無料送迎車あり※予約制）。北近畿豊岡自動車道「日高神鍋高原」ＩＣより40分。",

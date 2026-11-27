@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -17,10 +17,10 @@
  },
  "stats": {
   "matchCount": 37,
-  "matchRate": 14.2,
+  "matchRate": 14.1,
   "denominator": {
    "type": "area_total",
-   "value": 261,
+   "value": 263,
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3060,
@@ -322,7 +322,7 @@
    "hotelNo": 8950,
    "name": "グランドメルキュール別府湾リゾート＆スパ",
    "kana": "ぐらんどめるきゅーるべっぷわんりぞーとあんどすぱ",
-   "minCharge": 6277,
+   "minCharge": 8100,
    "reviewAverage": 4.21,
    "reviewCount": 3606,
    "access": "東九州自動車道『速見IC』より車で10分 / 大分空港より車で30分 / JR日豊本線別府駅より車で約20分",

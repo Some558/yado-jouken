@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 19210,
+  "medianPrice": 19115,
   "reviewAvgMean": 4.41,
   "pricedCount": 24
  },
@@ -31,7 +31,7 @@
    "hotelNo": 16108,
    "name": "はつはな",
    "kana": "はつはな",
-   "minCharge": 44070,
+   "minCharge": 48590,
    "reviewAverage": 4.88,
    "reviewCount": 667,
    "access": "箱根湯本駅より箱根登山バスまたは箱根湯本温泉組合バスで約10分「はつはな前」下車、正面／箱根新道「須雲川IC」目の前",
@@ -99,7 +99,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 22800,
+   "minCharge": 19800,
    "reviewAverage": 4.56,
    "reviewCount": 73,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",
@@ -150,7 +150,7 @@
    "hotelNo": 149477,
    "name": "月の宿　紗ら（共立リゾート）",
    "kana": "つきのやど　さら",
-   "minCharge": 20240,
+   "minCharge": 20585,
    "reviewAverage": 4.46,
    "reviewCount": 1082,
    "access": "JR新宿駅より小田急ロマンスカーで終点箱根湯本駅下車　徒歩約10分",
@@ -218,7 +218,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 17600,
+   "minCharge": 14520,
    "reviewAverage": 4.41,
    "reviewCount": 545,
    "access": "箱根湯本駅から徒歩で７分",

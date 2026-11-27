@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -20,11 +20,11 @@
   "matchRate": 18.9,
   "denominator": {
    "type": "area_total",
-   "value": 370,
+   "value": 371,
    "label": "箱根エリアの掲載施設数"
   },
   "minPrice": 4800,
-  "medianPrice": 17600,
+  "medianPrice": 17160,
   "reviewAvgMean": 4.37,
   "pricedCount": 43
  },
@@ -33,7 +33,7 @@
    "hotelNo": 172961,
    "name": "ｂａｒ　ｈｏｔｅｌ　箱根香山",
    "kana": "ばーほてる　はこねかざん",
-   "minCharge": 32300,
+   "minCharge": 33575,
    "reviewAverage": 4.89,
    "reviewCount": 67,
    "access": "箱根湯本駅から箱根登山バスまたは伊豆箱根バスで「蓬莱園」バス停まで約20分／蓬莱園バス停から徒歩で約5分",
@@ -186,7 +186,7 @@
    "hotelNo": 189383,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＦＵＪＩＭＩ　ＴＥＲＲＡＣＥ　箱根芦ノ湖",
    "kana": null,
-   "minCharge": 11900,
+   "minCharge": 11050,
    "reviewAverage": 4.48,
    "reviewCount": 178,
    "access": "箱根湯本駅から車で約１５分 ／ 箱根登山バス・東海バスにて元箱根港 下車 徒歩 ３分",
@@ -356,7 +356,7 @@
    "hotelNo": 108157,
    "name": "箱根湯本温泉　吉池旅館",
    "kana": "箱根湯本温泉　よしいけりょかん",
-   "minCharge": 17600,
+   "minCharge": 14520,
    "reviewAverage": 4.41,
    "reviewCount": 545,
    "access": "箱根湯本駅から徒歩で７分",

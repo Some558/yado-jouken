@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
   "minPrice": 2915,
-  "medianPrice": 9255,
+  "medianPrice": 9175,
   "reviewAvgMean": 4.41,
   "pricedCount": 60
  },
@@ -67,7 +67,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 9160,
+   "minCharge": 7855,
    "reviewAverage": 4.76,
    "reviewCount": 134,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",

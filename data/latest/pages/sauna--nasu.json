@@ -9,7 +9,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "facility"
  },
@@ -21,7 +21,7 @@
    "value": 90,
    "label": "当サイト掲載施設(人気上位)数"
   },
-  "minPrice": 5461,
+  "minPrice": 5460,
   "medianPrice": 11097,
   "reviewAvgMean": 4.38,
   "pricedCount": 22
@@ -300,6 +300,23 @@
    "special": "ウェルカムベビーの宿｜全客室にアルコール含むドリンク・軽食が楽しめるラウンジアクセス付"
   },
   {
+   "hotelNo": 167733,
+   "name": "ホテル森の風那須",
+   "kana": "もりのかぜなす",
+   "minCharge": 5460,
+   "reviewAverage": 4.22,
+   "reviewCount": 297,
+   "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",
+   "address1": "栃木県",
+   "address2": "那須郡那須町高久丙1179-2",
+   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167733",
+   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167733%26f_flg%3DPLAN",
+   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167733",
+   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167733.jpg",
+   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167733/167733.jpg",
+   "special": "展望大浴場から那須高原が一望できる宿。大正ロマンの館内で安らぎのひとときをお過ごしください。"
+  },
+  {
    "hotelNo": 28442,
    "name": "那須温泉　ホテル・フロラシオン那須",
    "kana": "なすおんせん　ほてる・ふろらしおんなす",
@@ -315,23 +332,6 @@
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/28442.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28442/28442.jpg",
    "special": "那須の滞在型ホテルへようこそ〜高原の自然に囲まれて、温泉とお食事をご堪能いただけます。"
-  },
-  {
-   "hotelNo": 167733,
-   "name": "ホテル森の風那須",
-   "kana": "もりのかぜなす",
-   "minCharge": 7665,
-   "reviewAverage": 4.22,
-   "reviewCount": 297,
-   "access": "【お車】東北自動車道 那須ICより10分、【電車】東北新幹線 那須塩原駅より送迎バスで30分（要予約）",
-   "address1": "栃木県",
-   "address2": "那須郡那須町高久丙1179-2",
-   "infoUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FdQ4dX%2F%3Ff_no%3D167733",
-   "planUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FcHNRi%2F%3Ff_no%3D167733%26f_flg%3DPLAN",
-   "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D167733",
-   "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/167733.jpg",
-   "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/167733/167733.jpg",
-   "special": "展望大浴場から那須高原が一望できる宿。大正ロマンの館内で安らぎのひとときをお過ごしください。"
   },
   {
    "hotelNo": 20574,

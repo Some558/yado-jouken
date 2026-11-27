@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-26",
+ "dataAsOf": "2026-11-27",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -23,8 +23,8 @@
    "value": 282,
    "label": "軽井沢・佐久・小諸エリアの掲載施設数"
   },
-  "minPrice": 1070,
-  "medianPrice": 9000,
+  "minPrice": 2915,
+  "medianPrice": 8800,
   "reviewAvgMean": 4.41,
   "pricedCount": 67
  },
@@ -84,7 +84,7 @@
    "hotelNo": 197497,
    "name": "Ｓｕｎｎｙ　Ｇｏ　軽井沢・御代田",
    "kana": "さにーごー　かるいざわ・みよた",
-   "minCharge": 5520,
+   "minCharge": 6080,
    "reviewAverage": 4.76,
    "reviewCount": 17,
    "access": "・佐久ICから車で７分　・軽井沢ICから車で25分　・北陸新幹線「軽井沢駅」→しなの鉄道「御代田駅」から徒歩約10分",
@@ -101,7 +101,7 @@
    "hotelNo": 44294,
    "name": "オーベルジュ・ド・プリマヴェーラ",
    "kana": "ぷりまう゛ぇーら",
-   "minCharge": 9160,
+   "minCharge": 7855,
    "reviewAverage": 4.76,
    "reviewCount": 134,
    "access": "北陸新幹線　軽井沢駅より徒歩７分",
@@ -118,7 +118,7 @@
    "hotelNo": 191512,
    "name": "レンタヴィラ軽井沢オナーズヒル",
    "kana": "れんたヴぃらかるいざわおなーずひる",
-   "minCharge": 1070,
+   "minCharge": 5400,
    "reviewAverage": 4.74,
    "reviewCount": 29,
    "access": "信濃追分駅より車で５分。チェックインは各ヴイラへ直接お越しいただき、到着したらご連絡ください。",
