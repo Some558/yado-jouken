@@ -9,7 +9,7 @@
   "label": "城崎",
   "officialName": "城崎温泉・豊岡・出石・神鍋"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "城崎温泉・豊岡・出石・神鍋エリアの掲載施設数"
   },
   "minPrice": 4180,
-  "medianPrice": 13600,
+  "medianPrice": 12650,
   "reviewAvgMean": 4.35,
   "pricedCount": 24
  },
@@ -237,7 +237,7 @@
    "hotelNo": 56184,
    "name": "城崎温泉　つるや旅館",
    "kana": "きのさきおんせん　つるや",
-   "minCharge": 18700,
+   "minCharge": 8800,
    "reviewAverage": 4.42,
    "reviewCount": 168,
    "access": "ＪＲ城崎温泉駅より、徒歩１２分。",

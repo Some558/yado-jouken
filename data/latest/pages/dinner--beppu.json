@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3060,
-  "medianPrice": 10422,
+  "medianPrice": 9100,
   "reviewAvgMean": 4.31,
   "pricedCount": 24
  },
@@ -67,7 +67,7 @@
    "hotelNo": 196407,
    "name": "グランシア別府鉄輪",
    "kana": "ぐらんしあべっぷかんなわ",
-   "minCharge": 12200,
+   "minCharge": 9200,
    "reviewAverage": 4.57,
    "reviewCount": 59,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",
@@ -367,7 +367,7 @@
    "reviewUrl": "https://hb.afl.rakuten.co.jp/hgc/1b181ff9.a7b47385.1b181ffa.294cb7e7/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fhs%2FRmfmX%2F%3Ff_hotel_no%3D8725",
    "thumbnail": "https://img.travel.rakuten.co.jp/HIMG/90/8725.jpg",
    "imageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8725/8725.jpg",
-   "special": "福岡発着バス停「横断道路観光港入口」徒歩3分！地獄めぐりも好アクセスな大分ヤクルト販売直営ホテル"
+   "special": "【無料駐車場＆別府駅送迎あり】＼未就学児添い寝無料！／朝食ではヤクルト製品食べ飲み放題をご用意！"
   }
  ],
  "listedMatchCount": 24

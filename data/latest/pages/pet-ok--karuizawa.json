@@ -9,7 +9,7 @@
   "label": "軽井沢",
   "officialName": "軽井沢・佐久・小諸"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "detection": {
   "type": "facility"
  },
@@ -235,7 +235,7 @@
    "hotelNo": 29249,
    "name": "軽井沢プリンスホテル　ウエスト",
    "kana": "かるいざわ　ぷりんす　うえすと",
-   "minCharge": 5983,
+   "minCharge": 6755,
    "reviewAverage": 4.38,
    "reviewCount": 3036,
    "access": "軽井沢駅南口より8：00～21：00時の間、約30分間隔にて無料シャトルバスを随時運行。",
@@ -269,7 +269,7 @@
    "hotelNo": 178462,
    "name": "ＳＯＲＡ　ＨＯＴＥＬ　ＫＡＲＵＩＺＡＷＡ　ＯＵＴＬＥＴ",
    "kana": "そら　ほてる　かるいざわ　あうとれっと",
-   "minCharge": 6100,
+   "minCharge": 6000,
    "reviewAverage": 4.25,
    "reviewCount": 161,
    "access": "長野新幹線　軽井沢駅よりお車にて約５分",

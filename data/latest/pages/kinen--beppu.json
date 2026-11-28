@@ -9,7 +9,7 @@
   "label": "別府",
   "officialName": "別府・日出"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "detection": {
   "type": "vacant",
   "checkinDate": "2026-11-28",
@@ -24,7 +24,7 @@
    "label": "別府・日出エリアの掲載施設数"
   },
   "minPrice": 3060,
-  "medianPrice": 9000,
+  "medianPrice": 8100,
   "reviewAvgMean": 4.35,
   "pricedCount": 33
  },
@@ -84,7 +84,7 @@
    "hotelNo": 183018,
    "name": "グランヴィリオホテル別府湾　和蔵　ールートインホテルズー",
    "kana": "ぐらんヴぃりおほてるべっぷわん　わくら　るーといんほてるず",
-   "minCharge": 6000,
+   "minCharge": 7500,
    "reviewAverage": 4.62,
    "reviewCount": 1239,
    "access": "■別府駅より無料送迎バスあり（要予約）■別府湾スマートICより車で約10分　■大分空港より車で約35分　■駐車場無料",
@@ -118,7 +118,7 @@
    "hotelNo": 196407,
    "name": "グランシア別府鉄輪",
    "kana": "ぐらんしあべっぷかんなわ",
-   "minCharge": 12200,
+   "minCharge": 9200,
    "reviewAverage": 4.57,
    "reviewCount": 59,
    "access": "別府駅西口より「APU立命館アジア太平洋大学」行のバスにご乗車頂き、「照湯」で下車後、徒歩1分。",
@@ -186,7 +186,7 @@
    "hotelNo": 202123,
    "name": "別府　夕凪",
    "kana": "べっぷ ゆうなぎ",
-   "minCharge": 9270,
+   "minCharge": 7725,
    "reviewAverage": 4.5,
    "reviewCount": 16,
    "access": "別府駅より徒歩4分",

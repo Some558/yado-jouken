@@ -4,7 +4,7 @@
   "label": "道後",
   "officialName": "松山・道後"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "recordCount": 182,
  "conditions": [
   {
@@ -589,7 +589,7 @@
    "hotelNo": 108156,
    "name": "ホテル道後やや",
    "kana": "ほてるどうごやや",
-   "minCharge": 8000,
+   "minCharge": 7500,
    "reviewAverage": 4.47,
    "reviewCount": 2559,
    "access": "松山空港よりリムジンバスで約35分、終点道後温泉駅より徒歩5分／松山ＩＣ下車Ｒ３３を市内方面に35分！",
@@ -1406,7 +1406,7 @@
    "hotelNo": 20374,
    "name": "アビスイン道後・松山",
    "kana": "あびすいん　どうご・まつやま",
-   "minCharge": 3635,
+   "minCharge": 3275,
    "reviewAverage": 4.11,
    "reviewCount": 3183,
    "access": "ＪＲ松山駅より車約１０分・路面電車約１５分／松山ＩＣより車約１５分／松山空港より車約２５分／松山観光港より車約２５分",
@@ -1694,7 +1694,7 @@
    "hotelNo": 158312,
    "name": "リブマックスリゾート奥道後",
    "kana": "りぶまっくすりぞーとおくどうご",
-   "minCharge": 9927,
+   "minCharge": 8750,
    "reviewAverage": 3.93,
    "reviewCount": 608,
    "access": "松山駅からホテルまで車で25分　松山空港からホテルまで車で30分←飛行機のアクセスも便利です！！",

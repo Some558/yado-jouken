@@ -9,7 +9,7 @@
   "label": "箱根",
   "officialName": "箱根"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "detection": {
   "type": "facility"
  },
@@ -22,7 +22,7 @@
    "label": "当サイト掲載施設(人気上位)数"
   },
   "minPrice": 4800,
-  "medianPrice": 19115,
+  "medianPrice": 18230,
   "reviewAvgMean": 4.41,
   "pricedCount": 24
  },
@@ -99,7 +99,7 @@
    "hotelNo": 180299,
    "name": "源泉かけ流しの宿　櫻休庵　別亭　凛",
    "kana": "げんせんかけながしのやど　おうきゅうあん　べってい　りん",
-   "minCharge": 19800,
+   "minCharge": 17400,
    "reviewAverage": 4.56,
    "reviewCount": 73,
    "access": "強羅駅よりお車にて約7分　宮城野バス停から徒歩7分",

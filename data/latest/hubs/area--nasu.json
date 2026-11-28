@@ -4,7 +4,7 @@
   "label": "那須",
   "officialName": "那須・板室・黒磯"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "recordCount": 356,
  "conditions": [
   {
@@ -536,7 +536,7 @@
    "hotelNo": 109123,
    "name": "那須高原の宿　山水閣",
    "kana": "なすこうげんのやど　さんすいかく",
-   "minCharge": 21300,
+   "minCharge": 20200,
    "reviewAverage": 4.62,
    "reviewCount": 256,
    "access": "那須塩原駅から路線バス（関東バス）利用。那須湯本方面乗車、約４０分、山水閣入口バス停下車、徒歩５分",
@@ -1286,7 +1286,7 @@
    "hotelNo": 185326,
    "name": "Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　那須",
    "kana": null,
-   "minCharge": 4800,
+   "minCharge": 4608,
    "reviewAverage": 4.37,
    "reviewCount": 564,
    "access": "JR「那須塩原駅」より車で約30分／東北自動車道「那須IC」より車で約15分",
@@ -1846,7 +1846,7 @@
    "hotelNo": 17519,
    "name": "ペーパームーン＜栃木県＞",
    "kana": "ぺーぱーむーん",
-   "minCharge": 8500,
+   "minCharge": 8000,
    "reviewAverage": 4.14,
    "reviewCount": 761,
    "access": "ＪＲ黒磯駅前より那須温泉行き、バス停「一軒茶屋」より徒歩７分／那須ＩＣより一軒茶屋方面へ１５分",

@@ -3,7 +3,7 @@
   "slug": "breakfast",
   "label": "朝食付きプラン"
  },
- "dataAsOf": "2026-11-27",
+ "dataAsOf": "2026-11-28",
  "areas": [
   {
    "area": {
@@ -27,8 +27,8 @@
    "slug": "breakfast--kusatsu",
    "matchCount": 25,
    "matchRate": 15.9,
-   "minPrice": 3975,
-   "medianPrice": 12667,
+   "minPrice": 3640,
+   "medianPrice": 12117,
    "reviewAvgMean": 4.27
   },
   {
@@ -54,7 +54,7 @@
    "matchCount": 37,
    "matchRate": 14.1,
    "minPrice": 3060,
-   "medianPrice": 9000,
+   "medianPrice": 8415,
    "reviewAvgMean": 4.29
   },
   {
@@ -80,7 +80,7 @@
    "matchCount": 41,
    "matchRate": 25.8,
    "minPrice": 4180,
-   "medianPrice": 13200,
+   "medianPrice": 12100,
    "reviewAvgMean": 4.33
   },
   {
